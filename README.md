@@ -4,7 +4,7 @@
 
 [!\[Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [!\[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[!\[Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[!\[Code style: black](https://img.shields.io/badge/code%2520style-black-000000.svg)](https://github.com/psf/black)
 
 \---
 
@@ -74,26 +74,26 @@ cd aba-data-sanitization
 
 # 2. Create and activate virtual environment
 python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\\Scripts\\activate
+source venv/bin/activate  # On Windows: venv\\\\Scripts\\\\activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
 
 # 4. Download spaCy language model (required for Presidio)
-python3 -m spacy download en\_core\_web\_lg
+python3 -m spacy download en\\\_core\\\_web\\\_lg
 
 # 5. Verify installation
-python scripts/validate\_installation.py
+python scripts/validate\\\_installation.py
 ```
 
 ### Quick Test
 
 ```bash
 # Generate sample identifiers
-python scripts/generate\_identifiers.py
+python scripts/generate\\\_identifiers.py
 
 # Test PHI recognition on sample text
-python src/recognizers/test\_recognizer.py
+python src/recognizers/test\\\_recognizer.py
 ```
 
 \---
@@ -122,23 +122,23 @@ aba-data-sanitization/
 │   ├── generators/           # Data generation
 │   ├── recognizers/          # PHI recognition
 │   ├── sanitizers/           # Sanitization strategies
-│   ├── evaluation/           # Metrics \& evaluation
+│   ├── evaluation/           # Metrics \\\& evaluation
 │   └── utils/                # Utilities
 │
 ├── notebooks/                 # 📓 Jupyter notebooks
-│   ├── 01\_data\_exploration.ipynb
-│   ├── 02\_recognizer\_testing.ipynb
-│   └── 03\_evaluation\_analysis.ipynb
+│   ├── 01\\\_data\\\_exploration.ipynb
+│   ├── 02\\\_recognizer\\\_testing.ipynb
+│   └── 03\\\_evaluation\\\_analysis.ipynb
 │
 ├── scripts/                   # 🔧 Utility scripts
-│   ├── setup\_project.sh
-│   ├── generate\_synthetic\_data.py
-│   └── run\_evaluation.py
+│   ├── setup\\\_project.sh
+│   ├── generate\\\_synthetic\\\_data.py
+│   └── run\\\_evaluation.py
 │
 ├── tests/                     # ✅ Unit tests
-│   ├── test\_recognizers.py
-│   ├── test\_sanitizers.py
-│   └── test\_evaluation.py
+│   ├── test\\\_recognizers.py
+│   ├── test\\\_sanitizers.py
+│   └── test\\\_evaluation.py
 │
 └── results/                   # 📈 Output results
     ├── metrics/
@@ -292,14 +292,24 @@ See [weekly updates](docs/progress/weekly_updates.md) for detailed progress.
 
 **Nazmus Sakib**  
 MS Data Science \& Analytics  
-SUNY Polytechnic Institute  
+SUNY Poly  
 Utica, New York
 
 **Email:** \[sakibn@sunypoly.edu]  
 **GitHub:** [@sakibn23](https://github.com/sakibn23)  
 **LinkedIn:** www.linkedin.com/in/sakib51
 
-**Advisor:** Trusting Inekwe, PhD
+**Academic Advisor:** Trusting Inekwe, PhD
+
+&#x20;                 Postdoctoral Researcher, SUNY Poly 
+
+Professional Mentor : Jessi Jaramillo ,MSC
+
+&#x20;                     Director , AI Programs \& Strategy
+
+&#x20;                     Upstate Caring Partners
+
+&#x20;                     
 
 \---
 
@@ -314,7 +324,7 @@ If you use this work, please cite:
 ```bibtex
 @mastersthesis{sakib2026aba,
   title={Comparative Evaluation of Data Sanitization Strategies for Applied Behavior Analysis Documentation},
-  author={Sakib, \[Full Name]},
+  author={Sakib, \\Nazmus Sakib},
   year={2026},
   school={SUNY Polytechnic Institute},
   type={MS Capstone Project}
@@ -326,16 +336,13 @@ If you use this work, please cite:
 ## 🙏 Acknowledgments
 
 * **Upstate Care Providers (UCP)** for partnership and domain expertise
-* **Dr. \[Advisor]** for guidance and support
-* **Microsoft Presidio** team for open-source PII detection framework
-* **SUNY Polytechnic Institute** for research support
 
-\---
+
 
 ## 📞 Contact \& Support
 
 **Questions about the research?**  
-Email: \[your-email]
+Email: sakibn@sunypoly.edu
 
 **Issues with code?**  
 Open an issue on GitHub: [Issues](https://github.com/sakibn23/aba-data-sanitization/issues)
