@@ -1,0 +1,120 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Large Data Files
+data/synthetic/raw/*.txt
+data/synthetic/sanitized/*.txt
+data/synthetic/raw/note_*.txt
+*.csv.gz
+*.parquet
+*.h5
+*.hdf5
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# API Keys and Secrets (CRITICAL - NEVER COMMIT)
+*_key.txt
+*_secret.txt
+*_token.txt
+credentials.json
+secrets.json
+config_private.py
+
+# Large Results and Models
+results/large_outputs/
+*.pkl
+*.pickle
+models/
+checkpoints/
+
+# Specific to ABA Sanitization Project
+# Don't commit large batches of generated synthetic notes
+data/synthetic/raw/note_[0-9]*.txt
+data/synthetic/sanitized/sanitized_*.txt
+
+# But DO commit small examples
+!data/examples/*.txt
+!data/templates/*.txt
+
+# Testing outputs
+test_outputs/
+*.coverage
+htmlcov/
+
+# Documentation build files
+docs/_build/
+docs/.doctrees/
+
+# Package manager
+pip-log.txt
+pip-delete-this-directory.txt
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
