@@ -27,7 +27,7 @@
 
 This research project evaluates **semantic redaction** and **cryptographic hashing** strategies for PHI (Protected Health Information) de-identification in ABA (Applied Behavior Analysis) clinical documentation.
 
-**Partner:** Upstate Care Providers (UCP)
+**Partner:** Upstate Caring Partners (UCP
             125 Business Park Drive
             Utica, NY 13502
 **Institution:** SUNY Polytechnic Institute  
@@ -265,16 +265,20 @@ See [weekly updates](docs/progress/weekly_updates.md) for detailed progress.
 \---
 
 ## 🤝 Partner Organization
-
-### Upstate Care Providers (UCP)
+            Upstate Caring Partners (UCP
+            125 Business Park Drive
+            Utica, NY 13502
+### 
 
 **Location:** Syracuse, New York  
 **Services:** IDD/ABA services for individuals with intellectual and developmental disabilities
 
 **Key Contacts:**
 
-* Jessica (Jessi) - Director of Data Strategy \& AI Systems
-* Dan - \[Title]
+* Jessi Jaramillo - Director of Data Strategy \& AI Systems ,
+                    Upstate Caring Partners (UCP
+                    125 Business Park Drive
+                    Utica, NY 13502
 
 **Collaboration Focus:**
 
@@ -282,12 +286,6 @@ See [weekly updates](docs/progress/weekly_updates.md) for detailed progress.
 * Privacy-preserving clinical documentation
 * Multi-system care coordination
 * Responsible AI in healthcare
-
-**UCP's Vision:**
-
-> "Our biggest focus is always the safety of PWS (persons we serve). We want to ensure sanitization strategies prioritize reduced exposure of PHI."
-
-\---
 
 ## 👨‍💻 Author
 
