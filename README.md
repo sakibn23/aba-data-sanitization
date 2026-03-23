@@ -27,7 +27,7 @@
 
 This research project evaluates **semantic redaction** and **cryptographic hashing** strategies for PHI (Protected Health Information) de-identification in ABA (Applied Behavior Analysis) clinical documentation.
 
-**Partner:** Upstate Caring Partners (UCP
+**Partner:** Upstate Caring Partners (UCP)
             125 Business Park Drive
             Utica, NY 13502
 **Institution:** SUNY Polytechnic Institute  
