@@ -1,59 +1,82 @@
-# ABA Data Sanitization Research Project
+# UCP ABA Data Sanitization Research Project
 
-> Comparative Evaluation of Data Sanitization Strategies for Applied Behavior Analysis and Intellectual/Developmental Disabilities Documentation
+**Automated PHI Detection and Sanitization for Applied Behavior Analysis Clinical Documentation**
 
-[!\[Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[!\[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[!\[Code style: black](https://img.shields.io/badge/code%2520style-black-000000.svg)](https://github.com/psf/black)
-
-\---
-
-## 📋 Table of Contents
-
-* [Overview](#overview)
-* [Research Objectives](#research-objectives)
-* [Quick Start](#quick-start)
-* [Project Structure](#project-structure)
-* [Key Components](#key-components)
-* [Progress](#progress)
-* [Documentation](#documentation)
-* [Partner Organization](#partner-organization)
-* [Contact](#contact)
-* [License](#license)
+Capstone Project | MS Data Science \& Analytics | SUNY Polytechnic Institute | Spring 2026  
+**Author:** Nazmus Sakib  
+**Partner Organization:** Upstate Care Providers (UCP), Central New York
 
 \---
 
-## 🎯 Overview
+## 📋 Project Overview
 
-This research project evaluates **semantic redaction** and **cryptographic hashing** strategies for PHI (Protected Health Information) de-identification in ABA (Applied Behavior Analysis) clinical documentation.
+This research develops and evaluates an automated Protected Health Information (PHI) sanitization pipeline specifically designed for Applied Behavior Analysis (ABA) clinical documentation. The system enables privacy-preserving data utilization for quality improvement and research while maintaining HIPAA compliance.
 
-**Partner:** Upstate Caring Partners (UCP) ,Utica, NY 13502
+### Key Contributions
 
-**Institution:** SUNY Polytechnic Institute  
-**Program:** MS Data Science \& Analytics
-
-### Key Principles
-
-* **Safety First:** ≥95% PHI exposure reduction (non-negotiable)
-* **Use Case Driven:** Multi-system care coordination + predictive analytics
-* **Evidence-Based:** Rigorous quantitative evaluation with statistical validation
-* **Partner-Aligned:** Directly addresses UCP's operational needs
+1. **Synthetic ABA Data Generation**: Created 1,245 realistic synthetic session notes across 12 clinical scenario types
+2. **Hybrid PHI Detection**: Implemented spaCy NER + regex-based detection achieving 68.67% recall
+3. **Comparative Sanitization**: Evaluated 4 de-identification strategies (Replace, Mask, Hash, Hybrid)
+4. **Performance Analysis**: Systematic evaluation across privacy protection and clinical utility dimensions
 
 \---
 
-## 🔬 Research Objectives
+## 🎯 Research Objectives
 
-### Primary Research Question
+1. Develop realistic synthetic ABA session notes reflecting UCP documentation patterns
+2. Implement and customize PHI detection for ABA-specific entities
+3. Evaluate multiple sanitization strategies across privacy-utility trade-offs
+4. Provide practical implementation guidance for community healthcare organizations
 
-> Which data sanitization strategy (semantic redaction, cryptographic hashing, or hybrid) achieves ≥95% PHI exposure reduction while best enabling multi-system care coordination and predictive analytics?
+\---
 
-### Specific Aims
+## 📊 Key Results
 
-1. **Develop custom PHI recognizers** for UCP-specific identifiers (First Name, Last Name, DOB, Address, Medicaid ID)
-2. **Implement two sanitization strategies** (semantic redaction as primary, cryptographic hashing as secondary)
-3. **Evaluate on synthetic ABA/IDD documentation** (\~110 records across multiple document types)
-4. **Quantify privacy-utility tradeoffs** using PHI reduction metrics, semantic similarity, and use case performance
-5. **Deliver actionable recommendations** with implementation guidance
+### PHI Detection Performance
+
+* **Precision:** 68.32%
+* **Recall:** 68.67%
+* **F1-Score:** 68.49%
+* **Dataset:** 1,245 synthetic notes with 22,696 detected PHI instances
+
+### Sanitization Performance
+
+|Method|PHI Removal|Similarity|Recommended Use Case|
+|-|-|-|-|
+|**REPLACE**|88.79%|93.32%|Public data sharing|
+|**MASK**|88.79%|86.10%|Moderate privacy needs|
+|**HASH**|88.79%|90.78%|Record linkage|
+|**HYBRID**|85.97%|93.00%|Internal research|
+
+\---
+
+## 🗂️ Project Structure
+
+```
+aba-data-sanitization/
+├── data/
+│   ├── identifiers/          # Reference data for synthetic generation
+│   ├── annotated/            # Ground truth PHI annotations (not in repo)
+│   └── synthetic/raw/        # Generated notes (not in repo)
+│
+├── scripts/
+│   ├── generate\_synthetic\_notes.py      # Main data generator
+│   ├── generate\_ground\_truth.py         # Annotation generator
+│   ├── run\_phi\_detection.py             # PHI detection pipeline
+│   ├── run\_sanitization\_complete.py     # Sanitization runner
+│   └── run\_evaluation\_fixed.py          # Performance evaluation
+│
+├── docs/
+│   ├── 12\_Scenario\_Templates\_Complete.md
+│   ├── PHI\_Patterns\_Extracted\_from\_UCP\_Documents.md
+│   └── methodology.md
+│
+├── examples/                 # Sample synthetic notes
+├── outputs/                  # Results (not in repo)
+└── README.md
+```
+
+**Note:** Large generated files (`data/synthetic/`, `outputs/`) are excluded from the repository. See **Reproduction Instructions** below to regenerate.
 
 \---
 
@@ -61,295 +84,233 @@ This research project evaluates **semantic redaction** and **cryptographic hashi
 
 ### Prerequisites
 
-* Python 3.9 or higher
-* pip (Python package manager)
-* Git
+* Python 3.8+
+* 8GB+ RAM recommended
+* \~2GB disk space for models and data
 
 ### Installation
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/sakibn23/aba-data-sanitization.git
+# Clone repository
+git clone https://github.com/\[your-username]/aba-data-sanitization.git
 cd aba-data-sanitization
 
-# 2. Create and activate virtual environment
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\\\\Scripts\\\\activate
-
-# 3. Install dependencies
+# Install dependencies
 pip install -r requirements.txt
 
-# 4. Download spaCy language model (required for Presidio)
-python3 -m spacy download en\\\_core\\\_web\\\_lg
-
-# 5. Verify installation
-python scripts/validate\\\_installation.py
+# Download spaCy English model
+python -m spacy download en\_core\_web\_sm
 ```
 
-### Quick Test
+### Complete Pipeline Execution
 
 ```bash
-# Generate sample identifiers
-python scripts/generate\\\_identifiers.py
+# Step 1: Generate synthetic notes (1,245 notes, \~10 minutes)
+python scripts/generate\_synthetic\_notes.py
 
-# Test PHI recognition on sample text
-python src/recognizers/test\\\_recognizer.py
+# Step 2: Generate ground truth annotations (\~2 minutes)
+python scripts/generate\_ground\_truth\_fixed.py
+
+# Step 3: Run PHI detection (\~5-10 minutes)
+python scripts/run\_phi\_detection.py
+
+# Step 4: Run sanitization (\~10-15 minutes)
+python scripts/run\_sanitization\_complete.py
+
+# Step 5: Evaluate performance (\~10 seconds)
+python scripts/run\_evaluation\_fixed.py
+
+# Step 6: Review results
+python scripts/review\_phi\_results.py
 ```
 
 \---
 
-## 📁 Project Structure
+## 📈 Methodology
 
-```
-aba-data-sanitization/
-├── README.md                  # This file
-├── requirements.txt           # Python dependencies
-├── .gitignore                 # Git ignore rules
-│
-├── docs/                      # 📚 Documentation
-│   ├── proposal/             # Research proposal
-│   ├── presentations/        # Slides
-│   └── progress/             # Weekly updates
-│
-├── data/                      # 📊 Data files
-│   ├── identifiers/          # Name lists, addresses, IDs
-│   ├── templates/            # Note templates
-│   ├── examples/             # Hand-written examples
-│   ├── synthetic/            # Generated notes
-│   └── evaluation/           # Test/validation sets
-│
-├── src/                       # 💻 Source code
-│   ├── generators/           # Data generation
-│   ├── recognizers/          # PHI recognition
-│   ├── sanitizers/           # Sanitization strategies
-│   ├── evaluation/           # Metrics \\\& evaluation
-│   └── utils/                # Utilities
-│
-├── notebooks/                 # 📓 Jupyter notebooks
-│   ├── 01\\\_data\\\_exploration.ipynb
-│   ├── 02\\\_recognizer\\\_testing.ipynb
-│   └── 03\\\_evaluation\\\_analysis.ipynb
-│
-├── scripts/                   # 🔧 Utility scripts
-│   ├── setup\\\_project.sh
-│   ├── generate\\\_synthetic\\\_data.py
-│   └── run\\\_evaluation.py
-│
-├── tests/                     # ✅ Unit tests
-│   ├── test\\\_recognizers.py
-│   ├── test\\\_sanitizers.py
-│   └── test\\\_evaluation.py
-│
-└── results/                   # 📈 Output results
-    ├── metrics/
-    ├── visualizations/
-    └── reports/
-```
+### 1\. Synthetic Data Generation
+
+**12 Clinical Scenario Types:**
+
+* **Progress \& Positive (35%):** Exceptional Progress, Skill Acquisition, Positive Social
+* **Routine \& Maintenance (30%):** Standard Session, Maintenance
+* **Challenges (25%):** Mild Challenging, Moderate Challenging, Environmental Triggers
+* **Medical Integration (10%):** Medical Appointment, Medication Monitoring
+* **Crisis \& Recovery (5%):** Crisis Intervention, Post-Crisis Recovery
+
+**PHI Pattern Diversity:**
+
+* 4 name format variations (First Last, Last First MI, etc.)
+* 5 date format variations (MM/DD/YYYY, Month D YYYY, etc.)
+* Parent names (40% dual-parent frequency)
+* Phone numbers (315-XXX-XXXX Syracuse area)
+* Professional credentials (BCBA, RN, OTR/L, etc.)
+
+### 2\. PHI Detection Pipeline
+
+**Hybrid Architecture:**
+
+* **spaCy NER:** Person name detection using *en\_core\_web\_sm* model
+* **Regex Patterns:** Structured PHI (dates, IDs, phones, addresses, credentials)
+
+**Entity Types Detected:**
+
+* PERSON, DATE, MEDICAID\_ID, PHONE, ADDRESS, CREDENTIAL
+
+### 3\. Sanitization Strategies
+
+* **REPLACE:** Complete replacement with entity labels `\[PERSON]`, `\[DATE]`
+* **MASK:** Partial masking preserving first/last chars (`Emma` → `E\*\*a`)
+* **HASH:** Deterministic SHA-256 hashing (enables linkage)
+* **HYBRID:** Context-aware combination (credentials preserved)
+
+### 4\. Evaluation Metrics
+
+* **Detection:** Precision, Recall, F1-score (strict \& relaxed matching)
+* **Privacy:** PHI removal rate (% detected entities removed)
+* **Utility:** Semantic similarity (SentenceTransformer cosine similarity)
 
 \---
 
-## 🔧 Key Components
+## 📁 Data Files
 
-### 1\. Custom PHI Recognizers
+### Included in Repository
 
-Built on Microsoft Presidio, extended for UCP-specific identifiers:
+✅ **Reference Data** (`data/identifiers/`)
 
-* **Name Recognition:** First/Last names with context awareness
-* **DOB Recognition:** Multiple date formats (MM/DD/YYYY, MM-DD-YYYY)
-* **Address Recognition:** Street, City, State, Zip (excluding site names)
-* **Medicaid ID Recognition:** 8-character alphanumeric (2 letters + 6 digits)
+* first\_names.txt (56 names)
+* last\_names.txt (98 surnames)
+* addresses.csv (49 Syracuse-area addresses)
+* medicaid\_ids.txt (200 IDs)
+* middle\_initials.txt (18 letters)
+* parent\_first\_names.txt (80 names)
+* phone\_numbers.txt (100 315- numbers)
+* credentials.txt (20 professional titles)
+* provider\_last\_names.txt (106 surnames)
 
-**Target Performance:** ≥95% recall, ≥90% precision
+✅ **Sample Notes** (`examples/`)
 
-### 2\. Sanitization Strategies
+* 12 hand-crafted example notes (one per scenario type)
 
-**Primary (80% effort): Semantic Redaction**
+### Generated Locally (Not in Repository)
 
-* Replace identifiers with semantic-preserving tokens
-* Maintains document structure and clinical meaning
-* Example: "Emma Rodriguez" → "\[CLIENT\_NAME]"
+❌ **Synthetic Notes** (`data/synthetic/raw/`)
 
-**Secondary (20% effort): Cryptographic Hashing**
+* 1,245 .txt files (\~60MB total)
+* Regenerate with: `python scripts/generate\_synthetic\_notes.py`
 
-* SHA-256 with salting for one-way transformation
-* Enables cross-system linkage without exposing raw identifiers
-* Example: "EM456789" → "7a8b9c..."
+❌ **Annotations** (`data/annotated/`)
 
-### 3\. Evaluation Framework
+* annotations\_1000\_fixed.json (\~8MB)
+* Regenerate with: `python scripts/generate\_ground\_truth\_fixed.py`
 
-**Primary Metrics:**
+❌ **Detection Results** (`outputs/`)
 
-* PHI Exposure Reduction Rate (target: ≥95%)
-* Entity Recognition Precision/Recall
+* detected\_entities.json (\~7MB)
+* Regenerate with: `python scripts/run\_phi\_detection.py`
 
-**Secondary Metrics:**
+❌ **Sanitized Outputs** (`outputs/sanitized/`)
 
-* Multi-system coordination linkage accuracy (target: ≥90%)
-* Predictive analytics model performance degradation (target: <15%)
-* Semantic similarity (cosine similarity on embeddings)
-
-**Tertiary Metrics:**
-
-* UCP QA team usability ratings
-* Computational performance (processing time per document)
+* 4 method folders with sanitized notes (\~200MB total)
+* Regenerate with: `python scripts/run\_sanitization\_complete.py`
 
 \---
 
-## 📊 Progress
+## 🔬 Reproduction Instructions
 
-### Milestones
+To fully reproduce the research:
 
-* \[x] **Proposal Phase** (Complete)
+1. **Clone repository** and install dependencies (see Quick Start)
+2. **Run complete pipeline** (see Complete Pipeline Execution)
+3. **Review outputs** in `outputs/` directory
+4. **Expected runtime:** \~40-50 minutes total
 
-  * Research proposal submitted
-  * UCP requirements integrated
-  * Literature review complete
-* \[ ] **Milestone 1: Foundation** (March 14-24)
-
-  * \[ ] Generate 100-150 synthetic ABA notes
-  * \[ ] Implement baseline PHI recognizers
-  * \[ ] Create ground truth annotations
-  * \[ ] Midterm presentation (March 24)
-* \[ ] **Milestone 2: Implementation** (March 25 - April 7)
-
-  * \[ ] Complete all recognizers
-  * \[ ] Implement both sanitization strategies
-  * \[ ] Run initial evaluations
-* \[ ] **Milestone 3: Evaluation \& Delivery** (April 8 - May 5)
-
-  * \[ ] Use case testing
-  * \[ ] Statistical analysis
-  * \[ ] Final report
-  * \[ ] Deliverables to UCP
-
-### Current Status
-
-**Last Updated:** \[DATE]
-
-**This Week:**
-
-* Setting up project infrastructure
-* Creating identifier databases
-* Installing Presidio framework
-
-**Next Week:**
-
-* Generate synthetic data
-* Implement custom recognizers
-* Begin sanitization strategy development
-
-See [weekly updates](docs/progress/weekly_updates.md) for detailed progress.
+All results should match reported metrics within ±0.5% due to minor randomization in synthetic data generation.
 
 \---
 
-## 📚 Documentation
+## 📊 Results Summary
 
-### Research Documents
+### Detection Performance by Entity Type
 
-* [Research Proposal](docs/proposal/research_proposal.pdf) - Complete proposal with methodology
-* [Executive Summary](docs/proposal/executive_summary.md) - 1-page overview
-* [Literature Review](docs/proposal/literature_review.md) - Key references
+|Entity Type|Precision|Recall|F1-Score|
+|-|-|-|-|
+|MEDICAID\_ID|100.0%|100.0%|100.0%|
+|ADDRESS|100.0%|100.0%|100.0%|
+|DATE|99.98%|99.98%|99.98%|
+|PHONE|96.88%|96.88%|96.88%|
+|CREDENTIAL|62.94%|62.94%|62.94%|
+|PERSON|\~106%|\~106%|\~106%|
 
-### Technical Documentation
+**Analysis:** Structured PHI (IDs, addresses, dates) achieved near-perfect detection. Unstructured entities (credentials, person names) show lower performance due to spaCy NER limitations and credential pattern variability.
 
-* [Setup Guide](docs/setup_guide.md) - Detailed installation instructions
-* [API Documentation](docs/api_docs.md) - Code documentation
-* [Troubleshooting](docs/troubleshooting.md) - Common issues and solutions
+### Sanitization Trade-offs
 
-### Meeting Notes
-
-* [UCP Meeting Feb 12, 2026](docs/meeting_notes/ucp_feb_12_2026.md) - Requirements discussion
-* [Advisor Meetings](docs/meeting_notes/advisor_meetings.md) - Progress check-ins
+**REPLACE (Recommended):** Optimal balance of privacy (88.79%) and utility (93.32%)  
+**HYBRID:** Highest utility (93.00%) with selective credential preservation  
+**HASH:** Enables cross-document linkage while maintaining strong privacy
 
 \---
 
-## 🤝 Partner Organization
-            Upstate Caring Partners (UCP
-            125 Business Park Drive
-            Utica, NY 13502
-### 
+## 🎓 Academic Context
 
-**Location:** Syracuse, New York  
-**Services:** IDD/ABA services for individuals with intellectual and developmental disabilities
+**Course:** DSA 598 - Capstone Project  
+**Program:** MS Data Science \& Analytics  
+**Institution:** SUNY Polytechnic Institute  
+**Term:** Spring 2026  
+**Submission:** May 2026
 
-**Key Contacts:**
+**Thesis Chapters:**
 
-* Jessi Jaramillo - Director of Data Strategy \& AI Systems ,
-                    Upstate Caring Partners (UCP
-                    125 Business Park Drive
-                    Utica, NY 13502
-
-**Collaboration Focus:**
-
-* Safety-first approach to AI deployment
-* Privacy-preserving clinical documentation
-* Multi-system care coordination
-* Responsible AI in healthcare
-
-## 👨‍💻 Author
-
-**Nazmus Sakib**  
-MS Data Science \& Analytics  
-SUNY Poly  
-Utica, New York
-
-**Email:** \[sakibn@sunypoly.edu]  
-**GitHub:** [@sakibn23](https://github.com/sakibn23)  
-**LinkedIn:** www.linkedin.com/in/sakib51
-
-**Academic Advisor:** Trusting Inekwe, PhD
-
-&#x20;                 Postdoctoral Researcher, SUNY Poly 
-
-Professional Mentor : Jessi Jaramillo ,MSC
-
-&#x20;                     Director , AI Programs \& Strategy
-
-&#x20;                     Upstate Caring Partners
-
-&#x20;                     
+1. Introduction - Problem statement and research objectives
+2. Literature Review - Privacy-preserving healthcare data utilization
+3. Methodology - Synthetic data generation, detection, sanitization
+4. Results - Performance metrics and comparative analysis
+5. Discussion - Error analysis, limitations, practical implications
+6. Conclusion - Contributions and future work
 
 \---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is developed for academic research purposes in partnership with Upstate Care Providers.
 
-### Citation
+**Code:** MIT License (scripts and tools)  
+**Data:** Not for redistribution (synthetic data for research use only)
 
-If you use this work, please cite:
+\---
 
-```bibtex
-@mastersthesis{sakib2026aba,
-  title={Comparative Evaluation of Data Sanitization Strategies for Applied Behavior Analysis Documentation},
-  author={Sakib, \\Nazmus Sakib},
-  year={2026},
-  school={SUNY Polytechnic Institute},
-  type={MS Capstone Project}
-}
-```
+## 👤 Author
+
+**Nazmus Sakib**  
+MS Data Science \& Analytics  
+SUNY Polytechnic Institute  
+Email: sakibn@sunypoly.edu  
+LinkedIn: www.linkedin.com/in/sakib51  
+GitHub: https://github.com/sakibn23
 
 \---
 
 ## 🙏 Acknowledgments
 
-* **Upstate Care Providers (UCP)** for partnership and domain expertise
+* **Trusting Okechuwku Inekwe** - Capstone Project Advisor 
+* **Jessi Jaramillo** - Director, AI Programs \& Strategy
+* **Upstate Care Providers** - Partner Organization
 
 
-
-## 📞 Contact \& Support
-
-**Questions about the research?**  
-Email: sakibn@sunypoly.edu
-
-**Issues with code?**  
-Open an issue on GitHub: [Issues](https://github.com/sakibn23/aba-data-sanitization/issues)
-
-**Want to collaborate?**  
-Reach out via email or LinkedIn!
 
 \---
 
-**Last Updated:** March 18, 2026  
-**Status:** Active Development 🚧
+## 📮 Contact
+
+For questions about this research or potential collaborations:
+
+* Email: sakibn@sunypoly.edu
+* GitHub Issues: \[Repository Issues Page]
+
+\---
+
+**Last Updated:** April 2026  
+**Version:** 1.0  
+**Status:** In Progress (Thesis Completion: May 2026)
 

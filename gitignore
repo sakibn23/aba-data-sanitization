@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific - Large generated files (DO NOT COMMIT)
+data/synthetic/raw/*.txt
+data/annotated/*.json
+outputs/detected_entities.json
+outputs/sanitized/
+outputs/*.json
+
+# Keep directory structure but ignore contents
+data/synthetic/raw/.gitkeep
+data/annotated/.gitkeep
+outputs/.gitkeep
+outputs/sanitized/.gitkeep
+
+# Allow sample/example files
+!examples/*.txt
+!data/identifiers/*.txt
+!data/identifiers/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Documentation builds
+docs/_build/
