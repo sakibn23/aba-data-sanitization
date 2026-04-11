@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Emma Rogers
-**Date of Birth:** 06/05/2007
-**Residential Program:** 95 Geiger ICF
-**Day Program:** Chadwicks TEC
+**Name:** Wyatt Chavez
+**Date of Birth:** 09/06/2014
+**Residential Program:** 96 Geiger ICF
+**Day Program:** Cicero TEC
 
-**Session Date:** 11/08/2025
+**Session Date:** 11/14/2025
 **Session Time:** 9:00 AM - 11:00 AM
 **Session Duration:** 120 minutes
-**Service Location:** School-based Setting
+**Service Location:** Day Program
 
-**Staff Present:** Oliver Morales, DSP
-**Medicaid ID:** DS624459
+**Staff Present:** John Clark, Direct Support Professional
+**Medicaid ID:** ZG137865
 
 ---
 
 ## SESSION SUMMARY
 
-Emma participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Emma engaging appropriately in scheduled tasks.
+Wyatt participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Wyatt engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Task Compliance
-- **Today's Performance:** 5 instances
-- **Progress Notes:** Emma maintained baseline performance on this target.
+### Target 1: Communication Skills
+- **Today's Performance:** 6 instances
+- **Progress Notes:** Wyatt maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
 **Behavior: Verbal Aggression**
-- **Frequency:** 1 instances
-- **Duration:** Approximately 3 minutes
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Emma responded appropriately to interventions
+- **Effectiveness:** Wyatt responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Emma participated in routine programming activities. Staff implemented individua
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 3/session | 3 instances | → Stable |
-| Challenging Behavior | 2/week | 1 instances | → Stable |
+| Target 1 | 4/session | 5 instances | → Stable |
+| Challenging Behavior | 1/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Oliver Morales, 
-**Title:** DSP
-**Date:** 11/08/2025
+**Completed By:** John Clark, 
+**Title:** Direct Support Professional
+**Date:** 11/14/2025
 
 ---
 

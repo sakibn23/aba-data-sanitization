@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** 92de923d
+**Date of Birth:** aa3dc53d
+**Session Date:** 131f628f
+**Location:** 100 5db1a815 ICF
+**Staff:** f65a8507, 
+**Medicaid ID:** 7caddf1c
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 100 5db1a815 ICF from 10:00 AM to 11:30 AM. 
+Ava engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 77% independent completion
+2. Functional communication practice: 76% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 64% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 76%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Ava responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 18 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+2e2c7184 contacted at d8ed507d regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Ava takes Risperidone 1mg daily per prescription from Ella Malpezzi, LMFT. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 5fb625aa at 100 b4780381.
+
+**Authored by:** f65a8507, 
+**Date:** 131f628f
+
+---
+END OF SESSION NOTE

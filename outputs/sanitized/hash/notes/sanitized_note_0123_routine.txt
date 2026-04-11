@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** 616c9501
+**Date of Birth:** 5daf793e
+**Residential Program:** 96 5db1a815 ICF
+**Day Program:** Liverpool TEC
+
+**Session Date:** 80a016d5
+**Session Time:** 2:00 PM - 3:30 PM
+**Session Duration:** 90 minutes
+**Service Location:** Residential Setting
+
+**Staff Present:** 6ff78c05, Behavior Specialist
+**Medicaid ID:** 36cca32d
+
+---
+
+## SESSION SUMMARY
+
+baa31bcd participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with baa31bcd engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Task Compliance
+- **Today's Performance:** 4 instances
+- **Progress Notes:** Owen maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 3 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Owen responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 4/session | 4 instances | → Stable |
+| Challenging Behavior | 1/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 6ff78c05, M.Ed.
+**Title:** Behavior Specialist
+**Date:** 80a016d5
+
+---
+
+END OF SESSION NOTE

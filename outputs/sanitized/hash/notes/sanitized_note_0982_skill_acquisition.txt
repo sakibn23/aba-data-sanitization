@@ -1,0 +1,49 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** Jackson Hernandez
+**Date of Birth:** ae775784
+**Session Date:** 131f628f
+**Program:** Liverpool TEC
+**Time:** 9:00 AM - 10:00 AM
+**Behavior Specialist:** 0603ad7f, PhD, 94746a21
+
+---
+
+## bf2c2ba2 ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+502ae197 participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Liverpool TEC. Session began at 9:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 80% accuracy across 15 trials
+- Trial block 2: 84% accuracy across 15 trials  
+- Trial block 3: 94% accuracy across 15 trials
+- Overall session accuracy: 84%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+502ae197 demonstrated improvement in response latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+502ae197 practiced food service skills during lunch preparation. Staff 0d3f8e03, 
+MS supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted f581a6a7 at 704d2802 to discuss home practice strategies. 
+Parent reported 502ae197 has been practicing sorting tasks at home with good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** 0603ad7f, PhD, 94746a21
+**Date signed:** 131f628f
+
+---
+END OF SESSION NOTE

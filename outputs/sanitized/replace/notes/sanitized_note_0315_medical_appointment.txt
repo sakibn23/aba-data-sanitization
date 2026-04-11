@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Ella Gutierrez
+**Session Date:** [DATE]
+**Primary Location:** Liverpool TEC
+**Staff:** [PERSON], 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. [PERSON] at WellNow Urgent Care, [ADDRESS].
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, [ADDRESS]
+Clinic phone: [PHONE]
+Provider: Dr. [PERSON]
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON], 
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: [PHONE]
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: [DATE]
+
+**APPOINTMENT OUTCOME:**
+Per Dr. [PERSON]:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: Dr. [PERSON]
+Pharmacy: CVS Pharmacy, [PHONE]
+
+**POST-APPOINTMENT SESSION:**
+Ella returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse [PERSON], CNS notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at [PHONE] to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** [PERSON], 
+**Medical liaison:** [PERSON], CNS
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

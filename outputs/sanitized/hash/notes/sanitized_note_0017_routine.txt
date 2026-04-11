@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** 543d22f2
+**Date of Birth:** fdc82e19
+**Residential Program:** 100 5db1a815 ICF
+**Day Program:** Liverpool TEC
+
+**Session Date:** bfe20d3a
+**Session Time:** 3:00 PM - 4:00 PM
+**Session Duration:** 60 minutes
+**Service Location:** Residential Setting
+
+**Staff Present:** Emily Rogers, Behavior Specialist
+**Medicaid ID:** 1940b79f
+
+---
+
+## SESSION SUMMARY
+
+Jacob participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with 8141d2b1 engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Communication Skills
+- **Today's Performance:** 6 instances
+- **Progress Notes:** Jacob maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Jacob responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 3/session | 3 instances | → Stable |
+| Challenging Behavior | 2/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** e6accc0e, M.Ed.
+**Title:** Behavior Specialist
+**Date:** bfe20d3a
+
+---
+
+END OF SESSION NOTE

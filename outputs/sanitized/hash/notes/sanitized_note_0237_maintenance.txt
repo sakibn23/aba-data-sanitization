@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 44ef35e3
+**Session Date:** 043fe75c
+**Settings:** 88 b4780381, Syracuse TEC, 174 Hickory Bend, Syracuse, NY 13224
+**Lead Staff:** afec4f29, 
+**Home Visit Staff:** b1a22f50, M.S.
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+9345a35a demonstrated skill maintenance across multiple settings during coordinated session on 043fe75c.
+
+**SETTING 1:** 88 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 83% independent completion across all tasks
+Staff observer: afec4f29, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 174 Hickory Bend, Syracuse, NY 13224
+Parent participants: af7087b3
+Home phone: eab7fd91
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+af7087b3 reported 9345a35a has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+9345a35a maintained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 25eb92ae (Occupational Therapy) - contact: 40652962
+- 7f169375, Psy.D. (4d541a75) - contact: 2e163de4
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on ea1c77f9
+
+**Documentation:** afec4f29, 
+**Date:** 043fe75c
+
+---
+END OF SESSION NOTE

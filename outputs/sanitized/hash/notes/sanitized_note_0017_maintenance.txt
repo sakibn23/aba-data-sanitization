@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** ef53a6a6
+**Session Date:** 718ffa58
+**Settings:** 92 b4780381, 4c882b81, 3298d09f
+**Lead Staff:** ebb2ae75, M.Ed.
+**Home Visit Staff:** b135990e, 94746a21
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+502ae197 demonstrated skill maintenance across multiple settings during coordinated session on 718ffa58.
+
+**SETTING 1:** 92 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% independent completion across all tasks
+Staff observer: ebb2ae75, M.Ed.
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 86% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 3298d09f
+Parent participants: 6ce7508d phone: cd8803fb
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 70% independent completion in home environment
+
+**PARENT REPORT:**
+5cd8c733 reported 502ae197 has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+502ae197 maintained 86% consistency across settings for target skills. 
+Variability noted in task initiation between 92 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Long (Occupational Therapy) - contact: 704d2802
+- Dr. Long (4d541a75) - contact: ae293be0
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on da7349bb
+
+**Documentation:** Isabella b7b9be5f, M.Ed.
+**Date:** 718ffa58
+
+---
+END OF SESSION NOTE

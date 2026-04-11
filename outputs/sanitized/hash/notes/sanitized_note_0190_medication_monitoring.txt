@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** Abigail P. Ward
+**Date of Birth:** 8ff66911
+**Session Date:** 49e9b98b
+**Location:** 95 Geiger ICF
+**Monitoring Staff:** 22eb6e24, 
+**Consulting Nurse:** 018bbab6, Behavior Specialist II
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by Dr. 56d3e805
+Last appointment: 48dd90ca
+Next appointment: 50a810ac
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: bd2b9573
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 35832d61
+   
+3. Melatonin 5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: d991eb17
+
+**RECENT CHANGE:**
+cf93f886: 
+Fluoxetine 20mg dosage increased
+Ordered by: Dr. 56d3e805
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. f5ea3614 readily engaged in 
+morning routine with 82% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. f5ea3614 completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. f5ea3614 worked for 21-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: 018bbab6, Behavior Specialist II
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 97.9°F
+Pulse: 82 bpm
+Respirations: 15 per minute
+Recorded by: 018bbab6, Behavior Specialist II
+
+**PARENT CONSULTATION:**
+17262117 contacted at 718e3975.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: 6f9a4d8f during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to Dr. 56d3e805 at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 0abd95c7
+Prescriber appointment: cab0aaf5
+
+**Documented by:** 22eb6e24, 
+**Reviewed by:** 018bbab6, Behavior Specialist II
+**Date:** 49e9b98b
+
+---
+END OF SESSION NOTE

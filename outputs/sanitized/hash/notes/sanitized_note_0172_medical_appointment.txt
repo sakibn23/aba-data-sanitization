@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 2c3aaefe, 026deea4**Session Date:** 8d9399ca
+**Primary Location:** Cicero TEC
+**Staff:** 5d9248eb, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 722b84aa at Syracuse Medical Associates, 456eeb07.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, 456eeb07
+Clinic phone: 5a9d0dba
+Provider: Dr. Scanlon
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 5d9248eb, 
+
+**PARENT COORDINATION:**
+bd406770 met at clinic.
+Contact number: 707bc55f
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: a29e623f
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 722b84aa:
+- Diagnosis: Otitis Externa
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: Dr. 722b84aa
+Pharmacy: dae25302, 6b8b6e46
+
+**POST-APPOINTMENT SESSION:**
+a6b54c20 returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 92039f1a notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+bd406770 contacted at 707bc55f to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 5d9248eb, 
+**Medical liaison:** Dr. 92039f1a
+**Date:** 8d9399ca
+
+---
+END OF SESSION NOTE

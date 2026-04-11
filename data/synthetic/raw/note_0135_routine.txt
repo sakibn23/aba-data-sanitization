@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Joseph Richardson
-**Date of Birth:** 06/12/2010
-**Residential Program:** 96 Geiger ICF
-**Day Program:** Cicero TEC
+**Name:** Harper Hill
+**Date of Birth:** 10/12/2009
+**Residential Program:** 95 Geiger ICF
+**Day Program:** Liverpool TEC
 
-**Session Date:** 11/12/2025
-**Session Time:** 10:00 AM - 12:00 PM
-**Session Duration:** 120 minutes
-**Service Location:** School-based Setting
+**Session Date:** 11/26/2025
+**Session Time:** 1:00 PM - 2:30 PM
+**Session Duration:** 90 minutes
+**Service Location:** Day Program
 
-**Staff Present:** Riley Harris, Sr. BCBA
-**Medicaid ID:** VL789770
+**Staff Present:** Lily Wood, DSP
+**Medicaid ID:** CQ518828
 
 ---
 
 ## SESSION SUMMARY
 
-Joseph participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Joseph engaging appropriately in scheduled tasks.
+Harper participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Harper engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Communication Skills
-- **Today's Performance:** 5 instances
-- **Progress Notes:** Joseph maintained baseline performance on this target.
+### Target 1: Social Interaction
+- **Today's Performance:** 6 instances
+- **Progress Notes:** Harper maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Verbal Aggression**
+**Behavior: Minor Non-Compliance**
 - **Frequency:** 1 instances
-- **Duration:** Approximately 1 minutes
+- **Duration:** Approximately 2 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Joseph responded appropriately to interventions
+- **Effectiveness:** Harper responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Joseph participated in routine programming activities. Staff implemented individ
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 3 instances | → Stable |
-| Challenging Behavior | 3/week | 1 instances | → Stable |
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 2/week | 1 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Riley Harris, PhD, BCBA
-**Title:** Sr. BCBA
-**Date:** 11/12/2025
+**Completed By:** Lily Wood, 
+**Title:** DSP
+**Date:** 11/26/2025
 
 ---
 

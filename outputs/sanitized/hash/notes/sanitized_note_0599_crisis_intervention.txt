@@ -1,0 +1,136 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: Jones, 9da91a94 of Birth: e6262957
+9b96b339: 972c7de6
+Emergency Contact 1: Helen Jones - b3f5ea96
+Emergency Contact 2: 99d33c48
+
+**INCIDENT DETAILS:**
+Date: 0c549456
+Time of Onset: 9:45 AM
+Location: 92 b4780381, 1fadc4db
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: 2aebdfad, 
+Secondary: 46346e8c, MS
+Tertiary: Ella Reyes, LMFT
+9de79093 notified: f10ad947, DSP
+Medical: Dr. 21f5358c
+
+**DETAILED INCIDENT TIMELINE:**
+
+2:11 PM: PRECIPITATING EVENT
+Aiden was engaged in activity when trigger occurred.
+
+2:15 PM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff 2aebdfad,  implemented verbal de-escalation.
+
+11:25 AM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff 46346e8c, MS joined response.
+
+2:21 PM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+f10ad947, DSP notified.
+
+9:53 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: 2aebdfad, 46346e8c, Ella Reyes
+Reason: Imminent danger to self and others
+
+2:38 PM: DE-ESCALATION PROGRESS
+Aiden showing decreased muscle tension, verbal communication restored.
+
+11:52 AM: RESTRAINT RELEASED
+Total restraint duration: 21 minutes
+Aiden moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: Dr. 21f5358c
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+2aebdfad: Superficial scratch - Treatment: Cleaned, bandaged
+Emily Wood: Contusion from impact - Treatment: Ice pack applied
+Ella Reyes: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $189
+
+**EMERGENCY CONTACTS MADE:**
+
+11:35 AM: 03ce3729 contacted at b3f5ea96
+Reached: Yes, answered immediately
+Notified by: f10ad947, DSP
+
+12:00 PM: Rebecca Jones contacted at 1b525d5e
+Reached: Yes, callback received
+
+**MEDICAL CONSULTATION:**
+Dr. 21f5358c assessed. 
+Vital signs: Temp 98.4°F, Pulse 85, BP 124/80, Respirations 19
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+Dr. 09343dc2 contacted.
+Emergency appointment: 4ce81745
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 9:53 AM
+End time: 10:15 AM
+Total duration: 25 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: Dr. 21f5358c checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: be68f002
+☑ Clinical Director: f10ad947 - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: f10ad947, DSP
+Attendees: 2aebdfad, 46346e8c, Ella Reyes
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: Dr. 09343dc2 emergency appt 4ce81745
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** 2aebdfad, 
+**Reviewed by:** f10ad947, DSP
+**Medical review:** Dr. 21f5358c
+**Report filed:** 0c549456
+**Report ID:** INC-2026-9098
+
+---
+END OF INCIDENT REPORT

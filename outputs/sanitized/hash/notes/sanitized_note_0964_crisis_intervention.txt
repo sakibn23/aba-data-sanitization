@@ -1,0 +1,136 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: e9c7a260 of Birth: 28bd53b1
+9b96b339: 0f6291a5
+Emergency Contact 1: 29b1af45
+Emergency Contact 2: 4064e644
+
+**INCIDENT DETAILS:**
+Date: 42998749
+Time of Onset: 2:15 PM
+Location: 92 b4780381, 57db7412
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: 79ec544b, 
+Secondary: 7066b104, NP
+Tertiary: Sofia Sanchez, CNS
+9de79093 notified: af1a4f6f, M.A.
+Medical: Aiden Raju, Behavior Specialist II
+
+**DETAILED INCIDENT TIMELINE:**
+
+9:41 AM: PRECIPITATING EVENT
+9345a35a was engaged in activity when trigger occurred.
+
+9:45 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff 79ec544b,  implemented verbal de-escalation.
+
+11:25 AM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff 7066b104, NP joined response.
+
+9:51 AM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+af1a4f6f, M.A. notified.
+
+9:53 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: 79ec544b, 7066b104, 8d819d30
+Reason: Imminent danger to self and others
+
+11:45 AM: DE-ESCALATION PROGRESS
+9345a35a showing decreased muscle tension, verbal communication restored.
+
+11:52 AM: RESTRAINT RELEASED
+Total restraint duration: 23 minutes
+9345a35a moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: Aiden Raju, Behavior Specialist II
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+79ec544b: Superficial scratch - Treatment: Cleaned, bandaged
+7066b104: Contusion from impact - Treatment: Ice pack applied
+8d819d30: No injuries
+
+PROPERTY DAMAGE:
+Activity table scratched
+Estimated cost: $212
+
+**EMERGENCY CONTACTS MADE:**
+
+11:35 AM: 65edb4f6 contacted at 6e8454b8
+Reached: Yes, answered immediately
+Notified by: af1a4f6f, M.A.
+
+2:45 PM: 19bafe52 contacted at df8a5497
+Reached: Yes, callback received
+
+**MEDICAL CONSULTATION:**
+Aiden Raju, Behavior Specialist II assessed. 
+Vital signs: Temp 98.4°F, Pulse 84, BP 116/79, Respirations 17
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+Dr. bbacffd9 contacted.
+Emergency appointment: 9d7fc37a
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 11:30 AM
+End time: 11:52 AM
+Total duration: 22 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: Aiden Raju, Behavior Specialist II checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: Aiden Edwards - notified
+☑ Clinical Director: af1a4f6f - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: af1a4f6f, M.A.
+Attendees: 79ec544b, 7066b104, Sofia Sanchez
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: Dr. bbacffd9 emergency appt 9d7fc37a
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** 79ec544b, 
+**Reviewed by:** af1a4f6f, M.A.
+**Medical review:** Aiden Raju, Behavior Specialist II
+**Report filed:** 42998749
+**Report ID:** INC-2026-6068
+
+---
+END OF INCIDENT REPORT

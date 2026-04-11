@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 49a84e15
+**Session Date:** 849b75f0
+**Primary Location:** Syracuse TEC
+**Staff:** Sofia Cox, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. f4034e7e at Syracuse Medical Associates, cec399e9.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Syracuse Medical Associates, cec399e9
+Clinic phone: 9eeb1a51
+Provider: Dr. Walker
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 70a860ae, 
+
+**PARENT COORDINATION:**
+10353d09 met at clinic.
+Contact number: e9b6acfe
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: a29e623f
+
+**APPOINTMENT OUTCOME:**
+Per Dr. Walker:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Take twice daily × 10 days
+Prescribing provider: Dr. Walker
+Pharmacy: CVS Pharmacy, eab7fd91
+
+**POST-APPOINTMENT SESSION:**
+Logan returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. Young notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+10353d09 contacted at e9b6acfe to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Sofia Cox, 
+**Medical liaison:** Dr. 548674f7
+**Date:** 849b75f0
+
+---
+END OF SESSION NOTE

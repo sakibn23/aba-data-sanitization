@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Ramos, Emily
+**Session Date:** 29d78388
+**Settings:** 100 b4780381, 4c882b81, 482c5ea6
+**Lead Staff:** 60a456ab, CCC-SLP
+**Home Visit Staff:** 735f428a, Ph.D.
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Emily demonstrated skill maintenance across multiple settings during coordinated session on 29d78388.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 87% independent completion across all tasks
+Staff observer: 60a456ab, CCC-SLP
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 482c5ea6
+Parent participants: 2c5c724f and bd2d5abe phone: b5efd1f5
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 77% independent completion in home environment
+
+**PARENT REPORT:**
+2c5c724f reported Emily has been completing 
+morning routine independently at home 5 days per week. ee1c0f53 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Emily maintained 86% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Thompson (Occupational Therapy) - contact: 4420c6f7
+- Dr. 3495e757 (4d541a75) - contact: df8a5497
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on a0545f4f
+
+**Documentation:** 60a456ab, CCC-SLP
+**Date:** 29d78388
+
+---
+END OF SESSION NOTE

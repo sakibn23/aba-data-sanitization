@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Ethan Ruiz
+**Session Date:** 75f52e16
+**Settings:** 95 b4780381, Baldwinsville TEC, 60909c19
+**Lead Staff:** 66e78298, 
+**Home Visit Staff:** c2c42ea4, Behavior Specialist II
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+13ae3ed6 demonstrated skill maintenance across multiple settings during coordinated session on 75f52e16.
+
+**SETTING 1:** 95 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 88% independent completion across all tasks
+Staff observer: 66e78298, 
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 84% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 60909c19
+Parent participants: c5548a50 phone: ac1bb8d9
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 70% independent completion in home environment
+
+**PARENT REPORT:**
+4c13a7b3 reported 13ae3ed6 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+13ae3ed6 maintained 83% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 521aae5e, M.S. (Occupational Therapy) - contact: a6c2e98e
+- Dr. 7e084d72 (4d541a75) - contact: f154b551
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 793ace2d
+
+**Documentation:** 66e78298, 
+**Date:** 75f52e16
+
+---
+END OF SESSION NOTE

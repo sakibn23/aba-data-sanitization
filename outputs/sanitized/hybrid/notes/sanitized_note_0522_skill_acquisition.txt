@@ -1,0 +1,49 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** Aiden Roberts
+**Date of Birth:** 4*******0
+**Session Date:** 1********5
+**Program:** Cicero TEC
+**Time:** 10:00 AM - 11:00 AM
+**Behavior Specialist:** Sebastian Rodriguez, 
+
+---
+
+## [PERSON] ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+Aiden participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Cicero TEC. Session began at 10:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 72% accuracy across 15 trials
+- Trial block 2: 89% accuracy across 15 trials  
+- Trial block 3: 94% accuracy across 15 trials
+- Overall session accuracy: 81%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+Aiden demonstrated improvement in response latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Aiden practiced food service skills during lunch preparation. Staff [PERSON], 
+LMHC supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted [PERSON] at [PHONE] to discuss home practice strategies. 
+Parent reported Aiden has been practicing sorting tasks at home with good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** Sebastian Rodriguez, 
+**Date signed:** 1********5
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 6d9fffab
+**Session Date:** 0c549456
+**Settings:** 92 b4780381, Baldwinsville TEC, b837524b
+**Lead Staff:** ca5c3166, 
+**Home Visit Staff:** 9c0bb1e4, 4cf85d54
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+b1f6d124 demonstrated skill maintenance across multiple settings during coordinated session on 0c549456.
+
+**SETTING 1:** 92 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: ca5c3166, 
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 85% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** b837524b
+Parent participants: 8faae750
+Home phone: 1c0f0de7
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 80% independent completion in home environment
+
+**PARENT REPORT:**
+8faae750 reported b1f6d124 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+b1f6d124 maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 92 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Grace Rodriguez, CASAC (Occupational Therapy) - contact: 32b95368
+- 0d4346b1, BSN (4d541a75) - contact: 87a2d444
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 225e1566
+
+**Documentation:** ca5c3166, 
+**Date:** 0c549456
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** b34912f8
+**Date of Birth:** 7069eaa0
+**Residential Program:** 96 5db1a815 ICF
+**Day Program:** Cicero TEC
+
+**Session Date:** 3432c949
+**Session Time:** 9:00 AM - 11:00 AM
+**Session Duration:** 120 minutes
+**Service Location:** Day Program
+
+**Staff Present:** 9bdc506a, Direct Support Professional
+**Medicaid ID:** 44f3351a
+
+---
+
+## SESSION SUMMARY
+
+f190d2ae participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with f190d2ae engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Communication Skills
+- **Today's Performance:** 6 instances
+- **Progress Notes:** f190d2ae maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Verbal Aggression**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** f190d2ae responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 4/session | 5 instances | → Stable |
+| Challenging Behavior | 1/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 9bdc506a, 
+**Title:** Direct Support Professional
+**Date:** 3432c949
+
+---
+
+END OF SESSION NOTE

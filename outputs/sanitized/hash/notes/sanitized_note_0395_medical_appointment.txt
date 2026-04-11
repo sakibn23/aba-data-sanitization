@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Lewis, a8cfcd74
+**Session Date:** c46fc9dc
+**Primary Location:** Liverpool TEC
+**Staff:** 1f3b4314, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. Cox at Community Health Center, 03ef5d49.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Community Health Center, 03ef5d49
+Clinic phone: d458b02d
+Provider: Dr. Cox
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 1f3b4314, 
+
+**PARENT COORDINATION:**
+1230471d met at clinic.
+Contact number: 6511c091
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: e2d646bf
+
+**APPOINTMENT OUTCOME:**
+Per Dr. Cox:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: Dr. Cox
+Pharmacy: CVS Pharmacy, 0dc6ed96
+
+**POST-APPOINTMENT SESSION:**
+a8cfcd74 returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 1ee7f95c, LPN notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+1230471d contacted at 6511c091 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 1f3b4314, 
+**Medical liaison:** 1ee7f95c, LPN
+**Date:** c46fc9dc
+
+---
+END OF SESSION NOTE

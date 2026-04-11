@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** 7c846474
+**Date of Birth:** 8ea0c172
+**Residential Program:** 96 5db1a815 ICF
+**Day Program:** Syracuse TEC
+
+**Session Date:** 1ce0482a
+**Session Time:** 3:00 PM - 4:30 PM
+**Session Duration:** 90 minutes
+**Service Location:** School-based Setting
+
+**Staff Present:** fd4d595a, 94746a21
+**Medicaid ID:** 01e76bd5
+
+---
+
+## SESSION SUMMARY
+
+7efa869d participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with 7efa869d engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Social Interaction
+- **Today's Performance:** 5 instances
+- **Progress Notes:** Oliver maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Verbal Aggression**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 3 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Oliver responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 3/session | 4 instances | → Stable |
+| Challenging Behavior | 3/week | 1 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** fd4d595a, 94746a21, LBA
+**Title:** 94746a21
+**Date:** 1ce0482a
+
+---
+
+END OF SESSION NOTE

@@ -1,0 +1,49 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** Peterson, Sofia
+**Date of Birth:** 212a92d3
+**Session Date:** ab32c455
+**Program:** Liverpool TEC
+**Time:** 10:00 AM - 11:30 AM
+**Behavior Specialist:** Harper Young, 
+
+---
+
+## bf2c2ba2 ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+Sofia participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Liverpool TEC. Session began at 10:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 71% accuracy across 15 trials
+- Trial block 2: 80% accuracy across 15 trials  
+- Trial block 3: 89% accuracy across 15 trials
+- Overall session accuracy: 80%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+Sofia demonstrated improvement in response latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Sofia practiced food service skills during lunch preparation. Staff 0911233b, 
+94746a21 supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted 2f05714f at 0d3dc822 to discuss home practice strategies. 
+Parent reported Sofia has been practicing sorting tasks at home with good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** Harper Young, 
+**Date signed:** ab32c455
+
+---
+END OF SESSION NOTE

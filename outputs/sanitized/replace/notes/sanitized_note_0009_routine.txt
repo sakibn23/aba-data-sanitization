@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** Lily Murphy
+**Date of Birth:** [DATE]
+**Residential Program:** 96 [PERSON] ICF
+**Day Program:** Liverpool TEC
+
+**Session Date:** [DATE]
+**Session Time:** 9:00 AM - 10:30 AM
+**Session Duration:** 90 minutes
+**Service Location:** Community Setting
+
+**Staff Present:** [PERSON], DSP
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## SESSION SUMMARY
+
+Lily participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with [PERSON] engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Task Compliance
+- **Today's Performance:** 5 instances
+- **Progress Notes:** Lily maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Verbal Aggression**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Lily responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 4/session | 4 instances | → Stable |
+| Challenging Behavior | 1/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** [PERSON], 
+**Title:** DSP
+**Date:** [DATE]
+
+---
+
+END OF SESSION NOTE

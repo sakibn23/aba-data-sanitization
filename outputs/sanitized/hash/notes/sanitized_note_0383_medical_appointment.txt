@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Carter, ee2942b0
+**Session Date:** c46fc9dc
+**Primary Location:** Chadwicks TEC
+**Staff:** 59bd55a8, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with ae0ac2da, CASAC at Community Health Center, f6bd72a0.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, f6bd72a0
+Clinic phone: ac1bb8d9
+Provider: ae0ac2da, CASAC
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 59bd55a8, 
+
+**PARENT COORDINATION:**
+69afc550 met at clinic.
+Contact number: a6c2e98e
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: d2e6d77d
+
+**APPOINTMENT OUTCOME:**
+Per ae0ac2da, CASAC:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Take twice daily × 10 days
+Prescribing provider: ae0ac2da, CASAC
+Pharmacy: Walgreens, ae293be0
+
+**POST-APPOINTMENT SESSION:**
+Aiden returned to 4c882b81. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Zoey Gifford, LMFT notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+69afc550 contacted at a6c2e98e to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 59bd55a8, 
+**Medical liaison:** Zoey Gifford, LMFT
+**Date:** c46fc9dc
+
+---
+END OF SESSION NOTE

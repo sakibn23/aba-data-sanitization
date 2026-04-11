@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Watson, Aria
+**Session Date:** 42998749
+**Settings:** 92 b4780381, Syracuse TEC, c3afc5d1
+**Lead Staff:** cc55a639, 
+**Home Visit Staff:** Lily Rodriguez, MS
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Aria demonstrated skill maintenance across multiple settings during coordinated session on 42998749.
+
+**SETTING 1:** 92 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 88% independent completion across all tasks
+Staff observer: cc55a639, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** c3afc5d1
+Parent participants: bef45d2f and 9dd4e1a3
+Home phone: 6ed16d5a
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 74% independent completion in home environment
+
+**PARENT REPORT:**
+bef45d2f reported Aria has been completing 
+morning routine independently at home 4 days per week. 9dd4e1a3 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Aria maintained 82% consistency across settings for target skills. 
+Variability noted in task initiation between 92 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Raju (Occupational Therapy) - contact: f1aade7a
+- 2b5a3333, 61b96822.M. (4d541a75) - contact: 1a6a4c4f
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on ee2fe9c8
+
+**Documentation:** cc55a639, 
+**Date:** 42998749
+
+---
+END OF SESSION NOTE

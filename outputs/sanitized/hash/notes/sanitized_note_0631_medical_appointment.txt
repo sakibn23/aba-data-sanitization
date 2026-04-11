@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 9ed2f7cf
+**Session Date:** 5fcd1dc9
+**Primary Location:** Baldwinsville TEC
+**Staff:** eb237509, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. b16370a1 at Syracuse Medical Associates, 542203e7.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Syracuse Medical Associates, 542203e7
+Clinic phone: 10ff4a59
+Provider: Dr. b16370a1
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: eb237509, 
+
+**PARENT COORDINATION:**
+1bd12bbe met at clinic.
+Contact number: a391a130
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: 844ac1e8
+
+**APPOINTMENT OUTCOME:**
+Per Dr. b16370a1:
+- Diagnosis: Contact Dermatitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: Dr. b16370a1
+Pharmacy: dae25302, 1b525d5e
+
+**POST-APPOINTMENT SESSION:**
+7efa869d returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. Hernandez notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+1bd12bbe contacted at a391a130 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** eb237509, 
+**Medical liaison:** Dr. bf3a101f
+**Date:** 5fcd1dc9
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,93 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** Cook, Olivia
+**Date of Birth:** ac7cd6c0
+**Session Date:** fa8242e4
+**Location:** 95 Geiger ICF
+**Monitoring Staff:** e934fb4e, 
+**Consulting Nurse:** Dr. Long
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by Dr. 7e6046c9
+Last appointment: 2798c69b
+Next appointment: 4e140660
+
+**ROUTINE MEDICATIONS:**
+1. Aripiprazole 5mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: 1713d409
+   
+2. Escitalopram 10mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 42de6bdd
+   
+3. Melatonin 5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   e4bb9f1e date: 7ce3b9a9
+
+**RECENT CHANGE:**
+c3002b45: 
+Escitalopram 10mg dosage increased
+Ordered by: Dr. 270ed9fe*BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Olivia readily engaged in 
+morning routine with 83% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Olivia completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Olivia worked for 24-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for headache complaint
+Administered by: Dr. Long
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.6°F
+Pulse: 84 bpm
+Respirations: 14 per minute
+Recorded by: Dr. Long
+
+**PARENT CONSULTATION:**
+f38c2f17 contacted at 6511c091.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: 6f9a4d8f during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor sleep quality for next 30 days
+- Report findings to Dr. 7e6046c9 at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: b824d0ec
+Prescriber appointment: 4d55c0f1
+
+**Documented by:** e934fb4e, 
+**Reviewed by:** Dr. Long
+**Date:** fa8242e4
+
+---
+END OF SESSION NOTE

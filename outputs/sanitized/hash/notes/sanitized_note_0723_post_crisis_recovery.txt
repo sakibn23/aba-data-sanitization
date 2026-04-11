@@ -1,0 +1,159 @@
+# UCP POST-CRISIS RECOVERY SESSION NOTE
+
+**Client:** Sanders, Elijah
+**Recovery Session Date:** 766623b9
+**Original Incident Date:** 52078ba8
+**Location:** 95 Geiger ICF
+**Staff:** Noah Wood, 
+**Clinical Supervisor:** c97ddebf, Ph.D.
+
+---
+
+## POST-CRISIS THERAPEUTIC INTERVENTION
+
+**INCIDENT REFERENCE:**
+Critical incident on 52078ba8 at 95 Geiger ICF.
+Incident Report ID: INC-2026-6608
+Type: Physical aggression toward peer and staff, property destruction
+Duration: Escalation 5 minutes, restraint 20 minutes
+
+TIME SINCE INCIDENT: 48 hours
+
+**CURRENT SESSION PURPOSE:**
+1. Therapeutic processing of incident
+2. Safety planning reinforcement
+3. 6df1bb18 rebuilding for emotion regulation
+4. Relationship repair with staff and peers
+
+**SESSION ACTIVITIES:**
+
+**THERAPEUTIC PROCESSING:**
+Elijah participated in cognitive-behavioral processing with Noah Wood, .
+
+Discussion topics:
+- Event sequence understanding using visual timeline
+- Emotional identification (anger, frustration, feeling out of control)
+- Alternative response strategies (asking for break, using calm-down space)
+- Safety understanding (why restraint was necessary)
+
+Elijah's insight: Demonstrated good understanding of event sequence, identified trigger, 
+recognized inappropriate choice and impact on others.
+
+**SAFETY PLANNING:**
+Reviewed and updated safety protocols with Elijah.
+
+**NEW SAFETY MEASURES IMPLEMENTED:**
+Following incident on 52078ba8:
+1. Individual activity schedule - Implemented a6af3e1b
+2. Enhanced visual supports for emotion regulation - Implemented a6af3e1b
+3. Enhanced monitoring during peer activities (1:2 ratio)
+
+**PARENT COLLABORATION:**
+Joint session with 7c781325.
+
+Parents contacted at 345b8ed0 to confirm session attendance.
+
+Discussion points:
+- Home-program consistency for emotion regulation strategies
+- Warning sign recognition (escalating voice volume, body tension, pacing)
+- De-escalation support at home (offering break space, reducing demands)
+- Communication protocols between home and program
+
+**STAFF RELATIONSHIP REPAIR:**
+Elijah met individually with staff involved in incident.
+Facilitated by: c97ddebf, Ph.D.
+
+Process included: Elijah's verbal apology, staff reassurance of continued support, 
+discussion of moving forward. Staff reported positive interaction quality.
+
+**BEHAVIORAL SUPPORT PLAN UPDATES:**
+Modified BSP implemented 30671b60 following comprehensive review.
+
+Changes include:
+- Enhanced antecedent strategies (increased warnings before transitions)
+- Additional teaching of replacement behaviors (requesting break using visual card)
+- Updated crisis protocols (specific de-escalation sequence)
+- Modified reinforcement schedule
+
+Review team:
+- Elijah Flores, Behavior Specialist (Behavior Specialist)
+- Dr. 1cdcfc38 (Occupational Therapist)
+- 761b7b84, NP (Speech-Language Pathologist)
+- Dr. 1670f014 (Nursing)
+- Parents: 7c781325
+
+**PSYCHIATRIC FOLLOW-UP:**
+Emergency consultation with Dr. 502ae197 on d8d35f48.
+
+Medication adjustments:
+- Increased evening anxiety medication
+- Continue current regimen with modifications
+
+Next psychiatric appointment: fce593a1
+
+**SKILL REBUILDING:**
+Focus areas identified:
+1. Emotion regulation and identification
+2. Requesting breaks appropriately
+3. Appropriate peer interactions
+
+Teaching sessions scheduled:
+- Daily emotion identification practice with Noah Wood, 
+- Twice weekly skills practice
+- Break request training as needed throughout day
+
+**ENVIRONMENTAL MODIFICATIONS:**
+Changes made at 95 5db1a815 ICF following incident:
+
+Physical environment:
+- Designated "calm corner" with visual supports (Completed a6af3e1b)
+- Additional soft seating for de-escalation space
+
+Schedule modifications:
+- Individual time for preferred activities
+- Structured peer activities with higher staff ratio for 1 week
+
+**MONITORING PROTOCOL:**
+Enhanced monitoring period: 766623b9 through 4db27406 (2 weeks)
+
+Monitoring frequency: Hourly emotion check-ins using 5-point scale
+Documentation: Electronic incident tracking system + daily narrative notes
+
+**CHECK-IN SCHEDULE:**
+Daily check-ins with rotating staff:
+- Morning: 8:30 AM (baseline mood assessment)
+- Midday: 12:00 PM (activity participation check)
+- Afternoon: 3:00 PM (end-of-day processing)
+
+**PARENT COMMUNICATION PLAN:**
+Daily updates to 7c781325:
+- Method: Phone call
+- Time: 4:00 PM daily
+- Contact: 345b8ed0
+
+**PROGRESS INDICATORS:**
+Since incident on 52078ba8 (48 hours post-incident):
+- Zero physical aggression incidents
+- Appropriate use of break request card 4 times
+- Positive peer interactions during structured activities (100% appropriate)
+- Verbal communication of emotions using 5-point scale with 88% accuracy
+
+**NEXT STEPS:**
+☑ Continue daily monitoring through 4db27406
+☑ BSP implementation fidelity checks (daily by supervisor)
+☑ Ongoing parent collaboration (daily calls)
+☑ Psychiatric follow-up ec826af3
+☑ Incident review team meeting scheduled
+☑ FBA update completion target: 05540bf4
+
+**DOCUMENTATION:**
+Recovery session documented by: Noah Wood, 
+Clinical supervision: c97ddebf, Ph.D.
+Parent consent obtained: 766623b9
+Treatment plan updated: a6af3e1b
+
+Session date: 766623b9
+Next recovery session: fc85593d
+
+---
+END OF SESSION NOTE

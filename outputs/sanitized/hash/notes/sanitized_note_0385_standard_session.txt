@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Morris, 502ae197
+**Date of Birth:** eebb50ad
+**Session Date:** 86d03bdc
+**Location:** 88 Geiger ICF
+**Staff:** ff8b3847, PhD, 94746a21
+**Medicaid ID:** eb97ef86
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 88 5db1a815 ICF from 3:00 PM to 5:00 PM. 
+502ae197 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 79% independent completion
+2. Functional communication practice: 69% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 64% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 78%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. 502ae197 responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 19 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+Tyler Morris contacted at 734a354d regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+502ae197 takes bcd56ba5 0.3mg daily per prescription from b75d81c6, CASAC. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 77f32151 at 88 Geiger ICF.
+
+**Authored by:** ff8b3847, PhD, 94746a21
+**Date:** 86d03bdc
+
+---
+END OF SESSION NOTE

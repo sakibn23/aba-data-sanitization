@@ -1,0 +1,66 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** 235fe393, c7bec95e*Session Date:** e3354e1c
+**Locations Observed:** 88 b4780381, feb4ba2d, Liverpool TEC
+**Observing Staff:** b05a0d0f, 
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 88 Geiger ICF → Cicero TEC
+Time: 8:45 AM
+8b9c6437: Unexpected staff change (regular driver unavailable)
+Client Response: Moderate anxiety, verbal questioning, increased pacing
+
+f190d2ae demonstrated heightened anxiety when informed of transition from 
+88 Geiger ICF to Cicero TEC with unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usual b05a0d0f, 
+
+**TRANSITION 2:** Cicero TEC → Liverpool TEC
+Time: 2:15 PM
+8b9c6437: Schedule modification due to building maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment with Dr. c625ca57 at Cicero TEC on 
+767af86a was 
+rescheduled to 934c43fd 
+due to provider illness. f190d2ae exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+be02b2d8 contacted at 48091747 to discuss 
+schedule sensitivity. Parent reported Wyatt frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT ASSESSMENT:**
+88 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Cicero TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Liverpool TEC: High activity level, variable noise, open floor plan
+
+Consultation with Dr. adae8d8d scheduled for 4c93c35e 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 minutes to 15 minutes advance notice
+- Environmental modifications at Cicero TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency protocol - avoid changes within 48 hours when possible
+- Provider coordination for appointment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with be02b2d8 scheduled 
+489ec624 
+to review environmental sensitivities.
+
+Contact Dr. adae8d8d at 1b525d5e for sensory consultation.
+
+**Documented by:** b05a0d0f, 
+**Date:** e3354e1c
+
+---
+END OF SESSION NOTE

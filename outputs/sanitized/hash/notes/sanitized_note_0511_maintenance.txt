@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Kelly, 90a5d5a8
+**Session Date:** 2dcc2021
+**Settings:** 96 b4780381, Liverpool TEC, 723 Cherry Creek, Syracuse, NY 13210
+**Lead Staff:** a49f48ec, 
+**Home Visit Staff:** Mason Sanchez, CNS
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Julian demonstrated skill maintenance across multiple settings during coordinated session on 2dcc2021.
+
+**SETTING 1:** 96 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 88% independent completion across all tasks
+Staff observer: a49f48ec, 
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 75% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 723 Cherry Creek, Syracuse, NY 13210
+Parent participants: 794b26e3 and 8660f468
+Home phone: df8a5497
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 80% independent completion in home environment
+
+**PARENT REPORT:**
+794b26e3 reported 90a5d5a8 has been completing 
+morning routine independently at home 5 days per week. 8660f468 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Julian maintained 82% consistency across settings for target skills. 
+Variability noted in task initiation between 96 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Avery Barnes, NP (Occupational Therapy) - contact: 798616f0
+- Noah Rodriguez, 4cf85d54 (Speech Therapy) - contact: 2b4a55b6
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 141e76ab
+
+**Documentation:** a49f48ec, 
+**Date:** 2dcc2021
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Sofia Myers
+**Date of Birth:** 3cf3ab0d
+**Session Date:** 030b7f07
+**Location:** 95 Geiger ICF
+**Staff:** 82fc8d03, 
+**Medicaid ID:** 64a92c13
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 95 5db1a815 ICF from 3:00 PM to 5:00 PM. 
+Sofia engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 90% independent completion
+2. Functional communication practice: 76% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 67% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 77%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Sofia responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 22 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+3fdd7f21 contacted at 6d8859aa regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Sofia takes 55dd731d 50mg daily per prescription from Dr. e2120ffd. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 77f32151 at 95 Geiger ICF.
+
+**Authored by:** 82fc8d03, 
+**Date:** 030b7f07
+
+---
+END OF SESSION NOTE

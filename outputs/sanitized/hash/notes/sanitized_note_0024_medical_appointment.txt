@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 25eb92ae, 9b70ac59*Session Date:** 042755e3
+**Primary Location:** Cicero TEC
+**Staff:** Lily Campbell, CCC-SLP
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 266a7b5e at WellNow Urgent Care, 6217463f.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, 6217463f
+Clinic phone: eab7fd91
+Provider: Dr. 266a7b5e
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: c2702fce, CCC-SLP
+
+**PARENT COORDINATION:**
+2268f6c4 met at clinic.
+Contact number: c1bb2a12
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: 96af50a5
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 266a7b5e:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. 266a7b5e
+Pharmacy: dae25302, a03ccc6b
+
+**POST-APPOINTMENT SESSION:**
+24871510 returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 266a7b5e notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+2268f6c4 contacted at c1bb2a12 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Lily Campbell, CCC-SLP
+**Medical liaison:** Dr. 266a7b5e
+**Date:** 042755e3
+
+---
+END OF SESSION NOTE

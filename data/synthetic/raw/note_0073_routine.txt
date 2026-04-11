@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Lily Castillo
-**Date of Birth:** 07/20/2020
-**Residential Program:** 96 Geiger ICF
-**Day Program:** Chadwicks TEC
+**Name:** Abigail Watson
+**Date of Birth:** 05/31/2014
+**Residential Program:** 92 Geiger ICF
+**Day Program:** Cicero TEC
 
-**Session Date:** 10/17/2025
-**Session Time:** 2:00 PM - 3:30 PM
+**Session Date:** 11/14/2025
+**Session Time:** 9:00 AM - 10:30 AM
 **Session Duration:** 90 minutes
-**Service Location:** Day Program
+**Service Location:** School-based Setting
 
-**Staff Present:** Aiden Nguyen, Behavior Specialist II
-**Medicaid ID:** HU161798
+**Staff Present:** Levi Harris, Behavior Specialist
+**Medicaid ID:** RZ078412
 
 ---
 
 ## SESSION SUMMARY
 
-Lily participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Lily engaging appropriately in scheduled tasks.
+Abigail participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Abigail engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Communication Skills
-- **Today's Performance:** 3 instances
-- **Progress Notes:** Lily maintained baseline performance on this target.
+### Target 1: Task Compliance
+- **Today's Performance:** 5 instances
+- **Progress Notes:** Abigail maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Minor Non-Compliance**
+**Behavior: Verbal Aggression**
 - **Frequency:** 2 instances
-- **Duration:** Approximately 2 minutes
+- **Duration:** Approximately 3 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Lily responded appropriately to interventions
+- **Effectiveness:** Abigail responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Lily participated in routine programming activities. Staff implemented individua
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 5 instances | → Stable |
-| Challenging Behavior | 1/week | 2 instances | → Stable |
+| Target 1 | 4/session | 4 instances | → Stable |
+| Challenging Behavior | 3/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Aiden Nguyen, M.A.
-**Title:** Behavior Specialist II
-**Date:** 10/17/2025
+**Completed By:** Levi Harris, M.Ed.
+**Title:** Behavior Specialist
+**Date:** 11/14/2025
 
 ---
 

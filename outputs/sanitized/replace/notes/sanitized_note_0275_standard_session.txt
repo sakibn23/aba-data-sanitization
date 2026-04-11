@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Rivera, [PERSON]
+**Date of Birth:** [DATE]
+**Session Date:** [DATE]
+**Location:** 92 [PERSON] ICF
+**Staff:** Olivia Edwards, 
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 92 [PERSON] ICF from 9:00 AM to 10:30 AM. 
+[PERSON] engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 75% independent completion
+2. Functional communication practice: 73% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 60% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 77%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. [PERSON] responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 22 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at [PHONE] regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+[PERSON] takes Clonidine 0.3mg daily per prescription from Dr. [PERSON]. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for [DATE] at 92 [PERSON].
+
+**Authored by:** Olivia Edwards, 
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

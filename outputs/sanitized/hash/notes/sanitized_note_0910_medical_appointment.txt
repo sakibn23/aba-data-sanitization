@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Wood, 906408b8*Session Date:** 29d78388
+**Primary Location:** Chadwicks TEC
+**Staff:** b342d8e0, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. f03247d1 at Syracuse Medical Associates, dfeea39b.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Syracuse Medical Associates, dfeea39b
+Clinic phone: 32618551
+Provider: Dr. f03247d1
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: b342d8e0, 
+
+**PARENT COORDINATION:**
+85e285eb met at clinic.
+Contact number: 6d8859aa
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 99ce7eec
+
+**APPOINTMENT OUTCOME:**
+Per Dr. f03247d1:
+- Diagnosis: Otitis Externa
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: Dr. f03247d1
+Pharmacy: Walgreens, 26774165
+
+**POST-APPOINTMENT SESSION:**
+9345a35a returned to 4c882b81. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. b311172d notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+85e285eb contacted at 6d8859aa to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** b342d8e0, 
+**Medical liaison:** Dr. b311172d
+**Date:** 29d78388
+
+---
+END OF SESSION NOTE

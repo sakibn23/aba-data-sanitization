@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Robinson, f5ea3614
+**Date of Birth:** 61ee789d
+**Session Date:** bfe20d3a
+**Location:** 88 Geiger ICF
+**Staff:** Elijah Young, 
+**Medicaid ID:** 78bb3378
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 88 5db1a815 ICF from 1:00 PM to 2:30 PM. 
+f5ea3614 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 79% independent completion
+2. Functional communication practice: 75% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 71% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 77%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. f5ea3614 responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 20 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+2eabf31a contacted at 4420c6f7 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+f5ea3614 takes 4f76fda8mg daily per prescription from Dr. 9a4d10e6. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 4a808de3 at 88 Geiger ICF.
+
+**Authored by:** Elijah Young, 
+**Date:** bfe20d3a
+
+---
+END OF SESSION NOTE

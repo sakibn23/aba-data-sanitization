@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** Amelia 9732d42c
+**Date of Birth:** 32d2515a
+**Session Date:** afb35813
+**Location:** 96 5db1a815 ICF
+**Monitoring Staff:** 37402948, 
+**Consulting Nurse:** Grace Rodriguez, MSW
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by cb3cbe8e, 798ff150
+Last appointment: 1e1829ba
+Next appointment: fecb5bce
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: 8efafc82
+   
+2. e5eb0705 50mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   e4bb9f1e date: 5f689b26
+   
+3. Trazodone 100mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   e4bb9f1e date: 20c1126c
+
+**RECENT CHANGE:**
+b1ff9a5d: 
+Sertraline HCL 50mg dosage increased
+Ordered by: cb3cbe8e, 798ff150
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Amelia readily engaged in 
+morning routine with 82% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Amelia completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Amelia worked for 23-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: 09dde7e4, MSW
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.2°F
+Pulse: 84 bpm
+Respirations: 18 per minute
+Recorded by: 09dde7e4, MSW
+
+**PARENT CONSULTATION:**
+5b777e3d contacted at 032e4535.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: 6f9a4d8f during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to cb3cbe8e, 798ff150 at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: e6edba79
+Prescriber appointment: 69f265f3
+
+**Documented by:** 37402948, 
+**Reviewed by:** Grace Rodriguez, MSW
+**Date:** afb35813
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 6a6e40d9
+**Session Date:** 0c549456
+**Settings:** 100 b4780381, Syracuse TEC, a40f72bb
+**Lead Staff:** 839a4b7f, 
+**Home Visit Staff:** 9e536d63, LPN
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+a8cfcd74 demonstrated skill maintenance across multiple settings during coordinated session on 0c549456.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 92% independent completion across all tasks
+Staff observer: 839a4b7f, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** a40f72bb
+Parent participants: f1e6ac51 phone: 26774165
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 79% independent completion in home environment
+
+**PARENT REPORT:**
+06b20f02 reported a8cfcd74 has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+a8cfcd74 maintained 88% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Sebastian Sears, Psy.D. (Occupational Therapy) - contact: 704d2802
+- Dr. 266a7b5e (4d541a75) - contact: ef47e5eb
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 76e24d07
+
+**Documentation:** 839a4b7f, 
+**Date:** 0c549456
+
+---
+END OF SESSION NOTE

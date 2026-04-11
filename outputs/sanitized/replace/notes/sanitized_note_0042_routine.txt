@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** [PERSON]
+**Date of Birth:** [DATE]
+**Residential Program:** 96 [PERSON] ICF
+**Day Program:** Cicero TEC
+
+**Session Date:** [DATE]
+**Session Time:** 3:00 PM - 4:30 PM
+**Session Duration:** 90 minutes
+**Service Location:** School-based Setting
+
+**Staff Present:** [PERSON], [PERSON]
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## SESSION SUMMARY
+
+Grace participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Grace engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Communication Skills
+- **Today's Performance:** 3 instances
+- **Progress Notes:** Grace maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 1 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Grace responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 3/session | 3 instances | → Stable |
+| Challenging Behavior | 2/week | 1 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** [PERSON], 
+**Title:** RBT
+**Date:** [DATE]
+
+---
+
+END OF SESSION NOTE

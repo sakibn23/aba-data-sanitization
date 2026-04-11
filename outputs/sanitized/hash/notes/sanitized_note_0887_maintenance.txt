@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Harper Flores
+**Session Date:** 7dc778a3
+**Settings:** 96 b4780381, feb4ba2d, bc8d7166
+**Lead Staff:** f828ded3, 
+**Home Visit Staff:** Amelia Lee, M.A.
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Harper demonstrated skill maintenance across multiple settings during coordinated session on 7dc778a3.
+
+**SETTING 1:** 96 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 88% independent completion across all tasks
+Staff observer: f828ded3, 
+
+**SETTING 2:** Cicero TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** bc8d7166
+Parent participants: 57449bab phone: 87a2d444
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+aa25fe76 reported 296b6366 has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+296b6366 maintained 83% consistency across settings for target skills. 
+Variability noted in task initiation between 96 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 75f56418, M.S. (Occupational Therapy) - contact: 1c0f0de7
+- Dr. 91b2d84f (4d541a75) - contact: 4420c6f7
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on d3a7a46e
+
+**Documentation:** f828ded3, 
+**Date:** 7dc778a3
+
+---
+END OF SESSION NOTE

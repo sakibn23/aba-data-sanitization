@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** 2dc1a215
+**Date of Birth:** d3f38960
+**Session Date:** 3f299485
+**Location:** 92 5db1a815 ICF
+**Staff:** bff77f8d, 
+**Medicaid ID:** 286d9390
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 92 5db1a815 ICF from 10:00 AM to 12:00 PM. 
+Grace engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 84% independent completion
+2. Functional communication practice: 67% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 63% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 76%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. f2465f78 responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 16 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+d3e8c7a0 contacted at d8ed507d regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+f2465f78 takes Clonidine 0.3mg daily per prescription from abdf3e4d, 94746a21. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 4a808de3 at 92 b4780381.
+
+**Authored by:** bff77f8d, 
+**Date:** 3f299485
+
+---
+END OF SESSION NOTE

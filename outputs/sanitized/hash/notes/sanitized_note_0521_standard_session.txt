@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** 076bfa5c, Harper
+**Date of Birth:** 094f1fea
+**Session Date:** d1ddd03d
+**Location:** 92 5db1a815 ICF
+**Staff:** 2e1db82b, 
+**Medicaid ID:** 5794aa46
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 92 5db1a815 ICF from 2:00 PM to 4:00 PM. 
+296b6366 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 77% independent completion
+2. Functional communication practice: 67% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 73% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 75%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Harper responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 22 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+fca79728 contacted at 798616f0 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Harper takes Risperidone 1mg daily per prescription from Dr. 0b222f2a. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 5fb625aa at 92 b4780381.
+
+**Authored by:** 2e1db82b, 
+**Date:** d1ddd03d
+
+---
+END OF SESSION NOTE

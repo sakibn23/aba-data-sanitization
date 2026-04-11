@@ -1,0 +1,69 @@
+# UCP SESSION NOTE - CHALLENGING BEHAVIORS
+
+## HEADER SECTION
+
+**Name:** Noah Brown
+**Date of Birth:** 7113d877
+**Residential Program:** 92 5db1a815 ICF
+**Day Program:** Syracuse TEC
+
+**Session Date:** fb6df2fd
+**Session Time:** 9:00 AM - 10:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** School-based Setting
+
+**Staff Present:** 907985f1, Behavior Specialist II
+**Medicaid ID:** b68b2c87
+
+---
+
+## SESSION SUMMARY
+
+678202b3 participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. 678202b3 was able to calm with staff support and completed the session appropriately.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Physical Aggression
+
+**Frequency:** 6 instances
+**Duration:** Total approximately 10 minutes
+**Intensity:** Moderate-to-High
+
+**Setting Events/Antecedents:**
+- Being told no
+
+**Staff Response:**
+- SCIP-R verbal calming techniques
+- Active listening and empathy statements
+- Provided choices
+
+**Restrictive Interventions Used:** None
+
+---
+
+## POST-INTERVENTION PROCEDURES
+
+**Body Check Completed:** Yes - No marks or injuries noted
+**Clinician Contacted:** Not required
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Physical Aggression | 2/week | 3 instances | 3ca5e106 |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 907985f1, M.A.
+**Title:** Behavior Specialist II
+**Date:** fb6df2fd
+
+---
+
+END OF SESSION NOTE

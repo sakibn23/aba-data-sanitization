@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 6e8d8801, 52d7d860
+**Session Date:** e2fbf143
+**Settings:** 95 b4780381, Liverpool TEC, 451f2cd2
+**Lead Staff:** c532e5bc, 
+**Home Visit Staff:** 360ec7a5, 94746a21
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Lucas demonstrated skill maintenance across multiple settings during coordinated session on e2fbf143.
+
+**SETTING 1:** 95 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 91% independent completion across all tasks
+Staff observer: c532e5bc, 
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 81% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 451f2cd2
+Parent participants: ee1f43d1 and 4c52b1a9
+Home phone: 87a2d444
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 83% independent completion in home environment
+
+**PARENT REPORT:**
+ee1f43d1 reported Lucas has been completing 
+morning routine independently at home 6 days per week. 4c52b1a9 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Lucas maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Thompson (Occupational Therapy) - contact: 032e4535
+- Chloe Morris, 7c0ba5fc (4d541a75) - contact: 731bba67
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 64b6dcfc
+
+**Documentation:** c532e5bc, 
+**Date:** e2fbf143
+
+---
+END OF SESSION NOTE

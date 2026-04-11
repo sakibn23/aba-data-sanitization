@@ -1,0 +1,63 @@
+# UCP SESSION NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** Cox, Ava
+**Incident Date:** c46fc9dc
+**Incident Time:** 2:15 PM
+**Location:** 100 5db1a815 ICF
+**Staff Present:** 7b747c7e, 
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+Ava was engaged in art activity at 100 b4780381 when peer 
+requested to share art materials.
+
+**BEHAVIOR 9cc35840:**
+Ava exhibited Verbal refusal characterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- Duration: 5 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff 7b747c7e,  implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+Ava responded to choice offering intervention and returned to baseline within 
+4 minutes.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+Ava participated in cooperative art activity with appropriate sharing behaviors 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+149f7514 was able to verbally request "my turn please" following de-escalation, 
+demonstrating understanding of replacement behavior.
+
+**PARENT NOTIFICATION:**
+Phone contact with 765fdb7b at 707bc55f. 
+Parent reported similar sharing difficulties at home with sibling. Discussed consistency in 
+intervention approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by 7b747c7e
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** 4a808de3 at 100 5db1a815 ICF
+**Provider check-in:** Dr. d25949ef on 16b771aa
+
+**Report filed by:** 7b747c7e, 
+**Filed:** c46fc9dc
+
+---
+END OF SESSION NOTE

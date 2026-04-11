@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Hughes, 13ae3ed6
+**Session Date:** d11c34b3
+**Settings:** 100 b4780381, Syracuse TEC, 1d4fd278
+**Lead Staff:** Noah Hall, 
+**Home Visit Staff:** 0823ecc2, LMHC
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+13ae3ed6 demonstrated skill maintenance across multiple settings during coordinated session on d11c34b3.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 92% independent completion across all tasks
+Staff observer: Noah Hall, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 88% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 1d4fd278
+Parent participants: 60a68c58 and Kimberly Hughes
+Home phone: c295cf1a
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 74% independent completion in home environment
+
+**PARENT REPORT:**
+60a68c58 reported 13ae3ed6 has been completing 
+morning routine independently at home 4 days per week. Kimberly Hughes noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+13ae3ed6 maintained 82% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 7cddb602, 61b96822.M. (Occupational Therapy) - contact: d8ed507d
+- Noah Ramirez, Ph.D. (4d541a75) - contact: 2cba3ad6
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 9d84b0ec
+
+**Documentation:** Noah Hall, 
+**Date:** d11c34b3
+
+---
+END OF SESSION NOTE

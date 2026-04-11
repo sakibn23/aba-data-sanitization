@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** f5cd4220
+**Session Date:** 53961bc9
+**Settings:** 100 b4780381, 4c882b81, 1ddb9694
+**Lead Staff:** 2aba3c9b, 
+**Home Visit Staff:** Zoey Diaz, M.S.
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+edd29161 demonstrated skill maintenance across multiple settings during coordinated session on 53961bc9.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 89% independent completion across all tasks
+Staff observer: 2aba3c9b, 
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 81% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 1ddb9694
+Parent participants: 402dfec6 phone: 87526cd7
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 72% independent completion in home environment
+
+**PARENT REPORT:**
+446b7003 reported edd29161 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+edd29161 maintained 85% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 02281b3b (Occupational Therapy) - contact: fa86d2af
+- Daniel Moore, Ph.D. (Speech Therapy) - contact: b5efd1f5
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on fecb5bce
+
+**Documentation:** 2aba3c9b, 
+**Date:** 53961bc9
+
+---
+END OF SESSION NOTE

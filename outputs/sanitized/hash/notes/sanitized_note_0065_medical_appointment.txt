@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 2fcefd65
+**Session Date:** 718ffa58
+**Primary Location:** Chadwicks TEC
+**Staff:** Ella Flores, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 6a97f77a at Syracuse Medical Associates, 765ab2fc.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Syracuse Medical Associates, 765ab2fc
+Clinic phone: c1bb2a12
+Provider: Dr. Rogers
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 3fed3968, 
+
+**PARENT COORDINATION:**
+a836e6be met at clinic.
+Contact number: b5efd1f5
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 52078ba8
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 6a97f77a:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Take twice daily × 10 days
+Prescribing provider: Dr. 6a97f77a
+Pharmacy: CVS Pharmacy, ac1bb8d9
+
+**POST-APPOINTMENT SESSION:**
+89a53a64 returned to 4c882b81. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. Cooper notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+a836e6be contacted at b5efd1f5 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Ella Flores, 
+**Medical liaison:** Dr. 61a1d3bd
+**Date:** 718ffa58
+
+---
+END OF SESSION NOTE

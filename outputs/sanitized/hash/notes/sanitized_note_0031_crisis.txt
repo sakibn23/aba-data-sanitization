@@ -1,0 +1,79 @@
+# UCP SESSION NOTE - RESTRICTIVE INTERVENTION REQUIRED
+
+## HEADER SECTION
+
+**Name:** fe0fa559
+**Date of Birth:** 00c9aec4
+**Residential Program:** 92 5db1a815 ICF
+**Day Program:** Chadwicks TEC
+
+**Session Date:** 030b7f07
+**Session Time:** 2:00 PM - 3:30 PM
+**Session Duration:** 90 minutes
+**Service Location:** Residential Setting
+
+**Staff Present:** Noah Flores, RBT (Primary); fff88f66, DSP (Support)
+**Medicaid ID:** 4ab872da
+
+---
+
+## SESSION SUMMARY
+
+a8cfcd74 engaged in severe challenging behavior requiring SCIP-R restrictive physical intervention. Incident occurred at approximately 9:15 AM. All BSP protocols followed. Post-intervention procedures completed per protocol.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Physical Aggression
+
+**Frequency:** 1 instance requiring restraint
+**Duration:** Approximately 4 minutes (including restraint time)
+**Intensity:** High
+
+**SCIP-R Restrictive Physical Intervention:**
+- **Type:** Two-person supine restraint
+- **Duration:** 6 minutes
+- **Staff Involved:** Noah Flores and fff88f66
+- **Reason:** Immediate health and safety risk
+
+---
+
+## POST-INTERVENTION PROCEDURES COMPLETED
+
+**Body Check:**
+- Conducted By: c2c6ed74, cf25077a
+- Time: Within 3 minutes of restraint conclusion
+- Findings: No marks, bruises, or injuries noted
+
+**Clinician Contact:**
+- Clinician: af2f8d71, M.A., Behavior Specialist II
+- Reviewed incident details and confirmed appropriate intervention per BSP
+
+**Program Administrator Contact:**
+- Administrator: e40feac1, Program Director
+- All post-intervention procedures completed correctly
+
+**Justice Center Notification:** No - Restraint per approved BSP
+
+---
+
+## RIGHTS RESTRICTIONS UTILIZED
+
+**SCIP-R Restrictive Physical Interventions:**
+- Duration: 3 minutes
+- Justification: Immediate health and safety risk per BSP
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 17d0387d, 
+**Title:** RBT
+**Date:** 030b7f07
+
+**Reviewed By:** af2f8d71, M.A., Behavior Specialist II
+
+---
+
+END OF SESSION NOTE

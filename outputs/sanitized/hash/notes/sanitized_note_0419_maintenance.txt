@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 079de7c8
+**Session Date:** cbde604b
+**Settings:** 95 Geiger ICF, 3471c3d5, 1e441087
+**Lead Staff:** 516d4596, PhD, 94746a21
+**Home Visit Staff:** 9e1010b6, NP
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+807c9fb7 demonstrated skill maintenance across multiple settings during coordinated session on cbde604b.
+
+**SETTING 1:** 95 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 82% independent completion across all tasks
+Staff observer: 516d4596, PhD, 94746a21
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 77% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 1e441087
+Parent participants: d9d002a4
+Home phone: 0dc6ed96
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 73% independent completion in home environment
+
+**PARENT REPORT:**
+d9d002a4 reported 807c9fb7 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+807c9fb7 maintained 88% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 645e1b29 (Occupational Therapy) - contact: 11784c4c
+- Dr. Hughes (4d541a75) - contact: 5eba6d48
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on ee2fe9c8
+
+**Documentation:** 516d4596, PhD, 94746a21
+**Date:** cbde604b
+
+---
+END OF SESSION NOTE

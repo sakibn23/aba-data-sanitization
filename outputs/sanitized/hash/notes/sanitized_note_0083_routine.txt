@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** 35c11b11
+**Date of Birth:** 632f17d3
+**Residential Program:** 100 5db1a815 ICF
+**Day Program:** Liverpool TEC
+
+**Session Date:** 030b7f07
+**Session Time:** 9:00 AM - 10:30 AM
+**Session Duration:** 90 minutes
+**Service Location:** School-based Setting
+
+**Staff Present:** 310db051, Behavior Specialist II
+**Medicaid ID:** 6f46b0a4
+
+---
+
+## SESSION SUMMARY
+
+a8cfcd74 participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with a8cfcd74 engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Task Compliance
+- **Today's Performance:** 6 instances
+- **Progress Notes:** a8cfcd74 maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Verbal Aggression**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 1 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** a8cfcd74 responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 4/session | 5 instances | → Stable |
+| Challenging Behavior | 1/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 310db051, M.A.
+**Title:** Behavior Specialist II
+**Date:** 030b7f07
+
+---
+
+END OF SESSION NOTE

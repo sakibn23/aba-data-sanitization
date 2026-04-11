@@ -1,0 +1,63 @@
+# UCP SESSION NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** eaaaafb9
+**Incident Date:** 7dc778a3
+**Incident Time:** 10:45 AM
+**Location:** 96 5db1a815 ICF
+**Staff Present:** 09dbb763, 
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+dbadfc88 was engaged in art activity at 96 b4780381 when peer 
+requested to share art materials.
+
+**BEHAVIOR 9cc35840:**
+dbadfc88 exhibited Brief withdrawal characterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- Duration: 2 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff 09dbb763,  implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+dbadfc88 responded to choice offering intervention and returned to baseline within 
+6 minutes.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+dbadfc88 participated in cooperative art activity with appropriate sharing behaviors 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+dbadfc88 was able to verbally request "my turn please" following de-escalation, 
+demonstrating understanding of replacement behavior.
+
+**PARENT NOTIFICATION:**
+Phone contact with 716b3909 at 99bfe206. 
+Parent reported similar sharing difficulties at home with sibling. Discussed consistency in 
+intervention approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by 09dbb763
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** 77f32151 at 96 5db1a815 ICF
+**Provider check-in:** Dr. fb7961d1 on 8c2e57e9
+
+**Report filed by:** 09dbb763, 
+**Filed:** 7dc778a3
+
+---
+END OF SESSION NOTE

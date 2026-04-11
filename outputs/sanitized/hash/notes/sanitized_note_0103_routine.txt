@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** Wyatt Ruiz
+**Date of Birth:** 655be449
+**Residential Program:** 100 5db1a815 ICF
+**Day Program:** Chadwicks TEC
+
+**Session Date:** 8d455388
+**Session Time:** 10:00 AM - 11:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** School-based Setting
+
+**Staff Present:** Evelyn Long, 94746a21
+**Medicaid ID:** 21ac41b3
+
+---
+
+## SESSION SUMMARY
+
+f190d2ae participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with f190d2ae engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Communication Skills
+- **Today's Performance:** 5 instances
+- **Progress Notes:** f190d2ae maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 1 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** f190d2ae responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 5/session | 5 instances | → Stable |
+| Challenging Behavior | 1/week | 1 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** Evelyn Long, 94746a21, LBA
+**Title:** 94746a21
+**Date:** 8d455388
+
+---
+
+END OF SESSION NOTE

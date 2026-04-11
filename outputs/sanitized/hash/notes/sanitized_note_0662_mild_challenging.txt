@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** d4e27993
+**Incident Date:** 766623b9
+**Incident Time:** 10:45 AM
+**Location:** 95 Geiger ICF
+**Staff Present:** Lily Lopez, 
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+f089eaef was engaged in art activity at 95 Geiger ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR 9cc35840:**
+f089eaef exhibited Brief withdrawal characterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- Duration: 3 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff e7ce1ed2,  implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+f089eaef responded to choice offering intervention and returned to baseline within 
+5 minutes.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+f089eaef participated in cooperative art activity with appropriate sharing behaviors 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+f089eaef was able to verbally request "my turn please" following de-escalation, 
+demonstrating understanding of replacement behavior.
+
+**PARENT NOTIFICATION:**
+Phone contact with 60bd6253 at eab7fd91. 
+Parent reported similar sharing difficulties at home with sibling. Discussed consistency in 
+intervention approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by a701f929 No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** 77f32151 at 95 5db1a815 ICF
+**Provider check-in:** Dr. 502ae197 on 3c256001
+
+**Report filed by:** Lily Lopez, 
+**Filed:** 766623b9
+
+---
+END OF SESSION NOTE

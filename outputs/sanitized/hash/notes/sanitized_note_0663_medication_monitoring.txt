@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** 14b35979
+**Date of Birth:** eba866b1
+**Session Date:** 043fe75c
+**Location:** 95 Geiger ICF
+**Monitoring Staff:** 975535cd, 
+**Consulting Nurse:** Dr. 07724304
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by bf2a2733, MS, CCC-SLP
+Last appointment: a0f28216
+Next appointment: 667064ee
+
+**ROUTINE MEDICATIONS:**
+1. Clonidine HCL 0.3mg - PO daily at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: 8e3cb692
+   
+2. Escitalopram 10mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 8f1f902d
+   
+3. Melatonin 5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   e4bb9f1e date: 2dcc2021
+
+**RECENT CHANGE:**
+308863e2: 
+Escitalopram 10mg dosage increased
+Ordered by: bf2a2733, MS, CCC-SLP
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. b5fd03dd readily engaged in 
+morning routine with 87% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. b5fd03dd completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. b5fd03dd worked for 24-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: Dr. 07724304
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.2°F
+Pulse: 78 bpm
+Respirations: 14 per minute
+Recorded by: Dr. 07724304
+
+**PARENT CONSULTATION:**
+a01faa10 contacted at 1e7d3c4c.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: 6f9a4d8f during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to Avery Hernandez, MS, CCC-SLP at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 5c5daa53
+Prescriber appointment: 9e446462
+
+**Documented by:** 975535cd, 
+**Reviewed by:** Dr. 07724304
+**Date:** 043fe75c
+
+---
+END OF SESSION NOTE

@@ -2,18 +2,18 @@
 
 ## HEADER SECTION
 
-**Name:** Evelyn Sanchez
-**Date of Birth:** 12/09/2016
-**Residential Program:** 88 Geiger ICF
-**Day Program:** Syracuse TEC
+**Name:** Evelyn Ramos
+**Date of Birth:** 05/22/2021
+**Residential Program:** 100 Geiger ICF
+**Day Program:** Cicero TEC
 
-**Session Date:** 11/07/2025
-**Session Time:** 3:00 PM - 4:30 PM
-**Session Duration:** 90 minutes
-**Service Location:** Community Setting
+**Session Date:** 10/31/2025
+**Session Time:** 2:00 PM - 4:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** Residential Setting
 
-**Staff Present:** Abigail Gray, BCBA
-**Medicaid ID:** UL310616
+**Staff Present:** Carter Alvarez, Behavior Specialist
+**Medicaid ID:** RR079558
 
 ---
 
@@ -25,17 +25,17 @@ Evelyn participated in routine programming activities. Staff implemented individ
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Social Interaction
-- **Today's Performance:** 4 instances
+### Target 1: Communication Skills
+- **Today's Performance:** 6 instances
 - **Progress Notes:** Evelyn maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Refusing Tasks**
+**Behavior: Minor Non-Compliance**
 - **Frequency:** 2 instances
-- **Duration:** Approximately 2 minutes
+- **Duration:** Approximately 3 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
 - **Effectiveness:** Evelyn responded appropriately to interventions
@@ -46,16 +46,16 @@ Evelyn participated in routine programming activities. Staff implemented individ
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 6 instances | → Stable |
-| Challenging Behavior | 3/week | 2 instances | → Stable |
+| Target 1 | 5/session | 3 instances | → Stable |
+| Challenging Behavior | 2/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Abigail Gray, BCBA, LBA
-**Title:** BCBA
-**Date:** 11/07/2025
+**Completed By:** Carter Alvarez, M.Ed.
+**Title:** Behavior Specialist
+**Date:** 10/31/2025
 
 ---
 

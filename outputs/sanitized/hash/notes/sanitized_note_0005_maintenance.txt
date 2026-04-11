@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Gutierrez, d9dacb3e
+**Session Date:** e2fbf143
+**Settings:** 95 b4780381, Liverpool TEC, c25ebed5
+**Lead Staff:** b20800d1, 
+**Home Visit Staff:** fd5d1774, LPN
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+d9dacb3e demonstrated skill maintenance across multiple settings during coordinated session on e2fbf143.
+
+**SETTING 1:** 95 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 83% independent completion across all tasks
+Staff observer: b20800d1, 
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 85% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** c25ebed5
+Parent participants: c3b7b419 and 550d5997
+Home phone: 0a4a718c
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 72% independent completion in home environment
+
+**PARENT REPORT:**
+c3b7b419 reported d9dacb3e has been completing 
+morning routine independently at home 4 days per week. 550d5997 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+d9dacb3e maintained 82% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Riley Jenkins, LPN (Occupational Therapy) - contact: 7e32b8d8
+- Sophia Nguyen, MS, CCC-SLP (4d541a75) - contact: 0d3dc822
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 28ee53d8
+
+**Documentation:** b20800d1, 
+**Date:** e2fbf143
+
+---
+END OF SESSION NOTE

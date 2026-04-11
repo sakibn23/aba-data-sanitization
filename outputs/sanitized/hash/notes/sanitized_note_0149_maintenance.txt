@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** b2ed234e
+**Session Date:** 0e94b743
+**Settings:** 92 b4780381, 3471c3d5, ae87bc9d
+**Lead Staff:** 81a819e3, 
+**Home Visit Staff:** 674cd8ae, MSW
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Avery demonstrated skill maintenance across multiple settings during coordinated session on 0e94b743.
+
+**SETTING 1:** 92 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% independent completion across all tasks
+Staff observer: 81a819e3, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 81% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** ae87bc9d
+Parent participants: fc0a73d9 phone: 704d2802
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 73% independent completion in home environment
+
+**PARENT REPORT:**
+40c8da27 reported Avery has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Avery maintained 88% consistency across settings for target skills. 
+Variability noted in task initiation between 92 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Ava Gonzales, CASAC (Occupational Therapy) - contact: c9f02eec
+- 0926e406, MSW (4d541a75) - contact: 37862856
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 42893eb8
+
+**Documentation:** Noah Martinez, 
+**Date:** 0e94b743
+
+---
+END OF SESSION NOTE

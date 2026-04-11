@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Emily A. Hughes
+**Session Date:** 0c549456
+**Settings:** 95 Geiger ICF, 3471c3d5, 934d2b69
+**Lead Staff:** 059cbf0e, 
+**Home Visit Staff:** 931a6d94, CNS
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Emily demonstrated skill maintenance across multiple settings during coordinated session on 0c549456.
+
+**SETTING 1:** 95 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 87% independent completion across all tasks
+Staff observer: 059cbf0e, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 75% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 934d2b69
+Parent participants: 72eddad7 phone: d458b02d
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 73% independent completion in home environment
+
+**PARENT REPORT:**
+06851ada reported Emily has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Emily maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 4d7b2cc5 (Occupational Therapy) - contact: 6b8b6e46
+- Dr. baa4941d (4d541a75) - contact: d458b02d
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on d288205d
+
+**Documentation:** 059cbf0e, 
+**Date:** 0c549456
+
+---
+END OF SESSION NOTE

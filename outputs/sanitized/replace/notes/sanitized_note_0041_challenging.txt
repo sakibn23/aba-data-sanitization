@@ -1,0 +1,68 @@
+# UCP SESSION NOTE - CHALLENGING BEHAVIORS
+
+## HEADER SECTION
+
+**Name:** [PERSON]**Date of Birth:** [DATE]
+**Residential Program:** 100 [PERSON] ICF
+**Day Program:** Chadwicks TEC
+
+**Session Date:** [DATE]
+**Session Time:** 1:00 PM - 2:30 PM
+**Session Duration:** 90 minutes
+**Service Location:** Residential Setting
+
+**Staff Present:** [PERSON], Behavior Specialist II
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## SESSION SUMMARY
+
+[PERSON] participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. [PERSON] was able to calm with staff support and completed the session appropriately.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Verbal Aggression
+
+**Frequency:** 5 instances
+**Duration:** Total approximately 11 minutes
+**Intensity:** Low-to-Moderate
+
+**Setting Events/Antecedents:**
+- Being told no
+
+**Staff Response:**
+- SCIP-R verbal calming techniques
+- Active listening and empathy statements
+- Second staff called for support
+
+**Restrictive Interventions Used:** None
+
+---
+
+## POST-INTERVENTION PROCEDURES
+
+**Body Check Completed:** Yes - No marks or injuries noted
+**Clinician Contacted:** Not required
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Verbal Aggression | 3/week | 6 instances | ↑ Elevated |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** [PERSON], M.A.
+**Title:** Behavior Specialist II
+**Date:** [DATE]
+
+---
+
+END OF SESSION NOTE

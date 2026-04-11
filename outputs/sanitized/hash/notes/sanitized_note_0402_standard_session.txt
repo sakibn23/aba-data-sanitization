@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** 3c44ea1f
+**Date of Birth:** 3b249966
+**Session Date:** d651c20e
+**Location:** 96 5db1a815 ICF
+**Staff:** d6aa7d81, 
+**Medicaid ID:** 413bf12d
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 96 Geiger ICF from 2:00 PM to 4:00 PM. 
+296b6366 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 89% independent completion
+2. Functional communication practice: 73% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 55% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 72%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Harper responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 22 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+4dbdb53f contacted at b3bcad9f regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Harper takes Clonidine 0.3mg daily per prescription from Dr. 70852077. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 5fb625aa at 96 b4780381.
+
+**Authored by:** d6aa7d81, 
+**Date:** d651c20e
+
+---
+END OF SESSION NOTE

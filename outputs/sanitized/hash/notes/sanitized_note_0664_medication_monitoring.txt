@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** 4ec960d7
+**Date of Birth:** c8188069
+**Session Date:** 0e94b743
+**Location:** 100 5db1a815 ICF
+**Monitoring Staff:** Lucas Hall, CCC-SLP
+**Consulting Nurse:** Dr. 813f46ee
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by Dr. 1cdbeed0
+Last appointment: 7c9e4714
+Next appointment: cab0aaf5
+
+**ROUTINE MEDICATIONS:**
+1. Clonidine HCL 0.3mg - PO daily at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: 66fca2f9
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   e4bb9f1e date: 5dfb3993
+   
+3. Clonazepam 0.5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   e4bb9f1e date: b959d316
+
+**RECENT CHANGE:**
+f4a8f519: 
+Fluoxetine 20mg dosage increased
+Ordered by: Dr. 1cdbeed0
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. d9dacb3e readily engaged in 
+morning routine with 80% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. d9dacb3e completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. d9dacb3e worked for 28-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for headache complaint
+Administered by: Dr. 813f46ee
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 97.9°F
+Pulse: 81 bpm
+Respirations: 18 per minute
+Recorded by: Dr. 813f46ee
+
+**PARENT CONSULTATION:**
+7f3d1e7f contacted at ff0e2a4d.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: 6f9a4d8f during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor daytime alertness for next 30 days
+- Report findings to Dr. 1cdbeed0 at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 3dbb0746
+Prescriber appointment: b7fbc26e
+
+**Documented by:** Lucas Hall, CCC-SLP
+**Reviewed by:** Dr. 813f46ee
+**Date:** 0e94b743
+
+---
+END OF SESSION NOTE

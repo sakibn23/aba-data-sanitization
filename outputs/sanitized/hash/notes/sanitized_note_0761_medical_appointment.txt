@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 7ff3ab3c*Session Date:** 8c58cdf1
+**Primary Location:** Syracuse TEC
+**Staff:** 67607452, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 4d7b2cc5 at Syracuse Medical Associates, b9b5bf30.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, b9b5bf30
+Clinic phone: 87526cd7
+Provider: Dr. 4d7b2cc5
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 67607452, 
+
+**PARENT COORDINATION:**
+6808ef67 met at clinic.
+Contact number: 2b4a55b6
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: a29e623f
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 4d7b2cc5:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: Dr. 4d7b2cc5
+Pharmacy: Walgreens, 11b97f3a
+
+**POST-APPOINTMENT SESSION:**
+dbadfc88 returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. 08c25218, LMHC notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+6808ef67 contacted at 2b4a55b6 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 67607452, 
+**Medical liaison:** 892427bc, LMHC
+**Date:** 8c58cdf1
+
+---
+END OF SESSION NOTE

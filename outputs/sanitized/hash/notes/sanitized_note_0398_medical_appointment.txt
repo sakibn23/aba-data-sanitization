@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Isabella Watson
+**Session Date:** 3f299485
+**Primary Location:** Cicero TEC
+**Staff:** ce847419, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. a226a208 at Community Health Center, 0674c97d.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Community Health Center, 0674c97d
+Clinic phone: 01e12fb0
+Provider: Dr. a226a208
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: ce847419, 
+
+**PARENT COORDINATION:**
+6dc4ce2c met at clinic.
+Contact number: c3b843f2
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 844ac1e8
+
+**APPOINTMENT OUTCOME:**
+Per Dr. a226a208:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: Dr. a226a208
+Pharmacy: dae25302, 315fab11
+
+**POST-APPOINTMENT SESSION:**
+a81ef43a returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 379dbafb notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+6dc4ce2c contacted at c3b843f2 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** ce847419, 
+**Medical liaison:** Dr. 379dbafb
+**Date:** 3f299485
+
+---
+END OF SESSION NOTE

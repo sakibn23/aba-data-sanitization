@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** [PERSON]
+**Date of Birth:** [DATE]
+**Residential Program:** 95 Geiger ICF
+**Day Program:** Liverpool TEC
+
+**Session Date:** [DATE]
+**Session Time:** 9:00 AM - 10:30 AM
+**Session Duration:** 90 minutes
+**Service Location:** School-based Setting
+
+**Staff Present:** Mason Hall, [CREDENTIAL]
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## SESSION SUMMARY
+
+[PERSON] participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with [PERSON] engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Communication Skills
+- **Today's Performance:** 4 instances
+- **Progress Notes:** [PERSON] maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 1 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** [PERSON] responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 4/session | 3 instances | → Stable |
+| Challenging Behavior | 2/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** Mason Hall, [CREDENTIAL], LBA
+**Title:** [CREDENTIAL]
+**Date:** [DATE]
+
+---
+
+END OF SESSION NOTE

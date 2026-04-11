@@ -1,0 +1,91 @@
+# UCP SESSION NOTE - MODERATE CHALLENGING BEHAVIOR
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Phone: ddd01a6d
+
+**Client Name:** King, 190eb3eb
+**Date of Birth:** d4861c56
+**Incident Date:** 187f3c2a
+**Incident Time:** 10:30 AM
+**Location:** 100 5db1a815 ICF
+**Staff Involved:** Riley Walker, ; 85e285eb, LPN
+
+---
+
+## MODERATE CHALLENGING BEHAVIOR - MULTIPLE INTERVENTIONS
+
+**INDIVIDUALS PRESENT:**
+Staff: 62e13973, ; 85e285eb, LPN
+Location: Community room, 100 b4780381
+
+**INCIDENT TIMELINE:**
+
+3:40 PM - ANTECEDENT
+190eb3eb was participating in group activity when transition announcement was made 
+to end preferred activity.
+
+3:45 PM - BEHAVIOR ONSET
+190eb3eb engaged in physical aggression including:
+- Pushing peer
+- Throwing materials
+- Verbal aggression (yelling, protesting)
+
+10:32 AM - INITIAL INTERVENTION
+62e13973,  implemented verbal de-escalation and visual supports.
+Limited effectiveness. Behavior escalated to Level 2 (moderate severity).
+
+3:50 PM - SECONDARY INTERVENTION
+85e285eb, LPN joined intervention team.
+SCIP-R blocking pads utilized per BSP protocol.
+190eb3eb responded to planned ignoring combined with blocking strategy.
+
+10:43 AM - DE-ESCALATION ACHIEVED
+William returned to baseline. Moved to quiet room for recovery.
+
+**INJURIES/DAMAGE:**
+Staff: 62e13973 sustained minor scratch on left forearm, no medical treatment required
+Property: Game materials damaged, approximate cost $57
+Client: No injuries sustained
+
+**IMMEDIATE PARENT CONTACT:**
+4ab69fb8 contacted at 2e163de4.
+Parent acknowledged incident and requested details of antecedent triggers.
+
+**MEDICAL CONSULTATION:**
+Nurse Dr. 7314d2e5 consulted. Visual assessment of minor staff injury completed. 
+No client injuries noted. No medical intervention required.
+
+**RESTRICTIVE INTERVENTIONS USED:**
+- SCIP-R Blocking Pads: Yes (Duration: 8 minutes)
+- Physical Restraint: No
+- Seclusion: No
+- PRN Medication: Not administered
+
+**FUNCTIONAL BEHAVIOR ASSESSMENT UPDATE:**
+Data suggests escape function related to transition from preferred activities. 
+Recommend FBA review with 62e13973,  scheduled for 
+f02cdd40.
+
+**PSYCHIATRIC CONSULTATION:**
+Dr. ceb32b93 notified via phone message. Appointment maintained for 
+30c4e68f.
+
+**NOTIFICATIONS COMPLETED:**
+☑ Parents (contacted)
+☑ Program Director (notified)
+☑ Nurse (consulted)
+☑ 6ca68aa6 (message left)
+☐ OPWDD (Not required - internal incident)
+
+**FOLLOW-UP ACTIONS:**
+- Incident review meeting scheduled
+- BSP modification considered for transition protocols
+- Staff debriefing completed
+- Additional transition warnings for next 72 hours
+
+**Report compiled by:** Riley Walker, 
+**Report filed:** 187f3c2a
+
+---
+END OF SESSION NOTE

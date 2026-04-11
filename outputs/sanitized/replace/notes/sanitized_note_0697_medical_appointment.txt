@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Green, Mason
+**Session Date:** [DATE]
+**Primary Location:** Chadwicks TEC
+**Staff:** [PERSON], M.Ed.
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with [PERSON], M.A. at Community Health Center, [ADDRESS].
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, [ADDRESS]
+Clinic phone: [PHONE]
+Provider: [PERSON], M.A.
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON], M.Ed.
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: [PHONE]
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: [DATE]
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON], M.A.:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: [PERSON], M.A.
+Pharmacy: [PERSON], [PHONE]
+
+**POST-APPOINTMENT SESSION:**
+Mason returned to [PERSON]. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. Richardson notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at [PHONE] to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** [PERSON], M.Ed.
+**Medical liaison:** Dr. [PERSON]
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

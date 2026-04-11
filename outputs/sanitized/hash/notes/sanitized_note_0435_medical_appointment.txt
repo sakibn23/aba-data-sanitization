@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 9eac806b, a6b54c20
+**Session Date:** 17dd3a34
+**Primary Location:** Liverpool TEC
+**Staff:** Ella Thomas, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 7ba52f7c at WellNow Urgent Care, 414ff02a.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, 414ff02a
+Clinic phone: b3bcad9f
+Provider: Dr. 7ba52f7c
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 72af10d6, 
+
+**PARENT COORDINATION:**
+036c7956 met at clinic.
+Contact number: f154b551
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: a7ddb5e0
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 7ba52f7c:
+- Diagnosis: Contact Dermatitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. 7ba52f7c
+Pharmacy: Walgreens, 6e8454b8
+
+**POST-APPOINTMENT SESSION:**
+a6b54c20 returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 5dfcf9ef notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+036c7956 contacted at f154b551 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Ella Thomas, 
+**Medical liaison:** Dr. 5dfcf9ef
+**Date:** 17dd3a34
+
+---
+END OF SESSION NOTE

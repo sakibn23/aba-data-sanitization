@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** [PERSON]
+**Date of Birth:** [DATE]
+**Residential Program:** 95 Geiger ICF
+**Day Program:** Chadwicks TEC
+
+**Session Date:** [DATE]
+**Session Time:** 1:00 PM - 2:00 PM
+**Session Duration:** 60 minutes
+**Service Location:** Community Setting
+
+**Staff Present:** [PERSON], Sr. [CREDENTIAL]
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## SESSION SUMMARY
+
+[PERSON] participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with [PERSON] engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Communication Skills
+- **Today's Performance:** 3 instances
+- **Progress Notes:** [PERSON] maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Refusing Tasks**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 3 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** [PERSON] responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 3/session | 4 instances | → Stable |
+| Challenging Behavior | 3/week | 1 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** [PERSON], PhD, [CREDENTIAL]
+**Title:** Sr. [CREDENTIAL]
+**Date:** [DATE]
+
+---
+
+END OF SESSION NOTE

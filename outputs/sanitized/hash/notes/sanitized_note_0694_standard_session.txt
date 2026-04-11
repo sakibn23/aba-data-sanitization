@@ -1,0 +1,51 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Richardson, 1c02702c*Date of Birth:** 320ca4d4
+**Session Date:** 225c1a1a
+**Location:** 95 Geiger ICF
+**Staff:** a6c61bc5, 
+**Medicaid ID:** b5dd5eac
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 95 5db1a815 ICF from 9:00 AM to 10:00 AM. 
+502ae197 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 79% independent completion
+2. Functional communication practice: 69% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 72% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 75%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. 502ae197 responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 15 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+43bdc61e contacted at 731bba67 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+502ae197 takes 55dd731d 50mg daily per prescription from d9c1c2ce, Psy.D.. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 4a808de3 at 95 Geiger ICF.
+
+**Authored by:** a6c61bc5, 
+**Date:** 225c1a1a
+
+---
+END OF SESSION NOTE

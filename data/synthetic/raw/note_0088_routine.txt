@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Olivia Long
-**Date of Birth:** 02/23/2021
-**Residential Program:** 88 Geiger ICF
+**Name:** James Kim
+**Date of Birth:** 12/08/2022
+**Residential Program:** 92 Geiger ICF
 **Day Program:** Cicero TEC
 
-**Session Date:** 11/01/2025
-**Session Time:** 1:00 PM - 2:00 PM
-**Session Duration:** 60 minutes
-**Service Location:** School-based Setting
+**Session Date:** 11/14/2025
+**Session Time:** 3:00 PM - 5:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** Day Program
 
-**Staff Present:** Liam Price, RBT
-**Medicaid ID:** PI177501
+**Staff Present:** Benjamin Richardson, Direct Support Professional
+**Medicaid ID:** FK525544
 
 ---
 
 ## SESSION SUMMARY
 
-Olivia participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Olivia engaging appropriately in scheduled tasks.
+James participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with James engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Task Compliance
+### Target 1: Social Interaction
 - **Today's Performance:** 3 instances
-- **Progress Notes:** Olivia maintained baseline performance on this target.
+- **Progress Notes:** James maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Verbal Aggression**
-- **Frequency:** 1 instances
-- **Duration:** Approximately 1 minutes
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Olivia responded appropriately to interventions
+- **Effectiveness:** James responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Olivia participated in routine programming activities. Staff implemented individ
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 3/session | 5 instances | → Stable |
-| Challenging Behavior | 3/week | 2 instances | → Stable |
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 1/week | 1 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Liam Price, 
-**Title:** RBT
-**Date:** 11/01/2025
+**Completed By:** Benjamin Richardson, 
+**Title:** Direct Support Professional
+**Date:** 11/14/2025
 
 ---
 

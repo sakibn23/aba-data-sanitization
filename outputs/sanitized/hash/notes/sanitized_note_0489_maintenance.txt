@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** ef53a6a6
+**Session Date:** 9a968f1a
+**Settings:** 88 b4780381, Baldwinsville TEC, cc020b03
+**Lead Staff:** Ava Rodriguez, 
+**Home Visit Staff:** 85310ee9, Behavior Specialist I
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+502ae197 demonstrated skill maintenance across multiple settings during coordinated session on 9a968f1a.
+
+**SETTING 1:** 88 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: a9e26c60, 
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 79% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** cc020b03
+Parent participants: 5f758316 phone: c0495d5a
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+085d1b2b reported 502ae197 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+502ae197 maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 11a4f480 (Occupational Therapy) - contact: c3b843f2
+- 0ecd3def, LPN (4d541a75) - contact: 704d2802
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 6c80d81c
+
+**Documentation:** Ava Rodriguez, 
+**Date:** 9a968f1a
+
+---
+END OF SESSION NOTE

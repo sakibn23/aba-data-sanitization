@@ -2,33 +2,33 @@
 
 ## HEADER SECTION
 
-**Name:** Ava Phillips
-**Date of Birth:** 05/03/2010
-**Residential Program:** 95 Geiger ICF
-**Day Program:** Syracuse TEC
+**Name:** Aubrey Hughes
+**Date of Birth:** 06/20/2012
+**Residential Program:** 96 Geiger ICF
+**Day Program:** Cicero TEC
 
-**Session Date:** 11/14/2025
-**Session Time:** 3:00 PM - 4:00 PM
-**Session Duration:** 60 minutes
-**Service Location:** Community Setting
+**Session Date:** 11/09/2025
+**Session Time:** 3:00 PM - 5:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** Residential Setting
 
-**Staff Present:** Ella Jimenez, Behavior Specialist
-**Medicaid ID:** HD832855
+**Staff Present:** Aubrey Turner, DSP
+**Medicaid ID:** HU906123
 
 ---
 
 ## SESSION SUMMARY
 
-Ava participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. Ava was able to calm with staff support and completed the session appropriately.
+Aubrey participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. Aubrey was able to calm with staff support and completed the session appropriately.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-### Behavior: Refusing Tasks
+### Behavior: Verbal Aggression
 
-**Frequency:** 6 instances
-**Duration:** Total approximately 12 minutes
+**Frequency:** 4 instances
+**Duration:** Total approximately 15 minutes
 **Intensity:** Low-to-Moderate
 
 **Setting Events/Antecedents:**
@@ -54,15 +54,15 @@ Ava participated in scheduled activities. Multiple instances of challenging beha
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Refusing Tasks | 4/week | 4 instances | ↑ Elevated |
+| Verbal Aggression | 4/week | 5 instances | ↑ Elevated |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Ella Jimenez, M.Ed.
-**Title:** Behavior Specialist
-**Date:** 11/14/2025
+**Completed By:** Aubrey Turner, 
+**Title:** DSP
+**Date:** 11/09/2025
 
 ---
 

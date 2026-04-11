@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** c42f077e
+**Date of Birth:** 4540673a
+**Session Date:** c943fcde
+**Location:** 88 Geiger ICF
+**Staff:** b3046dab, 94746a21, LBA
+**Medicaid ID:** 1eb10b25
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 88 5db1a815 ICF from 9:00 AM to 10:30 AM. 
+059f727a engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 87% independent completion
+2. Functional communication practice: 67% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 72% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 78%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Lily responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 17 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+3205a8cd contacted at c295cf1a regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+059f727a takes 55dd731d 50mg daily per prescription from Dr. f067c16c. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 77f32151 at 88 Geiger ICF.
+
+**Authored by:** b3046dab, 94746a21, LBA
+**Date:** c943fcde
+
+---
+END OF SESSION NOTE

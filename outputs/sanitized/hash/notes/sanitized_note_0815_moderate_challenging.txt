@@ -1,0 +1,91 @@
+# UCP SESSION NOTE - MODERATE CHALLENGING BEHAVIOR
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Phone: ddd01a6d
+
+**Client Name:** Cruz, f089eaef
+**Date of Birth:** 6dce2deb
+**Incident Date:** 131f628f
+**Incident Time:** 10:30 AM
+**Location:** 92 5db1a815 ICF
+**Staff Involved:** 2c459e1a, CCC-SLP; f1419432, Behavior Specialist II
+
+---
+
+## MODERATE CHALLENGING BEHAVIOR - MULTIPLE INTERVENTIONS
+
+**INDIVIDUALS PRESENT:**
+Staff: 2c459e1a, CCC-SLP; f1419432, Behavior Specialist II
+Location: Community room, 92 5db1a815 ICF
+
+**INCIDENT TIMELINE:**
+
+3:40 PM - ANTECEDENT
+f089eaef was participating in group activity when transition announcement was made 
+to end preferred activity.
+
+2:15 PM - BEHAVIOR ONSET
+f089eaef engaged in physical aggression including:
+- Pushing peer
+- Throwing materials
+- Verbal aggression (yelling, protesting)
+
+3:47 PM - INITIAL INTERVENTION
+2c459e1a, CCC-SLP implemented verbal de-escalation and visual supports.
+Limited effectiveness. Behavior escalated to Level 2 (moderate severity).
+
+10:35 AM - SECONDARY INTERVENTION
+f1419432, Behavior Specialist II joined intervention team.
+SCIP-R blocking pads utilized per BSP protocol.
+f089eaef responded to planned ignoring combined with blocking strategy.
+
+3:58 PM - DE-ESCALATION ACHIEVED
+f089eaef returned to baseline. Moved to quiet room for recovery.
+
+**INJURIES/DAMAGE:**
+Staff: 2c459e1a sustained minor scratch on left forearm, no medical treatment required
+Property: Game materials damaged, approximate cost $54
+Client: No injuries sustained
+
+**IMMEDIATE PARENT CONTACT:**
+863a4bed contacted at 2b5f39c1.
+Parent acknowledged incident and requested details of antecedent triggers.
+
+**MEDICAL CONSULTATION:**
+Nurse Dr. 5df0e3c4 consulted. Visual assessment of minor staff injury completed. 
+No client injuries noted. No medical intervention required.
+
+**RESTRICTIVE INTERVENTIONS USED:**
+- SCIP-R Blocking Pads: Yes (Duration: 9 minutes)
+- Physical Restraint: No
+- Seclusion: No
+- PRN Medication: Not administered
+
+**FUNCTIONAL BEHAVIOR ASSESSMENT UPDATE:**
+Data suggests escape function related to transition from preferred activities. 
+Recommend FBA review with 2c459e1a, CCC-SLP scheduled for 
+f3e97e36.
+
+**PSYCHIATRIC CONSULTATION:**
+Dr. 7eda9949 notified via phone message. Appointment maintained for 
+64190eac.
+
+**NOTIFICATIONS COMPLETED:**
+☑ Parents (contacted)
+☑ Program Director (notified)
+☑ Nurse (consulted)
+☑ 6ca68aa6 (message left)
+☐ OPWDD (Not required - internal incident)
+
+**FOLLOW-UP ACTIONS:**
+- Incident review meeting scheduled
+- BSP modification considered for transition protocols
+- Staff debriefing completed
+- Additional transition warnings for next 72 hours
+
+**Report compiled by:** 2c459e1a, CCC-SLP
+**Report filed:** 131f628f
+
+---
+END OF SESSION NOTE

@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Daniel Smith
-**Date of Birth:** 07/15/2016
+**Name:** Michael Mitchell
+**Date of Birth:** 01/09/2013
 **Residential Program:** 100 Geiger ICF
-**Day Program:** Liverpool TEC
+**Day Program:** Cicero TEC
 
-**Session Date:** 11/27/2025
-**Session Time:** 2:00 PM - 4:00 PM
-**Session Duration:** 120 minutes
+**Session Date:** 10/16/2025
+**Session Time:** 10:00 AM - 11:00 AM
+**Session Duration:** 60 minutes
 **Service Location:** School-based Setting
 
-**Staff Present:** Elijah Chavez, DSP
-**Medicaid ID:** RR079558
+**Staff Present:** Sofia Reed, Behavior Specialist
+**Medicaid ID:** GP912757
 
 ---
 
 ## SESSION SUMMARY
 
-Daniel participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Daniel engaging appropriately in scheduled tasks.
+Michael participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Michael engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Task Compliance
-- **Today's Performance:** 5 instances
-- **Progress Notes:** Daniel maintained baseline performance on this target.
+### Target 1: Social Interaction
+- **Today's Performance:** 6 instances
+- **Progress Notes:** Michael maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Minor Non-Compliance**
+**Behavior: Verbal Aggression**
 - **Frequency:** 2 instances
-- **Duration:** Approximately 3 minutes
+- **Duration:** Approximately 2 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Daniel responded appropriately to interventions
+- **Effectiveness:** Michael responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Daniel participated in routine programming activities. Staff implemented individ
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 3 instances | → Stable |
-| Challenging Behavior | 1/week | 1 instances | → Stable |
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 2/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Elijah Chavez, 
-**Title:** DSP
-**Date:** 11/27/2025
+**Completed By:** Sofia Reed, M.Ed.
+**Title:** Behavior Specialist
+**Date:** 10/16/2025
 
 ---
 

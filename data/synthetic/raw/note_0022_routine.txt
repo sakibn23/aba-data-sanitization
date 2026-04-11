@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Sofia Chavez
-**Date of Birth:** 01/05/2018
-**Residential Program:** 92 Geiger ICF
-**Day Program:** Cicero TEC
+**Name:** Matthew Walker
+**Date of Birth:** 02/14/2018
+**Residential Program:** 100 Geiger ICF
+**Day Program:** Syracuse TEC
 
-**Session Date:** 10/25/2025
-**Session Time:** 1:00 PM - 3:00 PM
-**Session Duration:** 120 minutes
-**Service Location:** Day Program
+**Session Date:** 10/22/2025
+**Session Time:** 9:00 AM - 10:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** School-based Setting
 
-**Staff Present:** Liam Mitchell, RBT
-**Medicaid ID:** IK420811
+**Staff Present:** Aubrey Cook, DSP
+**Medicaid ID:** SO042726
 
 ---
 
 ## SESSION SUMMARY
 
-Sofia participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Sofia engaging appropriately in scheduled tasks.
+Matthew participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Matthew engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Task Compliance
+### Target 1: Communication Skills
 - **Today's Performance:** 4 instances
-- **Progress Notes:** Sofia maintained baseline performance on this target.
+- **Progress Notes:** Matthew maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Refusing Tasks**
-- **Frequency:** 1 instances
-- **Duration:** Approximately 1 minutes
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Sofia responded appropriately to interventions
+- **Effectiveness:** Matthew responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Sofia participated in routine programming activities. Staff implemented individu
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 4/session | 4 instances | → Stable |
-| Challenging Behavior | 1/week | 2 instances | → Stable |
+| Target 1 | 5/session | 5 instances | → Stable |
+| Challenging Behavior | 2/week | 1 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Liam Mitchell, 
-**Title:** RBT
-**Date:** 10/25/2025
+**Completed By:** Aubrey Cook, 
+**Title:** DSP
+**Date:** 10/22/2025
 
 ---
 

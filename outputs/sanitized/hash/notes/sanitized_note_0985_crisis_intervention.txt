@@ -1,0 +1,133 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: Castillo, Elijah
+Date of Birth: 5e76aee5
+9b96b339: bb3c561d
+Emergency Contact 1: d33f94fc3456
+
+**INCIDENT DETAILS:**
+Date: f36341a3
+Time of Onset: 2:15 PM
+Location: 88 b4780381, e631bc22
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: 05907031, M.A.
+Secondary: c23eb4b5, BSN
+Tertiary: 94db7ae6, MS
+9de79093 notified: Ella Reyes, 4cf85d54
+Medical: 1cebc187, BSN
+
+**DETAILED INCIDENT TIMELINE:**
+
+11:18 AM: PRECIPITATING EVENT
+Elijah was engaged in activity when trigger occurred.
+
+9:45 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff 05907031, M.A. implemented verbal de-escalation.
+
+2:18 PM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff c23eb4b5, BSN joined response.
+
+9:51 AM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+Ella Reyes, 4cf85d54 notified.
+
+11:30 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: 05907031, c23eb4b5, 94db7ae6
+Reason: Imminent danger to self and others
+
+11:45 AM: DE-ESCALATION PROGRESS
+Elijah showing decreased muscle tension, verbal communication restored.
+
+11:52 AM: RESTRAINT RELEASED
+Total restraint duration: 22 minutes
+Elijah moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: 1cebc187, BSN
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+05907031: Superficial scratch - Treatment: Cleaned, bandaged
+c23eb4b5: Contusion from impact - Treatment: Ice pack applied
+94db7ae6: No injuries
+
+PROPERTY DAMAGE:
+Folding chair damaged
+Estimated cost: $227
+
+**EMERGENCY CONTACTS MADE:**
+
+9:58 AM: 9282b8d4 contacted at c1196f3c
+Reached: Yes, answered immediately
+Notified by: Ella Reyes, 4cf85d54
+
+**MEDICAL CONSULTATION:**
+1cebc187, BSN assessed. 
+Vital signs: Temp 98.6°F, Pulse 94, BP 119/75, Respirations 20
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+Dr. 483d4bce contacted.
+Emergency appointment: efbb9b9a
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 9:53 AM
+End time: 11:52 AM
+Total duration: 24 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: 1cebc187, BSN checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: b86ce576 - notified
+☑ Clinical Director: Ella Reyes - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: Ella Reyes, 4cf85d54
+Attendees: 05907031, c23eb4b5, 94db7ae6
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: Dr. 483d4bce emergency appt 9d7fc37a
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** 05907031, M.A.
+**Reviewed by:** Ella Reyes, 4cf85d54
+**Medical review:** 1cebc187, BSN
+**Report filed:** f36341a3
+**Report ID:** INC-2026-4825
+
+---
+END OF INCIDENT REPORT

@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** Lucas Ramirez
+**Date of Birth:** 7233b99b
+**Session Date:** c3b1b090
+**Location:** 100 5db1a815 ICF
+**Monitoring Staff:** 236c8592, 
+**Consulting Nurse:** Dr. 07724304
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by f0724579, LMFT
+Last appointment: aa686f49
+Next appointment: f6b04da2
+
+**ROUTINE MEDICATIONS:**
+1. Aripiprazole 5mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: 4ae92111
+   
+2. Escitalopram 10mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: c8145f0a
+   
+3. Clonazepam 0.5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   e4bb9f1e date: 2c7b45e6
+
+**RECENT CHANGE:**
+5b4e45bd: 
+Escitalopram 10mg dosage increased
+Ordered by: f0724579, LMFT
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Lucas readily engaged in 
+morning routine with 86% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Lucas completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Lucas worked for 29-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: Dr. 07724304
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 98.2°F
+Pulse: 82 bpm
+Respirations: 18 per minute
+Recorded by: Dr. 07724304
+
+**PARENT CONSULTATION:**
+4b2bd489 contacted at 4420c6f7.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: 6f9a4d8f during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to f0724579, LMFT at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 0da4a2ca
+Prescriber appointment: 9e446462
+
+**Documented by:** 236c8592, 
+**Reviewed by:** Dr. 07724304
+**Date:** c3b1b090
+
+---
+END OF SESSION NOTE

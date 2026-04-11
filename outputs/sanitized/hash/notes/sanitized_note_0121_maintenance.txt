@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** c6704949
+**Session Date:** c5168b42
+**Settings:** 100 b4780381, Liverpool TEC, 40089614
+**Lead Staff:** c3b78ad6, 
+**Home Visit Staff:** 38fb5712, DSP
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+b1f6d124 demonstrated skill maintenance across multiple settings during coordinated session on c5168b42.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: c3b78ad6, 
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 40089614
+Parent participants: a4617fd4 phone: f1aade7a
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 78% independent completion in home environment
+
+**PARENT REPORT:**
+8c415f72 reported b1f6d124 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+b1f6d124 maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Henry Robinson, 94746a21 (Occupational Therapy) - contact: d458b02d
+- Dr. 6801f87f (4d541a75) - contact: 40652962
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 48218899
+
+**Documentation:** c3b78ad6, 
+**Date:** c5168b42
+
+---
+END OF SESSION NOTE

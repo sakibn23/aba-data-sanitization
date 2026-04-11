@@ -2,18 +2,18 @@
 
 ## HEADER SECTION
 
-**Name:** William Mendoza
-**Date of Birth:** 05/15/2008
-**Residential Program:** 96 Geiger ICF
-**Day Program:** Liverpool TEC
+**Name:** William Adams
+**Date of Birth:** 06/27/2017
+**Residential Program:** 100 Geiger ICF
+**Day Program:** Baldwinsville TEC
 
-**Session Date:** 10/07/2025
-**Session Time:** 9:00 AM - 11:00 AM
+**Session Date:** 10/25/2025
+**Session Time:** 10:00 AM - 12:00 PM
 **Session Duration:** 120 minutes
 **Service Location:** Day Program
 
-**Staff Present:** Jacob Davis, Behavior Specialist
-**Medicaid ID:** EQ672134
+**Staff Present:** Sophia Watson, Behavior Specialist II
+**Medicaid ID:** OH919027
 
 ---
 
@@ -25,7 +25,7 @@ William participated in routine programming activities. Staff implemented indivi
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Task Compliance
+### Target 1: Social Interaction
 - **Today's Performance:** 4 instances
 - **Progress Notes:** William maintained baseline performance on this target.
 
@@ -33,9 +33,9 @@ William participated in routine programming activities. Staff implemented indivi
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Minor Non-Compliance**
+**Behavior: Refusing Tasks**
 - **Frequency:** 1 instances
-- **Duration:** Approximately 1 minutes
+- **Duration:** Approximately 2 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
 - **Effectiveness:** William responded appropriately to interventions
@@ -47,15 +47,15 @@ William participated in routine programming activities. Staff implemented indivi
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
 | Target 1 | 4/session | 4 instances | → Stable |
-| Challenging Behavior | 2/week | 2 instances | → Stable |
+| Challenging Behavior | 3/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Jacob Davis, M.Ed.
-**Title:** Behavior Specialist
-**Date:** 10/07/2025
+**Completed By:** Sophia Watson, M.A.
+**Title:** Behavior Specialist II
+**Date:** 10/25/2025
 
 ---
 

@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Abigail Gomez
-**Date of Birth:** 05/19/2011
-**Residential Program:** 100 Geiger ICF
-**Day Program:** Cicero TEC
+**Name:** Elijah Ramos
+**Date of Birth:** 02/04/2021
+**Residential Program:** 95 Geiger ICF
+**Day Program:** Syracuse TEC
 
-**Session Date:** 11/14/2025
-**Session Time:** 2:00 PM - 3:30 PM
+**Session Date:** 10/28/2025
+**Session Time:** 10:00 AM - 11:30 AM
 **Session Duration:** 90 minutes
 **Service Location:** Community Setting
 
-**Staff Present:** Henry James, Behavior Specialist II
-**Medicaid ID:** RZ078412
+**Staff Present:** Lily Castillo, Direct Support Professional
+**Medicaid ID:** JU747634
 
 ---
 
 ## SESSION SUMMARY
 
-Abigail participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Abigail engaging appropriately in scheduled tasks.
+Elijah participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Elijah engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Social Interaction
-- **Today's Performance:** 4 instances
-- **Progress Notes:** Abigail maintained baseline performance on this target.
+### Target 1: Communication Skills
+- **Today's Performance:** 5 instances
+- **Progress Notes:** Elijah maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
 **Behavior: Refusing Tasks**
-- **Frequency:** 2 instances
+- **Frequency:** 1 instances
 - **Duration:** Approximately 1 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Abigail responded appropriately to interventions
+- **Effectiveness:** Elijah responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Abigail participated in routine programming activities. Staff implemented indivi
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 4/session | 4 instances | → Stable |
-| Challenging Behavior | 3/week | 2 instances | → Stable |
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 1/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Henry James, M.A.
-**Title:** Behavior Specialist II
-**Date:** 11/14/2025
+**Completed By:** Lily Castillo, 
+**Title:** Direct Support Professional
+**Date:** 10/28/2025
 
 ---
 

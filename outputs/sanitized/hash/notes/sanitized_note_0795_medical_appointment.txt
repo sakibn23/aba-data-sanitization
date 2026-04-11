@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Amelia Reyes
+**Session Date:** 7dc778a3
+**Primary Location:** Baldwinsville TEC
+**Staff:** f9bbe147, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with c1899d22, 4cf85d54 at Community Health Center, 8f439025.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, 8f439025
+Clinic phone: 6b8b6e46
+Provider: c1899d22, 4cf85d54
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: f9bbe147, 
+
+**PARENT COORDINATION:**
+2fd08ad9 met at clinic.
+Contact number: 6b8b6e46
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: a7ddb5e0
+
+**APPOINTMENT OUTCOME:**
+Per c1899d22, 4cf85d54:
+- Diagnosis: Contact Dermatitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: c1899d22, 4cf85d54
+Pharmacy: Walgreens, 1b525d5e
+
+**POST-APPOINTMENT SESSION:**
+Amelia returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. Hughes notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+2fd08ad9 contacted at 6b8b6e46 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** f9bbe147, 
+**Medical liaison:** Dr. Hughes
+**Date:** 7dc778a3
+
+---
+END OF SESSION NOTE

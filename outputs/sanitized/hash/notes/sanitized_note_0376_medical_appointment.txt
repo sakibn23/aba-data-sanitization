@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 58e6b2bb*Session Date:** afb35813
+**Primary Location:** Liverpool TEC
+**Staff:** 1c55adf4, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. adae8d8d at Syracuse Medical Associates, 4802d008.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Syracuse Medical Associates, 4802d008
+Clinic phone: c9a3abfd
+Provider: Dr. adae8d8d
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 1c55adf4, 
+
+**PARENT COORDINATION:**
+fedef00e met at clinic.
+Contact number: 3e64f33d
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: 551b8788
+
+**APPOINTMENT OUTCOME:**
+Per Dr. adae8d8d:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. adae8d8d
+Pharmacy: Walgreens, ad1ae069
+
+**POST-APPOINTMENT SESSION:**
+9345a35a returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 70852077 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+fedef00e contacted at 3e64f33d to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 1c55adf4, 
+**Medical liaison:** Dr. 70852077
+**Date:** afb35813
+
+---
+END OF SESSION NOTE

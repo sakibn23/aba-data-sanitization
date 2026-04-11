@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Thompson, a81ef43a
+**Session Date:** 0c549456
+**Primary Location:** Liverpool TEC
+**Staff:** 206a7301, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. b311172d at Community Health Center, 2d50fb64.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, 2d50fb64
+Clinic phone: d272436d
+Provider: Dr. b311172d
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 206a7301, 
+
+**PARENT COORDINATION:**
+a3d603c6 met at clinic.
+Contact number: 1c0f0de7
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 5d2e1293
+
+**APPOINTMENT OUTCOME:**
+Per Dr. b311172d:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. b311172d
+Pharmacy: CVS Pharmacy, f881e2ff
+
+**POST-APPOINTMENT SESSION:**
+a81ef43a returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 235fe393 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+a3d603c6 contacted at 1c0f0de7 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 206a7301, 
+**Medical liaison:** Dr. 235fe393
+**Date:** 0c549456
+
+---
+END OF SESSION NOTE

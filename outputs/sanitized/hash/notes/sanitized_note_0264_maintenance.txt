@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Wyatt Campbell
+**Session Date:** fb6df2fd
+**Settings:** 92 b4780381, Liverpool TEC, 0fa73139
+**Lead Staff:** 4750eae6, M.A.
+**Home Visit Staff:** 9432ed2a, M.S.
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+f190d2ae demonstrated skill maintenance across multiple settings during coordinated session on fb6df2fd.
+
+**SETTING 1:** 92 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 87% independent completion across all tasks
+Staff observer: 4750eae6, M.A.
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 0fa73139
+Parent participants: 5f34302e and 5113c958
+Home phone: b3f5ea96
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 79% independent completion in home environment
+
+**PARENT REPORT:**
+5f34302e reported f190d2ae has been completing 
+morning routine independently at home 4 days per week. 5113c958 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f190d2ae maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 92 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Raju (Occupational Therapy) - contact: c0495d5a
+- Dr. Wood (4d541a75) - contact: 53fabbc7
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 225e1566
+
+**Documentation:** 4750eae6, M.A.
+**Date:** fb6df2fd
+
+---
+END OF SESSION NOTE

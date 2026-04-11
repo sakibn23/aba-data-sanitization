@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 045b990d
+**Session Date:** 0c549456
+**Settings:** 96 b4780381, 4c882b81, 02fee44c
+**Lead Staff:** Ella Hughes, 
+**Home Visit Staff:** 5352a426, Ph.D.
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Sophia demonstrated skill maintenance across multiple settings during coordinated session on 0c549456.
+
+**SETTING 1:** 96 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 88% independent completion across all tasks
+Staff observer: d32e436e, 
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 86% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 02fee44c
+Parent participants: 2971d57f
+Home phone: 48091747
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 83% independent completion in home environment
+
+**PARENT REPORT:**
+2971d57f reported f1908a7c has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f1908a7c maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 96 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 1cdcfc38 (Occupational Therapy) - contact: fa86d2af
+- Dr. dbd46885 (4d541a75) - contact: 32618551
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 50a810ac
+
+**Documentation:** Ella Hughes, 
+**Date:** 0c549456
+
+---
+END OF SESSION NOTE

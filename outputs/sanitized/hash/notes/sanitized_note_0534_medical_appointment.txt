@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 53d1b947
+**Session Date:** 7dc778a3
+**Primary Location:** Chadwicks TEC
+**Staff:** 7cca5a4a, M.A.
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Ella Poissant, MS, CCC-SLP at Syracuse Medical Associates, 596dd4d7.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, 596dd4d7
+Clinic phone: 0dc6ed96
+Provider: Ella Poissant, MS, CCC-SLP
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 7cca5a4a, M.A.
+
+**PARENT COORDINATION:**
+d1e02ef8 met at clinic.
+Contact number: e6e81b17
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: a7ddb5e0
+
+**APPOINTMENT OUTCOME:**
+Per Ella Poissant, MS, CCC-SLP:
+- Diagnosis: Otitis Externa
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - 4 drops each ear 4x daily × 7 days
+Prescribing provider: 255dde83, MS, CCC-SLP
+Pharmacy: Walgreens, 2b5f39c1
+
+**POST-APPOINTMENT SESSION:**
+f5ea3614 returned to 4c882b81. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 11a4f480 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+d1e02ef8 contacted at e6e81b17 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 7cca5a4a, M.A.
+**Medical liaison:** Dr. 11a4f480
+**Date:** 7dc778a3
+
+---
+END OF SESSION NOTE

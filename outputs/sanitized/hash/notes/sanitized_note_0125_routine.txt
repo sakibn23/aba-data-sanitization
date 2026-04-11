@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** Noah Jones
+**Date of Birth:** eea3dec7
+**Residential Program:** 96 5db1a815 ICF
+**Day Program:** Syracuse TEC
+
+**Session Date:** 7dc778a3
+**Session Time:** 3:00 PM - 5:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** Community Setting
+
+**Staff Present:** 136a63d6, Behavior Specialist II
+**Medicaid ID:** 7cf5a84f
+
+---
+
+## SESSION SUMMARY
+
+678202b3 participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with 678202b3 engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Social Interaction
+- **Today's Performance:** 6 instances
+- **Progress Notes:** 678202b3 maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 2 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Noah responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 4/session | 6 instances | → Stable |
+| Challenging Behavior | 2/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 136a63d6, M.A.
+**Title:** Behavior Specialist II
+**Date:** 7dc778a3
+
+---
+
+END OF SESSION NOTE

@@ -2,34 +2,34 @@
 
 ## HEADER SECTION
 
-**Name:** Samuel Miller
-**Date of Birth:** 08/01/2019
-**Residential Program:** 96 Geiger ICF
-**Day Program:** Baldwinsville TEC
+**Name:** Emily Long
+**Date of Birth:** 08/08/2016
+**Residential Program:** 100 Geiger ICF
+**Day Program:** Syracuse TEC
 
-**Session Date:** 10/18/2025
-**Session Time:** 3:00 PM - 4:30 PM
-**Session Duration:** 90 minutes
-**Service Location:** Day Program
+**Session Date:** 11/12/2025
+**Session Time:** 2:00 PM - 4:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** School-based Setting
 
-**Staff Present:** Sophia Bailey, BCBA
-**Medicaid ID:** QG427595
+**Staff Present:** Ethan Phillips, Behavior Specialist II
+**Medicaid ID:** BD805316
 
 ---
 
 ## SESSION SUMMARY
 
-Samuel participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. Samuel was able to calm with staff support and completed the session appropriately.
+Emily participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. Emily was able to calm with staff support and completed the session appropriately.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-### Behavior: Refusing Tasks
+### Behavior: Verbal Aggression
 
-**Frequency:** 5 instances
-**Duration:** Total approximately 12 minutes
-**Intensity:** Moderate
+**Frequency:** 3 instances
+**Duration:** Total approximately 10 minutes
+**Intensity:** Low-to-Moderate
 
 **Setting Events/Antecedents:**
 - Peer antagonization
@@ -54,15 +54,15 @@ Samuel participated in scheduled activities. Multiple instances of challenging b
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Refusing Tasks | 3/week | 5 instances | ↑ Elevated |
+| Verbal Aggression | 2/week | 3 instances | ↑ Elevated |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Sophia Bailey, BCBA, LBA
-**Title:** BCBA
-**Date:** 10/18/2025
+**Completed By:** Ethan Phillips, M.A.
+**Title:** Behavior Specialist II
+**Date:** 11/12/2025
 
 ---
 

@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 1f4df961
+**Session Date:** 766623b9
+**Settings:** 100 b4780381, 4c882b81, 23dc12fa
+**Lead Staff:** fdf64717, 
+**Home Visit Staff:** Mason Ward, LMHC
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+89a53a64 demonstrated skill maintenance across multiple settings during coordinated session on 766623b9.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 91% independent completion across all tasks
+Staff observer: fdf64717, 
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 23dc12fa
+Parent participants: f41ac42a
+Home phone: 734a354d
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 74% independent completion in home environment
+
+**PARENT REPORT:**
+f41ac42a reported 89a53a64 has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+89a53a64 maintained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. King (Occupational Therapy) - contact: 11b97f3a
+- Dr. 266a7b5e (4d541a75) - contact: d8ed507d
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on a264ce20
+
+**Documentation:** fdf64717, 
+**Date:** 766623b9
+
+---
+END OF SESSION NOTE

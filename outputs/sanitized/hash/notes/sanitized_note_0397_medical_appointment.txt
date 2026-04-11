@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Alvarez, Lucas
+**Session Date:** d11c34b3
+**Primary Location:** Syracuse TEC
+**Staff:** 2c35be72, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 6a97f77a at Syracuse Medical Associates, a6f8a042.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Syracuse Medical Associates, a6f8a042
+Clinic phone: df8a5497
+Provider: Dr. Rogers
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 2c35be72, 
+
+**PARENT COORDINATION:**
+01938e58 met at clinic.
+Contact number: 1e7d3c4c
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: d785b0aa
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 6a97f77a:
+- Diagnosis: Contact Dermatitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Apply topically twice daily
+Prescribing provider: Dr. 6a97f77a
+Pharmacy: CVS Pharmacy, 3e64f33d
+
+**POST-APPOINTMENT SESSION:**
+52d7d860 returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. 636bd3a2, Behavior Specialist II notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+01938e58 contacted at 1e7d3c4c to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 2c35be72, 
+**Medical liaison:** 6ec1a9fe, Behavior Specialist II
+**Date:** d11c34b3
+
+---
+END OF SESSION NOTE

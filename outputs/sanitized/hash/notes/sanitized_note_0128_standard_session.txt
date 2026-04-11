@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Ross, Olivia
+**Date of Birth:** e251ac22
+**Session Date:** 0e94b743
+**Location:** 88 Geiger ICF
+**Staff:** 9ce6b991, PhD, 94746a21
+**Medicaid ID:** 05efd91b
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 88 5db1a815 ICF from 2:00 PM to 3:30 PM. 
+Olivia engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 80% independent completion
+2. Functional communication practice: 82% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 64% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 70%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Olivia responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 21 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+7ad47d0b contacted at ad1ae069 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+a78a4203 takes Risperidone 1mg daily per prescription from Dr. 6b9031df. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 2e243388 at 88 Geiger ICF.
+
+**Authored by:** 9ce6b991, PhD, 94746a21
+**Date:** 0e94b743
+
+---
+END OF SESSION NOTE

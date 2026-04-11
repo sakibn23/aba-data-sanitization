@@ -1,0 +1,61 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** 61ead12e*Date of Birth:** 22170398
+**Residential Program:** 92 5db1a815 ICF
+**Day Program:** Baldwinsville TEC
+
+**Session Date:** 9a968f1a
+**Session Time:** 9:00 AM - 10:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** Residential Setting
+
+**Staff Present:** 7976a345, DSP
+**Medicaid ID:** b59f6d22
+
+---
+
+## SESSION SUMMARY
+
+Avery participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Avery engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Social Interaction
+- **Today's Performance:** 5 instances
+- **Progress Notes:** Avery maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Refusing Tasks**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 3 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Avery responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 2/week | 1 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** Isabella 25eb92ae, 
+**Title:** DSP
+**Date:** 9a968f1a
+
+---
+
+END OF SESSION NOTE

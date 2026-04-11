@@ -1,0 +1,69 @@
+# UCP SESSION NOTE - CHALLENGING BEHAVIORS
+
+## HEADER SECTION
+
+**Name:** Logan Lee
+**Date of Birth:** bb28d901
+**Residential Program:** 96 5db1a815 ICF
+**Day Program:** Cicero TEC
+
+**Session Date:** e22bbf0c
+**Session Time:** 1:00 PM - 2:30 PM
+**Session Duration:** 90 minutes
+**Service Location:** Day Program
+
+**Staff Present:** 641fb321, Behavior Specialist
+**Medicaid ID:** 993391f8
+
+---
+
+## SESSION SUMMARY
+
+Logan participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. Logan was able to calm with staff support and completed the session appropriately.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Refusing Tasks
+
+**Frequency:** 4 instances
+**Duration:** Total approximately 11 minutes
+**Intensity:** Low-to-Moderate
+
+**Setting Events/Antecedents:**
+- Peer antagonization
+
+**Staff Response:**
+- SCIP-R verbal calming techniques
+- Active listening and empathy statements
+- Provided choices
+
+**Restrictive Interventions Used:** None
+
+---
+
+## POST-INTERVENTION PROCEDURES
+
+**Body Check Completed:** Yes - No marks or injuries noted
+**Clinician Contacted:** Yes - Behavior Specialist notified
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| ddd85a02 | 4/week | 4 instances | ↑ Elevated |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 641fb321, M.Ed.
+**Title:** Behavior Specialist
+**Date:** e22bbf0c
+
+---
+
+END OF SESSION NOTE

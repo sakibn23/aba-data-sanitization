@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 062d306f
+**Session Date:** 2dcc2021
+**Primary Location:** Liverpool TEC
+**Staff:** 86904623, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 02695292, M.S. at Community Health Center, d39fb573.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, d39fb573
+Clinic phone: 6511c091
+Provider: 02695292, M.S.
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 86904623, 
+
+**PARENT COORDINATION:**
+05deda44 met at clinic.
+Contact number: b0d3fa19
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: e3618e94
+
+**APPOINTMENT OUTCOME:**
+Per 02695292, M.S.:
+- Diagnosis: Otitis Externa
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: 02695292, M.S.
+Pharmacy: CVS Pharmacy, 11b97f3a
+
+**POST-APPOINTMENT SESSION:**
+Victoria returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 483d4bce notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+05deda44 contacted at b0d3fa19 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 86904623, 
+**Medical liaison:** Dr. 483d4bce
+**Date:** 2dcc2021
+
+---
+END OF SESSION NOTE

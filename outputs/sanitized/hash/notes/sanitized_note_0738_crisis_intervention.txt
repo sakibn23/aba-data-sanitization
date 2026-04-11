@@ -1,0 +1,132 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: 8103bf83
+Date of Birth: f1e5e8cd
+9b96b339: 451f2cd2
+Emergency Contact 1: 23a56c591234
+
+**INCIDENT DETAILS:**
+Date: 0e94b743
+Time of Onset: 11:22 AM
+Location: 88 b4780381, 7861551b
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: b529c95b, 
+Secondary: 82883729, 94746a21
+Tertiary: 0a7f05c4, BSN
+9de79093 notified: 3fb48c87, cf25077a
+Medical: Ella Turner, afcf5945.D.
+
+**DETAILED INCIDENT TIMELINE:**
+
+2:11 PM: PRECIPITATING EVENT
+dbadfc88 was engaged in activity when trigger occurred.
+
+11:22 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff b529c95b,  implemented verbal de-escalation.
+
+11:25 AM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff 82883729, 94746a21 joined response.
+
+9:51 AM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+3fb48c87, cf25077a notified.
+
+2:23 PM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: b529c95b, 82883729, ac42d46b: Imminent danger to self and others
+
+2:38 PM: DE-ESCALATION PROGRESS
+dbadfc88 showing decreased muscle tension, verbal communication restored.
+
+2:45 PM: RESTRAINT RELEASED
+Total restraint duration: 20 minutes
+dbadfc88 moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: e9796892, afcf5945.D.
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+b529c95b: Superficial scratch - Treatment: Cleaned, bandaged
+82883729: Contusion from impact - Treatment: Ice pack applied
+0a7f05c4: No injuries
+
+PROPERTY DAMAGE:
+Folding chair damaged
+Estimated cost: $203
+
+**EMERGENCY CONTACTS MADE:**
+
+2:28 PM: 79302f4c contacted at 1e7d3c4c
+Reached: Yes, answered immediately
+Notified by: 3fb48c87, cf25077a
+
+**MEDICAL CONSULTATION:**
+e9796892, afcf5945.D. assessed. 
+Vital signs: Temp 98.6°F, Pulse 85, BP 123/81, Respirations 20
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+Dr. 548674f7 contacted.
+Emergency appointment: 4ce81745
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 2:23 PM
+End time: 10:15 AM
+Total duration: 19 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: e9796892, Psy.D. checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: c41d791a notified
+☑ Clinical Director: a60e7736 notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: 3fb48c87, cf25077a
+Attendees: b529c95b, 82883729, 0a7f05c4
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: Dr. 548674f7 emergency appt 4ce81745
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** b529c95b, 
+**Reviewed by:** 3fb48c87, cf25077a
+**Medical review:** Ella Turner, afcf5945.D.
+**Report filed:** 0e94b743
+**Report ID:** INC-2026-6288
+
+---
+END OF INCIDENT REPORT

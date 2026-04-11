@@ -1,0 +1,68 @@
+# UCP SESSION NOTE - CHALLENGING BEHAVIORS
+
+## HEADER SECTION
+
+**Name:** 3a7c417b*Date of Birth:** 5d442d97
+**Residential Program:** 100 5db1a815 ICF
+**Day Program:** Liverpool TEC
+
+**Session Date:** 80a016d5
+**Session Time:** 2:00 PM - 4:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** Residential Setting
+
+**Staff Present:** 20c54e95, 94746a21
+**Medicaid ID:** 9f40bd9e
+
+---
+
+## SESSION SUMMARY
+
+baa31bcd participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. baa31bcd was able to calm with staff support and completed the session appropriately.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Refusing Tasks
+
+**Frequency:** 5 instances
+**Duration:** Total approximately 15 minutes
+**Intensity:** Low-to-Moderate
+
+**Setting Events/Antecedents:**
+- Peer antagonization
+
+**Staff Response:**
+- SCIP-R verbal calming techniques
+- Active listening and empathy statements
+- Second staff called for support
+
+**Restrictive Interventions Used:** None
+
+---
+
+## POST-INTERVENTION PROCEDURES
+
+**Body Check Completed:** Yes - No marks or injuries noted
+**Clinician Contacted:** Yes - Behavior Specialist notified
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| ddd85a02 | 2/week | 3 instances | ↑ Elevated |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 20c54e95, 94746a21, LBA
+**Title:** 94746a21
+**Date:** 80a016d5
+
+---
+
+END OF SESSION NOTE

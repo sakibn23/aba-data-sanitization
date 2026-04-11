@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** Scarlett Long
+**Date of Birth:** f9871d29
+**Residential Program:** 95 Geiger ICF
+**Day Program:** Syracuse TEC
+
+**Session Date:** 46d8634f
+**Session Time:** 1:00 PM - 3:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** School-based Setting
+
+**Staff Present:** 59d835c3, Direct Support Professional
+**Medicaid ID:** 7417f5e4
+
+---
+
+## SESSION SUMMARY
+
+807c9fb7 participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with 807c9fb7 engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Communication Skills
+- **Today's Performance:** 4 instances
+- **Progress Notes:** 807c9fb7 maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 1 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** 807c9fb7 responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 1/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 59d835c3, 
+**Title:** Direct Support Professional
+**Date:** 46d8634f
+
+---
+
+END OF SESSION NOTE

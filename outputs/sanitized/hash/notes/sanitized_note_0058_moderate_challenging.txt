@@ -1,0 +1,91 @@
+# UCP SESSION NOTE - MODERATE CHALLENGING BEHAVIOR
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Phone: ddd01a6d
+
+**Client Name:** 8c0a48aa
+**Date of Birth:** ebd04bad
+**Incident Date:** 2e09a39c
+**Incident Time:** 3:45 PM
+**Location:** 88 Geiger ICF
+**Staff Involved:** Logan Lopez, ; a307ee14, cf25077a
+
+---
+
+## MODERATE CHALLENGING BEHAVIOR - MULTIPLE INTERVENTIONS
+
+**INDIVIDUALS PRESENT:**
+Staff: 698b8fb1, ; a307ee14, cf25077a
+Location: Community room, 88 Geiger ICF
+
+**INCIDENT TIMELINE:**
+
+10:25 AM - ANTECEDENT
+Harper was participating in group activity when transition announcement was made 
+to end preferred activity.
+
+2:15 PM - BEHAVIOR ONSET
+Harper engaged in physical aggression including:
+- Pushing peer
+- Throwing materials
+- Verbal aggression (yelling, protesting)
+
+2:17 PM - INITIAL INTERVENTION
+698b8fb1,  implemented verbal de-escalation and visual supports.
+Limited effectiveness. Behavior escalated to Level 2 (moderate severity).
+
+3:50 PM - SECONDARY INTERVENTION
+a307ee14, cf25077a joined intervention team.
+SCIP-R blocking pads utilized per BSP protocol.
+Harper responded to planned ignoring combined with blocking strategy.
+
+10:43 AM - DE-ESCALATION ACHIEVED
+Harper returned to baseline. Moved to quiet room for recovery.
+
+**INJURIES/DAMAGE:**
+Staff: 698b8fb1 sustained minor scratch on left forearm, no medical treatment required
+Property: Game materials damaged, approximate cost $25
+Client: No injuries sustained
+
+**IMMEDIATE PARENT CONTACT:**
+23f62e07 contacted at 734a354d.
+Parent acknowledged incident and requested details of antecedent triggers.
+
+**MEDICAL CONSULTATION:**
+Nurse Dr. Moore consulted. Visual assessment of minor staff injury completed. 
+No client injuries noted. No medical intervention required.
+
+**RESTRICTIVE INTERVENTIONS USED:**
+- SCIP-R Blocking Pads: Yes (Duration: 6 minutes)
+- Physical Restraint: No
+- Seclusion: No
+- PRN Medication: Not administered
+
+**FUNCTIONAL BEHAVIOR ASSESSMENT UPDATE:**
+Data suggests escape function related to transition from preferred activities. 
+Recommend FBA review with 698b8fb1,  scheduled for 
+6a03fd9d.
+
+**PSYCHIATRIC CONSULTATION:**
+Dr. 379dbafb notified via phone message. Appointment maintained for 
+72791f79.
+
+**NOTIFICATIONS COMPLETED:**
+☑ Parents (contacted)
+☑ Program Director (notified)
+☑ Nurse (consulted)
+☑ 6ca68aa6 (message left)
+☐ OPWDD (Not required - internal incident)
+
+**FOLLOW-UP ACTIONS:**
+- Incident review meeting scheduled
+- BSP modification considered for transition protocols
+- Staff debriefing completed
+- Additional transition warnings for next 72 hours
+
+**Report compiled by:** Logan Lopez, 
+**Report filed:** 2e09a39c
+
+---
+END OF SESSION NOTE

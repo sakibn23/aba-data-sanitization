@@ -1,0 +1,69 @@
+# UCP SESSION NOTE - CHALLENGING BEHAVIORS
+
+## HEADER SECTION
+
+**Name:** 25dc9241
+**Date of Birth:** 296a7582
+**Residential Program:** 100 5db1a815 ICF
+**Day Program:** Liverpool TEC
+
+**Session Date:** fa8242e4
+**Session Time:** 9:00 AM - 10:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** Community Setting
+
+**Staff Present:** f32fcc1f, Direct Support Professional
+**Medicaid ID:** 01a54594
+
+---
+
+## SESSION SUMMARY
+
+edd29161 participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. edd29161 was able to calm with staff support and completed the session appropriately.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Physical Aggression
+
+**Frequency:** 5 instances
+**Duration:** Total approximately 15 minutes
+**Intensity:** Moderate
+
+**Setting Events/Antecedents:**
+- Being told no
+
+**Staff Response:**
+- SCIP-R verbal calming techniques
+- Active listening and empathy statements
+- Removed from situation
+
+**Restrictive Interventions Used:** Blocking pads (2 instances, 6 minutes total)
+
+---
+
+## POST-INTERVENTION PROCEDURES
+
+**Body Check Completed:** Yes - No marks or injuries noted
+**Clinician Contacted:** Yes - Behavior Specialist notified
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Physical Aggression | 3/week | 3 instances | ↑ Elevated |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** f32fcc1f, 
+**Title:** Direct Support Professional
+**Date:** fa8242e4
+
+---
+
+END OF SESSION NOTE

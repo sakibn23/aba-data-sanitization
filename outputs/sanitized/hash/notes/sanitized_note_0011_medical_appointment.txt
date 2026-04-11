@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 5a022668*Session Date:** 17dd3a34
+**Primary Location:** Liverpool TEC
+**Staff:** e0e6cdc8, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 9e3d7007, cf25077a at Syracuse Medical Associates, 9519d8fc.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, 9519d8fc
+Clinic phone: 6b8b6e46
+Provider: 9e3d7007, cf25077a
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: e0e6cdc8, 
+
+**PARENT COORDINATION:**
+70c50b5b met at clinic.
+Contact number: 01e12fb0
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 551b8788
+
+**APPOINTMENT OUTCOME:**
+Per 9e3d7007, cf25077a:
+- Diagnosis: Contact Dermatitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Apply topically twice daily
+Prescribing provider: 9e3d7007, cf25077a
+Pharmacy: Walgreens, 2b5f39c1
+
+**POST-APPOINTMENT SESSION:**
+Harper returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. a4d95da7, LMFT notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+70c50b5b contacted at 01e12fb0 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** e0e6cdc8, 
+**Medical liaison:** 388d7685, LMFT
+**Date:** 17dd3a34
+
+---
+END OF SESSION NOTE

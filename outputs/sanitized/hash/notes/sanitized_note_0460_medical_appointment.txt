@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Flores, baa31bcd
+**Session Date:** 2bc9f38e
+**Primary Location:** Syracuse TEC
+**Staff:** 6aef4920, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. Raju at Community Health Center, bf1ed51a.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, bf1ed51a
+Clinic phone: 6ed16d5a
+Provider: Dr. Raju
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 6aef4920, 
+
+**PARENT COORDINATION:**
+4f45ed14 met at clinic.
+Contact number: c9f02eec
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 99ce7eec
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 4698c663:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: Dr. 4698c663
+Pharmacy: CVS Pharmacy, f154b551
+
+**POST-APPOINTMENT SESSION:**
+baa31bcd returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 25eb92ae notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+4f45ed14 contacted at c9f02eec to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 6aef4920, 
+**Medical liaison:** Dr. 25eb92ae
+**Date:** 2bc9f38e
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Amelia b16370a1
+**Session Date:** 0c549456
+**Primary Location:** Chadwicks TEC
+**Staff:** 2043ef70, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. Malpezzi at Community Health Center, 616c0e63.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, 616c0e63
+Clinic phone: 315fab11
+Provider: Dr. Malpezzi
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 2043ef70, 
+
+**PARENT COORDINATION:**
+b8f26aad met at clinic.
+Contact number: 4da418b8
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 1437b6dc
+
+**APPOINTMENT OUTCOME:**
+Per Dr. Malpezzi:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: Dr. 19e2b72d
+Pharmacy: Walgreens, e9b6acfe
+
+**POST-APPOINTMENT SESSION:**
+Amelia returned to 4c882b81. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 42d15317 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+b8f26aad contacted at 4da418b8 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 2043ef70, 
+**Medical liaison:** Dr. 42d15317
+**Date:** 0c549456
+
+---
+END OF SESSION NOTE

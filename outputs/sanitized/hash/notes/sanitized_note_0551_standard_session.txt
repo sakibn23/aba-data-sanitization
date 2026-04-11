@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Chloe Phillips
+**Date of Birth:** f6f3a4ac
+**Session Date:** 49e9b98b
+**Location:** 100 5db1a815 ICF
+**Staff:** 65a477da, 
+**Medicaid ID:** 951f305a
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 100 5db1a815 ICF from 1:00 PM to 2:00 PM. 
+789f9de7 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 81% independent completion
+2. Functional communication practice: 78% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 64% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 72%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. 789f9de7 responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 17 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+d5ebfd8d contacted at 87526cd7 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Chloe takes Risperidone 1mg daily per prescription from Dr. e2120ffd. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 5fb625aa at 100 b4780381.
+
+**Authored by:** 65a477da, 
+**Date:** 49e9b98b
+
+---
+END OF SESSION NOTE

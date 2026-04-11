@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** ed5db9ba, 89cd3a25**Session Date:** 731de1f1
+**Primary Location:** Liverpool TEC
+**Staff:** 50f4bbe6, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. b7b9be5f at WellNow Urgent Care, c27f7ccc.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care, c27f7ccc
+Clinic phone: 1c0f0de7
+Provider: Dr. b7b9be5f
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 50f4bbe6, 
+
+**PARENT COORDINATION:**
+22cf20c4 met at clinic.
+Contact number: eab7fd91
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 551b8788
+
+**APPOINTMENT OUTCOME:**
+Per Dr. b7b9be5f:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Take twice daily × 10 days
+Prescribing provider: Dr. b7b9be5f
+Pharmacy: CVS Pharmacy, 99bfe206
+
+**POST-APPOINTMENT SESSION:**
+78a1a1da returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. b16370a1 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+22cf20c4 contacted at eab7fd91 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 50f4bbe6, 
+**Medical liaison:** Dr. b16370a1
+**Date:** 731de1f1
+
+---
+END OF SESSION NOTE

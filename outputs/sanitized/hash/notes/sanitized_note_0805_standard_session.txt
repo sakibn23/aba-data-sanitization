@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** 52b73ac5
+**Date of Birth:** 119e9739
+**Session Date:** 86d03bdc
+**Location:** 95 Geiger ICF
+**Staff:** 7ca9700d, PhD, 94746a21
+**Medicaid ID:** 28253b3f
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 95 5db1a815 ICF from 9:00 AM to 10:30 AM. 
+89a53a64 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 80% independent completion
+2. Functional communication practice: 80% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 70% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 71%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. 89a53a64 responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 20 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+52afad50 contacted at 6d8859aa regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+89a53a64 takes 55dd731d 50mg daily per prescription from Sophia Morris, MS, CCC-SLP. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 5fb625aa at 95 Geiger ICF.
+
+**Authored by:** 7ca9700d, PhD, 94746a21
+**Date:** 86d03bdc
+
+---
+END OF SESSION NOTE

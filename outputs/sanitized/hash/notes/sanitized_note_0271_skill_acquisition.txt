@@ -1,0 +1,49 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** c7879715
+**Date of Birth:** 8a919ec7
+**Session Date:** d11c34b3
+**Program:** Cicero TEC
+**Time:** 10:00 AM - 11:00 AM
+**Behavior Specialist:** Mason Alvarez, 
+
+---
+
+## bf2c2ba2 ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+b1f6d124 participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Cicero TEC. Session began at 10:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 71% accuracy across 15 trials
+- Trial block 2: 89% accuracy across 15 trials  
+- Trial block 3: 87% accuracy across 15 trials
+- Overall session accuracy: 79%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+b1f6d124 demonstrated improvement in response latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+b1f6d124 practiced food service skills during lunch preparation. Staff 3607fdf0, 
+MSW supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted 0f6dc2f1 at 0dc6ed96 to discuss home practice strategies. 
+Parent reported b1f6d124 has been practicing sorting tasks at home with good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** Mason Alvarez, 
+**Date signed:** d11c34b3
+
+---
+END OF SESSION NOTE

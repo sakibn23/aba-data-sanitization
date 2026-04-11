@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 74161959
+**Session Date:** 731de1f1
+**Settings:** 100 b4780381, Liverpool TEC, e91a201d
+**Lead Staff:** Aria Price, 
+**Home Visit Staff:** a659097f, Psy.D.
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Oliver demonstrated skill maintenance across multiple settings during coordinated session on 731de1f1.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: 813b8a79, 
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 83% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** e91a201d
+Parent participants: Heather Gomez
+Home phone: 10ff4a59
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 81% independent completion in home environment
+
+**PARENT REPORT:**
+1e6da94c reported 7efa869d has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+7efa869d maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Pollard (Occupational Therapy) - contact: 99bfe206
+- Dr. dbadfc88 (4d541a75) - contact: 032e4535
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 66b0b710
+
+**Documentation:** Aria Price, 
+**Date:** 731de1f1
+
+---
+END OF SESSION NOTE

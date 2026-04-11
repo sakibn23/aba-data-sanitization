@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Emily Howard
+**Session Date:** 225c1a1a
+**Settings:** 92 b4780381, 4c882b81, c1035300
+**Lead Staff:** e9c3bcb4, 
+**Home Visit Staff:** Lucas Roberts, BSN
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Emily demonstrated skill maintenance across multiple settings during coordinated session on 225c1a1a.
+
+**SETTING 1:** 92 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 92% independent completion across all tasks
+Staff observer: e9c3bcb4, 
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 85% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** c1035300
+Parent participants: 47025aaf phone: 0dc6ed96
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 84% independent completion in home environment
+
+**PARENT REPORT:**
+6d52c809 reported Emily has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Emily maintained 85% consistency across settings for target skills. 
+Variability noted in task initiation between 92 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 235fe393 (Occupational Therapy) - contact: ac1bb8d9
+- Dr. 3228d821 (4d541a75) - contact: c295cf1a
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 06e890b3
+
+**Documentation:** e9c3bcb4, 
+**Date:** 225c1a1a
+
+---
+END OF SESSION NOTE

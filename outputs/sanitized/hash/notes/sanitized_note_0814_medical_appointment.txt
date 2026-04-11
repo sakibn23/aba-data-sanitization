@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** f812dcdb
+**Session Date:** bfe20d3a
+**Primary Location:** Syracuse TEC
+**Staff:** Noah Mitchell, 94746a21, LBA
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 6801f87f at WellNow Urgent Care, 3fb46fa3.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, 3fb46fa3
+Clinic phone: 15e491b6
+Provider: Dr. 6801f87f
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: a11dc5f8, 94746a21, LBA
+
+**PARENT COORDINATION:**
+fb5da337 met at clinic.
+Contact number: 873b38d5
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: 99ce7eec
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 6801f87f:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Take twice daily × 10 days
+Prescribing provider: Dr. 6801f87f
+Pharmacy: Walgreens, 704d2802
+
+**POST-APPOINTMENT SESSION:**
+736001fa returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 7ba52f7c notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+fb5da337 contacted at 873b38d5 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Noah Mitchell, 94746a21, LBA
+**Medical liaison:** Dr. 7ba52f7c
+**Date:** bfe20d3a
+
+---
+END OF SESSION NOTE

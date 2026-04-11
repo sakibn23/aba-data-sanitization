@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** [PERSON]
+**Date of Birth:** [DATE]
+**Residential Program:** 88 Geiger ICF
+**Day Program:** Syracuse TEC
+
+**Session Date:** [DATE]
+**Session Time:** 1:00 PM - 3:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** Day Program
+
+**Staff Present:** [PERSON], Sr. [CREDENTIAL]
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## SESSION SUMMARY
+
+Jacob participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with [PERSON] engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Social Interaction
+- **Today's Performance:** 3 instances
+- **Progress Notes:** Jacob maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Verbal Aggression**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Jacob responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 4/session | 6 instances | → Stable |
+| Challenging Behavior | 3/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** [PERSON], PhD, [CREDENTIAL]
+**Title:** Sr. [CREDENTIAL]
+**Date:** [DATE]
+
+---
+
+END OF SESSION NOTE

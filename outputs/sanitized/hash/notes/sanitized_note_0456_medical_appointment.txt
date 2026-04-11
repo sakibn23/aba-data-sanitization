@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 3013b18f, acf2dc1a*Session Date:** 8c58cdf1
+**Primary Location:** Chadwicks TEC
+**Staff:** a03b8a4b, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 87b2fbb2, 61b96822.M. at Community Health Center, 744c9801.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, 744c9801
+Clinic phone: df8a5497
+Provider: 87b2fbb2, 61b96822.M.
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: a03b8a4b, 
+
+**PARENT COORDINATION:**
+38e957fc met at clinic.
+Contact number: 6ed16d5a
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: e3618e94
+
+**APPOINTMENT OUTCOME:**
+Per 87b2fbb2, 61b96822.M.:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Apply topically twice daily
+Prescribing provider: 87b2fbb2, 61b96822.M.
+Pharmacy: Walgreens, 731bba67
+
+**POST-APPOINTMENT SESSION:**
+Charlotte returned to 4c882b81. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 7ba52f7c notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+38e957fc contacted at 6ed16d5a to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** a03b8a4b, 
+**Medical liaison:** Dr. 7ba52f7c
+**Date:** 8c58cdf1
+
+---
+END OF SESSION NOTE

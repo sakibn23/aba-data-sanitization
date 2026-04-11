@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 080fe817
+**Session Date:** 0e94b743
+**Settings:** 95 b4780381, Liverpool TEC, 6f7a66ff
+**Lead Staff:** 36ba48af, 
+**Home Visit Staff:** f8df05c7, Sr. 94746a21
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+a6b54c20 demonstrated skill maintenance across multiple settings during coordinated session on 0e94b743.
+
+**SETTING 1:** 95 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% independent completion across all tasks
+Staff observer: 36ba48af, 
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 6f7a66ff
+Parent participants: fdbbe303
+Home phone: 707bc55f
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 75% independent completion in home environment
+
+**PARENT REPORT:**
+fdbbe303 reported a6b54c20 has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+a6b54c20 maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 21f5358c (Occupational Therapy) - contact: ef47e5eb
+- Lucas Rodriguez, CASAC (4d541a75) - contact: 26774165
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 78ec8715
+
+**Documentation:** 36ba48af, 
+**Date:** 0e94b743
+
+---
+END OF SESSION NOTE

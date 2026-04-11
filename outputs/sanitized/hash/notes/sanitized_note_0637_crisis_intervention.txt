@@ -1,0 +1,136 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: Nguyen, Zoey
+Date of Birth: e70bb13d
+9b96b339: 649e79c9
+Emergency Contact 1: 24c9bf98
+Emergency Contact 2: c1d8fdd3
+
+**INCIDENT DETAILS:**
+Date: 0c549456
+Time of Onset: 9:45 AM
+Location: 92 b4780381, 5bfdf746
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: 4eaf39d6, 
+Secondary: c51881b3, Behavior Specialist I
+Tertiary: 62636d1b, cf25077a
+9de79093 notified: ba7c31fc, 4cf85d54
+Medical: ea3ee475, LMFT
+
+**DETAILED INCIDENT TIMELINE:**
+
+11:18 AM: PRECIPITATING EVENT
+Zoey was engaged in activity when trigger occurred.
+
+11:22 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff 4eaf39d6,  implemented verbal de-escalation.
+
+2:18 PM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff c51881b3, Behavior Specialist I joined response.
+
+2:21 PM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+ba7c31fc, 4cf85d54 notified.
+
+2:23 PM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: 4eaf39d6, c51881b3, 4c9d95ce: Imminent danger to self and others
+
+10:08 AM: DE-ESCALATION PROGRESS
+Zoey showing decreased muscle tension, verbal communication restored.
+
+10:15 AM: RESTRAINT RELEASED
+Total restraint duration: 24 minutes
+347d5d8b moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: ea3ee475, LMFT
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+4eaf39d6: Superficial scratch - Treatment: Cleaned, bandaged
+c51881b3: Contusion from impact - Treatment: Ice pack applied
+62636d1b: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $168
+
+**EMERGENCY CONTACTS MADE:**
+
+2:28 PM: 745f0abe contacted at a03ccc6b
+Reached: Yes, answered immediately
+Notified by: ba7c31fc, 4cf85d54
+
+2:45 PM: a26245c7 contacted at 1c0f0de7
+Reached: Yes, callback received
+
+**MEDICAL CONSULTATION:**
+ea3ee475, LMFT assessed. 
+Vital signs: Temp 98.4°F, Pulse 92, BP 117/75, Respirations 17
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+85559759, Behavior Specialist II contacted.
+Emergency appointment: 9d7fc37a
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 9:53 AM
+End time: 2:45 PM
+Total duration: 19 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: ea3ee475, LMFT checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: 1f83a10e notified
+☑ Clinical Director: ba7c31fc - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: ba7c31fc, 4cf85d54
+Attendees: 4eaf39d6, c51881b3, 62636d1b
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: 85559759, Behavior Specialist II emergency appt 4ce81745
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** 4eaf39d6, 
+**Reviewed by:** ba7c31fc, 4cf85d54
+**Medical review:** ea3ee475, LMFT
+**Report filed:** 0c549456
+**Report ID:** INC-2026-4369
+
+---
+END OF INCIDENT REPORT

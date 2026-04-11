@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Amelia James
-**Date of Birth:** 02/20/2013
-**Residential Program:** 96 Geiger ICF
-**Day Program:** Syracuse TEC
+**Name:** Scarlett Myers
+**Date of Birth:** 06/11/2010
+**Residential Program:** 88 Geiger ICF
+**Day Program:** Chadwicks TEC
 
-**Session Date:** 11/28/2025
-**Session Time:** 10:00 AM - 11:30 AM
-**Session Duration:** 90 minutes
+**Session Date:** 10/14/2025
+**Session Time:** 9:00 AM - 10:00 AM
+**Session Duration:** 60 minutes
 **Service Location:** Residential Setting
 
-**Staff Present:** Matthew Richardson, DSP
-**Medicaid ID:** NP364845
+**Staff Present:** Abigail Long, Sr. BCBA
+**Medicaid ID:** RW957211
 
 ---
 
 ## SESSION SUMMARY
 
-Amelia participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Amelia engaging appropriately in scheduled tasks.
+Scarlett participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Scarlett engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Task Compliance
-- **Today's Performance:** 5 instances
-- **Progress Notes:** Amelia maintained baseline performance on this target.
+### Target 1: Social Interaction
+- **Today's Performance:** 3 instances
+- **Progress Notes:** Scarlett maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Verbal Aggression**
+**Behavior: Refusing Tasks**
 - **Frequency:** 1 instances
-- **Duration:** Approximately 3 minutes
+- **Duration:** Approximately 1 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Amelia responded appropriately to interventions
+- **Effectiveness:** Scarlett responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Amelia participated in routine programming activities. Staff implemented individ
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 4/session | 4 instances | → Stable |
-| Challenging Behavior | 3/week | 1 instances | → Stable |
+| Target 1 | 5/session | 3 instances | → Stable |
+| Challenging Behavior | 1/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Matthew Richardson, 
-**Title:** DSP
-**Date:** 11/28/2025
+**Completed By:** Abigail Long, PhD, BCBA
+**Title:** Sr. BCBA
+**Date:** 10/14/2025
 
 ---
 

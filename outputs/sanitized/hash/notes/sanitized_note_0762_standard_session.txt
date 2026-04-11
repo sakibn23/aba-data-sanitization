@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** c248d3f5
+**Date of Birth:** 013071e7
+**Session Date:** d1ddd03d
+**Location:** 100 5db1a815 ICF
+**Staff:** d8d8a83e, 
+**Medicaid ID:** 44f3351a
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 100 5db1a815 ICF from 3:00 PM to 4:30 PM. 
+a81ef43a engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 79% independent completion
+2. Functional communication practice: 67% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 72% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 74%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. a81ef43a responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 21 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+a11ee704 contacted at c9f02eec regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+a81ef43a takes 4f76fda8mg daily per prescription from Dr. 7314d2e5. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 2e243388 at 100 b4780381.
+
+**Authored by:** d8d8a83e, 
+**Date:** d1ddd03d
+
+---
+END OF SESSION NOTE

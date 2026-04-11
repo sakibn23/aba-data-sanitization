@@ -2,32 +2,32 @@
 
 ## HEADER SECTION
 
-**Name:** Benjamin Martin
-**Date of Birth:** 05/11/2022
+**Name:** Jack Davis
+**Date of Birth:** 07/06/2018
 **Residential Program:** 88 Geiger ICF
-**Day Program:** Liverpool TEC
+**Day Program:** Baldwinsville TEC
 
-**Session Date:** 10/29/2025
-**Session Time:** 1:00 PM - 2:00 PM
+**Session Date:** 11/21/2025
+**Session Time:** 3:00 PM - 4:00 PM
 **Session Duration:** 60 minutes
-**Service Location:** Community Setting
+**Service Location:** School-based Setting
 
-**Staff Present:** Sophia Edwards, RBT
-**Medicaid ID:** AH597159
+**Staff Present:** Harper Stewart, RBT
+**Medicaid ID:** OH919027
 
 ---
 
 ## SESSION SUMMARY
 
-Benjamin participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Benjamin engaging appropriately in scheduled tasks.
+Jack participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Jack engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Communication Skills
-- **Today's Performance:** 3 instances
-- **Progress Notes:** Benjamin maintained baseline performance on this target.
+### Target 1: Task Compliance
+- **Today's Performance:** 4 instances
+- **Progress Notes:** Jack maintained baseline performance on this target.
 
 ---
 
@@ -35,10 +35,10 @@ Benjamin participated in routine programming activities. Staff implemented indiv
 
 **Behavior: Minor Non-Compliance**
 - **Frequency:** 2 instances
-- **Duration:** Approximately 3 minutes
+- **Duration:** Approximately 1 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Benjamin responded appropriately to interventions
+- **Effectiveness:** Jack responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Benjamin participated in routine programming activities. Staff implemented indiv
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 4/session | 5 instances | → Stable |
-| Challenging Behavior | 3/week | 1 instances | → Stable |
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 3/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Sophia Edwards, 
+**Completed By:** Harper Stewart, 
 **Title:** RBT
-**Date:** 10/29/2025
+**Date:** 11/21/2025
 
 ---
 

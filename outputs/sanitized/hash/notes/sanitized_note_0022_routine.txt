@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** 50c0e54f
+**Date of Birth:** 86d9b417
+**Residential Program:** 100 5db1a815 ICF
+**Day Program:** Syracuse TEC
+
+**Session Date:** bfe20d3a
+**Session Time:** 9:00 AM - 10:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** School-based Setting
+
+**Staff Present:** d493a7a2, DSP
+**Medicaid ID:** 3121df90
+
+---
+
+## SESSION SUMMARY
+
+edd29161 participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with edd29161 engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Communication Skills
+- **Today's Performance:** 4 instances
+- **Progress Notes:** edd29161 maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** edd29161 responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 5/session | 5 instances | → Stable |
+| Challenging Behavior | 2/week | 1 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** d493a7a2, 
+**Title:** DSP
+**Date:** bfe20d3a
+
+---
+
+END OF SESSION NOTE

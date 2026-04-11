@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Chloe a9745a90
+**Date of Birth:** 1dfbc7d0
+**Session Date:** d651c20e
+**Location:** 100 5db1a815 ICF
+**Staff:** ff812fbb, 94746a21, LBA
+**Medicaid ID:** 0d778545
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 100 5db1a815 ICF from 2:00 PM to 4:00 PM. 
+789f9de7 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 87% independent completion
+2. Functional communication practice: 72% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 61% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 75%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. 789f9de7 responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 22 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+ee1f43d1 contacted at eab7fd91 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+789f9de7 takes Clonidine 0.3mg daily per prescription from Dr. 5a2a6102. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 4a808de3 at 100 b4780381.
+
+**Authored by:** ff812fbb, 94746a21, LBA
+**Date:** d651c20e
+
+---
+END OF SESSION NOTE

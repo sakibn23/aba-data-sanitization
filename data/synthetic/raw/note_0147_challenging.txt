@@ -2,44 +2,44 @@
 
 ## HEADER SECTION
 
-**Name:** Daniel Ross
-**Date of Birth:** 05/26/2017
-**Residential Program:** 95 Geiger ICF
-**Day Program:** Cicero TEC
+**Name:** Michael James
+**Date of Birth:** 01/11/2010
+**Residential Program:** 96 Geiger ICF
+**Day Program:** Baldwinsville TEC
 
-**Session Date:** 10/27/2025
-**Session Time:** 10:00 AM - 11:00 AM
-**Session Duration:** 60 minutes
-**Service Location:** Community Setting
+**Session Date:** 11/21/2025
+**Session Time:** 9:00 AM - 10:30 AM
+**Session Duration:** 90 minutes
+**Service Location:** Residential Setting
 
-**Staff Present:** Aubrey King, DSP
-**Medicaid ID:** DL038255
+**Staff Present:** Riley Foster, Behavior Specialist
+**Medicaid ID:** GJ392986
 
 ---
 
 ## SESSION SUMMARY
 
-Daniel participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. Daniel was able to calm with staff support and completed the session appropriately.
+Michael participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. Michael was able to calm with staff support and completed the session appropriately.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-### Behavior: Physical Aggression
+### Behavior: Verbal Aggression
 
-**Frequency:** 3 instances
-**Duration:** Total approximately 12 minutes
-**Intensity:** Low-to-Moderate
+**Frequency:** 6 instances
+**Duration:** Total approximately 11 minutes
+**Intensity:** Moderate-to-High
 
 **Setting Events/Antecedents:**
-- Transition from preferred to non-preferred activity
+- Being told no
 
 **Staff Response:**
 - SCIP-R verbal calming techniques
 - Active listening and empathy statements
 - Provided choices
 
-**Restrictive Interventions Used:** Blocking pads (2 instances, 6 minutes total)
+**Restrictive Interventions Used:** None
 
 ---
 
@@ -54,15 +54,15 @@ Daniel participated in scheduled activities. Multiple instances of challenging b
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Physical Aggression | 4/week | 4 instances | ↑ Elevated |
+| Verbal Aggression | 3/week | 6 instances | ↑ Elevated |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Aubrey King, 
-**Title:** DSP
-**Date:** 10/27/2025
+**Completed By:** Riley Foster, M.Ed.
+**Title:** Behavior Specialist
+**Date:** 11/21/2025
 
 ---
 

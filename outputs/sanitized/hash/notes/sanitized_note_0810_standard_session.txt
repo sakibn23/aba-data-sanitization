@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** 2c3aaefe, b5fd03dd
+**Date of Birth:** b78f54f1
+**Session Date:** 131f628f
+**Location:** 100 5db1a815 ICF
+**Staff:** Jackson Morales, 
+**Medicaid ID:** 5794aa46
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 100 5db1a815 ICF from 3:00 PM to 4:00 PM. 
+b5fd03dd engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 88% independent completion
+2. Functional communication practice: 75% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 70% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 79%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. b5fd03dd responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 21 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+e44c3ad3 contacted at b30969b1 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+b5fd03dd takes 55dd731d 50mg daily per prescription from 151aab73, 61b96822.M.. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 5fb625aa at 100 b4780381.
+
+**Authored by:** Jackson Morales, 
+**Date:** 131f628f
+
+---
+END OF SESSION NOTE

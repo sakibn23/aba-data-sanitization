@@ -1,0 +1,56 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** James, b1f97b63**Session Date:** 8d9399ca
+**Settings:** 100 b4780381, Syracuse TEC, 11f54059
+**Lead Staff:** Ella Thompson, 
+**Home Visit Staff:** dcae32b4, 4cf85d54
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+f3c7769d demonstrated skill maintenance across multiple settings during coordinated session on 8d9399ca.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 82% independent completion across all tasks
+Staff observer: a881e14c, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 83% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 11f54059
+Parent participants: 490b20e3 phone: 5a9d0dba
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+f5c7f257 reported f3c7769d has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f3c7769d maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 92039f1a (Occupational Therapy) - contact: c295cf1a
+- Dr. dbadfc88 (4d541a75) - contact: d8ed507d
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 6c80d81c
+
+**Documentation:** Ella Thompson, 
+**Date:** 8d9399ca
+
+---
+END OF SESSION NOTE

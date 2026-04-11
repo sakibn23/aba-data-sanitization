@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 613022f7
+**Session Date:** 187d3a48
+**Primary Location:** Chadwicks TEC
+**Staff:** c0f1918b, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 6bd3f118, NP at Community Health Center, 9b38ef0a.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Community Health Center, 9b38ef0a
+Clinic phone: cd8803fb
+Provider: 6bd3f118, NP
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: c0f1918b, 
+
+**PARENT COORDINATION:**
+337d7541 met at clinic.
+Contact number: b1f9385b
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 0bbcb1ea
+
+**APPOINTMENT OUTCOME:**
+Per 6bd3f118, NP:
+- Diagnosis: Contact Dermatitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Apply topically twice daily
+Prescribing provider: 6bd3f118, NP
+Pharmacy: Walgreens, cd8803fb
+
+**POST-APPOINTMENT SESSION:**
+a6b54c20 returned to 4c882b81. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 1cdcfc38 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+337d7541 contacted at b1f9385b to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** c0f1918b, 
+**Medical liaison:** Dr. 1cdcfc38
+**Date:** 187d3a48
+
+---
+END OF SESSION NOTE

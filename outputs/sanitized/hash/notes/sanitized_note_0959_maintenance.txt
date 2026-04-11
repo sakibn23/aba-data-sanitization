@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Lewis, Aiden
+**Session Date:** 3432c949
+**Settings:** 100 b4780381, feb4ba2d, f12af36f
+**Lead Staff:** 52af202d, 
+**Home Visit Staff:** Avery Long, MS
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Aiden demonstrated skill maintenance across multiple settings during coordinated session on 3432c949.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 91% independent completion across all tasks
+Staff observer: 52af202d, 
+
+**SETTING 2:** Cicero TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 75% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** f12af36f
+Parent participants: d76858e5 and 60c15f6d
+Home phone: a6c2e98e
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+d76858e5 reported Aiden has been completing 
+morning routine independently at home 6 days per week. 60c15f6d noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Aiden maintained 83% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Mason Garcia, M.S. (Occupational Therapy) - contact: ef47e5eb
+- Dr. Bryant (4d541a75) - contact: e6e81b17
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 7f1f796d
+
+**Documentation:** 52af202d, 
+**Date:** 3432c949
+
+---
+END OF SESSION NOTE

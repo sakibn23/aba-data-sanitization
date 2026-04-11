@@ -1,0 +1,67 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** 4f1c644d
+**Session Date:** 3432c949
+**Locations Observed:** 92 b4780381, 4c882b81, feb4ba2d
+**Observing Staff:** cebe45b1, 
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 92 5db1a815 ICF → Chadwicks TEC
+Time: 9:30 AM
+8b9c6437: Unexpected staff change (regular driver unavailable)
+Client Response: Moderate anxiety, verbal questioning, increased pacing
+
+807c9fb7 demonstrated heightened anxiety when informed of transition from 
+92 Geiger ICF to Chadwicks TEC with unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usual cebe45b1, 
+
+**TRANSITION 2:** Chadwicks TEC → Cicero TEC
+Time: 11:45 AM
+8b9c6437: Schedule modification due to building maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment with Riley Ward, M.A. at Chadwicks TEC on 
+742b23e5 was 
+rescheduled to 18a0fdd7 
+due to provider illness. 807c9fb7 exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+c972abda contacted at a6c2e98e to discuss 
+schedule sensitivity. Parent reported 807c9fb7 frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT ASSESSMENT:**
+92 5db1a815 ICF: Familiar lighting, low noise level, preferred seating available
+Chadwicks TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Cicero TEC: High activity level, variable noise, open floor plan
+
+Consultation with 81743366, 9eecfb3c scheduled for d189d6d8 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 minutes to 15 minutes advance notice
+- Environmental modifications at Chadwicks TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency protocol - avoid changes within 48 hours when possible
+- Provider coordination for appointment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with c972abda scheduled 
+4db27406 
+to review environmental sensitivities.
+
+Contact 81743366, LMHC at 6511c091 for sensory consultation.
+
+**Documented by:** cebe45b1, 
+**Date:** 3432c949
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** Amelia Thompson
+**Date of Birth:** 2388bc1e
+**Residential Program:** 95 Geiger ICF
+**Day Program:** Liverpool TEC
+
+**Session Date:** 731de1f1
+**Session Time:** 2:00 PM - 3:00 PM
+**Session Duration:** 60 minutes
+**Service Location:** Day Program
+
+**Staff Present:** 0a158c43, Sr. 94746a21
+**Medicaid ID:** 94dc451a
+
+---
+
+## SESSION SUMMARY
+
+Amelia participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Amelia engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Social Interaction
+- **Today's Performance:** 4 instances
+- **Progress Notes:** Amelia maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Verbal Aggression**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 3 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Amelia responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 3/session | 3 instances | → Stable |
+| Challenging Behavior | 2/week | 1 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 0a158c43, PhD, 94746a21
+**Title:** Sr. 94746a21
+**Date:** 731de1f1
+
+---
+
+END OF SESSION NOTE

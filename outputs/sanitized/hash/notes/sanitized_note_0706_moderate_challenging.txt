@@ -1,0 +1,91 @@
+# UCP SESSION NOTE - MODERATE CHALLENGING BEHAVIOR
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Phone: ddd01a6d
+
+**Client Name:** Price, Lily
+**Date of Birth:** 4c4f2421
+**Incident Date:** fb6df2fd
+**Incident Time:** 10:30 AM
+**Location:** 100 5db1a815 ICF
+**Staff Involved:** Zoey Wood, ; 0123cfc1, cf25077a
+
+---
+
+## MODERATE CHALLENGING BEHAVIOR - MULTIPLE INTERVENTIONS
+
+**INDIVIDUALS PRESENT:**
+Staff: 3e555bef, ; 0123cfc1, cf25077a
+Location: Community room, 100 b4780381
+
+**INCIDENT TIMELINE:**
+
+2:10 PM - ANTECEDENT
+Lily was participating in group activity when transition announcement was made 
+to end preferred activity.
+
+10:30 AM - BEHAVIOR ONSET
+059f727a engaged in physical aggression including:
+- Pushing peer
+- Throwing materials
+- Verbal aggression (yelling, protesting)
+
+3:47 PM - INITIAL INTERVENTION
+3e555bef,  implemented verbal de-escalation and visual supports.
+Limited effectiveness. Behavior escalated to Level 2 (moderate severity).
+
+2:20 PM - SECONDARY INTERVENTION
+0123cfc1, cf25077a joined intervention team.
+SCIP-R blocking pads utilized per BSP protocol.
+059f727a responded to planned ignoring combined with blocking strategy.
+
+3:58 PM - DE-ESCALATION ACHIEVED
+059f727a returned to baseline. Moved to quiet room for recovery.
+
+**INJURIES/DAMAGE:**
+Staff: 3e555bef sustained minor scratch on left forearm, no medical treatment required
+Property: Game materials damaged, approximate cost $25
+Client: No injuries sustained
+
+**IMMEDIATE PARENT CONTACT:**
+742dfbd5 contacted at 11b97f3a.
+Parent acknowledged incident and requested details of antecedent triggers.
+
+**MEDICAL CONSULTATION:**
+Nurse Dr. ceb32b93 consulted. Visual assessment of minor staff injury completed. 
+No client injuries noted. No medical intervention required.
+
+**RESTRICTIVE INTERVENTIONS USED:**
+- SCIP-R Blocking Pads: Yes (Duration: 9 minutes)
+- Physical Restraint: No
+- Seclusion: No
+- PRN Medication: Not administered
+
+**FUNCTIONAL BEHAVIOR ASSESSMENT UPDATE:**
+Data suggests escape function related to transition from preferred activities. 
+Recommend FBA review with 3e555bef,  scheduled for 
+16b771aa.
+
+**PSYCHIATRIC CONSULTATION:**
+Dr. 39d3a2e9 notified via phone message. Appointment maintained for 
+8a98154d.
+
+**NOTIFICATIONS COMPLETED:**
+☑ Parents (contacted)
+☑ Program Director (notified)
+☑ Nurse (consulted)
+☑ 6ca68aa6 (message left)
+☐ OPWDD (Not required - internal incident)
+
+**FOLLOW-UP ACTIONS:**
+- Incident review meeting scheduled
+- BSP modification considered for transition protocols
+- Staff debriefing completed
+- Additional transition warnings for next 72 hours
+
+**Report compiled by:** Zoey Wood, 
+**Report filed:** fb6df2fd
+
+---
+END OF SESSION NOTE

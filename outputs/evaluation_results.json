@@ -1,0 +1,25 @@
+{
+  "strict": {
+    "mode": "strict",
+    "TP": 14630,
+    "FP": 8066,
+    "FN": 7669,
+    "precision": 0.6446,
+    "recall": 0.6561,
+    "f1": 0.6503
+  },
+  "relaxed": {
+    "mode": "relaxed",
+    "TP": 15551,
+    "FP": 7145,
+    "FN": 6748,
+    "precision": 0.6852,
+    "recall": 0.6974,
+    "f1": 0.6912
+  },
+  "baseline_comparison": {
+    "baseline_recall": 0.683,
+    "current_recall": 0.6974,
+    "improvement_percent": 2.11
+  }
+}

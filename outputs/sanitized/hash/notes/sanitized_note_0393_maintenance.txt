@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Lopez, b1f6d124
+**Session Date:** e3354e1c
+**Settings:** 88 b4780381, Syracuse TEC, 9866d155
+**Lead Staff:** 5034a3ef, 
+**Home Visit Staff:** Daniel Reyes, 94746a21
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+b1f6d124 demonstrated skill maintenance across multiple settings during coordinated session on e3354e1c.
+
+**SETTING 1:** 88 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 85% independent completion across all tasks
+Staff observer: 5034a3ef, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 9866d155
+Parent participants: f693b144 and ba0cc352 phone: ddd01a6d
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 74% independent completion in home environment
+
+**PARENT REPORT:**
+f693b144 reported b1f6d124 has been completing 
+morning routine independently at home 5 days per week. 61ae9c5e noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+b1f6d124 maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 9befe194 (Occupational Therapy) - contact: c29c05fe
+- 8b5b1072, 4cf85d54 (Speech Therapy) - contact: 48091747
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 3277fb0d
+
+**Documentation:** 5034a3ef, 
+**Date:** e3354e1c
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,79 @@
+# UCP SESSION NOTE - RESTRICTIVE INTERVENTION REQUIRED
+
+## HEADER SECTION
+
+**Name:** [PERSON]
+**Date of Birth:** [DATE]
+**Residential Program:** 92 [PERSON] ICF
+**Day Program:** Liverpool TEC
+
+**Session Date:** [DATE]
+**Session Time:** 9:00 AM - 10:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** Day Program
+
+**Staff Present:** [PERSON], DSP (Primary); [PERSON], [PERSON] (Support)
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## SESSION SUMMARY
+
+Olivia engaged in severe challenging behavior requiring SCIP-R restrictive physical intervention. Incident occurred at approximately 3:25 PM. All BSP protocols followed. Post-intervention procedures completed per protocol.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Physical Aggression
+
+**Frequency:** 1 instance requiring restraint
+**Duration:** Approximately 8 minutes (including restraint time)
+**Intensity:** High
+
+**SCIP-R Restrictive Physical Intervention:**
+- **Type:** Two-person supine restraint
+- **Duration:** 5 minutes
+- **Staff Involved:** [PERSON] and [PERSON]
+- **Reason:** Immediate health and safety risk
+
+---
+
+## POST-INTERVENTION PROCEDURES COMPLETED
+
+**Body Check:**
+- Conducted By: [PERSON], LPN
+- Time: Within 3 minutes of restraint conclusion
+- Findings: No marks, bruises, or injuries noted
+
+**Clinician Contact:**
+- Clinician: [PERSON], M.A., Behavior Specialist II
+- Reviewed incident details and confirmed appropriate intervention per BSP
+
+**Program Administrator Contact:**
+- Administrator: [PERSON], Program Director
+- All post-intervention procedures completed correctly
+
+**Justice Center Notification:** No - Restraint per approved BSP
+
+---
+
+## RIGHTS RESTRICTIONS UTILIZED
+
+**SCIP-R Restrictive Physical Interventions:**
+- Duration: 4 minutes
+- Justification: Immediate health and safety risk per BSP
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** [PERSON], 
+**Title:** DSP
+**Date:** [DATE]
+
+**Reviewed By:** [PERSON], M.A., Behavior Specialist II
+
+---
+
+END OF SESSION NOTE

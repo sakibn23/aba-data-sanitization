@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 18ea364f
+**Session Date:** 42998749
+**Settings:** 88 b4780381, 4c882b81, c5c3e6ff
+**Lead Staff:** fa43d8bf, CCC-SLP
+**Home Visit Staff:** cf63ac5f, LMFT
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+f5ea3614 demonstrated skill maintenance across multiple settings during coordinated session on 42998749.
+
+**SETTING 1:** 88 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: fa43d8bf, CCC-SLP
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 86% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** c5c3e6ff
+Parent participants: f6e7af36 phone: d7b8792d
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 80% independent completion in home environment
+
+**PARENT REPORT:**
+c1dc5eec reported f5ea3614 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f5ea3614 maintained 85% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Noah Butler, 61b96822.M. (Occupational Therapy) - contact: 99bfe206
+- Dr. King (4d541a75) - contact: 11784c4c
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 365b75a8
+
+**Documentation:** fa43d8bf, CCC-SLP
+**Date:** 42998749
+
+---
+END OF SESSION NOTE

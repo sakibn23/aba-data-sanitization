@@ -1,0 +1,22 @@
+{
+  "replace": {
+    "avg_phi_removal_rate": 0.8879,
+    "avg_similarity_score": 0.9332,
+    "total_documents": 1245
+  },
+  "mask": {
+    "avg_phi_removal_rate": 0.8879,
+    "avg_similarity_score": 0.861,
+    "total_documents": 1245
+  },
+  "hash": {
+    "avg_phi_removal_rate": 0.8879,
+    "avg_similarity_score": 0.9078,
+    "total_documents": 1245
+  },
+  "hybrid": {
+    "avg_phi_removal_rate": 0.8597,
+    "avg_similarity_score": 0.93,
+    "total_documents": 1245
+  }
+}

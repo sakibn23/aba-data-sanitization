@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Avery Brown
-**Date of Birth:** 12/08/2014
-**Residential Program:** 96 Geiger ICF
+**Name:** Owen Williams
+**Date of Birth:** 07/24/2018
+**Residential Program:** 95 Geiger ICF
 **Day Program:** Liverpool TEC
 
-**Session Date:** 11/29/2025
-**Session Time:** 9:00 AM - 10:30 AM
-**Session Duration:** 90 minutes
+**Session Date:** 11/20/2025
+**Session Time:** 3:00 PM - 4:00 PM
+**Session Duration:** 60 minutes
 **Service Location:** Day Program
 
-**Staff Present:** Michael Cook, Sr. BCBA
-**Medicaid ID:** WO579516
+**Staff Present:** Aubrey Wood, DSP
+**Medicaid ID:** EQ672134
 
 ---
 
 ## SESSION SUMMARY
 
-Avery participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Avery engaging appropriately in scheduled tasks.
+Owen participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Owen engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Communication Skills
-- **Today's Performance:** 6 instances
-- **Progress Notes:** Avery maintained baseline performance on this target.
+### Target 1: Task Compliance
+- **Today's Performance:** 3 instances
+- **Progress Notes:** Owen maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
 **Behavior: Refusing Tasks**
-- **Frequency:** 1 instances
-- **Duration:** Approximately 3 minutes
+- **Frequency:** 2 instances
+- **Duration:** Approximately 1 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Avery responded appropriately to interventions
+- **Effectiveness:** Owen responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Avery participated in routine programming activities. Staff implemented individu
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 3 instances | → Stable |
+| Target 1 | 5/session | 4 instances | → Stable |
 | Challenging Behavior | 3/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Michael Cook, PhD, BCBA
-**Title:** Sr. BCBA
-**Date:** 11/29/2025
+**Completed By:** Aubrey Wood, 
+**Title:** DSP
+**Date:** 11/20/2025
 
 ---
 

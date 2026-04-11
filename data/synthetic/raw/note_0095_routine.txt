@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Sebastian Long
-**Date of Birth:** 12/16/2015
+**Name:** David Ramirez
+**Date of Birth:** 01/28/2012
 **Residential Program:** 95 Geiger ICF
-**Day Program:** Chadwicks TEC
+**Day Program:** Liverpool TEC
 
-**Session Date:** 10/08/2025
-**Session Time:** 1:00 PM - 2:30 PM
+**Session Date:** 11/02/2025
+**Session Time:** 9:00 AM - 10:30 AM
 **Session Duration:** 90 minutes
-**Service Location:** Community Setting
+**Service Location:** School-based Setting
 
-**Staff Present:** Luke Robinson, RBT
-**Medicaid ID:** CC187914
+**Staff Present:** Mason Hall, BCBA
+**Medicaid ID:** XZ577915
 
 ---
 
 ## SESSION SUMMARY
 
-Sebastian participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Sebastian engaging appropriately in scheduled tasks.
+David participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with David engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
 ### Target 1: Communication Skills
-- **Today's Performance:** 6 instances
-- **Progress Notes:** Sebastian maintained baseline performance on this target.
+- **Today's Performance:** 4 instances
+- **Progress Notes:** David maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Verbal Aggression**
-- **Frequency:** 1 instances
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
 - **Duration:** Approximately 1 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Sebastian responded appropriately to interventions
+- **Effectiveness:** David responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Sebastian participated in routine programming activities. Staff implemented indi
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 6 instances | → Stable |
-| Challenging Behavior | 3/week | 2 instances | → Stable |
+| Target 1 | 4/session | 3 instances | → Stable |
+| Challenging Behavior | 2/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Luke Robinson, 
-**Title:** RBT
-**Date:** 10/08/2025
+**Completed By:** Mason Hall, BCBA, LBA
+**Title:** BCBA
+**Date:** 11/02/2025
 
 ---
 

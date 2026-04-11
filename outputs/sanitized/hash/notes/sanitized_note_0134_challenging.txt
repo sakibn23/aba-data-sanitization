@@ -1,0 +1,69 @@
+# UCP SESSION NOTE - CHALLENGING BEHAVIORS
+
+## HEADER SECTION
+
+**Name:** b42e393e
+**Date of Birth:** 4093c0e5
+**Residential Program:** 100 5db1a815 ICF
+**Day Program:** Baldwinsville TEC
+
+**Session Date:** afb35813
+**Session Time:** 1:00 PM - 3:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** Community Setting
+
+**Staff Present:** e1f28203, Behavior Specialist
+**Medicaid ID:** e22265d1
+
+---
+
+## SESSION SUMMARY
+
+b395b3d8 participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. b395b3d8 was able to calm with staff support and completed the session appropriately.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Verbal Aggression
+
+**Frequency:** 5 instances
+**Duration:** Total approximately 12 minutes
+**Intensity:** Low-to-Moderate
+
+**Setting Events/Antecedents:**
+- Delayed gratification
+
+**Staff Response:**
+- SCIP-R verbal calming techniques
+- Active listening and empathy statements
+- Removed from situation
+
+**Restrictive Interventions Used:** None
+
+---
+
+## POST-INTERVENTION PROCEDURES
+
+**Body Check Completed:** Yes - No marks or injuries noted
+**Clinician Contacted:** Yes - Behavior Specialist notified
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Verbal Aggression | 2/week | 5 instances | ↑ Elevated |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** e1f28203, M.Ed.
+**Title:** Behavior Specialist
+**Date:** afb35813
+
+---
+
+END OF SESSION NOTE

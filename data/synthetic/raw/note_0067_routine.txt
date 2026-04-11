@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Jackson Collins
-**Date of Birth:** 12/08/2007
-**Residential Program:** 96 Geiger ICF
+**Name:** Oliver Carter
+**Date of Birth:** 08/06/2012
+**Residential Program:** 88 Geiger ICF
 **Day Program:** Cicero TEC
 
-**Session Date:** 11/03/2025
-**Session Time:** 10:00 AM - 11:30 AM
-**Session Duration:** 90 minutes
-**Service Location:** School-based Setting
+**Session Date:** 10/27/2025
+**Session Time:** 9:00 AM - 11:00 AM
+**Session Duration:** 120 minutes
+**Service Location:** Residential Setting
 
-**Staff Present:** Riley Jimenez, Sr. BCBA
-**Medicaid ID:** KG268902
+**Staff Present:** Lucas Mitchell, Direct Support Professional
+**Medicaid ID:** PE710590
 
 ---
 
 ## SESSION SUMMARY
 
-Jackson participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Jackson engaging appropriately in scheduled tasks.
+Oliver participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Oliver engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
 ### Target 1: Task Compliance
-- **Today's Performance:** 4 instances
-- **Progress Notes:** Jackson maintained baseline performance on this target.
+- **Today's Performance:** 5 instances
+- **Progress Notes:** Oliver maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Refusing Tasks**
-- **Frequency:** 2 instances
-- **Duration:** Approximately 2 minutes
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 3 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Jackson responded appropriately to interventions
+- **Effectiveness:** Oliver responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Jackson participated in routine programming activities. Staff implemented indivi
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 3 instances | → Stable |
-| Challenging Behavior | 3/week | 2 instances | → Stable |
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 3/week | 1 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Riley Jimenez, PhD, BCBA
-**Title:** Sr. BCBA
-**Date:** 11/03/2025
+**Completed By:** Lucas Mitchell, 
+**Title:** Direct Support Professional
+**Date:** 10/27/2025
 
 ---
 

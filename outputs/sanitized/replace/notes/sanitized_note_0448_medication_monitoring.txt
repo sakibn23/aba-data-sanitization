@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** Elijah Miller
+**Date of Birth:** [DATE]
+**Session Date:** [DATE]
+**Location:** 95 Geiger ICF
+**Monitoring Staff:** [PERSON], 
+**Consulting Nurse:** Dr. Long
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by Dr. Walker
+Last appointment: [DATE]
+Next appointment: [DATE]
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: [DATE]
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   [PERSON] date: [DATE]
+   
+3. Melatonin 5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   [PERSON] date: [DATE]
+
+**RECENT CHANGE:**
+[DATE]: 
+Fluoxetine 20mg dosage increased
+Ordered by: Dr. Walker
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Elijah readily engaged in 
+morning routine with 89% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Elijah completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Elijah worked for 25-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for headache complaint
+Administered by: Dr. Long
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 97.9°F
+Pulse: 76 bpm
+Respirations: 18 per minute
+Recorded by: Dr. Long
+
+**PARENT CONSULTATION:**
+[PERSON] contacted at [PHONE].
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: [PERSON] during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to Dr. [PERSON] at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: [DATE]
+Prescriber appointment: [DATE]
+
+**Documented by:** [PERSON], 
+**Reviewed by:** Dr. Long
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

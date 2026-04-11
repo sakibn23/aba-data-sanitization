@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 556bb0c6
+**Session Date:** 86d03bdc
+**Primary Location:** Chadwicks TEC
+**Staff:** 627d4ddb, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. baa4941d at WellNow Urgent Care, 7e5aaa41.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, 7e5aaa41
+Clinic phone: 223aac49
+Provider: Dr. a1f12df3 time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 627d4ddb, 
+
+**PARENT COORDINATION:**
+7ba0514e met at clinic.
+Contact number: 5eba6d48
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: 9de2784a
+
+**APPOINTMENT OUTCOME:**
+Per Dr. baa4941d:
+- Diagnosis: Contact Dermatitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. baa4941d
+Pharmacy: Walgreens, 873b38d5
+
+**POST-APPOINTMENT SESSION:**
+b1f6d124 returned to 4c882b81. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 0d5adda3 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+7ba0514e contacted at 5eba6d48 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 627d4ddb, 
+**Medical liaison:** Dr. Gray
+**Date:** 86d03bdc
+
+---
+END OF SESSION NOTE

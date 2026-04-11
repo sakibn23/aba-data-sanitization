@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Olivia Nguyen
+**Session Date:** 1c575020
+**Primary Location:** Cicero TEC
+**Staff:** 72c1e518, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 73114028 at WellNow Urgent Care, cf35c119.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: WellNow Urgent Care, cf35c119
+Clinic phone: 87a2d444
+Provider: Dr. Wood
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 72c1e518, 
+
+**PARENT COORDINATION:**
+28b16514 met at clinic.
+Contact number: c9a3abfd
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: e3618e94
+
+**APPOINTMENT OUTCOME:**
+Per Dr. Wood:
+- Diagnosis: Contact Dermatitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. Wood
+Pharmacy: dae25302, 599de9d7
+
+**POST-APPOINTMENT SESSION:**
+Olivia returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Zoey Gifford, Behavior Specialist II notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+28b16514 contacted at c9a3abfd to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 72c1e518, 
+**Medical liaison:** Zoey Gifford, Behavior Specialist II
+**Date:** 1c575020
+
+---
+END OF SESSION NOTE

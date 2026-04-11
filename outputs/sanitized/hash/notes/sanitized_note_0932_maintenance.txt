@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Harper Campbell
+**Session Date:** ce02545f
+**Settings:** 96 b4780381, Baldwinsville TEC, b280339a
+**Lead Staff:** Olivia Brown, 
+**Home Visit Staff:** a2076340, Behavior Specialist II
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Harper demonstrated skill maintenance across multiple settings during coordinated session on ce02545f.
+
+**SETTING 1:** 96 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% independent completion across all tasks
+Staff observer: eb79ec0e, 
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** b280339a
+Parent participants: ef5da3dc and fa76c974
+Home phone: ad1ae069
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+ef5da3dc reported 296b6366 has been completing 
+morning routine independently at home 4 days per week. fa76c974 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+296b6366 maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 96 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 39d3a2e9 (Occupational Therapy) - contact: e6e81b17
+- Levi Scott, LMHC (4d541a75) - contact: c0495d5a
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 1fa41af6
+
+**Documentation:** Olivia Brown, 
+**Date:** ce02545f
+
+---
+END OF SESSION NOTE

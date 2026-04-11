@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Thomas, e47be1be*Session Date:** 86ae21a5
+**Settings:** 88 b4780381, 4c882b81, 64105dd8
+**Lead Staff:** Isabella Castillo, 
+**Home Visit Staff:** d876f839, CNS
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+a8cfcd74 demonstrated skill maintenance across multiple settings during coordinated session on 86ae21a5.
+
+**SETTING 1:** 88 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 86% independent completion across all tasks
+Staff observer: 099ea41b, 
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 85% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 64105dd8
+Parent participants: e993c1a0 and 328cd6b0
+Home phone: b3f5ea96
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+e993c1a0 reported a8cfcd74 has been completing 
+morning routine independently at home 6 days per week. 328cd6b0 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+a8cfcd74 maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 7fdc2f8b, BSN (Occupational Therapy) - contact: c9f02eec
+- Noah Bennett, M.A. (4d541a75) - contact: 3e64f33d
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 78ec8715
+
+**Documentation:** Isabella Castillo, 
+**Date:** 86ae21a5
+
+---
+END OF SESSION NOTE

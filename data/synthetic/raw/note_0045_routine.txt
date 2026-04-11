@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Levi Brown
-**Date of Birth:** 01/18/2017
-**Residential Program:** 100 Geiger ICF
-**Day Program:** Syracuse TEC
+**Name:** Ella Scott
+**Date of Birth:** 08/19/2008
+**Residential Program:** 96 Geiger ICF
+**Day Program:** Baldwinsville TEC
 
-**Session Date:** 10/14/2025
-**Session Time:** 3:00 PM - 4:00 PM
-**Session Duration:** 60 minutes
-**Service Location:** Residential Setting
+**Session Date:** 11/03/2025
+**Session Time:** 10:00 AM - 11:30 AM
+**Session Duration:** 90 minutes
+**Service Location:** Day Program
 
-**Staff Present:** Luke Ward, DSP
-**Medicaid ID:** KG619322
+**Staff Present:** Julian Phillips, Behavior Specialist II
+**Medicaid ID:** PC285216
 
 ---
 
 ## SESSION SUMMARY
 
-Levi participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Levi engaging appropriately in scheduled tasks.
+Ella participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Ella engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
 ### Target 1: Task Compliance
-- **Today's Performance:** 5 instances
-- **Progress Notes:** Levi maintained baseline performance on this target.
+- **Today's Performance:** 3 instances
+- **Progress Notes:** Ella maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Refusing Tasks**
+**Behavior: Verbal Aggression**
 - **Frequency:** 1 instances
-- **Duration:** Approximately 2 minutes
+- **Duration:** Approximately 1 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Levi responded appropriately to interventions
+- **Effectiveness:** Ella responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Levi participated in routine programming activities. Staff implemented individua
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 4/session | 5 instances | → Stable |
-| Challenging Behavior | 2/week | 1 instances | → Stable |
+| Target 1 | 4/session | 3 instances | → Stable |
+| Challenging Behavior | 3/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Luke Ward, 
-**Title:** DSP
-**Date:** 10/14/2025
+**Completed By:** Julian Phillips, M.A.
+**Title:** Behavior Specialist II
+**Date:** 11/03/2025
 
 ---
 

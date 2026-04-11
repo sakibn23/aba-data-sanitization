@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** a08e5d7f
+**Session Date:** e2fbf143
+**Settings:** 96 b4780381, Syracuse TEC, 0d62b516
+**Lead Staff:** 0a1b6667, 
+**Home Visit Staff:** Lucas Kim, LMFT
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+f3c7769d demonstrated skill maintenance across multiple settings during coordinated session on e2fbf143.
+
+**SETTING 1:** 96 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 82% independent completion across all tasks
+Staff observer: 0a1b6667, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 87% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 0d62b516
+Parent participants: 64a7f09a phone: 6511c091
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 84% independent completion in home environment
+
+**PARENT REPORT:**
+fbdcbb34 reported f3c7769d has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f3c7769d maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 96 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Sofia Kim, M.A. (Occupational Therapy) - contact: ff0e2a4d
+- Dr. 9befe194 (4d541a75) - contact: f881e2ff
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on ea1c77f9
+
+**Documentation:** 0a1b6667, 
+**Date:** e2fbf143
+
+---
+END OF SESSION NOTE

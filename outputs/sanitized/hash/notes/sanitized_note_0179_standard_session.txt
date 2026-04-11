@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Zoey Phillips
+**Date of Birth:** 318728a4
+**Session Date:** 0c549456
+**Location:** 96 5db1a815 ICF
+**Staff:** 27a2634f, 
+**Medicaid ID:** 12d467e2
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 96 Geiger ICF from 9:00 AM to 10:30 AM. 
+Zoey engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 88% independent completion
+2. Functional communication practice: 82% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 57% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 73%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Zoey responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 20 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+dc28dc37 contacted at c3b843f2 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Zoey takes Risperidone 1mg daily per prescription from Dr. 6b9031df. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 4a808de3 at 96 b4780381.
+
+**Authored by:** 27a2634f, 
+**Date:** 0c549456
+
+---
+END OF SESSION NOTE

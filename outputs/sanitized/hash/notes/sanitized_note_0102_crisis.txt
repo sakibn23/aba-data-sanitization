@@ -1,0 +1,78 @@
+# UCP SESSION NOTE - RESTRICTIVE INTERVENTION REQUIRED
+
+## HEADER SECTION
+
+**Name:** Isabella Evans
+**Date of Birth:** aad18a12
+**Residential Program:** 95 Geiger ICF
+**Day Program:** Baldwinsville TEC
+
+**Session Date:** 043fe75c
+**Session Time:** 1:00 PM - 2:00 PM
+**Session Duration:** 60 minutes
+**Service Location:** Day Program
+
+**Staff Present:** Julian Ruiz, 94746a21 (Primary); 78c1f1aa, RBT (Support)
+**Medicaid ID:** 05c34d73
+
+---
+
+## SESSION SUMMARY
+
+a81ef43a engaged in severe challenging behavior requiring SCIP-R restrictive physical intervention. Incident occurred at approximately 9:15 AM. All BSP protocols followed. Post-intervention procedures completed per protocol.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Physical Aggression
+
+**Frequency:** 1 instance requiring restraint
+**Duration:** Approximately 6 minutes (including restraint time)
+**Intensity:** High
+
+**SCIP-R Restrictive Physical Intervention:**
+- **Type:** Two-person supine restraint
+- **Duration:** 4 minutes
+- **Staff Involved:** Julian Ruiz and f9389ed3*Reason:** Immediate health and safety risk
+
+---
+
+## POST-INTERVENTION PROCEDURES COMPLETED
+
+**Body Check:**
+- Conducted By: 9234dcd9, cf25077a
+- Time: Within 3 minutes of restraint conclusion
+- Findings: No marks, bruises, or injuries noted
+
+**Clinician Contact:**
+- Clinician: af2f8d71, M.A., Behavior Specialist II
+- Reviewed incident details and confirmed appropriate intervention per BSP
+
+**Program Administrator Contact:**
+- Administrator: 047fb4fc, Program Manager
+- All post-intervention procedures completed correctly
+
+**Justice Center Notification:** No - Restraint per approved BSP
+
+---
+
+## RIGHTS RESTRICTIONS UTILIZED
+
+**SCIP-R Restrictive Physical Interventions:**
+- Duration: 6 minutes
+- Justification: Immediate health and safety risk per BSP
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** Julian Ruiz, 94746a21, LBA
+**Title:** 94746a21
+**Date:** 043fe75c
+
+**Reviewed By:** cc715ad9, M.A., Behavior Specialist II
+
+---
+
+END OF SESSION NOTE

@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Reyes, 89d5404c*Session Date:** d42b3911
+**Primary Location:** Syracuse TEC
+**Staff:** 1d577138, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 7f2cc2d8 at WellNow Urgent Care, e1b33935.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: WellNow Urgent Care, e1b33935
+Clinic phone: b5efd1f5
+Provider: Dr. 7f2cc2d8
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 1d577138, 
+
+**PARENT COORDINATION:**
+e4464519 met at clinic.
+Contact number: 1e7d3c4c
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 0bbcb1ea
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 7f2cc2d8:
+- Diagnosis: Otitis Externa
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: Dr. 7f2cc2d8
+Pharmacy: Walgreens, a03ccc6b
+
+**POST-APPOINTMENT SESSION:**
+7efa869d returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. f58e4a64 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+e4464519 contacted at 1e7d3c4c to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 1d577138, 
+**Medical liaison:** Dr. f58e4a64
+**Date:** d42b3911
+
+---
+END OF SESSION NOTE

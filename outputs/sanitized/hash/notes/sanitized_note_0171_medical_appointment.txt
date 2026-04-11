@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Ella 818d0e5f
+**Session Date:** fa8242e4
+**Primary Location:** Cicero TEC
+**Staff:** c9f8717b, PhD, 94746a21
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 61a1d3bd at Syracuse Medical Associates, a08ad378.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, a08ad378
+Clinic phone: b3bcad9f
+Provider: Dr. 69fa7c1a time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: c9f8717b, PhD, 94746a21
+
+**PARENT COORDINATION:**
+a665f0cf met at clinic.
+Contact number: 1c0f0de7
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: a7ddb5e0
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 61a1d3bd:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. 61a1d3bd
+Pharmacy: CVS Pharmacy, d272436d
+
+**POST-APPOINTMENT SESSION:**
+Ella returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 9befe194 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+a665f0cf contacted at 1c0f0de7 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** c9f8717b, PhD, 94746a21
+**Medical liaison:** Dr. 9befe194
+**Date:** fa8242e4
+
+---
+END OF SESSION NOTE

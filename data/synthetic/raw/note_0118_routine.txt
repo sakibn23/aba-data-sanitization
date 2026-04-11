@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Isabella Alvarez
-**Date of Birth:** 06/25/2007
-**Residential Program:** 100 Geiger ICF
+**Name:** Henry Foster
+**Date of Birth:** 10/29/2014
+**Residential Program:** 92 Geiger ICF
 **Day Program:** Syracuse TEC
 
-**Session Date:** 11/20/2025
-**Session Time:** 2:00 PM - 4:00 PM
-**Session Duration:** 120 minutes
-**Service Location:** Community Setting
+**Session Date:** 10/30/2025
+**Session Time:** 9:00 AM - 10:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** Residential Setting
 
-**Staff Present:** Aubrey Moore, Behavior Specialist II
-**Medicaid ID:** UB976180
+**Staff Present:** Charlotte Garcia, DSP
+**Medicaid ID:** OO856763
 
 ---
 
 ## SESSION SUMMARY
 
-Isabella participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Isabella engaging appropriately in scheduled tasks.
+Henry participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Henry engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Social Interaction
-- **Today's Performance:** 5 instances
-- **Progress Notes:** Isabella maintained baseline performance on this target.
+### Target 1: Task Compliance
+- **Today's Performance:** 6 instances
+- **Progress Notes:** Henry maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
 **Behavior: Refusing Tasks**
-- **Frequency:** 1 instances
-- **Duration:** Approximately 2 minutes
+- **Frequency:** 2 instances
+- **Duration:** Approximately 3 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Isabella responded appropriately to interventions
+- **Effectiveness:** Henry responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Isabella participated in routine programming activities. Staff implemented indiv
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 6 instances | → Stable |
-| Challenging Behavior | 2/week | 2 instances | → Stable |
+| Target 1 | 4/session | 3 instances | → Stable |
+| Challenging Behavior | 3/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Aubrey Moore, M.A.
-**Title:** Behavior Specialist II
-**Date:** 11/20/2025
+**Completed By:** Charlotte Garcia, 
+**Title:** DSP
+**Date:** 10/30/2025
 
 ---
 

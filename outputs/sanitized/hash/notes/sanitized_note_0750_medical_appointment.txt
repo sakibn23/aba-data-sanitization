@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 368d1b42*Session Date:** ce02545f
+**Primary Location:** Syracuse TEC
+**Staff:** b7a468a4, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 1cdbeed0 at WellNow Urgent Care, 5a361aeb.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: WellNow Urgent Care, 5a361aeb
+Clinic phone: 16ab495b
+Provider: Dr. Bryant
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: b7a468a4, 
+
+**PARENT COORDINATION:**
+288da3a9 met at clinic.
+Contact number: b1f9385b
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: effb5953
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 1cdbeed0:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. 1cdbeed0
+Pharmacy: dae25302, 15e491b6
+
+**POST-APPOINTMENT SESSION:**
+190eb3eb returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. 4bed62a3, Ph.D. notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+288da3a9 contacted at b1f9385b to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** b7a468a4, 
+**Medical liaison:** a367248b, Ph.D.
+**Date:** ce02545f
+
+---
+END OF SESSION NOTE

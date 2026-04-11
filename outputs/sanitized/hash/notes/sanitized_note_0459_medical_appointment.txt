@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Young, db0284fc
+**Session Date:** c3b1b090
+**Primary Location:** Chadwicks TEC
+**Staff:** 2de44ee0, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. ce5f8665 at WellNow Urgent Care, 619fad82.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care, 619fad82
+Clinic phone: 99bfe206
+Provider: Dr. ce5f8665
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 2de44ee0, 
+
+**PARENT COORDINATION:**
+9c2c748d met at clinic.
+Contact number: 6d8859aa
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: a7ddb5e0
+
+**APPOINTMENT OUTCOME:**
+Per Dr. ce5f8665:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. ce5f8665
+Pharmacy: CVS Pharmacy, b1f9385b
+
+**POST-APPOINTMENT SESSION:**
+db0284fc returned to 4c882b81. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 7eda9949 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+9c2c748d contacted at 6d8859aa to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 2de44ee0, 
+**Medical liaison:** Dr. 7eda9949
+**Date:** c3b1b090
+
+---
+END OF SESSION NOTE

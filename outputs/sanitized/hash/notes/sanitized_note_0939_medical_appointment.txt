@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 8d81fa9f
+**Session Date:** fb6df2fd
+**Primary Location:** Liverpool TEC
+**Staff:** 05ef2a9e, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 502ae197 at WellNow Urgent Care, d2910b30.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, d2910b30
+Clinic phone: b0d3fa19
+Provider: Dr. 502ae197
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 05ef2a9e, 
+
+**PARENT COORDINATION:**
+09966094 met at clinic.
+Contact number: 32618551
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 1437b6dc
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 502ae197:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: Dr. 502ae197
+Pharmacy: dae25302, 147a4543
+
+**POST-APPOINTMENT SESSION:**
+190eb3eb returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 6a97f77a notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+09966094 contacted at 32618551 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 05ef2a9e, 
+**Medical liaison:** Dr. 6a97f77a
+**Date:** fb6df2fd
+
+---
+END OF SESSION NOTE

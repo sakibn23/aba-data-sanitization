@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Lopez, a8cfcd74
+**Session Date:** f36341a3
+**Settings:** 88 b4780381, 4c882b81, d8c77dc8
+**Lead Staff:** b6ccd3e2, PhD, 94746a21
+**Home Visit Staff:** Amelia 076bfa5c, 94746a21
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+a8cfcd74 demonstrated skill maintenance across multiple settings during coordinated session on f36341a3.
+
+**SETTING 1:** 88 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 86% independent completion across all tasks
+Staff observer: b6ccd3e2, PhD, 94746a21
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 75% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** d8c77dc8
+Parent participants: 19164f38 phone: ad1ae069
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 80% independent completion in home environment
+
+**PARENT REPORT:**
+800147e3 reported a8cfcd74 has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+a8cfcd74 maintained 83% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 9048f0c4, 94746a21 (Occupational Therapy) - contact: 599de9d7
+- Dr. Poissant (4d541a75) - contact: ff0e2a4d
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on f4fd0dcd
+
+**Documentation:** b6ccd3e2, PhD, 94746a21
+**Date:** f36341a3
+
+---
+END OF SESSION NOTE

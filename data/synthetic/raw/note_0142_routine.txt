@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Wyatt Price
-**Date of Birth:** 08/24/2015
-**Residential Program:** 96 Geiger ICF
-**Day Program:** Baldwinsville TEC
+**Name:** David Reyes
+**Date of Birth:** 08/12/2016
+**Residential Program:** 88 Geiger ICF
+**Day Program:** Cicero TEC
 
-**Session Date:** 10/24/2025
-**Session Time:** 10:00 AM - 12:00 PM
-**Session Duration:** 120 minutes
-**Service Location:** Residential Setting
+**Session Date:** 10/29/2025
+**Session Time:** 9:00 AM - 10:30 AM
+**Session Duration:** 90 minutes
+**Service Location:** Day Program
 
-**Staff Present:** Isabella Miller, Behavior Specialist II
-**Medicaid ID:** YE418099
+**Staff Present:** Ella Jackson, DSP
+**Medicaid ID:** OQ525779
 
 ---
 
 ## SESSION SUMMARY
 
-Wyatt participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Wyatt engaging appropriately in scheduled tasks.
+David participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with David engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
 ### Target 1: Social Interaction
-- **Today's Performance:** 4 instances
-- **Progress Notes:** Wyatt maintained baseline performance on this target.
+- **Today's Performance:** 5 instances
+- **Progress Notes:** David maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Minor Non-Compliance**
+**Behavior: Verbal Aggression**
 - **Frequency:** 1 instances
-- **Duration:** Approximately 2 minutes
+- **Duration:** Approximately 1 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Wyatt responded appropriately to interventions
+- **Effectiveness:** David responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Wyatt participated in routine programming activities. Staff implemented individu
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 3 instances | → Stable |
-| Challenging Behavior | 3/week | 2 instances | → Stable |
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 2/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Isabella Miller, M.A.
-**Title:** Behavior Specialist II
-**Date:** 10/24/2025
+**Completed By:** Ella Jackson, 
+**Title:** DSP
+**Date:** 10/29/2025
 
 ---
 

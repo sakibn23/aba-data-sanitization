@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Daniel Morris
+**Session Date:** afb35813
+**Settings:** 100 b4780381, Syracuse TEC, 396 906c970a, Syracuse, NY 13214
+**Lead Staff:** Aria Rodriguez, 
+**Home Visit Staff:** aaa91578, Ph.D.
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Daniel demonstrated skill maintenance across multiple settings during coordinated session on afb35813.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 91% independent completion across all tasks
+Staff observer: 866c58f6, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 86% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 396 906c970a, Syracuse, NY 13214
+Parent participants: 882f6bf1
+Home phone: 4da418b8
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 78% independent completion in home environment
+
+**PARENT REPORT:**
+882f6bf1 reported 7297db81 has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+7297db81 maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Riley Hill, CASAC (Occupational Therapy) - contact: 16ab495b
+- Dr. 93c91c85 (4d541a75) - contact: 99bfe206
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 141e76ab
+
+**Documentation:** Aria Rodriguez, 
+**Date:** afb35813
+
+---
+END OF SESSION NOTE

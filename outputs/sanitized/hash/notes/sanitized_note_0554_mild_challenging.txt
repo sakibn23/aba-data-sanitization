@@ -1,0 +1,63 @@
+# UCP SESSION NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** Bailey, d9dacb3e
+**Incident Date:** 9a968f1a
+**Incident Time:** 10:45 AM
+**Location:** 88 Geiger ICF
+**Staff Present:** Jackson Long, PhD, 94746a21
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+d9dacb3e was engaged in art activity at 88 5db1a815 ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR 9cc35840:**
+d9dacb3e exhibited Brief withdrawal characterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- Duration: 2 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff 07ee3ee0, PhD, 94746a21 implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+d9dacb3e responded to choice offering intervention and returned to baseline within 
+5 minutes.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+d9dacb3e participated in cooperative art activity with appropriate sharing behaviors 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+d9dacb3e was able to verbally request "my turn please" following de-escalation, 
+demonstrating understanding of replacement behavior.
+
+**PARENT NOTIFICATION:**
+Phone contact with 8f3a40ad at fa86d2af. 
+Parent reported similar sharing difficulties at home with sibling. Discussed consistency in 
+intervention approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by Jackson Long
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** 2e243388 at 88 5db1a815 ICF
+**Provider check-in:** Dr. 676e2d10 on 1a7bc186
+
+**Report filed by:** Jackson Long, PhD, 94746a21
+**Filed:** 9a968f1a
+
+---
+END OF SESSION NOTE

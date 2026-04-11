@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** bedfee7b
+**Session Date:** 3432c949
+**Primary Location:** Cicero TEC
+**Staff:** Sofia Hughes, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 7ba52f7c at Community Health Center, 525a643b.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, 525a643b
+Clinic phone: a391a130
+Provider: Dr. 7ba52f7c
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 8e49e617, 
+
+**PARENT COORDINATION:**
+be0f4a89 met at clinic.
+Contact number: 4da418b8
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 5d2e1293
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 7ba52f7c:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: Dr. 7ba52f7c
+Pharmacy: Walgreens, 798616f0
+
+**POST-APPOINTMENT SESSION:**
+dbadfc88 returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 91b2d84f notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+be0f4a89 contacted at 4da418b8 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Sofia Hughes, 
+**Medical liaison:** Dr. 91b2d84f
+**Date:** 3432c949
+
+---
+END OF SESSION NOTE

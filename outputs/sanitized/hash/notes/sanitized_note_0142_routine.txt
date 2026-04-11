@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** David Reyes
+**Date of Birth:** a812c230
+**Residential Program:** 88 Geiger ICF
+**Day Program:** Cicero TEC
+
+**Session Date:** 29d78388
+**Session Time:** 9:00 AM - 10:30 AM
+**Session Duration:** 90 minutes
+**Service Location:** Day Program
+
+**Staff Present:** Ella 502ae197, DSP
+**Medicaid ID:** 7de8240e
+
+---
+
+## SESSION SUMMARY
+
+a6b54c20 participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with a6b54c20 engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Social Interaction
+- **Today's Performance:** 5 instances
+- **Progress Notes:** a6b54c20 maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Verbal Aggression**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 1 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** a6b54c20 responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 2/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** Ella 502ae197, 
+**Title:** DSP
+**Date:** 29d78388
+
+---
+
+END OF SESSION NOTE

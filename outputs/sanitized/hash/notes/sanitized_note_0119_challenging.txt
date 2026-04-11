@@ -1,0 +1,69 @@
+# UCP SESSION NOTE - CHALLENGING BEHAVIORS
+
+## HEADER SECTION
+
+**Name:** 2e125437
+**Date of Birth:** 498bab03
+**Residential Program:** 88 Geiger ICF
+**Day Program:** Chadwicks TEC
+
+**Session Date:** 1ce0482a
+**Session Time:** 1:00 PM - 2:00 PM
+**Session Duration:** 60 minutes
+**Service Location:** Residential Setting
+
+**Staff Present:** b2ed234e, Direct Support Professional
+**Medicaid ID:** 5eb7e692
+
+---
+
+## SESSION SUMMARY
+
+8b49a459 participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. 8b49a459 was able to calm with staff support and completed the session appropriately.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Verbal Aggression
+
+**Frequency:** 5 instances
+**Duration:** Total approximately 8 minutes
+**Intensity:** Moderate
+
+**Setting Events/Antecedents:**
+- Delayed gratification
+
+**Staff Response:**
+- SCIP-R verbal calming techniques
+- Active listening and empathy statements
+- Provided choices
+
+**Restrictive Interventions Used:** None
+
+---
+
+## POST-INTERVENTION PROCEDURES
+
+**Body Check Completed:** Yes - No marks or injuries noted
+**Clinician Contacted:** Not required
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Verbal Aggression | 3/week | 5 instances | 3ca5e106 |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** b2ed234e, 
+**Title:** Direct Support Professional
+**Date:** 1ce0482a
+
+---
+
+END OF SESSION NOTE

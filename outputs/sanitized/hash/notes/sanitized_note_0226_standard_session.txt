@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** 2176c27a
+**Date of Birth:** 4ef01b66
+**Session Date:** d651c20e
+**Location:** 96 5db1a815 ICF
+**Staff:** Jack Price, M.Ed.
+**Medicaid ID:** 6f46b0a4
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 96 Geiger ICF from 10:00 AM to 12:00 PM. 
+Zoey engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 76% independent completion
+2. Functional communication practice: 84% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 66% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 74%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Zoey responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 19 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+c0a8808d contacted at 734a354d regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Zoey takes Clonidine 0.3mg daily per prescription from Levi Cooper, Behavior Specialist II. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 5fb625aa at 96 b4780381.
+
+**Authored by:** Jack Price, M.Ed.
+**Date:** d651c20e
+
+---
+END OF SESSION NOTE

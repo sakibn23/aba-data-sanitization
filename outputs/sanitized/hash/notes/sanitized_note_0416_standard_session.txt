@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Ethan Long
+**Date of Birth:** ecd759b0
+**Session Date:** fa8242e4
+**Location:** 92 5db1a815 ICF
+**Staff:** 2b5a3333, 
+**Medicaid ID:** c694241b
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 92 5db1a815 ICF from 10:00 AM to 12:00 PM. 
+13ae3ed6 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 77% independent completion
+2. Functional communication practice: 70% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 58% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 79%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. 13ae3ed6 responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 19 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+e9ad7253 contacted at 6e8454b8 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+13ae3ed6 takes 55dd731d 50mg daily per prescription from Dr. 813f46ee. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 4a808de3 at 92 b4780381.
+
+**Authored by:** 2b5a3333, 
+**Date:** fa8242e4
+
+---
+END OF SESSION NOTE

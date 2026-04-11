@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** 818d0e5f, a8cfcd74
+**Date of Birth:** 46b976bf
+**Session Date:** 86d03bdc
+**Location:** 92 5db1a815 ICF
+**Staff:** Elijah Hernandez, 
+**Medicaid ID:** 7cf5a84f
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 92 5db1a815 ICF from 10:00 AM to 11:00 AM. 
+a8cfcd74 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 78% independent completion
+2. Functional communication practice: 75% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 75% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 70%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. a8cfcd74 responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 15 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+67ee4088 contacted at 032e4535 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+a8cfcd74 takes 55dd731d 50mg daily per prescription from Dr. fdce2768. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 4a808de3 at 92 b4780381.
+
+**Authored by:** Elijah Hernandez, 
+**Date:** 86d03bdc
+
+---
+END OF SESSION NOTE

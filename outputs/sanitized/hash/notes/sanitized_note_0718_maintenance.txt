@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Howard, e8a68be9*Session Date:** 8d9399ca
+**Settings:** 96 b4780381, 4c882b81, 7555e005
+**Lead Staff:** 567a90d1, 
+**Home Visit Staff:** Amelia Ward, LMHC
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Daniel demonstrated skill maintenance across multiple settings during coordinated session on 8d9399ca.
+
+**SETTING 1:** 96 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 86% independent completion across all tasks
+Staff observer: 567a90d1, 
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 85% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 7555e005
+Parent participants: fe73368a and 6d52c809
+Home phone: b3f5ea96
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 83% independent completion in home environment
+
+**PARENT REPORT:**
+fe73368a reported 7297db81 has been completing 
+morning routine independently at home 4 days per week. 6d52c809 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+7297db81 maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 96 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 5dfcf9ef (Occupational Therapy) - contact: 99bfe206
+- Dr. Hughes (4d541a75) - contact: e9b6acfe
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on d9f01b42
+
+**Documentation:** 567a90d1, 
+**Date:** 8d9399ca
+
+---
+END OF SESSION NOTE

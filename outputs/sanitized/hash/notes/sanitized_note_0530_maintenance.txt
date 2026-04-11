@@ -1,0 +1,56 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Lopez, c42edc2c*Session Date:** 29d78388
+**Settings:** 100 b4780381, feb4ba2d, 9760bfdb
+**Lead Staff:** Sophia Diaz, 
+**Home Visit Staff:** 98223494, Behavior Specialist II
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+a8cfcd74 demonstrated skill maintenance across multiple settings during coordinated session on 29d78388.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 83% independent completion across all tasks
+Staff observer: f17b8886, 
+
+**SETTING 2:** Cicero TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 84% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 9760bfdb
+Parent participants: c95b6f69 and 1881b639 phone: 48091747
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 76% independent completion in home environment
+
+**PARENT REPORT:**
+c95b6f69 reported a8cfcd74 has been completing 
+morning routine independently at home 5 days per week. f693b144 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+a8cfcd74 maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Sofia Robinson, LMFT (Occupational Therapy) - contact: 01e12fb0
+- 10cd014a, Behavior Specialist I (4d541a75) - contact: 6d8859aa
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 25af8e9e
+
+**Documentation:** Sophia Diaz, 
+**Date:** 29d78388
+
+---
+END OF SESSION NOTE

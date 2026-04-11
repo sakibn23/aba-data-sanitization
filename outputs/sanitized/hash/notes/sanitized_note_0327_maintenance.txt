@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 398b1988
+**Session Date:** 75f52e16
+**Settings:** 95 b4780381, Liverpool TEC, 97bf4eeb
+**Lead Staff:** f10ad947, 
+**Home Visit Staff:** c843ddd6, LMHC
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Avery demonstrated skill maintenance across multiple settings during coordinated session on 75f52e16.
+
+**SETTING 1:** 95 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 83% independent completion across all tasks
+Staff observer: f10ad947, 
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 82% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 97bf4eeb
+Parent participants: 49daa023 and b1661ca1
+Home phone: 99bfe206
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 72% independent completion in home environment
+
+**PARENT REPORT:**
+49daa023 reported Avery has been completing 
+morning routine independently at home 6 days per week. b1661ca1 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Avery maintained 88% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. c2793b82 (Occupational Therapy) - contact: d8ed507d
+- Dr. c625ca57 (4d541a75) - contact: 53fabbc7
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on f4fd0dcd
+
+**Documentation:** f10ad947, 
+**Date:** 75f52e16
+
+---
+END OF SESSION NOTE

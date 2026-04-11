@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** [PERSON]
+**Date of Birth:** [DATE]
+**Residential Program:** 96 [PERSON] ICF
+**Day Program:** Syracuse TEC
+
+**Session Date:** [DATE]
+**Session Time:** 1:00 PM - 2:00 PM
+**Session Duration:** 60 minutes
+**Service Location:** Residential Setting
+
+**Staff Present:** Sophia Gray, DSP
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## SESSION SUMMARY
+
+Ava participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Ava engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Task Compliance
+- **Today's Performance:** 5 instances
+- **Progress Notes:** Ava maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Ava responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 4/session | 3 instances | → Stable |
+| Challenging Behavior | 1/week | 1 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** Sophia Gray, 
+**Title:** DSP
+**Date:** [DATE]
+
+---
+
+END OF SESSION NOTE

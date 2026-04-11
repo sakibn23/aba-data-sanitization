@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** d08c6960
+**Session Date:** 766623b9
+**Settings:** 88 b4780381, 4c882b81, 1beb937c
+**Lead Staff:** 99a41bc3, 
+**Home Visit Staff:** 9cd93594, 94746a21
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+907814bb demonstrated skill maintenance across multiple settings during coordinated session on 766623b9.
+
+**SETTING 1:** 88 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 89% independent completion across all tasks
+Staff observer: 99a41bc3, 
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 1beb937c
+Parent participants: 3b99324e and 7f024019 phone: 4420c6f7
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+3b99324e reported 907814bb has been completing 
+morning routine independently at home 5 days per week. e4b42850 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+907814bb maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Julian Walker, CNS (Occupational Therapy) - contact: 4a6de59a
+- Dr. 266a7b5e (4d541a75) - contact: 4a6de59a
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 42893eb8
+
+**Documentation:** 99a41bc3, 
+**Date:** 766623b9
+
+---
+END OF SESSION NOTE

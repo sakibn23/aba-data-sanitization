@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** Ward, ae701986
+**Date of Birth:** d04c2b90
+**Session Date:** 731de1f1
+**Location:** 96 5db1a815 ICF
+**Monitoring Staff:** 908cd3a7, 
+**Consulting Nurse:** Dr. d25949ef
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by 078ba5fc, LMFT
+Last appointment: e6cd1997
+Next appointment: c01c8a46
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: ef2083fa
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 58f320f2
+   
+3. Trazodone 100mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   e4bb9f1e date: 7c62d783
+
+**RECENT CHANGE:**
+46e6bb77: 
+Fluoxetine 20mg dosage increased
+Ordered by: 078ba5fc, LMFT
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Grace readily engaged in 
+morning routine with 84% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. f2465f78 completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. f2465f78 worked for 26-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for headache complaint
+Administered by: Dr. d25949ef
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 97.9°F
+Pulse: 73 bpm
+Respirations: 14 per minute
+Recorded by: Dr. d25949ef
+
+**PARENT CONSULTATION:**
+57391948 contacted at b1f9385b.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: 6f9a4d8f during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to 078ba5fc, LMFT at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 0da4a2ca
+Prescriber appointment: 70111957
+
+**Documented by:** 908cd3a7, 
+**Reviewed by:** Dr. d25949ef
+**Date:** 731de1f1
+
+---
+END OF SESSION NOTE

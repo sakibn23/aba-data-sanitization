@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Gutierrez, edd29161
+**Date of Birth:** 3323bd7e
+**Session Date:** 86ae21a5
+**Location:** 92 5db1a815 ICF
+**Staff:** Emily Robinson, 
+**Medicaid ID:** 9cf87c16
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 92 5db1a815 ICF from 9:00 AM to 10:00 AM. 
+edd29161 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 81% independent completion
+2. Functional communication practice: 76% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 73% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 74%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. edd29161 responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 18 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+e1c1f7a3 contacted at 6ed16d5a regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+edd29161 takes Risperidone 1mg daily per prescription from 68db96c5, 87ef1797. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 4a808de3 at 92 b4780381.
+
+**Authored by:** Emily Robinson, 
+**Date:** 86ae21a5
+
+---
+END OF SESSION NOTE

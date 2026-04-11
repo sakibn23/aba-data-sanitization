@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** d9e1b51a, Harper
+**Session Date:** ab32c455
+**Settings:** 92 b4780381, Baldwinsville TEC, d8c77dc8
+**Lead Staff:** beaf03cd, 
+**Home Visit Staff:** bdff0003, Behavior Specialist I
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Harper demonstrated skill maintenance across multiple settings during coordinated session on ab32c455.
+
+**SETTING 1:** 92 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 88% independent completion across all tasks
+Staff observer: beaf03cd, 
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 75% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** d8c77dc8
+Parent participants: 52945638
+Home phone: 873b38d5
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+52945638 reported 296b6366 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+296b6366 maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 92 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Scanlon (Occupational Therapy) - contact: eab7fd91
+- Dr. Bryant (4d541a75) - contact: f154b551
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 3277fb0d
+
+**Documentation:** beaf03cd, 
+**Date:** ab32c455
+
+---
+END OF SESSION NOTE

@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Harper Castillo
-**Date of Birth:** 10/10/2007
-**Residential Program:** 92 Geiger ICF
-**Day Program:** Liverpool TEC
+**Name:** Noah Clark
+**Date of Birth:** 10/17/2010
+**Residential Program:** 100 Geiger ICF
+**Day Program:** Syracuse TEC
 
-**Session Date:** 11/06/2025
-**Session Time:** 9:00 AM - 10:00 AM
-**Session Duration:** 60 minutes
-**Service Location:** School-based Setting
+**Session Date:** 10/29/2025
+**Session Time:** 2:00 PM - 4:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** Day Program
 
-**Staff Present:** Evelyn Lewis, BCBA
-**Medicaid ID:** PI561717
+**Staff Present:** Mason Scott, Behavior Specialist
+**Medicaid ID:** SD989136
 
 ---
 
 ## SESSION SUMMARY
 
-Harper participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Harper engaging appropriately in scheduled tasks.
+Noah participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Noah engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
 ### Target 1: Social Interaction
-- **Today's Performance:** 5 instances
-- **Progress Notes:** Harper maintained baseline performance on this target.
+- **Today's Performance:** 4 instances
+- **Progress Notes:** Noah maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Refusing Tasks**
-- **Frequency:** 2 instances
-- **Duration:** Approximately 1 minutes
+**Behavior: Verbal Aggression**
+- **Frequency:** 1 instances
+- **Duration:** Approximately 2 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Harper responded appropriately to interventions
+- **Effectiveness:** Noah responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Harper participated in routine programming activities. Staff implemented individ
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 3 instances | → Stable |
-| Challenging Behavior | 2/week | 2 instances | → Stable |
+| Target 1 | 4/session | 4 instances | → Stable |
+| Challenging Behavior | 1/week | 1 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Evelyn Lewis, BCBA, LBA
-**Title:** BCBA
-**Date:** 11/06/2025
+**Completed By:** Mason Scott, M.Ed.
+**Title:** Behavior Specialist
+**Date:** 10/29/2025
 
 ---
 

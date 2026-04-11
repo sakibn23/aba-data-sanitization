@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Amelia d25949ef
+**Session Date:** 80a016d5
+**Primary Location:** Syracuse TEC
+**Staff:** 99be3b3b, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 722b84aa at WellNow Urgent Care, 25d227ed.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care, 25d227ed
+Clinic phone: b1f9385b
+Provider: Dr. Scanlon
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 99be3b3b, 
+
+**PARENT COORDINATION:**
+e4533758 met at clinic.
+Contact number: 53fabbc7
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: 52078ba8
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 722b84aa:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Take twice daily × 10 days
+Prescribing provider: Dr. 722b84aa
+Pharmacy: CVS Pharmacy, 8a563106
+
+**POST-APPOINTMENT SESSION:**
+Amelia returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Chloe Peterson, CASAC notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+e4533758 contacted at 53fabbc7 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 99be3b3b, 
+**Medical liaison:** b7b138e3, CASAC
+**Date:** 80a016d5
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** 90caac1c
+**Date of Birth:** d59cbe1a
+**Residential Program:** 96 5db1a815 ICF
+**Day Program:** Baldwinsville TEC
+
+**Session Date:** 86ae21a5
+**Session Time:** 2:00 PM - 3:00 PM
+**Session Duration:** 60 minutes
+**Service Location:** Day Program
+
+**Staff Present:** eed9a880, Behavior Specialist II
+**Medicaid ID:** a96f3c18
+
+---
+
+## SESSION SUMMARY
+
+dbadfc88 participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with dbadfc88 engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Communication Skills
+- **Today's Performance:** 3 instances
+- **Progress Notes:** Alexander maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Alexander responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 2/week | 1 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** eed9a880, M.A.
+**Title:** Behavior Specialist II
+**Date:** 86ae21a5
+
+---
+
+END OF SESSION NOTE

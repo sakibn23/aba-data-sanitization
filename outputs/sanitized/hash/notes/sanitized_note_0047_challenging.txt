@@ -1,0 +1,69 @@
+# UCP SESSION NOTE - CHALLENGING BEHAVIORS
+
+## HEADER SECTION
+
+**Name:** 14b35979
+**Date of Birth:** 68fade4e
+**Residential Program:** 96 5db1a815 ICF
+**Day Program:** Cicero TEC
+
+**Session Date:** 75f52e16
+**Session Time:** 2:00 PM - 4:00 PM
+**Session Duration:** 120 minutes
+**Service Location:** Community Setting
+
+**Staff Present:** f84b786a, dd57abff
+**Medicaid ID:** 19d88258
+
+---
+
+## SESSION SUMMARY
+
+b5fd03dd participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. b5fd03dd was able to calm with staff support and completed the session appropriately.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Verbal Aggression
+
+**Frequency:** 4 instances
+**Duration:** Total approximately 14 minutes
+**Intensity:** Moderate-to-High
+
+**Setting Events/Antecedents:**
+- Being told no
+
+**Staff Response:**
+- SCIP-R verbal calming techniques
+- Active listening and empathy statements
+- Second staff called for support
+
+**Restrictive Interventions Used:** Blocking pads (2 instances, 6 minutes total)
+
+---
+
+## POST-INTERVENTION PROCEDURES
+
+**Body Check Completed:** Yes - No marks or injuries noted
+**Clinician Contacted:** Yes - Behavior Specialist notified
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Verbal Aggression | 2/week | 4 instances | ↑ Elevated |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** Riley 235fe393, 
+**Title:** RBT
+**Date:** 75f52e16
+
+---
+
+END OF SESSION NOTE

@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 75f4bfbf
+**Session Date:** 2dcc2021
+**Primary Location:** Cicero TEC
+**Staff:** Ella Hughes, CCC-SLP
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 07724304 at WellNow Urgent Care, 596f552a.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, 596f552a
+Clinic phone: 1a6a4c4f
+Provider: Dr. 07724304
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: d32e436e, CCC-SLP
+
+**PARENT COORDINATION:**
+598444a9 met at clinic.
+Contact number: cd8803fb
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: 52078ba8
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 07724304:
+- Diagnosis: Otitis Externa
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: Dr. 07724304
+Pharmacy: dae25302, c29c05fe
+
+**POST-APPOINTMENT SESSION:**
+78a1a1da returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 92039f1a notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+598444a9 contacted at cd8803fb to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Ella Hughes, CCC-SLP
+**Medical liaison:** Dr. 92039f1a
+**Date:** 2dcc2021
+
+---
+END OF SESSION NOTE

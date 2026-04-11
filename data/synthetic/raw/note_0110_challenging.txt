@@ -2,24 +2,24 @@
 
 ## HEADER SECTION
 
-**Name:** Emma Jackson
-**Date of Birth:** 03/24/2008
-**Residential Program:** 95 Geiger ICF
+**Name:** Noah Brown
+**Date of Birth:** 11/21/2009
+**Residential Program:** 92 Geiger ICF
 **Day Program:** Syracuse TEC
 
-**Session Date:** 10/02/2025
-**Session Time:** 3:00 PM - 5:00 PM
-**Session Duration:** 120 minutes
-**Service Location:** Day Program
+**Session Date:** 11/08/2025
+**Session Time:** 9:00 AM - 10:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** School-based Setting
 
-**Staff Present:** Victoria Kim, Behavior Specialist II
-**Medicaid ID:** RH925134
+**Staff Present:** Julian Harris, Behavior Specialist II
+**Medicaid ID:** SI659110
 
 ---
 
 ## SESSION SUMMARY
 
-Emma participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. Emma was able to calm with staff support and completed the session appropriately.
+Noah participated in scheduled activities. Multiple instances of challenging behaviors occurred during the session. Staff implemented SCIP-R techniques and BSP protocols. Noah was able to calm with staff support and completed the session appropriately.
 
 ---
 
@@ -28,16 +28,16 @@ Emma participated in scheduled activities. Multiple instances of challenging beh
 ### Behavior: Physical Aggression
 
 **Frequency:** 6 instances
-**Duration:** Total approximately 13 minutes
-**Intensity:** Low-to-Moderate
+**Duration:** Total approximately 10 minutes
+**Intensity:** Moderate-to-High
 
 **Setting Events/Antecedents:**
-- Peer antagonization
+- Being told no
 
 **Staff Response:**
 - SCIP-R verbal calming techniques
 - Active listening and empathy statements
-- Second staff called for support
+- Provided choices
 
 **Restrictive Interventions Used:** None
 
@@ -60,9 +60,9 @@ Emma participated in scheduled activities. Multiple instances of challenging beh
 
 ## STAFF SIGNATURE
 
-**Completed By:** Victoria Kim, M.A.
+**Completed By:** Julian Harris, M.A.
 **Title:** Behavior Specialist II
-**Date:** 10/02/2025
+**Date:** 11/08/2025
 
 ---
 

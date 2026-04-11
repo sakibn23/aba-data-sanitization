@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** ef0170e0
+**Session Date:** 3432c949
+**Primary Location:** Syracuse TEC
+**Staff:** 7774a961, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 2698eab3, cf25077a at Community Health Center, 489a23fc.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Community Health Center, 489a23fc
+Clinic phone: d272436d
+Provider: Elijah Sanchez, cf25077a
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 7774a961, 
+
+**PARENT COORDINATION:**
+509c7836 met at clinic.
+Contact number: c19b7b52
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: e2d646bf
+
+**APPOINTMENT OUTCOME:**
+Per Elijah Sanchez, cf25077a:
+- Diagnosis: Contact Dermatitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Take twice daily × 10 days
+Prescribing provider: 2698eab3, cf25077a
+Pharmacy: Walgreens, b0d3fa19
+
+**POST-APPOINTMENT SESSION:**
+a6b54c20 returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 1670f014 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+509c7836 contacted at c19b7b52 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 7774a961, 
+**Medical liaison:** Dr. 1670f014
+**Date:** 3432c949
+
+---
+END OF SESSION NOTE

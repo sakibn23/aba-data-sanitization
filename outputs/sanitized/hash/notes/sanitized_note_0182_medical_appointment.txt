@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 3013b18f, 5e98e095*Session Date:** c3b1b090
+**Primary Location:** Syracuse TEC
+**Staff:** 7ba0514e, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 42d15317 at WellNow Urgent Care, 501c0526.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, 501c0526
+Clinic phone: abd997ba
+Provider: Dr. 42d15317
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 7ba0514e, 
+
+**PARENT COORDINATION:**
+080cb09b met at clinic.
+Contact number: 032e4535
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: effb5953
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 42d15317:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. 42d15317
+Pharmacy: dae25302, e9b6acfe
+
+**POST-APPOINTMENT SESSION:**
+41509508 returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Avery Clark, NP notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+080cb09b contacted at 032e4535 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 7ba0514e, 
+**Medical liaison:** af1a4f6f, NP
+**Date:** c3b1b090
+
+---
+END OF SESSION NOTE

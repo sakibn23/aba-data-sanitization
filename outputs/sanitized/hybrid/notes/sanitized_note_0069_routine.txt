@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** [PERSON]
+**Date of Birth:** 0********3
+**Residential Program:** 100 [PERSON] ICF
+**Day Program:** Cicero TEC
+
+**Session Date:** 1********5
+**Session Time:** 10:00 AM - 11:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** School-based Setting
+
+**Staff Present:** Sofia Reed, Behavior Specialist
+**Medicaid ID:** 792f0c85
+
+---
+
+## SESSION SUMMARY
+
+[PERSON] participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with [PERSON] engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Social Interaction
+- **Today's Performance:** 6 instances
+- **Progress Notes:** [PERSON] maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Verbal Aggression**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 2 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** [PERSON] responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 5/session | 4 instances | → Stable |
+| Challenging Behavior | 2/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** Sofia Reed, M.Ed.
+**Title:** Behavior Specialist
+**Date:** 1********5
+
+---
+
+END OF SESSION NOTE

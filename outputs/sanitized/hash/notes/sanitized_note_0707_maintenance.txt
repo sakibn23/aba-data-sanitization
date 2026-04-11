@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Cox, 9345a35a
+**Session Date:** 86d03bdc
+**Settings:** 96 b4780381, Syracuse TEC, a190c4df
+**Lead Staff:** Chloe Rivera, 
+**Home Visit Staff:** Isabella Morales, BSN
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+9345a35a demonstrated skill maintenance across multiple settings during coordinated session on 86d03bdc.
+
+**SETTING 1:** 96 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 85% independent completion across all tasks
+Staff observer: c821aaea, 
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 77% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** a190c4df
+Parent participants: 93ac8223 and dc2f3fb2 phone: 032e4535
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 80% independent completion in home environment
+
+**PARENT REPORT:**
+93ac8223 reported 9345a35a has been completing 
+morning routine independently at home 5 days per week. 2b90afb1 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+9345a35a maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 96 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 5a2a6102 (Occupational Therapy) - contact: 1a6a4c4f
+- 21c86015, Behavior Specialist II (4d541a75) - contact: b30969b1
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 8095cdba
+
+**Documentation:** Chloe Rivera, 
+**Date:** 86d03bdc
+
+---
+END OF SESSION NOTE

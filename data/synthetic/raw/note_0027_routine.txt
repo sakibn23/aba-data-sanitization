@@ -2,18 +2,18 @@
 
 ## HEADER SECTION
 
-**Name:** Scarlett Lee
-**Date of Birth:** 11/15/2021
-**Residential Program:** 95 Geiger ICF
-**Day Program:** Syracuse TEC
+**Name:** Scarlett Hall
+**Date of Birth:** 04/02/2015
+**Residential Program:** 92 Geiger ICF
+**Day Program:** Baldwinsville TEC
 
-**Session Date:** 10/19/2025
-**Session Time:** 3:00 PM - 4:30 PM
-**Session Duration:** 90 minutes
-**Service Location:** Community Setting
+**Session Date:** 10/04/2025
+**Session Time:** 10:00 AM - 11:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** School-based Setting
 
-**Staff Present:** Olivia Alvarez, Direct Support Professional
-**Medicaid ID:** PK190774
+**Staff Present:** Charlotte Rodriguez, Behavior Specialist
+**Medicaid ID:** GO970792
 
 ---
 
@@ -25,15 +25,15 @@ Scarlett participated in routine programming activities. Staff implemented indiv
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Communication Skills
-- **Today's Performance:** 4 instances
+### Target 1: Social Interaction
+- **Today's Performance:** 6 instances
 - **Progress Notes:** Scarlett maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Refusing Tasks**
+**Behavior: Minor Non-Compliance**
 - **Frequency:** 1 instances
 - **Duration:** Approximately 3 minutes
 - **Intensity:** Low
@@ -46,16 +46,16 @@ Scarlett participated in routine programming activities. Staff implemented indiv
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 3/session | 6 instances | → Stable |
-| Challenging Behavior | 3/week | 1 instances | → Stable |
+| Target 1 | 5/session | 3 instances | → Stable |
+| Challenging Behavior | 1/week | 2 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Olivia Alvarez, 
-**Title:** Direct Support Professional
-**Date:** 10/19/2025
+**Completed By:** Charlotte Rodriguez, M.Ed.
+**Title:** Behavior Specialist
+**Date:** 10/04/2025
 
 ---
 

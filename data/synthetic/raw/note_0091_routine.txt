@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** Sophia Jimenez
-**Date of Birth:** 02/07/2020
-**Residential Program:** 96 Geiger ICF
-**Day Program:** Liverpool TEC
+**Name:** Lily Scott
+**Date of Birth:** 05/11/2020
+**Residential Program:** 100 Geiger ICF
+**Day Program:** Syracuse TEC
 
-**Session Date:** 11/11/2025
-**Session Time:** 9:00 AM - 10:00 AM
+**Session Date:** 10/31/2025
+**Session Time:** 1:00 PM - 2:00 PM
 **Session Duration:** 60 minutes
 **Service Location:** Day Program
 
-**Staff Present:** Grace Foster, DSP
-**Medicaid ID:** GL866738
+**Staff Present:** Jack Williams, Sr. BCBA
+**Medicaid ID:** QM500184
 
 ---
 
 ## SESSION SUMMARY
 
-Sophia participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Sophia engaging appropriately in scheduled tasks.
+Lily participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Lily engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Communication Skills
-- **Today's Performance:** 4 instances
-- **Progress Notes:** Sophia maintained baseline performance on this target.
+### Target 1: Task Compliance
+- **Today's Performance:** 3 instances
+- **Progress Notes:** Lily maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
 **Behavior: Minor Non-Compliance**
-- **Frequency:** 2 instances
-- **Duration:** Approximately 2 minutes
+- **Frequency:** 1 instances
+- **Duration:** Approximately 1 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** Sophia responded appropriately to interventions
+- **Effectiveness:** Lily responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ Sophia participated in routine programming activities. Staff implemented individ
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 6 instances | → Stable |
-| Challenging Behavior | 3/week | 2 instances | → Stable |
+| Target 1 | 3/session | 3 instances | → Stable |
+| Challenging Behavior | 3/week | 1 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Grace Foster, 
-**Title:** DSP
-**Date:** 11/11/2025
+**Completed By:** Jack Williams, PhD, BCBA
+**Title:** Sr. BCBA
+**Date:** 10/31/2025
 
 ---
 

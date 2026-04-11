@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 15ee2a97
+**Session Date:** 53961bc9
+**Settings:** 92 b4780381, Baldwinsville TEC, 4c041f02
+**Lead Staff:** 9c228e4b, 
+**Home Visit Staff:** 0f281b11, Behavior Specialist II
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Liam demonstrated skill maintenance across multiple settings during coordinated session on 53961bc9.
+
+**SETTING 1:** 92 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 88% independent completion across all tasks
+Staff observer: 9c228e4b, 
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 81% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 4c041f02
+Parent participants: 43ddbdd2 and a659097f
+Home phone: eab7fd91
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 85% independent completion in home environment
+
+**PARENT REPORT:**
+43ddbdd2 reported Liam has been completing 
+morning routine independently at home 5 days per week. a659097f noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+2c7b6821 maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 92 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 5a2a6102 (Occupational Therapy) - contact: 798616f0
+- af1a4f6f, BSN (4d541a75) - contact: 147a4543
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 716eb55c
+
+**Documentation:** 9c228e4b, 
+**Date:** 53961bc9
+
+---
+END OF SESSION NOTE

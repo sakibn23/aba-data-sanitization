@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** Amelia 818d0e5f
+**Date of Birth:** 84c273ff
+**Residential Program:** 96 5db1a815 ICF
+**Day Program:** Chadwicks TEC
+
+**Session Date:** afb35813
+**Session Time:** 9:00 AM - 10:00 AM
+**Session Duration:** 60 minutes
+**Service Location:** Residential Setting
+
+**Staff Present:** 7baa48ee, dd57abff
+**Medicaid ID:** 78bb3378
+
+---
+
+## SESSION SUMMARY
+
+Amelia participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Amelia engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Social Interaction
+- **Today's Performance:** 5 instances
+- **Progress Notes:** Amelia maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Verbal Aggression**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 3 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** Amelia responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 4/session | 6 instances | → Stable |
+| Challenging Behavior | 1/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 7baa48ee, 
+**Title:** RBT
+**Date:** afb35813
+
+---
+
+END OF SESSION NOTE

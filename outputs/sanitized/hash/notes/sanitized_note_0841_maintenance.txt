@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Ramos, 89a53a64
+**Session Date:** f36341a3
+**Settings:** 88 b4780381, 4c882b81, 6c80a2aa
+**Lead Staff:** 2a6c318a, 
+**Home Visit Staff:** eb488095, Behavior Specialist I
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+89a53a64 demonstrated skill maintenance across multiple settings during coordinated session on f36341a3.
+
+**SETTING 1:** 88 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 92% independent completion across all tasks
+Staff observer: 2a6c318a, 
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 88% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 6c80a2aa
+Parent participants: 0782ae49 phone: 53fabbc7
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 73% independent completion in home environment
+
+**PARENT REPORT:**
+bfee788c reported 89a53a64 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+89a53a64 maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. 02281b3b (Occupational Therapy) - contact: 0a4a718c
+- 807370c1, M.A. (4d541a75) - contact: 345b8ed0
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on fb449d51
+
+**Documentation:** 2a6c318a, 
+**Date:** f36341a3
+
+---
+END OF SESSION NOTE

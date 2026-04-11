@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Cox, Lucas
+**Session Date:** ce02545f
+**Settings:** 100 b4780381, Baldwinsville TEC, c0766ba4
+**Lead Staff:** Olivia Castillo, 
+**Home Visit Staff:** ebc3d3f1, cf25077a
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+Lucas demonstrated skill maintenance across multiple settings during coordinated session on ce02545f.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 91% independent completion across all tasks
+Staff observer: 83b4220b, 
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 81% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** c0766ba4
+Parent participants: 1bcb98f7 phone: 26774165
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 70% independent completion in home environment
+
+**PARENT REPORT:**
+8b517841 reported Lucas has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Lucas maintained 82% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 79018b14, 798ff150 (Occupational Therapy) - contact: ff0e2a4d
+- Sofia Ward, c6a7b417 (4d541a75) - contact: 16ab495b
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 42893eb8
+
+**Documentation:** Olivia Castillo, 
+**Date:** ce02545f
+
+---
+END OF SESSION NOTE

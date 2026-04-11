@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Phillips, 502ae197
+**Session Date:** 53961bc9
+**Primary Location:** Baldwinsville TEC
+**Staff:** b937dcf9, CCC-SLP
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. e7da824a at Community Health Center, 450f0123.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, 450f0123
+Clinic phone: 599de9d7
+Provider: Dr. 573ac605 time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: b937dcf9, CCC-SLP
+
+**PARENT COORDINATION:**
+2daf0398 met at clinic.
+Contact number: ddd01a6d
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 96af50a5
+
+**APPOINTMENT OUTCOME:**
+Per Dr. e7da824a:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: Dr. e7da824a
+Pharmacy: dae25302, d272436d
+
+**POST-APPOINTMENT SESSION:**
+502ae197 returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. Hernandez notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+2daf0398 contacted at ddd01a6d to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** b937dcf9, CCC-SLP
+**Medical liaison:** Dr. bf3a101f
+**Date:** 53961bc9
+
+---
+END OF SESSION NOTE

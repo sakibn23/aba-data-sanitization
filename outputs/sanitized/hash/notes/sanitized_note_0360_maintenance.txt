@@ -1,0 +1,56 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 8fa4d0c0*Session Date:** 2dcc2021
+**Settings:** 100 b4780381, feb4ba2d, ab504e6f
+**Lead Staff:** 2f6dd95f, 
+**Home Visit Staff:** 976fe9f6, LPN
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+f5ea3614 demonstrated skill maintenance across multiple settings during coordinated session on 2dcc2021.
+
+**SETTING 1:** 100 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 83% independent completion across all tasks
+Staff observer: 2f6dd95f, 
+
+**SETTING 2:** Cicero TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 82% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** ab504e6f
+Parent participants: 3d9495df phone: c29c05fe
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 84% independent completion in home environment
+
+**PARENT REPORT:**
+38bcac7d reported f5ea3614 has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f5ea3614 maintained 78% consistency across settings for target skills. 
+Variability noted in task initiation between 100 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Emily Kelly, 798ff150 (Occupational Therapy) - contact: 0a4a718c
+- cf923a30, 7c0ba5fc (4d541a75) - contact: f154b551
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on c03821a8
+
+**Documentation:** 2f6dd95f, 
+**Date:** 2dcc2021
+
+---
+END OF SESSION NOTE

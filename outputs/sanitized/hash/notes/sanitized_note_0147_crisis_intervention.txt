@@ -1,0 +1,135 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: ceb32b93, 2baca03a: ba4b9cfc
+9b96b339: 71b3fbd9
+Emergency Contact 1: 0aa49f173456
+Emergency Contact 2: e82ceef91234
+
+**INCIDENT DETAILS:**
+Date: c46fc9dc
+Time of Onset: 9:45 AM
+Location: 96 b4780381, 9ec88ab2
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: 95fd6506, 
+Secondary: c8f08a42, DSP
+Tertiary: 529db617, 61b96822.M.
+9de79093 notified: 4e2874a8, 94746a21
+Medical: Dr. 02281b3b
+
+**DETAILED INCIDENT TIMELINE:**
+
+11:18 AM: PRECIPITATING EVENT
+f089eaef was engaged in activity when trigger occurred.
+
+11:22 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff 95fd6506,  implemented verbal de-escalation.
+
+9:48 AM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff c8f08a42, DSP joined response.
+
+9:51 AM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+4e2874a8, 94746a21 notified.
+
+2:23 PM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: Grace Price, c8f08a42, 93b01a56: Imminent danger to self and others
+
+2:38 PM: DE-ESCALATION PROGRESS
+f089eaef showing decreased muscle tension, verbal communication restored.
+
+2:45 PM: RESTRAINT RELEASED
+Total restraint duration: 19 minutes
+f089eaef moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: Dr. 02281b3b
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+Grace Price: Superficial scratch - Treatment: Cleaned, bandaged
+c8f08a42: Contusion from impact - Treatment: Ice pack applied
+529db617: No injuries
+
+PROPERTY DAMAGE:
+Activity table scratched
+Estimated cost: $158
+
+**EMERGENCY CONTACTS MADE:**
+
+2:28 PM: 513a8aa4 contacted at fa86d2af
+Reached: Yes, answered immediately
+Notified by: 4e2874a8, 94746a21
+
+10:15 AM: fac52284 contacted at c3b843f2
+Reached: Yes, callback received
+
+**MEDICAL CONSULTATION:**
+Dr. 02281b3b assessed. 
+Vital signs: Temp 98.4°F, Pulse 83, BP 123/72, Respirations 18
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+c53860fc, LPN contacted.
+Emergency appointment: 4ce81745
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 9:53 AM
+End time: 10:15 AM
+Total duration: 24 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: Dr. 02281b3b checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: Noah Long - notified
+☑ Clinical Director: e7f49b73
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: 4e2874a8, 94746a21
+Attendees: 95fd6506, c8f08a42, 529db617
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: c53860fc, LPN emergency appt 4ce81745
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** Grace Price, 
+**Reviewed by:** Levi Long, 94746a21
+**Medical review:** Dr. 02281b3b
+**Report filed:** c46fc9dc
+**Report ID:** INC-2026-1812
+
+---
+END OF INCIDENT REPORT

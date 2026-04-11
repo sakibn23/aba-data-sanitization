@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Lopez, Emily
+**Session Date:** e22bbf0c
+**Primary Location:** Baldwinsville TEC
+**Staff:** 6316ba56, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with b2ed234e, LPN at Community Health Center, 9fd96a48.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Community Health Center, 9fd96a48
+Clinic phone: c29c05fe
+Provider: b2ed234e, LPN
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 6316ba56, 
+
+**PARENT COORDINATION:**
+c5b1f0c5 met at clinic.
+Contact number: c1196f3c
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: ae276921
+
+**APPOINTMENT OUTCOME:**
+Per b2ed234e, 87ef1797:
+- Diagnosis: Otitis Externa
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: b2ed234e, 87ef1797
+Pharmacy: Walgreens, c19b7b52
+
+**POST-APPOINTMENT SESSION:**
+Emily returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 4d7b2cc5 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+c5b1f0c5 contacted at c1196f3c to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 6316ba56, 
+**Medical liaison:** Dr. 4d7b2cc5
+**Date:** e22bbf0c
+
+---
+END OF SESSION NOTE

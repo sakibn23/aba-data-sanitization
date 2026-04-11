@@ -2,43 +2,43 @@
 
 ## HEADER SECTION
 
-**Name:** John Hernandez
-**Date of Birth:** 08/08/2013
-**Residential Program:** 96 Geiger ICF
-**Day Program:** Syracuse TEC
+**Name:** Benjamin Rodriguez
+**Date of Birth:** 04/27/2008
+**Residential Program:** 100 Geiger ICF
+**Day Program:** Chadwicks TEC
 
-**Session Date:** 10/28/2025
-**Session Time:** 2:00 PM - 3:00 PM
-**Session Duration:** 60 minutes
-**Service Location:** School-based Setting
+**Session Date:** 11/14/2025
+**Session Time:** 10:00 AM - 11:30 AM
+**Session Duration:** 90 minutes
+**Service Location:** Community Setting
 
-**Staff Present:** Matthew Miller, BCBA
-**Medicaid ID:** WW077692
+**Staff Present:** Abigail Miller, Behavior Specialist II
+**Medicaid ID:** YE418099
 
 ---
 
 ## SESSION SUMMARY
 
-John participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with John engaging appropriately in scheduled tasks.
+Benjamin participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with Benjamin engaging appropriately in scheduled tasks.
 
 ---
 
 ## BEHAVIORAL TARGETS ADDRESSED
 
-### Target 1: Social Interaction
-- **Today's Performance:** 6 instances
-- **Progress Notes:** John maintained baseline performance on this target.
+### Target 1: Task Compliance
+- **Today's Performance:** 3 instances
+- **Progress Notes:** Benjamin maintained baseline performance on this target.
 
 ---
 
 ## CHALLENGING BEHAVIORS
 
-**Behavior: Verbal Aggression**
-- **Frequency:** 1 instances
-- **Duration:** Approximately 3 minutes
+**Behavior: Refusing Tasks**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 1 minutes
 - **Intensity:** Low
 - **Staff Response:** SCIP-R verbal calming techniques, active listening
-- **Effectiveness:** John responded appropriately to interventions
+- **Effectiveness:** Benjamin responded appropriately to interventions
 
 ---
 
@@ -46,16 +46,16 @@ John participated in routine programming activities. Staff implemented individua
 
 | Behavior/Target | Baseline | Today's Data | Progress |
 |----------------|----------|--------------|----------|
-| Target 1 | 5/session | 5 instances | → Stable |
-| Challenging Behavior | 2/week | 2 instances | → Stable |
+| Target 1 | 5/session | 3 instances | → Stable |
+| Challenging Behavior | 1/week | 1 instances | → Stable |
 
 ---
 
 ## STAFF SIGNATURE
 
-**Completed By:** Matthew Miller, BCBA, LBA
-**Title:** BCBA
-**Date:** 10/28/2025
+**Completed By:** Abigail Miller, M.A.
+**Title:** Behavior Specialist II
+**Date:** 11/14/2025
 
 ---
 

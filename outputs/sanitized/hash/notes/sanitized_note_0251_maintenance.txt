@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Scarlett Morales
+**Session Date:** 86ae21a5
+**Settings:** 96 b4780381, Liverpool TEC, e19f5b50
+**Lead Staff:** f5dd01ee, 
+**Home Visit Staff:** Olivia Bennett, Behavior Specialist
+
+---
+
+## 7bdba5d3 AND GENERALIZATION ASSESSMENT
+
+807c9fb7 demonstrated skill maintenance across multiple settings during coordinated session on 86ae21a5.
+
+**SETTING 1:** 96 5db1a815 ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: f5dd01ee, 
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: 07026c22 tasks, peer interaction, following multi-step directions
+Performance: 79% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** e19f5b50
+Parent participants: 599f2a7d phone: df8a5497
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 85% independent completion in home environment
+
+**PARENT REPORT:**
+537e71c6 reported 807c9fb7 has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+807c9fb7 maintained 83% consistency across settings for target skills. 
+Variability noted in task initiation between 96 b4780381 and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- ebe7554c, 4cf85d54 (Occupational Therapy) - contact: ac1bb8d9
+- Dr. 5dfcf9ef (4d541a75) - contact: b3bcad9f
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 6c80d81c
+
+**Documentation:** f5dd01ee, 
+**Date:** 86ae21a5
+
+---
+END OF SESSION NOTE

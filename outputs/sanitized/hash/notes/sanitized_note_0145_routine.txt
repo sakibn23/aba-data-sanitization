@@ -1,0 +1,62 @@
+# UCP SESSION NOTE - ROUTINE SESSION
+
+## HEADER SECTION
+
+**Name:** Scarlett James
+**Date of Birth:** 9aa19793
+**Residential Program:** 92 5db1a815 ICF
+**Day Program:** Cicero TEC
+
+**Session Date:** 030b7f07
+**Session Time:** 10:00 AM - 11:30 AM
+**Session Duration:** 90 minutes
+**Service Location:** School-based Setting
+
+**Staff Present:** 7961fd29, RBT
+**Medicaid ID:** e22265d1
+
+---
+
+## SESSION SUMMARY
+
+807c9fb7 participated in routine programming activities. Staff implemented individualized universal protocol including access to preferred activities and staff attention. Session proceeded as planned with 807c9fb7 engaging appropriately in scheduled tasks.
+
+---
+
+## BEHAVIORAL TARGETS ADDRESSED
+
+### Target 1: Task Compliance
+- **Today's Performance:** 6 instances
+- **Progress Notes:** 807c9fb7 maintained baseline performance on this target.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+**Behavior: Minor Non-Compliance**
+- **Frequency:** 2 instances
+- **Duration:** Approximately 3 minutes
+- **Intensity:** Low
+- **Staff Response:** SCIP-R verbal calming techniques, active listening
+- **Effectiveness:** 807c9fb7 responded appropriately to interventions
+
+---
+
+## DATA COLLECTION
+
+| Behavior/Target | Baseline | Today's Data | Progress |
+|----------------|----------|--------------|----------|
+| Target 1 | 5/session | 3 instances | → Stable |
+| Challenging Behavior | 2/week | 2 instances | → Stable |
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 7961fd29, 
+**Title:** RBT
+**Date:** 030b7f07
+
+---
+
+END OF SESSION NOTE

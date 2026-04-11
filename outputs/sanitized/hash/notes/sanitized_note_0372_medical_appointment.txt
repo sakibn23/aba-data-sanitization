@@ -1,0 +1,73 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Allen, 00088533*Session Date:** c46fc9dc
+**Primary Location:** Baldwinsville TEC
+**Staff:** 48e16a17, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. a226a208 at Community Health Center, 536cb190.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Community Health Center, 536cb190
+Clinic phone: ddd01a6d
+Provider: Dr. a226a208
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 48e16a17, 
+
+**PARENT COORDINATION:**
+98999090 met at clinic.
+Contact number: c9f02eec
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: 99ce7eec
+
+**APPOINTMENT OUTCOME:**
+Per Dr. a226a208:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: Dr. a226a208
+Pharmacy: CVS Pharmacy, ac1bb8d9
+
+**POST-APPOINTMENT SESSION:**
+f089eaef returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. 70852077 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+98999090 contacted at c9f02eec to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 48e16a17, 
+**Medical liaison:** Dr. 70852077
+**Date:** c46fc9dc
+
+---
+END OF SESSION NOTE

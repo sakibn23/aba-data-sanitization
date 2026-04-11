@@ -1,0 +1,57 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Young, [PERSON]
+**Session Date:** [DATE]
+**Settings:** 92 [PERSON], Liverpool TEC, [ADDRESS]
+**Lead Staff:** [PERSON], 
+**Home Visit Staff:** [PERSON], [CREDENTIAL]
+
+---
+
+## [PERSON] AND GENERALIZATION ASSESSMENT
+
+[PERSON] demonstrated skill maintenance across multiple settings during coordinated session on [DATE].
+
+**SETTING 1:** 92 [PERSON] ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 88% independent completion across all tasks
+Staff observer: [PERSON], 
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: [PERSON] tasks, peer interaction, following multi-step directions
+Performance: 83% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** [ADDRESS]
+Parent participants: [PERSON] phone: [PHONE]
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 85% independent completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reported [PERSON] has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+[PERSON] maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 92 [PERSON] and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. [PERSON] (Occupational Therapy) - contact: [PHONE]
+- Lily Kim, [PERSON] ([PERSON]) - contact: [PHONE]
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on [DATE]
+
+**Documentation:** [PERSON], 
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

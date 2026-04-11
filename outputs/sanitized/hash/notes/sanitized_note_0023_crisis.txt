@@ -1,0 +1,78 @@
+# UCP SESSION NOTE - RESTRICTIVE INTERVENTION REQUIRED
+
+## HEADER SECTION
+
+**Name:** Aiden Evans
+**Date of Birth:** 2d0f9179
+**Residential Program:** 96 5db1a815 ICF
+**Day Program:** Syracuse TEC
+
+**Session Date:** 53961bc9
+**Session Time:** 9:00 AM - 11:00 AM
+**Session Duration:** 120 minutes
+**Service Location:** Community Setting
+
+**Staff Present:** Scarlett Green, Behavior Specialist (Primary); f9641c15, 94746a21 (Support)
+**Medicaid ID:** 810ba017
+
+---
+
+## SESSION SUMMARY
+
+Aiden engaged in severe challenging behavior requiring SCIP-R restrictive physical intervention. Incident occurred at approximately 2:15 PM. All BSP protocols followed. Post-intervention procedures completed per protocol.
+
+---
+
+## CHALLENGING BEHAVIORS
+
+### Behavior: Physical Aggression
+
+**Frequency:** 1 instance requiring restraint
+**Duration:** Approximately 7 minutes (including restraint time)
+**Intensity:** High
+
+**SCIP-R Restrictive Physical Intervention:**
+- **Type:** Two-person supine restraint
+- **Duration:** 5 minutes
+- **Staff Involved:** Scarlett Green and b2925cb2*Reason:** Immediate health and safety risk
+
+---
+
+## POST-INTERVENTION PROCEDURES COMPLETED
+
+**Body Check:**
+- Conducted By: e0c862f7, LPN
+- Time: Within 3 minutes of restraint conclusion
+- Findings: No marks, bruises, or injuries noted
+
+**Clinician Contact:**
+- Clinician: cc715ad9, M.A., Behavior Specialist II
+- Reviewed incident details and confirmed appropriate intervention per BSP
+
+**Program Administrator Contact:**
+- Administrator: e40feac1, Program Director
+- All post-intervention procedures completed correctly
+
+**Justice Center Notification:** No - Restraint per approved BSP
+
+---
+
+## RIGHTS RESTRICTIONS UTILIZED
+
+**SCIP-R Restrictive Physical Interventions:**
+- Duration: 6 minutes
+- Justification: Immediate health and safety risk per BSP
+
+---
+
+## STAFF SIGNATURE
+
+**Completed By:** 2965d827, M.Ed.
+**Title:** Behavior Specialist
+**Date:** 53961bc9
+
+**Reviewed By:** af2f8d71, M.A., Behavior Specialist II
+
+---
+
+END OF SESSION NOTE

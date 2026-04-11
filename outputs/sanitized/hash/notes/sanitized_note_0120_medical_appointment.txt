@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Watson, 8b49a459
+**Session Date:** 80a016d5
+**Primary Location:** Baldwinsville TEC
+**Staff:** Jackson James, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Avery Hughes, 61b96822.M. at Syracuse Medical Associates, b43ded77.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, b43ded77
+Clinic phone: 16ab495b
+Provider: Avery Hughes, 61b96822.M.
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 7ccca5c8, 
+
+**PARENT COORDINATION:**
+90a67c1f met at clinic.
+Contact number: d272436d
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 9de2784a
+
+**APPOINTMENT OUTCOME:**
+Per Avery Hughes, 61b96822.M.:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: Avery Hughes, 61b96822.M.
+Pharmacy: CVS Pharmacy, 6511c091
+
+**POST-APPOINTMENT SESSION:**
+8b49a459 returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Elijah Bailey, Behavior Specialist II notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+90a67c1f contacted at d272436d to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 7ccca5c8, 
+**Medical liaison:** a0c85c0d, Behavior Specialist II
+**Date:** 80a016d5
+
+---
+END OF SESSION NOTE

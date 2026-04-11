@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Levi 235fe393
+**Session Date:** 42998749
+**Primary Location:** Liverpool TEC
+**Staff:** Olivia Cox, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with ee9f879e, MSW at Community Health Center, 05724e74.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, 05724e74
+Clinic phone: 2b4a55b6
+Provider: ee9f879e, MSW
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 2ecc7b4c, 
+
+**PARENT COORDINATION:**
+49e07baf met at clinic.
+Contact number: d7b8792d
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: e2d646bf
+
+**APPOINTMENT OUTCOME:**
+Per ee9f879e, MSW:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: ee9f879e, MSW
+Pharmacy: dae25302, 873b38d5
+
+**POST-APPOINTMENT SESSION:**
+8b49a459 returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. Hughes notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+49e07baf contacted at d7b8792d to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Olivia Cox, 
+**Medical liaison:** Dr. Hughes
+**Date:** 42998749
+
+---
+END OF SESSION NOTE

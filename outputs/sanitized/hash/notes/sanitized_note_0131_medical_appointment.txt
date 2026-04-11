@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** c8f08a42
+**Session Date:** 9a968f1a
+**Primary Location:** Liverpool TEC
+**Staff:** af6c76e8, 
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. 8fc49a37 at Syracuse Medical Associates, 7b0f6ab9.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, 7b0f6ab9
+Clinic phone: 1c0f0de7
+Provider: Dr. 8fc49a37
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: af6c76e8, 
+
+**PARENT COORDINATION:**
+e5619763 met at clinic.
+Contact number: c1196f3c
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: effb5953
+
+**APPOINTMENT OUTCOME:**
+Per Dr. 8fc49a37:
+- Diagnosis: Otitis Externa
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Apply topically twice daily
+Prescribing provider: Dr. 8fc49a37
+Pharmacy: Walgreens, 26774165
+
+**POST-APPOINTMENT SESSION:**
+190eb3eb returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Avery Richardson, M.A. notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+e5619763 contacted at c1196f3c to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** af6c76e8, 
+**Medical liaison:** aeda7001, M.A.
+**Date:** 9a968f1a
+
+---
+END OF SESSION NOTE
