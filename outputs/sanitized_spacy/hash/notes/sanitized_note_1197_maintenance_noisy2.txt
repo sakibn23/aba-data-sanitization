@@ -1,0 +1,58 @@
+# f31c8453 sess NOTE - GENERALIZATION SESSION
+
+**Client:** Reyes, Aria
+**Session Date:** 34ececbd
+**Settings:** 92 Geiger ICF, Cicero TEC, 7b1de39c
+**Lead Staff:** Owen Torres
+**Home Visit Staff:** d011ac5d, cc976392
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Aria demonstrated skill maintenance across multiple settings during coordinated session on bfe20d3a.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion social communication
+Performance: 84% independent completion across all tasks
+Staff observer: aa61ac60
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks peer interaction following multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 7b1de39c
+Parent participants: 85d8867b and Carol Reyes
+Home phone: (315)476-2345
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 82% independent completion in home environment
+
+**PARENT REPORT:**
+85d8867b reported Aria has been completing 
+morning routine indep. at home 4 days per week. e6057e12 noted improvement in communication w/ younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Aria maintaiend 79% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Malpezzi (OT Therapy) - contact: 315.475.2345
+- 36e49628 (Speech Therapy) - contact: d8ed507d
+
+**RECOMMENDATIONS:**
+- Contniue generalization trials across all settings weekly
+- Increase home practice freq to 3 times per week
+- Schedule tri-setting observation on 35caec20
+
+**Documentation:** Owen Torres
+**Date:** 3ff6288d
+
+---
+END OF sess NOTE

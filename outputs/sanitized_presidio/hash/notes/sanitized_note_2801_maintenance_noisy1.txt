@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 04634c72
+**sess Date:** Oct 18 2025
+**Settings:** 92 Geiger ICF, Baldwinsville TEC, 651 Elm Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 47171131
+**Home Visit Staff:** Avery Davis, 8322fec4
+
+---
+
+## MAINTENANCE AND GENERALIZATOIN ASSESSMENT
+
+78a1a1da demonstrated skill maintenance across multiple settings during coordinated sess on d39ee4d6.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion social comm
+Performance: 87% indep completion across all tasks
+Staff observer: 47171131
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 87% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 651 Elm Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 993e6d2e
+Home phone: (943e5ab0
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 84% inedp completion in home environment
+
+**PARENT REPORT:**
+993e6d2e reported 78a1a1da has been completing 
+morning routine indep. at home 5 days per week
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+78a1a1da maintained 78% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared w/:
+- 6e08c66e, 9eecfb3c (Occupational Therapy) - contact: a391a130
+- James Morris, NP (ST Therapy) - contact: d914fc82
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 8f7dda07
+
+**Documentation:** 47171131
+**Date:** 187f3c2a
+
+---
+END OF sess NOTE

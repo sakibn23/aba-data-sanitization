@@ -1,0 +1,133 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+125 Business Park Drive, 50ec69c8, 124e0b72 13502
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: 03ccf2f9, Riley
+Date of Birth: 6af971fb
+Primary Residence: 288 Geiger Road, d0d22019, 124e0b72 13440
+Emergency Contact 1: 467c7f6a - (563ee8da
+
+**INCIDENT DETAILS:**
+Date: November 11, 2025
+Time of Onset: 11:22 AM
+Location: 95 Geiger ICF, 92 66ad3174, d0d22019, 124e0b72 13440
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: b8b621c7, 70618c58
+Secondary: 15aec8b5, 94746a21
+Tertiary: 8b92d6ea, 03abe3d2
+Supervisor notified: 2e7c00e3, a3de4d11
+Medical: 05ef2a9e, a80c79af
+
+**DETAILED INCIDENT TIMELINE:**
+
+2:11 PM: PRECIPITATING EVENT
+Riley was engaged in activity when trigger occurred.
+
+9:45 AM: bx ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff b8b621c7, 70618c58 implemented verbal de-escalation
+
+11:25 AM: bx ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff 15aec8b5, 94746a21 joined response.
+
+2:21 PM: BEHVAIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+2e7c00e3, a3de4d11 notified.
+
+9:53 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: b8b621c7, 70618c58, 9852bcfb
+Reason: Imminent danger to self and others
+
+11:45 AM: DE-ESCALATION PROGRESS
+Riley showing decreased mucsle tension, verbal communication restored.
+
+10:15 AM: RESTRAINT RELEASED
+Total restraint duration: 22 minutes
+c773f5fb moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: 05ef2a9e, a80c79af
+tx: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+b8b621c7: Superficial scratch - Treatment: Cleaned, bandaged
+15aec8b5: Contusion from impact - Treatment: Ice pack applied
+8b92d6ea: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $219
+
+**EMERGENCY CONTACTS MADE:**
+
+9:58 AM: 467c7f6a contacted at (563ee8da
+Reached: Yes, answered immediately
+Notified by: 2e7c00e3, a3de4d11
+
+**MEDICAL CONSULTATION:**
+05ef2a9e, a80c79af assessed. 
+Vital signs: Temp 98.4°F, Pulse 93, BP 123/72, Respirations 17
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+ecd71f40, 769dc71a contacted.
+Emergency appointment: 3c256001
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical intv
+☑ Multiple staff required (3+)
+☑ dur > 10 min
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 11:30 AM
+End time: 11:52 AM
+Total duration: 20 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: 05ef2a9e, a80c79af checked vital signs every 5 min
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: 6ec1a9fe - notified
+☑ Clinical Director: 2e7c00e3 - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: 2e7c00e3, a3de4d11
+Attendees: bf148bb1, 8b92d6ea
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: ecd71f40, 769dc71a emergency appt a617a35b
+☑ Saefty Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** b8b621c7, 70618c58
+**Reviewed by:** 2e7c00e3, a3de4d11
+**Medical review:** 05ef2a9e, a80c79af
+**Report filed:** 2e09a39c
+**Report ID:** INC-2026-8874
+
+---
+END OF INCIDENT REPORT

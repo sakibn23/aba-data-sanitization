@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** da9bd7cd
+**Session Date:** 225c1a1a
+**Primary Location:** Cicero TEC
+**Staff:** e69175ad
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ ed39809a at Community Health Center, 6efff797.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, 6efff797
+Clinic phone: 10ff4a59
+Provider: Dr. Allen
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: Mia Baker
+
+**PARENT COORDINATION:**
+a65632e1 met at clinic.
+Contact number: (315)453-4567
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 594dd2c5
+
+**APPOINTMENT OUTCOME:**
+Per ed39809a:
+- Diagnosis: Otitis Externa
+- tx: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: ed39809a
+Pharmacy: 8fa7bec5 (315)498-3456
+
+**POST-APPOINTMENT sess:**
+41509508 returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 86782b4f notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+a65632e1 contacted at (315)453-4567 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** e69175ad
+**Medical liaison:** 86782b4f
+**Date:** 225c1a1a
+
+---
+END OF SESSION NOTE

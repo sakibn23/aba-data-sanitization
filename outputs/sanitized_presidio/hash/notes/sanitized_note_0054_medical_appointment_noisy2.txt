@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 32bbed64
+**sess Date:** 225c1a1a
+**Primary Location:** Syracuse TEC
+**Staff:** f7e4162f
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ 7cc8fe37 at Syracuse Medical Associates, 841 Erie Street, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Syracuse Medical Associates, 841 Erie Street, 2fb59fa3, NY 13202
+Clinic phone: (9aa41639
+Provider: 7cc8fe37
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: f7e4162f
+
+**PARENT COORDINATION:**
+1cca4fd9 met at clinic.
+Contact number: cf273214
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 4-17-26
+
+**APPOINTMENT OUTCOME:**
+Per 7cc8fe37:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Apply topically twice daily
+Prescribing provider: Dr. Kim
+Pharmacy: Kinney Drugs, f154b551
+
+**POST-APPOINTMENT SESSION:**
+2e7041b7 returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate comm of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. f3bef570, 9eecfb3c notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+1cca4fd9 contacted at cf273214 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication sied effects
+- Modiifed schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** f7e4162f
+**Medical liaison:** Avery Turner, 9eecfb3c
+**Date:** October 2, 2025
+
+---
+END OF SESSOIN NOTE

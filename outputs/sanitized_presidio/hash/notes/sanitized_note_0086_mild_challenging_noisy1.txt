@@ -1,0 +1,63 @@
+# UCP SESSION NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** 4fc16d5f
+**Incident Date:** Oct 18 2025
+**Incident Time:** 11:20 AM
+**Location:** 95 Geiger ICF
+**Staff Present:** 9fa4eb5c, 03abe3d2
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+3ab854ae was engaged in art activity at 95 Geigre ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR DESCRIPTION:**
+3ab854ae exhibited Brief wihtdrawal characterized by:
+- Loud vocal toen stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- dur: 2 min
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff 9fa4eb5c, 03abe3d2 implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+3ab854ae responded to choice offering intervention and returned to baseline within 
+5 min.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+3ab854ae participated in cooperative art activity w/ appropriate sharing behaviors 
+observed. No furhter incidents during remainder of session.
+
+**FUNCTIONAL comm:**
+3ab854ae was able to verbally rqeuest "my turn please" following de-escalation, 
+demonstrating undertsanding of replcaement bx.
+
+**PARENT NOTIFICATION:**
+Phone contact with bfabec95 at (77010747. 
+Parent reported similar sharing difficulties at hoem w/ sibling. Discussed consistency in 
+intervention approach across settings
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by Henry Ramirez
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next sess:** 4-22-26 at 95 Geiger ICF
+**Provider check-in:** e57b1f63 on 39145063
+
+**Report filed by:** 9fa4eb5c, 03abe3d2
+**Filed:** 2a1695eb
+
+---
+END OF SESSION NOTE

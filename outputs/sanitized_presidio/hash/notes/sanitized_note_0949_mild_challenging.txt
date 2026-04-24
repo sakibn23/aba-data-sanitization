@@ -1,0 +1,63 @@
+# UCP SESSION NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** c71e1f48
+**Incident Date:** bfe20d3a
+**Incident Time:** 10:45 AM
+**Location:** 92 Geiger ICF
+**Staff Present:** Grace James
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+41509508 was engaged in art activity at 92 Geiger ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR DESCRIPTION:**
+41509508 exhibited Brief withdrawal characterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- Duration: 2 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff 76999887 implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+41509508 responded to choice offering intervention and returned to baseline within 
+7 minutes.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+Mia participated in cooperative art activity with appropriate sharing behaviors 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+41509508 was able to verbally request "my turn please" following de-escalation, 
+demonstrating understanding of replacement behavior.
+
+**PARENT NOTIFICATION:**
+Phone contact with cacce07b at (7e51b2f3. 
+Parent reported similar sharing difficulties at home with sibling. Discussed consistency in 
+intervention approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by Grace James
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** b0e7dc87 at 92 Geiger ICF
+**Provider check-in:** 6e90491e, c6a7b417 on 0da4a2ca
+
+**Report filed by:** 76999887
+**Filed:** bfe20d3a
+
+---
+END OF SESSION NOTE

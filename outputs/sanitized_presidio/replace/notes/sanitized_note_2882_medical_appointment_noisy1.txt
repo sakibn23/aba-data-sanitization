@@ -1,0 +1,74 @@
+# UCP sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**sess Date:** 10-3-25
+**Primary Location:** Baldwinsville TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED SESSION - MDEICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment wiht [PERSON], [CREDENTIAL] at WellNow Urgent Care, 582 [PERSON], [ADDRESS], NY 13202.
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: WellNow Urgent Care, 582 [PERSON], [ADDRESS], NY 13202
+Clinic phone: ([PHONE]
+Provider: [PERSON], [CREDENTIAL]
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: [PHONE]
+
+**MEDICAL COCNERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: Apr 15 2026
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON], [CREDENTIAL]:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasla spray - 4 dorps each ear 4x daily × 7 days
+Prescribing provider: [PERSON], [CREDENTIAL]
+Pharmacy: [ADDRESS], [PHONE]
+
+**POST-APPOINTMENT sess:**
+[PERSON] returned to Baldwinvsille TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. [PERSON], [CREDENTIAL] notified to add new medication to 
+medication administration record
+
+**PARENT comm:**
+[PERSON] contacted at [PHONE] to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observatoin for symptom improvement
+- Netx appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce acdaemic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON], [CREDENTIAL]
+**Date:** Oct 3 2025
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** c0aac591
+**Session Date:** 187f3c2a
+**Settings:** 96 Geiger ICF, Syracuse TEC, d5a28bcc
+**Lead 681927e3:** 974153f8
+**Home Visit Staff:** 61cdbe16, 9eecfb3c
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+f3c7769d demonstrated skill maintenance across multiple settings during coordinated session on 187f3c2a.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 87% independent completion across all tasks
+Staff observer: 974153f8
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy with minimal prompting
+2fe70464 quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** d5a28bcc
+5f7953f7 participants: 6a594a4c
+3a786953 phone: (315) 515-4567
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 83% independent completion in home environment
+
+**PARENT REPORT:**
+6a594a4c reported f3c7769d has been completing 
+morning routine independently at home 4 days per week.
+
+**5f7953f7 training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f3c7769d maintained 86% consistency across settings for target skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- d0e11245 (Occupational Therapy) - contact: 2e163de4
+- 7d1f5673 (Speech Therapy) - contact: 4a6de59a
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 41720b53
+
+**Documentation:** 974153f8
+**Date:** 187f3c2a
+
+---
+END OF SESSION NOTE

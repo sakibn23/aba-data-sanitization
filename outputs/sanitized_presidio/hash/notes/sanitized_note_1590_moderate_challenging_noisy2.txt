@@ -1,0 +1,91 @@
+# UCP sess NOTE - MODERATE CHALLENGING BEHAVIOR
+
+**UPSTATE CARING PARTNERS**
+125 Business Park Drive, 50ec69c8, 124e0b72 13502
+Phone: ddd01a6d
+
+**Client Name:** 8eb82736
+**Date of Birth:** 3e980dbc
+**Incident Date:** ab32c455
+**Incident Time:** 10:30 AM
+**Location:** 95 Gieger ICF
+**Staff Involved:** 358f3740, 03abe3d2; Harper Gutierrez 771546ad
+
+---
+
+## MODERTAE CHALLENGING bx - MULTIPLE INTERVENTIONS
+
+**INDIVIDUALS PRESENT:**
+Staff: 358f3740, 03abe3d2; Harper Gutierrez 771546ad
+Location: Community room, 95 Geiger ICF
+
+**INCIDENT TIMELINE:**
+
+3:40 PM - ANTECEDENT
+2c7b6821 was participating in group activity when transition announcement was made 
+to end preferred activity.
+
+10:30 AM - BEHAVIOR ONSET
+2c7b6821 engaged in PT aggression including:
+- Pushnig peer
+- Throwing materials
+- Verbal aggression (yelling, protesting)
+
+10:32 AM - INITIAL intv
+358f3740, 03abe3d2 implemented verbal de-escalation and visual supports.
+Limited effectiveness. bx escalated to Level 2 (moderate severity).
+
+2:20 PM - SECNODARY intv
+f471d1f9, 771546ad joined intervention team.
+SCIP-R blocking pads utilized per BSP protocol.
+2c7b6821 responded to palnned ignoring combined with blocking strategy.
+
+3:58 PM - DE-ESCALATION ACHIEVED
+2c7b6821 returned to baseline. Moved to quiet room for recovery.
+
+**INJURIES/DAMAGE:**
+Staff: 358f3740 sustained minor scratch on left forearm, no medical treatment required
+Property: Game materials damaged, approximate cost $33
+Client: No injuries sustained
+
+**IMMEDIATE PARENT CONTACT:**
+6efba999 contacted at (e1a2fb4b.
+Parent acknowledged incident and requestde details of antecedent triggers.
+
+**MEDICAL CONSULTATION:**
+Nurse 2107a691, a80c79af consulted. Visual assessment of minor staff injury completed. 
+No client injuries noted. No medical intervention required.
+
+**RESTRICTIVE INTERVENTIONS USED:**
+- SCIP-R Blocking Pads: Yes (Duration: 6 minutes)
+- Physical Restraint: No
+- Seclusion: No
+- PRN Medication: Not administered
+
+**FUNCTIONAL BEHAVIOR ASSESSMENT UPDATE:**
+Data suggests escape function related to transition from preferred activities. 
+Recommend FBA review with Aria Ramos 03abe3d2 scheduled for 
+f005645c.
+
+**PSYCHIATRIC CONSULTATION:**
+66bcaaf3, 03abe3d2 notified via phone message. Appoitnment maintained for 
+5-5-26.
+
+**NOTIFICATIONS COMPLETED:**
+☑ Parents (contacted)
+☑ Program Director (notified)
+☑ Nruse (consulted)
+☑ Psychiatrist (message left)
+☐ OPWDD (Not required - internal incident)
+
+**FOLLOW-UP ACTIONS:**
+- Incident review meeting scheduled
+- BSP modification considered for transition protocols
+- Staff debriefing completed
+- Additional transition warnings for nxet 72 hours
+
+**Report compiled by:** 358f3740, 03abe3d2
+**Report filed:** November 2, 2025
+
+---
+END OF SESSION NOTE

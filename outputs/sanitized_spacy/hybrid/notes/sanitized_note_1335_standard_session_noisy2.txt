@@ -1,0 +1,52 @@
+# [PERSON] sess NOTE - STANDARD SESSION
+
+**Client:** Diaz, [PERSON]
+**Date of Birth:** M*********7
+**Session Date:** 1********5
+**Location:** 88 Geiger ICF
+**Staff:** Amelia [PERSON]
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 88 Geiger ICF from 2:00 PM to 4:00 PM. 
+[PERSON] engaged in 5 scheduled activities with mixed performance
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 78% indep completion
+2. Functional comm practice: 65% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 67% completion rate
+5. Leisuer skills: High engagement appropriate duration
+
+Overall completion rate: 79%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. [PERSON] responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token econmoy system (earned 16 tokens toward preferred activity)
+- Functinoal communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at (315) 461-5678 re: 
+upcoming porgram meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+[PERSON] takes Sertraline 50mg daily per prescription from [PERSON]. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for 4*******6 at 88 Geiger ICF.
+
+**Authored by:** Amelia [PERSON]
+**Date:** O**************5
+
+---
+END OF SESSION NOTE

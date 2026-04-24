@@ -1,0 +1,2 @@
+scripts/detectors/bert_ner_model/model.safetensors
+scripts/detectors/deberta_ner_model/model.safetensors

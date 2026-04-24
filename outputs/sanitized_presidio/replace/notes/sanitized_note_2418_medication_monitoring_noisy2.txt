@@ -1,0 +1,95 @@
+# UCP sess NOTE - MEDICATION MONITORING
+
+**Client:** [PERSON]
+**Date of Birth:** [DATE]
+**Session Date:** [DATE]
+**Location:** 96 Geiger ICF
+**Monitoring Staff:** [PERSON]
+**Consulting Nurse:** [PERSON]
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by [PERSON], [CREDENTIAL]
+Last appointment: [DATE]
+Next appointment: [DATE]
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: March 22, 2025
+   
+2. Sertraline HCL 50mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Strat date: August 25, 2025
+   
+3. Trazodone 100mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: [DATE]
+
+**RECENT CHANGE:**
+[DATE]: 
+Sertraline HCL 50mg dosage increased
+Ordered by: [PERSON], [CREDENTIAL]
+
+**BEHAVIORAL OBSERVATOINS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. [PERSON] readily engaged in 
+morning routien w/ 89% independence. Sleep quality per parent report: 
+"Best week in months sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. [PERSON] completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attentoin during tasks improved. [PERSON] worked for 27-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: [ADDRESS] improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for headache complaint
+Administered by: Dr. Allen
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 98.2°F
+Pulse: 80 bpm
+Respirations: 17 per minute
+Recorded by: [PERSON]
+
+**PARENT CONSULTATION:**
+[PERSON] contacted at ([PHONE].
+
+Home observations reported:
+- Sleep pattern: Falling aselep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: Calmer during bdetime routine
+- Meidcation compliance: 100% adherence no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for netx 30 days
+- Report findings to Owen Morris, [CREDENTIAL] at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 5-18-26
+Prescriber appointment: [DATE]
+
+**Documented by:** [PERSON]
+**Reviewed by:** [PERSON]
+**Date:** Oct 16 2025
+
+---
+END OF sess NOTE

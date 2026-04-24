@@ -1,0 +1,133 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+125 Business Park Drive, 50ec69c8, 124e0b72 13502
+Emergency Contact: ddd01a6d
+
+**CLIENT info:**
+Name: 2899be5e
+Date of Birth: 6-18-14
+Primary Residence: 97 Geiger Road, d0d22019, 124e0b72 13440
+Emergency Contact 1: 5ad6d904 - (0c010b3c
+
+**INCIDENT DETAILS:**
+Date: Oct 30 2025
+Time of Onset: 11:22 AM
+Location: 96 Geiger ICF, 82 Geiger Road, d0d22019, 124e0b72 13440
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: Mason Ruiz
+Secondary: 67146367, c4b37c5f
+Tertiary: f9fdb775, a3de4d11
+Supervisor notified: 6fa7964a, 20e060cd
+Medical: 2ca11b53
+
+**DETAILED INCIDENT TIMELINE:**
+
+11:18 AM: PRECIPITATING EVENT
+907814bb was enggaed in activity when trigger occurred.
+
+11:22 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff c6b655e9 implemented verbal de-escalation.
+
+11:25 AM: bx ESCALATION - LEVEL 2
+PT aggression toward peer.
+Additional staff 46445e6d, 4d95e550, c4b37c5f joined response.
+
+11:28 AM: bx ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+6fa7964a, 20e060cd notified.
+
+11:30 AM: RESTRICTIVE intv INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: caf6752c, Ethan Adams
+Reason: Imminent danger to self and others
+
+2:38 PM: DE-ESCALATION PROGRESS
+907814bb showing decreased muscle tension, verbal communication restored.
+
+10:15 AM: RESTRAINT RELEASED
+Total restraint duration: 21 minutes
+907814bb moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact no skin breakdown
+Assessed by: 2ca11b53
+Treatment: Visual inspection only ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+Mason Ruiz: Superficial scratch - Treatment: Cleaned, bandaged
+46445e6d: Contusion from impact - tx: Ice pack applied
+f9fdb775: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $195
+
+**EMERGENCY CONTACTS MADE:**
+
+9:58 AM: 5ad6d904 contacted at (0c010b3c
+Reached: Yes, answered immediately
+Notified by: 6fa7964a, 20e060cd
+
+**MEDICAL CONSULTATION:**
+2ca11b53 assessed. 
+Vital signs: Temp 98.4°F, Pulse 85 BP 119/79 Respirations 16
+rec: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+b2ca8df2 contacted.
+Emergency appointment: 3c256001
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical intv
+☑ Multiple staff required (3+)
+☑ Duration > 10 min
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Prpoerty damage
+☑ Staff injury requiring treatment
+☑ Psychiatric conslutation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 11:30 AM
+End time: 11:52 AM
+Total duration: 23 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: 2ca11b53 checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: 17e00d89 - notified
+☑ Clinical Director: 6fa7964a - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: 6fa7964a, 20e060cd
+Attendees: caf6752c, f9fdb775
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: b2ca8df2 emergnecy appt 2714f138
+☑ Safety Protocol Review: Scheduled
+☑ Incident Reviwe Team: Scheduled
+
+**Report compiled by:** Mason Ruiz
+**Reviewed by:** 6fa7964a, 20e060cd
+**Medical review:** 2ca11b53
+**Report filed:** Oct 30 2025
+**Report ID:** INC-2026-2477
+
+---
+END OF INCIDENT REPORT

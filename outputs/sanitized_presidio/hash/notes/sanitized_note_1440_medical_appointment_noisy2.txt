@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** dda88044
+**Session Date:** 11-11-25
+**Primary Location:** Baldwinsville TEC
+**Staff:** 644b6277
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 322245ed, 87ef1797 at WellNow Urgent Care, 673 595fd85a, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, 673 595fd85a, 2fb59fa3, NY 13202
+Clinic phone: 01e12fb0
+Provider: 322245ed, 87ef1797
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 644b6277
+
+**PARENT COORDINATION:**
+4dca20c7 met at clinic.
+Contact number: (1500c15b
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 4-16-26
+
+**APPOINTMENT OUTCOME:**
+Per 322245ed, 87ef1797:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Rteurn if symptoms worsen othewrise f/u w/ PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: 322245ed, 87ef1797
+Pharmacy: Kinney Drugs, ea4bdf78
+
+**POST-APPOINTMENT SESSION:**
+f190d2ae returend to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical vsiit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 6c03706d notified to add new mediaction to 
+medication administration record.
+
+**PARENT comm:**
+4dca20c7 contacted at (1500c15b to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Moniotr for medication side effects
+- Modified schedule for meidcal appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 644b6277
+**Medical liaison:** 6c03706d
+**Date:** November 11, 2025
+
+---
+END OF SESSION NOTE

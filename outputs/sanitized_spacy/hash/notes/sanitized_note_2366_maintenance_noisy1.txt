@@ -1,0 +1,58 @@
+# f31c8453 sess NOTE - GENERALIZATION SESSION
+
+**Client:** 7ed2a59f
+**Session Date:** 42998749
+**Settings:** 95 Geiger ICF, Syracuse TEC, 2bbf0a49
+**Lead Staff:** a08e5d7f
+**Home Visit Staff:** 76dccde1, a80c79af
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Charlotte demnostrated skill maintenance across multiple settings during coordinated session on Oct 26 2025.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion social communication
+Performance: 85% indep completion across all tasks
+Staff observer: a08e5d7f
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks peer interaction, following multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smooth transition with visaul schedule support
+
+**HOME VISIT:** 2bbf0a49
+Parent participants: c355ab8a and f4b1d359
+Home phone: (315)438-7890
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 83% indep completion in home environment
+
+**PARENT REPORT:**
+c355ab8a reported Charlotte has been completing 
+morning routine independently at home 4 days per week. f4b1d359 noetd improvement in comm w/ younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Charlotte maintained 78% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared w/:
+- 8e0b3fa3 (Occupational Therapy) - contact: 315.490.2345
+- 0cf80870 (ST Therapy) - contact: 99bfe206
+
+**recs:**
+- Continue generalization tirals across all settings weekly
+- Increase home practice freq to 4 times per week
+- Schedule tri-setting observation on a264ce20
+
+**Documentation:** a08e5d7f
+**Date:** 9028799b
+
+---
+END OF SESSION NOTE

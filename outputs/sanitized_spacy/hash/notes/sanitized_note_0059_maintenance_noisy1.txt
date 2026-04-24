@@ -1,0 +1,58 @@
+# UCP SESSION NTOE - GENERALIAZTION SESSION
+
+**Client:** Campbell, 8141d2b1
+**Session Date:** 7d91ed42
+**Settings:** 95 Geiger ICF, Liverpool TEC, 3120bc2e
+**Lead Staff:** Lily Thompson
+**Home Visit Staff:** Aiden Mitchell, 3e4411d5
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+8141d2b1 demonstrated skill maintenance across multiple settings during coordinated session on Oct 10 2025.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 91% independent completion across all tasks
+Staff observer: 26986f9b
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 80% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 3120bc2e
+Parent participants: William Campbell
+Home phone: 315.485.2345
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 75% independent completion in home environment
+
+**PARENT REPORT:**
+914c1668 reported 8141d2b1 has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+8141d2b1 manitained 84% consistency across settings for target skills. 
+Variability noted in task iintiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- 86782b4f (Occupational Therapy) - contact: 315.422.3456
+- f8960c30, 7c0ba5fc (ST Therapy) - contact: (315)462-4567
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 3 times per week
+- Schedule tri-setting observation on cb18e975
+
+**Documentation:** Lily Thompson
+**Date:** 523a74ef
+
+---
+END OF SESSION NOTE

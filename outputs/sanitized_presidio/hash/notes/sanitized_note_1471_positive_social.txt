@@ -1,0 +1,49 @@
+# UCP SESSION NOTE - POSITIVE SOCIAL INTERACTION
+
+**Client:** 0a158c43
+**Date of Service:** 523a74ef
+**Program Location:** Liverpool TEC
+**Lead Therapist:** f5ddda31
+**Co-Facilitator:** 5ea7678c, cf25077a
+
+---
+
+## POSITIVE SOCIAL ENGAGEMENT SESSION
+
+Oliver demonstrated exceptional social skills during structured group activity at 
+Liverpool TEC from 3:00 PM to 4:30 PM.
+
+**PEER INTERACTIONS:**
+7efa869d engaged appropriately with peers 52d7d860 and c7a11e9a during board game activity. 
+Initiated 9 social interactions, including:
+- Sharing game pieces with 4e950cca c7a11e9a to join activity
+- Requesting turn-taking using functional communication strategies
+
+**COMMUNICATION SUCCESSES:**
+Following recommendations from 5b80bee6.ebfb3724 utilized total communication approach 
+effectively. Verbally expressed wants/needs 11 times throughout session.
+
+**STAFF INTERACTIONS:**
+Responded positively to prompts from f5ddda31 and 5ea7678c. 
+Built rapport through shared interest in activities. Accepted redirection appropriately when needed.
+
+**GROUP ACTIVITY PARTICIPATION:**
+Activity: Cooperative board game
+Duration: 45 minutes
+Peers present: 52d7d860, c7a11e9a
+Adult supervision: 1:3 staff-to-client ratio
+
+**PARENT FEEDBACK:**
+71f61fbd attended pickup and reported 7efa869d has 
+been initiating play with siblings at home more frequently. Contact maintained via daily communication log.
+
+**RECOMMENDATIONS:**
+- Continue social skills group at Liverpool TEC
+- Increase peer interaction opportunities during unstructured time
+- Collaborate with 9ef3b137, 8322fec4 for social-emotional assessment
+
+**Documentation:** f5ddda31
+**Date:** 523a74ef
+
+---
+END OF SESSION NOTE

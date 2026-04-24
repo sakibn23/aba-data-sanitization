@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Gray, [PERSON]
+**Session Date:** Nov 27 2025
+**Settings:** 100 Geiger ICF, Liverpool TEC, 377 [ADDRESS], [ADDRESS], [ADDRESS] 13204
+**Lead Staff:** [PERSON], [CREDENTIAL]
+**Home Visit Staff:** [PERSON], [CREDENTIAL]
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Matthew demonstrated skill maintenance across multiple settings during coordinated session on [DATE].
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social comm
+Performance: 90% indep completion across all tasks
+Staff observer: [PERSON], [CREDENTIAL]
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocaitonal tasks, peer interaction, f/u multi-step directions
+Performance: 78% accuracy w/ minimal prompting
+Transition quality: Smooth transtiion with visual schedule support
+
+**HOME VISIT:** 377 Elm Street, [ADDRESS], [ADDRESS] 13204
+Parent participants: [PERSON] and [PERSON]
+Home phone: ([PHONE]
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 79% indep completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reported [PERSON] has been completing 
+morning routine indep. at home 4 days per week. [PERSON] noted improvement in comm with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+[PERSON] maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared w/:
+- [PERSON] (OT Therapy) - contact: ([PHONE]
+- [PERSON] (ST Therapy) - contact: ([PHONE]
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 4 times per week
+- Schedule tri-setting observation on 6-14-26
+
+**Documentation:** Emily Taylor [CREDENTIAL]
+**Date:** [DATE]
+
+---
+END OF sess NOTE

@@ -1,0 +1,48 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** 7b377193
+**Date of Birth:** Dec 16 2015
+**Session Date:** 42998749
+**Program:** Baldwinsville TEC
+**Time:** 3:00 PM - 5:00 PM
+**bx Specialist:** 0e81beea
+
+---
+
+## SKILL ACQUISITION sess
+
+**Target 6df1bb18:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+Levi participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at f5851665 sess began at 3:00 PM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- 98a66e97 block 1: 79% accuracy across 15 trials
+- 98a66e97 blcok 2: 86% accuracy across 15 trials  
+- Trial block 3: 86% accuracy across 15 trials
+- Overall session accuracy: 89%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting, progressing to verbal prompting only by session end. 
+8b49a459 demonstraetd improvement in response latency form 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Levi practiced food service skills during lunch preparation. Staff Ethan Baker, 2192eccc supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted d3970a7f adae8d8d at 315.427.5678 to discuss home practice strategies. 
+Parent reported Levi has been practicing sorting tasks at home w/ good success.
+
+**NEXT SESSION GOALS:**
+- Increase trila complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** 0e81beea
+**Date signed:** Oct 26 2025
+
+---
+END OF SESSION NOTE

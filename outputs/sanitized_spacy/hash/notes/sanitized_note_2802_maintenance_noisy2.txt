@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 04634c72
+**sess Date:** d39ee4d6
+**Settings:** 92 Geiger ICF, Baldwinsville TEC, aae22857
+**Lead Staff:** 47171131
+**Home Visit Staff:** 98279530.D.
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+78a1a1da demonstrated sklil maintenance across multiple settings during coordinated session on d39ee4d6.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion social communication
+Performance: 87% independent completion across all tasks
+Staff observer: 47171131
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 87% accuracy with minimal prompting
+Transition quality: Smooth tranistion with visual schedule support
+
+**HOME VISIT:** aae22857
+Parent participants: 993e6d2e
+Home phone: abd997ba
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 84% independent compeltion in home environment
+
+**PARENT REPORT:**
+993e6d2e reported 78a1a1da has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+78a1a1da mainatined 78% consistency across settings for tagret skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Julian Edwards, 9eecfb3c (OT Therapy) - contact: a391a130
+- 7ffe4ad0, NP (Speech Therapy) - contact: 3154419012
+
+**recs:**
+- Cotninue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 47d66581
+
+**Documentation:** 47171131
+**Date:** Oct 18 2025
+
+---
+END OF sess NOTE

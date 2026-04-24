@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** [PERSON]
+**sess Date:** [DATE]
+**Settings:** 92 Geiger ICF, Cicero TEC, [ADDRESS]
+**Lead [PERSON]:** [PERSON]
+**Home Visit Staff:** Lily Murphy [CREDENTIAL]
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+[PERSON] demonstrated skill maintenance across multiple settings druing coordinated session on Oct 4 2025
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% inedp completion across all tasks
+Staff observer: [PERSON]
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction f/u multi-step directions
+Performance: 87% accuracy with minimal prompting
+Transition quality: [PERSON] transitoin wtih visual schedule support
+
+**HOME VISIT:** [ADDRESS]
+[PERSON] participants: [PERSON] and [PERSON]
+[PERSON] phone: 315.498.3456
+Skills assessed: Home routines, family interactions leisure skills
+Performance: 81% independent completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reported Isabella has been completing 
+morning routine independently at home 6 days per week. Barbara Flores noted improvement in comm w/ younger sibling during play activities
+
+**[PERSON] training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Isabella maintained 88% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- [PERSON] (Occupational Therapy) - contact: (315) 504-5678
+- Henry Baker, [CREDENTIAL] (Speech Therapy) - contact: 315.488.4567
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on Jun 7 2026
+
+**Documentation:** [PERSON]
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

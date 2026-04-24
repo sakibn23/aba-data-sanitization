@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** ada4089d
+**Session Date:** 42998749
+**Settings:** 100 Geiger ICF, Cicero TEC, 260dd3da
+**Lead Staff:** c93f486c, c4b37c5f
+**Home Visit Staff:** Aiden Evans, a0906058
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Charlotte demonstrated skill maintenance across multiple settings during coordinated session on 42998749.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 89% independent completion across all tasks
+Staff observer: c93f486c, c4b37c5f
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 86% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 260dd3da
+Parent participants: ae4c8dfb and 81cbb751
+Home phone: (315) 724-6907
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+ae4c8dfb reported Charlotte has been completing 
+morning routine independently at home 4 days per week. 81cbb751 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Charlotte maintained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 30e5ae88 (Occupational Therapy) - contact: ad1ae069
+- Olivia Raju, 9eecfb3c (Speech Therapy) - contact: 798616f0
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 42893eb8
+
+**Documentation:** c93f486c, c4b37c5f
+**Date:** 42998749
+
+---
+END OF SESSION NOTE

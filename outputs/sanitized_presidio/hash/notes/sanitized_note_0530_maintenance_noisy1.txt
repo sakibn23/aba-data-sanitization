@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Gray, edd29161
+**Session Date:** aac1fca9
+**Settings:** 100 Geiger ICF, Liverpool TEC, 377 347e7ba1, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** Emily Taylor 3d8c8358
+**Home Visit Staff:** faa8c008, 9eecfb3c
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+edd29161 demonstrated skill maintenance across multiple settings during coordinated session on 1878035b.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social comm
+Performance: 90% independent completion acorss all tasks
+Staff observer: f32bbb05, 3d8c8358
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocatoinal tasks, peer interaction, f/u multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition with visual scheudle support
+
+**HOME VISIT:** 377 Elm Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 70717c44 and c8a49e73
+Home phone: (d61d092b
+Skills assessed: Home routines, family interactions lesiure skills
+Performance: 79% independent completion in hmoe environment
+
+**PARENT REPORT:**
+70717c44 reported edd29161 has been completing 
+morning routine indep. at home 4 days per week. c8a49e73 noted improvement in communication w/ younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+edd29161 maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- ed39809a (Occupational Therapy) - contact: 5eba6d48
+- 5ba64dd5 (Speech Therapy) - contact: (c02fa3cd
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 70111957
+
+**Documentation:** f32bbb05, 3d8c8358
+**Date:** Nov 27 2025
+
+---
+END OF SESSION NOTE

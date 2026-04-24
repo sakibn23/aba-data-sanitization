@@ -1,0 +1,48 @@
+# f31c8453 sess NOTE - SKILL ACQUISITION
+
+**Client:** S. Edwards
+**Date of Birth:** Mar 14 2023
+**Session Date:** Oct 31 2025
+**Program:** Baldwinsville TEC
+**Time:** 10:00 AM - 12:00 PM
+**83aedc6d:** Aiden Lopez
+
+---
+
+## SKILL ACQUISITOIN sess
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+Sebastian participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Baldwinsville TEC. sess began at 10:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 75% accuracy across 15 trials
+- Trial block 2: 89% accuracy acrsos 15 trials  
+- Trial block 3: 95% accuracy across 15 trials
+- Overall sessoin accuracy: 87%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+Sebastian demonstrated improvement in response ltaency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Sebastian practiced food service skills during lunch preparation. Staff 9360ed8f, NP supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted 607c2de9 at (315) 449-4567 to discuss home parctice strategies. 
+Parent reported db0284fc has been practicing sorting tasks at home with good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial comlpexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** Aiden Lopez
+**Date signed:** Oct 31 2025
+
+---
+END OF SESSION NOTE

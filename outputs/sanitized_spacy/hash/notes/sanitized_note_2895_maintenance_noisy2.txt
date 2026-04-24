@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Amelia 3013b18f
+**sess Date:** Oct 15 2025
+**Settings:** 96 Geiger ICF, Liverpool TEC 5f6b6fee
+**Lead Staff:** Julian Diaz
+**Home Visit Staff:** Sebastian Reed, a0906058
+
+---
+
+## MAINTENANCE AND GENERALIZTAION asmt
+
+Amelia demonstrated skill maintenance across mlutiple settings during coordinated session on b7a01309.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines, tsak completion, social communication
+Performance: 91% indep completion across all tasks
+Staff observer: af96b927
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 84% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 5f6b6fee
+Parent participants: 66cccd74
+Home phone: (315) 486-1234
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 70% indep completion in home environment
+
+**PARENT REPORT:**
+66cccd74 reported Amelia has been completing 
+morning routine indep. at hoem 4 days per week.
+
+**Parent training provided on:**
+- Vsiual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Amelia maintained 82% consistency across settings for target skills. 
+Variability noted in task initaition between 96 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 62cc7982, 9eecfb3c (OT Therapy) - contact: (315) 485-2345
+- Dr. Poissant (ST Therapy) - contact: 315.445.7890
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home pracitce frequency to 5 times per week
+- Schdeule tri-setting observation on Jun 1 2026
+
+**Documentation:** Julian Diaz
+**Date:** b7a01309
+
+---
+END OF SESSION NOTE

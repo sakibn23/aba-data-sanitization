@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Castillo, dbadfc88
+**Session Date:** 042755e3
+**Settings:** 96 Geiger ICF Syracuse TEC, 15e4096b
+**Lead Staff:** 84b313b6
+**Home Visit Staff:** 8a7fe0f6, 9eecfb3c
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+dbadfc88 demonstrated skill maintenance arcoss multiple settings during coordinated session on 042755e3.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines task completion, social communication
+Performance: 87% independent completion across all tasks
+Staff observer: 84b313b6
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition wtih visual schedule support
+
+**HOME VISIT:** 15e4096b
+Parent participants: Rachel Castillo
+Home phone: 315.510.3456
+Skills assessed: Home routines, family interactions, lesiure skills
+Performance: 80% independent completion in home environment
+
+**PARENT REPORT:**
+322cae0d reportde dbadfc88 has been completign 
+morning rouitne independently at home 6 dyas per week
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+dbadfc88 maintained 86% consistency across settings for target skills. 
+Variability noted in task initiation between 96 Geiegr ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 861dbe36 (OT Therapy) - contact: 87526cd7
+- f6d16c2d (ST Therapy) - contact: (315)508-1234
+
+**recs:**
+- Cotninue generalization trials across all settings weekly
+- Increase home practice freq to 5 times per week
+- Schedule tri-setting observation on 418fd719
+
+**Documentation:** 84b313b6
+**Date:** 042755e3
+
+---
+END OF SESSION NOTE

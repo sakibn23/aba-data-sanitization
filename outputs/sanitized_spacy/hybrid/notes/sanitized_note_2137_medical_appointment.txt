@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**Session Date:** 1********5
+**Primary Location:** Liverpool TEC
+**Staff:** Aria Walker
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with [PERSON], Ed.M. at Syracuse Medical Associates, [ADDRESS].
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, [ADDRESS]
+Clinic phone: [PHONE]
+Provider: [PERSON], Ed.M.
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: (315)433-8901
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 4*****6
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON], Ed.M.:
+- Diagnosis: Otitis Externa
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Take twice daily × 10 days
+Prescribing provider: [PERSON], Ed.M.
+Pharmacy: CVS Pharmacy, [PHONE]
+
+**POST-APPOINTMENT SESSION:**
+[PERSON] returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+[PERSON] and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse [PERSON] notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at (315)433-8901 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON]
+**Date:** 1********5
+
+---
+END OF SESSION NOTE

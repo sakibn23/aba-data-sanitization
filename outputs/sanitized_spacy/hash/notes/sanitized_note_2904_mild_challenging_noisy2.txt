@@ -1,0 +1,63 @@
+# UCP SESSION NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** 55a858d4
+**Incident Date:** 86ae21a5
+**Incident Time:** 11:20 AM
+**Location:** 92 Geiger ICF
+**Staff Present:** de01fdbe
+
+---
+
+## MILD CHALLENGING bx - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+7efa869d was engaged in art activity at 92 Geiger ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR DESCRIPTION:**
+7efa869d exhibited Brief withdrawal characterized by:
+- Loud vocal tone statign "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact w/ staff
+- Duration: 3 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff de01fdbe implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+7efa869d responded to chioce offering intervention and returned to baseline within 
+4 minutes.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+7efa869d participated in cooperative art activity w/ appropriate sharing bxs 
+observed. No further incidents druing remainder of sess.
+
+**FUNCTIONAL COMMUNICATION:**
+7efa869d was able to verbally request "my turn please" f/u de-escalation, 
+demonstrating understanding of replacement bx.
+
+**PARENT NOTIFICATION:**
+Phone contact with a32d634a at 315.440.7890. 
+Parent reported similar sharing difficulties at home w/ sibling. Discussed consistency in 
+intervention approach acorss settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by de01fdbe
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next sess:** 6bfc71e2 at 92 Geiger ICF
+**Provider check-in:** f4c7a042 on Apr 30 2026
+
+**Report filed by:** de01fdbe
+**Filed:** 83b1102c
+
+---
+END OF SESSION NOTE

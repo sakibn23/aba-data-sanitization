@@ -1,0 +1,95 @@
+# f31c8453 sess NOTE - MEDICATION MONITORING
+
+**Client:** Ella Moore P.
+**Date of Birth:** c38176af
+**Session Date:** Oct 25 2025
+**Location:** 92 Geiger ICF
+**Monitoring Staff:** 0a1b6667
+**Consulting Nurse:** 0d355226
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by a9aa8b6a
+Last appointment: 4cef2b3b
+Next appointment: 11efeca2
+
+**ROUTINE MEDICATIONS:**
+1. Clonidine HCL 0.3mg - PO daily at 8:00 PM
+   Indication: Agitation
+   Start date: 94cd4cc0
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder mood disorder
+   Start date: 6c2a6050
+   
+3. Trazodone 100mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Satrt date: 188bed39
+
+**RECENT CHANGE:**
+df231f29: 
+Fluoxetine 20mg dosage increased
+Ordered by: a9aa8b6a
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compraed to previous week. Ella readily engaged in 
+morning routine with 88% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Ella completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Ella worked for 26-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuiyt per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: Dr. Campbell
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 98.2°F
+Pulse: 81 bpm
+Respirations: 18 per minute
+Recorded by: 0d355226
+
+**PARENT CONSULTATION:**
+2ce2c1cc contacted at (315) 518-3456.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning bx: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to a9aa8b6a at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 1df342af
+Prescriber appointment: 5397b540
+
+**Documented by:** 0a1b6667
+**Reviewed by:** 0d355226
+**Date:** b3c2ad6d
+
+---
+END OF sess NOTE

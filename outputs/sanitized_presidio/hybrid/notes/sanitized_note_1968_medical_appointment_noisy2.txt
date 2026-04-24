@@ -1,0 +1,74 @@
+# UCP sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Brown, [PERSON]
+**Session Date:** 10-20-25
+**Primary Location:** Cicero TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ [PERSON] at Syracuse Medical Associates, 684 University Street, [ADDRESS], NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, 684 University Street, [ADDRESS], NY 13202
+Clinic phone: [PHONE]
+Provider: [PERSON]
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: [PHONE]
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: A************6
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Upper Respiratory Infection
+- tx: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Apply topically twice daily
+Prescribing provider: [PERSON]
+Pharmacy: Kinney Drugs ([PHONE]
+
+**POST-APPOINTMENT SESSION:**
+[PERSON] returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visti stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pani scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse [PERSON], Behavior Specialist II notifeid to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+[PERSON] contacted at [PHONE] to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication sdie effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON], Behavior Specialist II
+**Date:** 1********5
+
+---
+END OF sess NOTE

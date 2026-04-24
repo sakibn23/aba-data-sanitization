@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Foster, f5ea3614
+**Date of Birth:** 95a8d8b4
+**sess Date:** d2ba4214
+**Location:** 96 Geiger ICF
+**Staff:** c34b42b0
+**Medicaid ID:** 50bd856b
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 96 c729b685 from 2:00 PM to 4:00 PM. 
+f5ea3614 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 79% independent completion
+2. Functional comm practice: 84% accuracy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Acdaemic tasks: 73% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 73%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. f5ea3614 responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 21 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+444bfcb8 contacted at 63a5ff34 re: 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+f5ea3614 takse Sertraline 50mg daily per prescription from 60d73f85. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for 4-22-26 at 96 Geiger ICF.
+
+**Authored by:** c34b42b0
+**Date:** f8451350
+
+---
+END OF sess NOTE

@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MDEICATION MONITORING
+
+**Client:** Allen, [PERSON]
+**Date of Birth:** 1******2
+**sess Date:** 1********5
+**Location:** 88 Geiger ICF
+**Monitoring Staff:** [PERSON]
+**Consulting Nurse:** [PERSON], CASAC
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by [PERSON], LCSW
+Last appointment: M************6
+Next appointment: J**********6
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: 5******5
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, modo disorder
+   Start date: 1********5
+   
+3. Trazodone 100mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: 1********5
+
+**RECENT CHANGE:**
+4******6: 
+Fluoxetine 20mg dosage increased
+Ordered by: [PERSON], LCSW
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. [PERSON] readily engaged in 
+morning routine with 90% independence. Sleep quality per parent report: 
+"Best week in months sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. [PERSON] completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. [PERSON] worked for 25-minute 
+intervals. Energy level: Appropriate no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Imporved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: [PERSON], CASAC
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.6°F
+Pulse: 83 bpm
+Respirations: 16 per minute
+Recorded by: [PERSON], CASAC
+
+**PARENT CONSULTATION:**
+[PERSON] contacted at [PHONE].
+
+Home observations reported:
+- Sleep pattern: [PERSON] aselep faster
+- Morning bx: More cooperative less irritable
+- Evening behavior: Calmer during bdetime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL recs:**
+- Cnotinue current dosing schedule
+- Monitor daytime alertness for next 30 days
+- Report findings to [PERSON], LCSW at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: M**********6
+Prescriber appointment: 6*******6
+
+**Documented by:** [PERSON]
+**Reviewed by:** [PERSON], CASAC
+**Date:** 1********5
+
+---
+END OF sess NOTE

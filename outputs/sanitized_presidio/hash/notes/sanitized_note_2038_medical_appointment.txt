@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** ffcdf2d1
+**Session Date:** 3432c949
+**Primary Location:** Liverpool TEC
+**Staff:** 351f5da9
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with dd59527c at WellNow Urgent Care, 491 Erie Street, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care, 491 Erie Street, 2fb59fa3, NY 13202
+Clinic phone: c1196f3c
+Provider: dd59527c
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 351f5da9
+
+**PARENT COORDINATION:**
+3fb29b8b met at clinic.
+Contact number: (5acdf672
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 14ab167c
+
+**APPOINTMENT OUTCOME:**
+Per dd59527c:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Take twice daily × 10 days
+Prescribing provider: Dr. Nguyen
+Pharmacy: 8fa7bec5, c29c05fe
+
+**POST-APPOINTMENT SESSION:**
+2acd18da returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse dfa4d4c7 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+3fb29b8b contacted at (5acdf672 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 351f5da9
+**Medical liaison:** dfa4d4c7
+**Date:** 3432c949
+
+---
+END OF SESSION NOTE

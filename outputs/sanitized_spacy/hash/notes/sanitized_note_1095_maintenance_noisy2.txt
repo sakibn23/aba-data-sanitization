@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** af883f68
+**Session Date:** 030b7f07
+**Settings:** 100 Geiger ICF, Cicero TEC, 24f2b86e
+**Lead Staff:** 78d51193, c4b37c5f
+**Home Visit Staff:** Emily Rogers dd57abff
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+78a1a1da demonstrated skill maintenance across multiple settings during coordinated session on 7ac44927.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 89% independent completion across all tasks
+Staff observer: 78d51193, c4b37c5f
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction f/u multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 24f2b86e
+Parent participants: 930f1d8e and Sharon Young
+Home phone: eab7fd91
+Skills assessed: Hoem routines, family interactions, leisure skills
+Performance: 81% independent completion in home environment
+
+**PARENT REPORT:**
+930f1d8e reported 78a1a1da has been completing 
+morning routine indep. at home 6 days per week. 28c23136 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- 13962f27 schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+78a1a1da maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- 4d0f8e52 (ef5569f3) - contact: f154b551
+- 4c8078ce (Speech Therapy) - contact: (315) 458-5678
+
+**recs:**
+- Contniue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 421db028
+
+**Documentation:** 78d51193, c4b37c5f
+**Date:** 030b7f07
+
+---
+END OF SESSION NOTE

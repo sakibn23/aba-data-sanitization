@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** [PERSON]
+**Date of Birth:** 1******0
+**sess Date:** 1******5
+**Location:** 96 Geiger ICF
+**Staff:** [PERSON]
+**[PERSON] ID:** [MEDICAID_ID]
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 96 Geiger ICF form 2:00 PM to 3:30 PM. 
+[PERSON] engaged in 5 scheduled activities w/ mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 88% independent completion
+2. Functional comm practice: 83% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 66% completion rate
+5. Lesiure skills: High engagement, appropriate duration
+
+Overall completion rate: 75%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current [PERSON] was followed throughout session. [PERSON] responded to 3 
+planned interventions including:
+- Visual schdeule transitions
+- [PERSON] economy system (earned 17 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refsual when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at (315)449-4567 re: 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+[PERSON] takes Risperidone 1mg daily per prescription from [PERSON]. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for A************6 at 96 Geiger ICF.
+
+**Authored by:** [PERSON]
+**Date:** 1********5
+
+---
+END OF SESISON NOTE

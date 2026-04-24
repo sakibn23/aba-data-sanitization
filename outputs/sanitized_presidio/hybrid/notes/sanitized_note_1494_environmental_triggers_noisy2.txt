@@ -1,0 +1,67 @@
+# UCP sess NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** Mitchell, [PERSON]
+**Session Date:** 1********5
+**Locations Observed:** 95 [PERSON], Syracuse TEC, Baldwinsville TEC
+**Observing Staff:** [PERSON]
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 95 Geiger ICF → Syracuse TEC
+Time: 8:45 AM
+Trigger: Unexpected staff change (regular driver unavailable)
+Client Response: Moderate anxiety, verbal questioning, increased pacing
+
+[PERSON] demonstrated heightened anxiety when informed of transition from 
+95 Geiegr ICF to Syracuse TEC with unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of uusal [PERSON]
+
+**TRANSITION 2:** Syracuse TEC → Baldwinsville TEC
+Time: 1:30 PM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment wiht [PERSON] at Syracuse TEC on 
+4*******6 was 
+rescheduled to 5******6 
+due to provider illness. [PERSON] exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+[PERSON] contacted at [PHONE] to discuss 
+schedule sensitivity. Parent reported [PERSON] frequently references upcoming appointments 
+at home and struggles w/ last-minute changes.
+
+**SENSORY ENVIRONMENT asmt:**
+95 Geiger ICF: Familiar lighting low noise level preferred seating available
+Syracuse TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Baldwinsville TEC: High activity level, variable noise, open floor plan
+
+Consultation with [PERSON] scheduled for 0********6 
+to assess sensory processing needs and environmenatl accommodation recs.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 minutes to 15 minutes advance notice
+- Environmental modifications at Syracuse TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency protocol - avoid changes within 48 hours when possible
+- Provider coordination for appointment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting wiht [PERSON] scheduled 
+5****6 
+to review environmental sensitivities.
+
+Contact [PERSON] at [PHONE] for sensory consultation.
+
+**Documented by:** [PERSON]
+**Date:** Oct 5 2025
+
+---
+END OF SESSION NOTE

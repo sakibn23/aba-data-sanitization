@@ -1,0 +1,74 @@
+# f31c8453 sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 0a1b6667
+**sess Date:** 523a74ef
+**Primary Location:** Baldwinsville TEC
+**Staff:** 85310ee9
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment wiht 9468d9eb at WellNow Urgent Care, 94a94d8f.
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care, 94a94d8f
+Clinic phone: 3154325678
+Provider: 9468d9eb
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 85310ee9
+
+**PARENT COORDINATION:**
+76d96396 met at clinic.
+Contact number: (315) 491-1234
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 14ab167c
+
+**APPOINTMENT OUTCOME:**
+Per 9468d9eb:
+- Diagnosis: Otitis Externa
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: 9468d9eb
+Pharmacy: dae25302, 3154624567
+
+**POST-APPOINTMENT SESSION:**
+f190d2ae returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 1270641d notified to add new medciation to 
+medication administration record.
+
+**PARENT comm:**
+76d96396 contacted at (315) 491-1234 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointmnet (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 85310ee9
+**Medical liaison:** 1270641d
+**Date:** Oct 10 2025
+
+---
+END OF sess NOTE

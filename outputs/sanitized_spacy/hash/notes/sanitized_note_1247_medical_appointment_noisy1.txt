@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 5378e700
+**sess Date:** 0e94b743
+**Primary Location:** Liverpool TEC
+**Staff:** d21d280b
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 5dd47d9e, 771546ad at Community Health Center, d1f5620c.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMETN PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, d1f5620c
+Clinic phone: 315.466.3456
+Provider: 5dd47d9e, 771546ad
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: d21d280b
+
+**PARENT COORDINATION:**
+61fd2867 met at clinic.
+Contact number: d8ed507d
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: e038eaa6
+
+**APPOINTMENT OUTCOME:**
+Per 5dd47d9e, 771546ad:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: 5dd47d9e, 771546ad
+Pharmacy: Walgreens, 3155125678
+
+**POST-APPOINTMENT sess:**
+736001fa returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to mdeical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort uisng visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Scarlett Moore, 798ff150 notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+61fd2867 contacted at 3154973456 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** d21d280b
+**Medical liaison:** c34b42b0, 798ff150
+**Date:** Nov 13 2025
+
+---
+END OF sess NOTE

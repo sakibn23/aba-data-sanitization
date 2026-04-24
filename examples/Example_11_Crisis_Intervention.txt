@@ -1,0 +1,198 @@
+EXAMPLE NOTE 11: CRISIS INTERVENTION SCENARIO
+
+================================================================================
+CRITICAL INCIDENT REPORT
+
+UPSTATE CARING PARTNERS
+125 Business Park Drive, Utica, NY 13502
+Emergency Contact: 315-724-6907
+
+CLIENT INFORMATION:
+Name: Watson, Liam J.
+Date of Birth: 1/4/2008
+Primary Residence: 92 Geiger Road, Rome, NY 13440
+Emergency Contact 1: Jennifer Watson (Mother) - 315-425-8901
+Emergency Contact 2: Michael Watson (Father) - 315-488-4567
+
+INCIDENT DETAILS:
+Date: 6/20/2025
+Time of Onset: 11:22 AM
+Location: Activity room, 92 Geiger ICF, 92 Geiger Road, Rome, NY 13440
+Incident Category: CRISIS - Level 3 (Severe)
+
+STAFF RESPONSE TEAM:
+Primary: Sarah Mitchell, BCBA
+Secondary: David Martinez, LCSW
+Tertiary: Marcus Chen, Behavior Specialist II
+Supervisor notified: Jennifer Malpezzi, MS, CCC-SLP
+Medical: Matthew Poissant, RN
+
+WITNESSES:
+Staff: Tanya Singh, M.A.; Shayla Gifford, OTR/L
+Peers: Emma Rodriguez, Olivia Chen (removed from area at 11:24 AM)
+
+DETAILED INCIDENT TIMELINE:
+
+11:18 AM: PRECIPITATING EVENT
+Liam Watson was playing video game in activity room when peer Alex Taylor 
+requested to use same gaming console.
+
+11:22 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling and throwing game controller.
+Staff Sarah Mitchell, BCBA implemented verbal de-escalation and visual supports.
+
+11:25 AM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer - pushed Alex Taylor causing him to fall.
+Additional staff David Martinez, LCSW joined response. SCIP-R blocking pads utilized.
+
+11:28 AM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff, attempted to bite Sarah Mitchell's arm, 
+kicked David Martinez in shin. Property destruction - overturned chair and table.
+Jennifer Malpezzi, MS, CCC-SLP (supervisor) notified at 11:29 AM.
+
+11:30 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: Sarah Mitchell, David Martinez, Marcus Chen
+Location: Activity room floor (soft mat area)
+Reason: Imminent danger to self and others - continued physical aggression
+
+11:45 AM: DE-ESCALATION PROGRESS
+Liam Watson showing decreased muscle tension, verbal communication restored, 
+able to follow simple directions.
+
+11:52 AM: RESTRAINT RELEASED
+Total restraint duration: 22 minutes
+Liam Watson moved to quiet room for recovery with 1:1 support from Marcus Chen.
+
+12:15 PM: BASELINE RESTORED
+Liam Watson able to identify emotions using visual supports, requested water, 
+accepted comfort from staff.
+
+INJURIES SUSTAINED:
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: Matthew Poissant, RN at 12:20 PM
+Treatment: Visual inspection only, ice pack offered (declined by client)
+Medical follow-up: Monitor for 24 hours, no further treatment needed
+
+STAFF INJURIES:
+Sarah Mitchell, BCBA: Superficial scratch on right forearm - Treatment: Cleaned, 
+    bandaged, no medical attention required
+David Martinez, LCSW: Contusion right shin from kick - Treatment: Ice pack applied, 
+    able to continue work duties
+Marcus Chen: No injuries
+
+PROPERTY DAMAGE:
+One folding chair (bent leg), one activity table (scratched surface), 
+one game controller (broken), estimated total cost: $185
+
+EMERGENCY CONTACTS MADE:
+
+11:35 AM: Jennifer Watson contacted at 315-425-8901
+Reached: Yes, answered immediately
+Notified by: Jennifer Malpezzi, MS, CCC-SLP
+Response: Mother expressed concern, requested to be updated when incident resolved
+
+12:30 PM: Jennifer Watson callback at 315-425-8901
+Update provided: Incident resolved, Liam at baseline, no serious injuries
+Mother requested evening home visit - arranged for 6:00 PM
+
+12:00 PM: Michael Watson contacted at 315-488-4567
+Reached: Voicemail, message left
+Callback received: 1:15 PM, update provided
+
+MEDICAL CONSULTATION:
+Matthew Poissant, RN (License # 789012) assessed at 12:20 PM.
+Vital signs: Temp 98.6°F, Pulse 88, BP 118/76, Respirations 18
+Recommendation: Continue monitoring, no medical intervention needed, 
+assess for delayed injuries over next 24 hours
+
+PSYCHIATRIC CONSULTATION:
+Dr. Raju contacted at 315-426-7890 at 12:45 PM.
+Spoke directly with Dr. Raju. Recommended emergency appointment.
+Emergency appointment: 6/21/2025 at 2:00 PM at Community Behavioral Health Services
+
+INCIDENT CLASSIFICATION:
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes (22 minutes total)
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+RESTRICTIVE INTERVENTION DETAILS:
+Start time: 11:30 AM
+End time: 11:52 AM
+Total duration: 22 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+BSP authorization: Approved 5/30/2025
+Position changes: Repositioned at 11:40 AM to prevent circulation restriction
+Verbal communication during: Staff provided calm verbal reassurance every 2 minutes
+Medical monitoring: Matthew Poissant, RN checked vital signs every 5 minutes
+
+IMMEDIATE SAFETY MEASURES:
+- Peers Emma Rodriguez and Olivia Chen evacuated to dining room at 11:24 AM
+- Activity room door secured to prevent peer re-entry
+- Additional staff coverage arranged for remaining peers
+- Area secured and inspected for hazards: 12:05 PM
+
+REGULATORY NOTIFICATIONS:
+
+☑ Program Director: Tanya Singh, M.A. - notified 11:30 AM
+☑ Clinical Director: Jennifer Malpezzi, MS, CCC-SLP - notified 11:29 AM
+☑ OPWDD: Incident report submitted 6/20/2025 3:00 PM
+☑ Agency Administration: Executive Director notified 1:00 PM
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+POST-INCIDENT PROCEDURES:
+
+STAFF DEBRIEFING:
+Conducted by: Jennifer Malpezzi, MS, CCC-SLP
+Time: 1:30 PM
+Duration: 45 minutes
+Attendees: Sarah Mitchell, David Martinez, Marcus Chen, Tanya Singh, Matthew Poissant
+
+CLIENT CHECK-INS:
+12:30 PM: Marcus Chen - Calm, requesting snack, appropriate communication
+2:00 PM: David Martinez - Participating in preferred activity, baseline mood
+4:00 PM: Sarah Mitchell - Appropriate for remainder of day, no further incidents
+
+PARENT FOLLOW-UP:
+6:00 PM: Home visit at 92 Geiger Road, Rome, NY by Jennifer Malpezzi and Sarah Mitchell
+Conference with Jennifer Watson and Michael Watson
+Duration: 75 minutes
+Topics: Incident review, trigger identification, safety planning, psychiatric follow-up
+
+IMMEDIATE PLAN MODIFICATIONS:
+1. Enhanced 1:1 supervision during peer activities for 72 hours
+2. Video game access limited to individual sessions only (no peer sharing) for 1 week
+3. Increased supervision ratio to 1:2 in activity room
+4. Environmental modifications: Removed additional chairs to create more space
+
+REQUIRED REVIEWS:
+☑ BSP Review: Scheduled 6/25/2025 with Sarah Mitchell, BCBA
+☑ FBA Update: Scheduled 7/2/2025
+☑ Medication Review: Dr. Raju emergency appt 6/21/2025 2:00 PM
+☑ Safety Protocol Review: 6/23/2025
+☑ Incident Review Team: 6/27/2025 at 10:00 AM
+
+DOCUMENTATION CHAIN:
+Incident witnessed by: Sarah Mitchell, David Martinez, Marcus Chen, Tanya Singh
+Initial report: Sarah Mitchell at 12:00 PM
+Supervisor review: Jennifer Malpezzi at 1:00 PM
+Clinical review: Jennifer Malpezzi at 2:30 PM
+Administrative review: Executive Director at 3:30 PM
+Final report: 4:00 PM
+
+Report compiled by: Sarah Mitchell, BCBA, License # 234567
+Reviewed by: Jennifer Malpezzi, MS, CCC-SLP, License # 008734
+Medical review: Matthew Poissant, RN, License # 789012
+Clinical oversight: Tanya Singh, M.A.
+
+Report filed: 6/20/2025 at 4:15 PM
+Report ID: INC-2025-0620-001
+================================================================================

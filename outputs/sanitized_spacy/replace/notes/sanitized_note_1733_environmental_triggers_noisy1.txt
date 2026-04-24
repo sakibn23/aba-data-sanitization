@@ -1,0 +1,67 @@
+# [PERSON] sess NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** Robinson, [PERSON]
+**sess Date:** Nov 12 2025
+**Locations Observed:** 96 Geiger ICF [PERSON] TEC
+**Observing Staff:** Harper Garcia
+
+---
+
+## ENVIRONMENTAL TRGIGER DOCUMENTATION
+
+**TRANSITION 1:** 96 Geiger ICF → Cicero TEC
+Time: 9:30 AM
+Trigger: Unexpected satff change (regular driver unavailable)
+Client Response: Moderate anxiety, verbla questioning, increased pacing
+
+[PERSON] demonstrated heightened anxiety when informed of transition from 
+96 Geiger ICF to [PERSON] TEC w/ unfamiilar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member intsead of usual [PERSON]
+
+**TRANSITION 2:** Cicero TEC → Chadwicsk TEC
+Time: 2:15 PM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation requesting return to familiar setting
+
+**SCHEDULE DISRUPITON ANALYSIS:**
+Originally scheduled appointment w/ [PERSON] at Cicero TEC on 
+[DATE] was 
+rescheduled to [DATE] 
+due to proviedr illness. [PERSON] exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+[PERSON] contacted at (315)429-8901 to discuss 
+schedule sensitivity. Parent reported [PERSON] frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT asmt:**
+96 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Cicero TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Chadwicks TEC: High activity level, variable noise, open floor plan
+
+Consultation with [PERSON], [CREDENTIAL] scheduled for [DATE] 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 minutes to 15 minutes advance notice
+- Environmental modifications at Cciero TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule cnosistency protocol - avoid changes within 48 hours when possible
+- Provider coordination for appointment preparation w/ visual schedule
+
+**FOLLOW-UP:**
+Meeting with [PERSON] scheduled 
+[DATE] 
+to review environmental sensitivities.
+
+Contact [PERSON], [CREDENTIAL] at [PHONE] for sensory consultation
+
+**Documented by:** Harper Garcia
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,137 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+125 Business Park Drive, 50ec69c8, 124e0b72 13502
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: d9e1b51a, Mason
+Date of Birth: cea1ef03
+Primary Residence: 357 78c91076, 9d01bbd0, NY 13116
+Emergency Contact 1: d3bd134b - (c5217edb
+Emergency Contact 2: 8119f457 - (ac7fbc32
+
+**INCIDENT DETAILS:**
+Date: f36341a3
+Time of Onset: 9:45 AM
+Location: 88 Geiger ICF, 90 66ad3174, d0d22019, 124e0b72 13440
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: 278987ba
+Secondary: 0a1b6667, 3e4411d5, 03abe3d2
+Tertiary: fe553823, 87ef1797
+Supervisor notified: 26d9eae9, 4cf85d54
+Medical: 9b9a4f28
+
+**DETAILED INCIDENT TIMELINE:**
+
+9:41 AM: PRECIPITATING EVENT
+Mason was engaged in activity when trigger occurred.
+
+2:15 PM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff 278987ba implemented verbal de-escalation.
+
+2:18 PM: BEHAVIOR ESCALATION - LVEEL 2
+PT aggression toward peer.
+Additional staff 0a1b6667 3e4411d5, 03abe3d2 joined response.
+
+9:51 AM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Proeprty destruction.
+Elizabeth Jackson 4cf85d54 notified.
+
+11:30 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: aa01039f, fe553823
+Reason: Imminent danger to self and others
+
+2:38 PM: DE-ESCALATION PROGRESS
+Mason showing decreased muscle tension, verbal communication restored.
+
+2:45 PM: RESTRAINT RELEASED
+Total restraint dur: 18 minutes
+Mason moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: Dr. Barnes
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+807c9fb7 King: Superficial scratch - tx: Cleaned, bandaged
+0a1b6667: Contusion from impact - tx: Ice pack applied
+fe553823: No injuries
+
+PROPERTY DAMAGE:
+Activity table scratched
+Estimated cost: $248
+
+**EMERGENCY CONTACTS MADE:**
+
+9:58 AM: d3bd134b contacted at (c5217edb
+Reached: Yes, answered immediately
+Notified by: 26d9eae9, 4cf85d54
+
+10:15 AM: 8119f457 contacted at (ac7fbc32
+Reached: Yes, callback received
+
+**MEDICAL CONSULTATION:**
+9b9a4f28 assessed. 
+Vital signs: Temp 98.4°F Pulse 88, BP 120/76, Respirations 18
+rec: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+5ba64dd5 contacted.
+Emergency appointment: 2714f138
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical intv
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical serviecs called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 9:53 AM
+End time: 2:45 PM
+Total duration: 18 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: 9b9a4f28 chceked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: 9a83fb89 - notified
+☑ Clinical Director: 26d9eae9 - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: 26d9eae9, 4cf85d54
+Attendees: aa01039f, fe553823
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: 5ba64dd5 emergency appt Apr 21 2026
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** 278987ba
+**Reviewed by:** 26d9eae9, 4cf85d54
+**Medical review:** 9b9a4f28
+**Report filed:** 11-6-25
+**Report ID:** INC-2026-8569
+
+---
+END OF INCIDENT REPORT

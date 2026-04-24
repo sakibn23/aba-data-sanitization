@@ -1,0 +1,58 @@
+# UCP sess NOTE - GENERALIZATION SESSION
+
+**Client:** Scott, d9dacb3e
+**Session Date:** Oct 8 2025
+**Settings:** 88 Geiger ICF Chadwicks TEC, 964 4249a5b8, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** Mason Brown
+**Home Visit Staff:** fdd40f44, NP
+
+---
+
+## MAINTENANCE AND GENREALIZATION asmt
+
+d9dacb3e demonstrated skill maintenance across multiple settings during coordinated session on 577f07aa.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 82% independent completion across all tasks
+Staff observer: Mason Brown
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: c1588361 tasks, peer interaction, f/u multi-step directions
+Performance: 81% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 964 Main Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 6c406472 and d04e024a
+Home phone: (c1b8af77
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in hmoe environment
+
+**PARENT REPORT:**
+6c406472 reported d9dacb3e has been completing 
+morning routine independently at home 5 days per week. d04e024a noted improvement in communication w/ younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for hmoe implementation
+
+**CONSISTENCY ANALYSIS:**
+Emma maintained 85% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 8591c0b7, a3de4d11 (Occupational Therapy) - contact: (f0a1311b
+- 71b354ad (Speech Therapy) - contact: ae293be0
+
+**RECOMMENDATIONS:**
+- Continue generalization tirals across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on cb18e975
+
+**Documentation:** Mason Brown
+**Date:** b194e879
+
+---
+END OF sess NOTE

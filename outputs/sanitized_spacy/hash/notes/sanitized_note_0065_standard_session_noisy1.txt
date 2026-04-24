@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** Logan Green
+**Date of Birth:** 77d343f5
+**sess Date:** 42998749
+**Location:** 100 Geiger ICF
+**Staff:** 7baa48ee, 2b750216
+**Medicaid ID:** fe7da202
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 100 Geiger ICF frmo 3:00 PM to 4:30 PM. 
+Logan engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 80% indep completion
+2. Functional communication practice: 65% accuracy with vrebal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 55% completion rate
+5. Leisure skills: High engagement, appropriate dur
+
+Overall completion rate: 76%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. Logan responded to 3 
+planned interventions including:
+- Visual shcedule transitions
+- Token economy system (earned 15 tokens towadr prefrered activity)
+- d689301e communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+b1c22df2 contacted at (315) 430-8901 re: 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Logan takes Clonidine 0.3mg daily per prescription from 3365da51, cf25077a. 
+No sied effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for e719138d at 100 Geiger ICF.
+
+**Authored by:** 7baa48ee, 2b750216
+**Date:** 9028799b
+
+---
+END OF sess NOTE

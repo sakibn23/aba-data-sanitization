@@ -1,0 +1,52 @@
+# UCP sess NOTE - STANDARD SESSION
+
+**Client:** Scarlett Morris
+**Date of Birth:** October 23, 2022
+**Session Date:** 188bed39
+**Location:** 100 Geiger ICF
+**Staff:** e3c71b33
+**Medicaid ID:** 4cbbf63b
+
+---
+
+## STANDARD sess REPORT
+
+Session cnoducted at 100 Geiger ICF frmo 2:00 PM to 3:00 PM. 
+807c9fb7 engaged in 5 schedlued activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 81% independent completion
+2. Functional comm practice: 66% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 55% completion rate
+5. Leisure skills: High engagement, appropriate dur
+
+Overall completion rate: 71%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. 807c9fb7 responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Tkoen economy system (earned 17 tokens toward preferred activity)
+- Functional comm training
+
+**CHALLENGES NOTED:**
+Brief verabl refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+df78f894 contacted at 71e480ed regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+807c9fb7 takes Sertraline 50mg daily per prescription from b8e447f6.D.. 
+No side effects observed during sess
+
+**FOLLOW-UP:**
+Next session scheduled for b0e7dc87 at 100 Gieger ICF.
+
+**Authored by:** e3c71b33
+**Date:** 188bed39
+
+---
+END OF SESSION NOTE

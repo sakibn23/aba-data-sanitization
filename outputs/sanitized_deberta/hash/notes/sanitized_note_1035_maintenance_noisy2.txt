@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 0b21c0fb
+**Session Date:** 042755e3
+**Settings:** 96 Geiger ICF, Syracuse TEC, 15e4096b
+**Lead 681927e3:** 84b313b6
+**Home Visit Staff:** Henry Young, 9eecfb3c
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+dbadfc88 demonstrated skill maintenance across multiple settings during coordinated sess on Nov 21 2025.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 87% indep completion across all tasks
+Staff observer: 84b313b6
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, pere interaction, following multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 15e4096b
+5f7953f7 participants: 322cae0d
+3a786953 phone: 315.510.3456
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 80% independent completion in home environment
+
+**PARENT REPORT:**
+4dedad6e d29e4688 reported Alexander has been completing 
+morning routine independently at home 6 days per week.
+
+**5f7953f7 training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Alexander maintained 86% consistency across settings for target skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- Dr. Bennett (Occupational Therapy) - contact: (315) 434-7890
+- Dr. Simmons (Speech Therapy) - contact: 315.508.1234
+
+**RECOMMENDATIONS:**
+- Continue gneeralization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 66001b49
+
+**Documentation:** 84b313b6
+**Date:** 042755e3
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 7ae34fbf
+**sess Date:** 10-7-25
+**Settings:** 100 Geiger ICF, Syracuse TEC, 949 Maple Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 43d5ec79
+**Home Visit Staff:** Luke Reed 83aedc6d 70618c58
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+a8cfcd74 demonstrated skill maintenance across multiple settings during coordinated sess on 8d455388.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, tsak completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: 43d5ec79
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 77% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 949 Maple Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 024c165f
+Home phone: (5cfabeef
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 83% indep completion in home environment
+
+**PARENT REPORT:**
+024c165f reported a8cfcd74 has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementaiton at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+a8cfcd74 maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- 1270641d (OT Therapy) - contact: aef677a6
+- e51167b2 (ST Therapy) - contact: 7459a936
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on ed2407aa
+
+**Documentation:** 43d5ec79
+**Date:** 8d455388
+
+---
+END OF SESSION NOTE

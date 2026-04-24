@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Patel, 1a6369c2
+**Session Date:** a72378cd
+**Settings:** 92 Geiger ICF, Cicero TEC, Baldwinsville, NY
+**Lead Staff:** Aubrey Reyes 70618c58
+**Home Visit Staff:** Mason Young, 94746a21
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+Amelia demonstrated skill maintenance across multiple settings during coordinated sesison on 30024762
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion social communication
+Performance: 83% independent completion across all tasks
+Staff observer: 44904466, 70618c58
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 81% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** Baldwinsville, NY
+Parent participants: ba798cb6 and c15dfba8
+Home phone: (315)514-8901
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 73% indep completion in home environment
+
+**PARENT REPORT:**
+ba798cb6 reported Amelia has been completing 
+morning routine indep. at home 4 days per week. c15dfba8 noted improvement in cmom w/ younger sibling during play activities
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for hoem implementation
+
+**CONSISTENCY ANALYSIS:**
+Amelia maintained 85% consistency across settings for targte skills. 
+Variability ntoed in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 005ee896 (Occupational Therapy) - contact: 599de9d7
+- 506cb271, 7c0ba5fc (Speech Therapy) - contact: 032e4535
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 3 tmies per week
+- Schedule tri-setting observation on d6bd714c
+
+**Documentation:** Aubrey Reyes 70618c58
+**Date:** c3b1b090
+
+---
+END OF sess NOTE

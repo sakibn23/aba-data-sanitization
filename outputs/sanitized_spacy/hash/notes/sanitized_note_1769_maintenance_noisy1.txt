@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Carter, 90a5d5a8
+**Session Date:** e2fbf143
+**Settings:** 95 Geiger ICF, Syracuse TEC, 9101fcff
+**Lead Staff:** Harper Reyes
+**Home Visit Staff:** 448466fa, 3e4411d5, 03abe3d2
+
+---
+
+## MIANTENANCE AND GENERALIZATION asmt
+
+Julian demonstrated skill maintenance across multiple settings during coordinated session on fb5cc1d7.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: Harper Reyes
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, folloiwng multi-step directions
+Performance: 83% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 9101fcff
+Parent participants: 3f00a722
+Home phone: 315.428.8901
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 70% indepednent completion in home environment
+
+**PARENT REPORT:**
+3f00a722 reported 90a5d5a8 has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Julian maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting
+
+**PROVIDER COORDINATION:**
+info shared with:
+- 316e74e7 (ef5569f3) - contact: f1aade7a
+- Dr. Hughes (Speech Therapy) - contact: 11784c4c
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 4d55c0f1
+
+**Documentation:** Harper Reyes
+**Date:** cb529ad9
+
+---
+END OF sess NOTE

@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 26b7317a
+**sess Date:** 11-24-25
+**Settings:** 100 Geiger ICF, Cicero TEC, 577 Main Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** cc3a2cdb
+**Home Visit Staff:** 453c2eb1, c6a7b417
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Alexander demosntrated skill maintenance across multiple settings during coordinated sess on c943fcde.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social comm
+Performance: 87% independent completion across all tasks
+Staff observer: cc3a2cdb
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 577 Main Street, 2fb59fa3, 124e0b72 13204
+Parent participants: fc05f495
+Home phone: e183e092
+Skills assessed: Home routines, family interactions leisure skills
+Performance: 85% independent completion in home environment
+
+**PARENT REPORT:**
+fc05f495 reported dbadfc88 has been completing 
+morning routine independenlty at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Alexander maintained 78% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- Mason Rivera, 8322fec4 (OT Therapy) - contact: 315fab11
+- 4461522c (Speech Therapy) - contact: 707bc55f
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 4 tmies per week
+- Schedule tri-setting observation on 716eb55c
+
+**Documentation:** Levi Thomas
+**Date:** c943fcde
+
+---
+END OF sess NOTE

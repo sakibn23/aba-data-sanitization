@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** ae923a9b
+**Session Date:** f36341a3
+**Primary Location:** Syracuse TEC
+**Staff:** Sofia Ruiz
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 29cb7269 at Community Health Center, 623 Erie Street, 2fb59fa3, NY 13202.
+
+Modified session: 6eec2128 abrbeviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, 623 Erie Street, 2fb59fa3, NY 13202
+Clinic phone: (45713862
+Provider: 29cb7269
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: ec03e320
+
+**PARENT COORDINATION:**
+3205a8cd met at clinic.
+Contact number: (0faf02f3
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 22cff74c
+
+**APPOINTMENT OUTCOME:**
+Per 29cb7269:
+- Diagnosis: Otitis Externa
+- tx: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: 29cb7269
+Pharmacy: CVS Pharmacy, c0495d5a
+
+**POST-APPOINTMENT SESSION:**
+347d5d8b returned to Syracues TEC. Appeared fatigued but egnaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse aee27e2e notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+3205a8cd contacted at (0faf02f3 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medicla appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** Sofia Ruiz
+**Medical liaison:** aee27e2e
+**Date:** f36341a3
+
+---
+END OF sess NOTE

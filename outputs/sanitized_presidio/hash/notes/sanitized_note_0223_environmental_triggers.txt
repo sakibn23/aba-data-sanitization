@@ -1,0 +1,67 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** S. Cooper
+**Session Date:** bfe20d3a
+**Locations Observed:** 95 Geiger ICF, Cicero TEC, Baldwinsville TEC
+**Observing Staff:** bef45d2f, 70618c58
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 95 Geiger ICF → Cicero TEC
+Time: 10:15 AM
+Trigger: Unexpected staff change (regular driver unavailable)
+Client Response: Moderate anxiety, verbal questioning, increased pacing
+
+bb866952 demonstrated heightened anxiety when informed of transition from 
+95 Geiger ICF to Cicero TEC with unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usual bef45d2f, 70618c58
+
+**TRANSITION 2:** Cicero TEC → Baldwinsville TEC
+Time: 1:30 PM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment with 5e89d368 at Cicero TEC on 
+22cff74c was 
+rescheduled to 8a19c233 
+due to provider illness. bb866952 exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+ea27f8d8 contacted at (5167ae78 to discuss 
+schedule sensitivity. Parent reported bb866952 frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT ASSESSMENT:**
+95 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Cicero TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Baldwinsville TEC: High activity level, variable noise, open floor plan
+
+Consultation with 005ee896 scheduled for bff5510f 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 minutes to 15 minutes advance notice
+- Environmental modifications at Cicero TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency protocol - avoid changes within 48 hours when possible
+- Provider coordination for appointment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with ea27f8d8 scheduled 
+803a7aab 
+to review environmental sensitivities.
+
+Contact 005ee896 at c9f02eec for sensory consultation.
+
+**Documented by:** bef45d2f, 70618c58
+**Date:** bfe20d3a
+
+---
+END OF SESSION NOTE

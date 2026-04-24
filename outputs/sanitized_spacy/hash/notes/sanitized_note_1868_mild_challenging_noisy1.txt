@@ -1,0 +1,63 @@
+# f31c8453 sess NOTE - MILD CHALLENGING bx
+
+**Client:** a04f938c
+**Incident Date:** 3eac6610
+**Incident Time:** 2:15 PM
+**Location:** 95 Geiger ICF
+**Staff Present:** Lily Carter
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCECSSFULLY REDIRECTED
+
+**ANTECEDENT:**
+c773f5fb was engaged in art atcivity at 95 Geiger ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR DESCRIPTION:**
+Riley exhibited Verbal refusal characterized by:
+- Loud vocal toen stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- Duration: 4 min
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff 090dabee implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+Riley responded to choice offerign intervention and returned to baseline within 
+7 minutes.
+
+**CONSEQUENCE:**
+Brief accses to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+Riley participated in cooperative art activity w/ appropriate sharing bxs 
+observed. No further incidents during remainder of sess.
+
+**FUNCTIONAL COMMUNICATION:**
+c773f5fb was able to verablly request "my turn please" f/u de-escalation, 
+demonstrating understanding of replacement bx.
+
+**PARENT NOTIFICATION:**
+Phone contact with b51a537f at 6d8859aa. 
+Parent reported similar sharing difficulties at home w/ sibling. Discussed consistency in 
+intervention approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by 090dabee
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next sess:** e719138d at 95 Geiger ICF
+**Provider check-in:** 6c03706d on 063187e2
+
+**Report filed by:** Lily Carter
+**Filed:** c46fc9dc
+
+---
+END OF SESSION NOTE

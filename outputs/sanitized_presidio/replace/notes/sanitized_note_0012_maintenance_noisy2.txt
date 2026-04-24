@@ -1,0 +1,58 @@
+# UCP sess NOTE - GENERALIZATION SESSION
+
+**Client:** [PERSON]
+**Session Date:** [DATE]
+**Settings:** 100 Geiger ICF Cicero TEC, 396 [PERSON], [ADDRESS], [ADDRESS] 13214
+**Lead Staff:** [PERSON]
+**Home Visit Staff:** [PERSON], [ADDRESS]
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+[PERSON] demonstrated skill maintenance across mlutiple settings during coordinated sess on [DATE].
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 86% independent completion across all tasks
+Staff observer: [PERSON]
+
+**SETTING 2:** Cicreo TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 81% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 396 [PERSON], [ADDRESS], [ADDRESS] 13214
+Parent participants: [PERSON] and [PERSON]
+Home phone: ([PHONE]
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 82% indep completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reported [PERSON] has been completing 
+morning routine indep. at home 5 days per week. [PERSON] noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+[PERSON] maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiegr ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared w/:
+- [PERSON] (OT Therapy) - contact: ([PHONE]
+- [PERSON] (ST Therapy) - contact: ([PHONE]
+
+**RECOMMENDATIONS:**
+- Continue generaliztaion trials across all settings weekly
+- Increase home practice freq to 3 times per week
+- Schedule tri-setting observation on Jun 11 2026
+
+**Documentation:** [PERSON]
+**Date:** October 11, 2025
+
+---
+END OF sess NOTE

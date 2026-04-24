@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 0ecd3def
+**Session Date:** e2fbf143
+**Primary Location:** Cicero TEC
+**Staff:** Abigail Lopez
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with a7e9ba96 at Community Health Center, dd516882.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, dd516882
+Clinic phone: 0dc6ed96
+Provider: a7e9ba96
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 2d142d5c
+
+**PARENT COORDINATION:**
+3b057f2a met at clinic.
+Contact number: (315) 427-5678
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: e87aaf34
+
+**APPOINTMENT OUTCOME:**
+Per a7e9ba96:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Take twice daily × 10 days
+Prescribing provider: a7e9ba96
+Pharmacy: CVS Pharmacy, c19b7b52
+
+**POST-APPOINTMENT SESSION:**
+a950f30a returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse e41bed61 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+3b057f2a contacted at (315) 427-5678 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Abigail Lopez
+**Medical liaison:** e41bed61
+**Date:** e2fbf143
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,114 @@
+{
+  "replace": {
+    "method": "replace",
+    "n_docs": 300,
+    "phi_removal": {
+      "mean": 0.9585,
+      "min": 0.84,
+      "max": 1.0,
+      "fully_removed": 114,
+      "total_docs": 300,
+      "pct_fully_removed": 38.0
+    },
+    "semantic_similarity": {
+      "mean": 0.9037,
+      "min": 0.8054,
+      "max": 0.9689,
+      "std": 0.0341,
+      "pct_above_0.85": 92.67
+    },
+    "linkage_resistance": {
+      "fully_resistant_pct": 38.67,
+      "partial_leak_pct": 61.33,
+      "full_leak_pct": 0.0,
+      "total_docs": 300
+    }
+  },
+  "mask": {
+    "method": "mask",
+    "n_docs": 300,
+    "phi_removal": {
+      "mean": 0.9585,
+      "min": 0.84,
+      "max": 1.0,
+      "fully_removed": 114,
+      "total_docs": 300,
+      "pct_fully_removed": 38.0
+    },
+    "semantic_similarity": {
+      "mean": 0.8163,
+      "min": 0.4495,
+      "max": 0.9392,
+      "std": 0.0885,
+      "pct_above_0.85": 43.67
+    },
+    "linkage_resistance": {
+      "fully_resistant_pct": 38.67,
+      "partial_leak_pct": 61.33,
+      "full_leak_pct": 0.0,
+      "total_docs": 300
+    }
+  },
+  "hash": {
+    "method": "hash",
+    "n_docs": 300,
+    "phi_removal": {
+      "mean": 0.9585,
+      "min": 0.84,
+      "max": 1.0,
+      "fully_removed": 114,
+      "total_docs": 300,
+      "pct_fully_removed": 38.0
+    },
+    "semantic_similarity": {
+      "mean": 0.8639,
+      "min": 0.6936,
+      "max": 0.9517,
+      "std": 0.0462,
+      "pct_above_0.85": 61.33
+    },
+    "linkage_resistance": {
+      "fully_resistant_pct": 38.67,
+      "partial_leak_pct": 61.33,
+      "full_leak_pct": 0.0,
+      "total_docs": 300
+    },
+    "multisystem_linkage": {
+      "unique_hashed_persons": 2151,
+      "cross_doc_linkable": 579,
+      "linkage_possible": true,
+      "note": "cross_doc_linkable > 0 means the same pseudonym appears in multiple documents \u2014 intentional for record linkage while preserving privacy."
+    }
+  },
+  "hybrid": {
+    "method": "hybrid",
+    "n_docs": 300,
+    "phi_removal": {
+      "mean": 0.8988,
+      "min": 0.7,
+      "max": 1.0,
+      "fully_removed": 36,
+      "total_docs": 300,
+      "pct_fully_removed": 12.0
+    },
+    "semantic_similarity": {
+      "mean": 0.898,
+      "min": 0.7777,
+      "max": 0.9663,
+      "std": 0.0319,
+      "pct_above_0.85": 92.33
+    },
+    "linkage_resistance": {
+      "fully_resistant_pct": 12.67,
+      "partial_leak_pct": 87.33,
+      "full_leak_pct": 0.0,
+      "total_docs": 300
+    },
+    "multisystem_linkage": {
+      "unique_hashed_persons": 0,
+      "cross_doc_linkable": 0,
+      "linkage_possible": false,
+      "note": "cross_doc_linkable > 0 means the same pseudonym appears in multiple documents \u2014 intentional for record linkage while preserving privacy."
+    }
+  }
+}

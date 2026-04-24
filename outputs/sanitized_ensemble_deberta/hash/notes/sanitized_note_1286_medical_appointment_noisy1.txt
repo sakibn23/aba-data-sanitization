@@ -1,0 +1,74 @@
+# f31c8453 SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 25d3e7dc
+**sess Date:** 188bed39
+**Primary Location:** Chadwicks TEC
+**Staff:** df0328e2
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with f0ba4a18, 798ff150 at 67f95562, 66d20ebe.
+
+Modified sess: e9376a28 abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: 67f95562, 66d20ebe
+Clinic phone: 3154884567
+Provider: f0ba4a18, 798ff150
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: df0328e2
+
+**PARENT COORDINATION:**
+7e7cf7f6 met at clinic.
+Contact number: (315) 479-2345
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: b08cbf33
+
+**APPOINTMENT OUTCOME:**
+Per f0ba4a18, 798ff150:
+- Diagnosis: Allergic Rhinitis
+- tx: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: f0ba4a18, 798ff150
+98f3d29f: 6bda74c9 98f3d29f, 3154884567
+
+**POST-APPOINTMENT SESSION:**
+a950f30a returned to Chadwicks TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative thruoghout mediacl visit
+
+**MEDICATION MONITORING:**
+Current medications updated. a3901b2e notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+7e7cf7f6 contacted at (315) 479-2345 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- 5f7953f7 communication log for symptom tracking
+
+**Documented by:** df0328e2
+**Medical liaison:** 7cc8fe37
+**Date:** 188bed39
+
+---
+END OF sess NOTE

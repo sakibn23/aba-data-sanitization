@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** de01fdbe
+**Session Date:** 711bda45
+**Settings:** 96 Geiger ICF, Liverpool TEC e3b70736
+**Lead Staff:** c63ecbc7
+**Home Viist Staff:** Daniel Bennett, 4cf85d54
+
+---
+
+## MIANTENANCE AND GENERALIZATION asmt
+
+f3c7769d demonstrated skill maintenance across multiple settings durign coordinated sess on Oct 9 2025.
+
+**SETTING 1:** 96 Gieger ICF
+Skills assessed: Self-care routines, taks completion social comm
+Performance: 86% independent completion across all tasks
+Staff observer: c63ecbc7
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 79% accuracy with minimal prompting
+2fe70464 quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** e3b70736
+5f7953f7 participants: f3c908ad
+3a786953 phone: (315)506-8901
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 84% independent completion in home environment
+
+**PARENT REPORT:**
+bda0a01c 645e1b29 reported Benjamin has been completign 
+morning routine independently at home 5 days per week.
+
+**5f7953f7 training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Benjamin maintained 82% consistency acrsos settings for target skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Murphy (Occupational Therapy) - contact: 2cba3ad6
+- Dr. Morris (Speech Therapy) - contact: b0d3fa19
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 3 times per week
+- Schedule tri-setting observation on cab0aaf5
+
+**Documentation:** c63ecbc7
+**Date:** 08050793
+
+---
+END OF SESSION NOTE

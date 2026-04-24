@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** Brown, Logan
+**Date of Birth:** 5e0d69bb
+**Session Date:** 83b1102c
+**Location:** 96 Geiger ICF
+**Staff:** Olivia Alvarez
+**Medicaid ID:** 211657ac
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 96 Geiger ICF from 2:00 PM to 3:30 PM. 
+Logan engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 78% independent completion
+2. Functional comm practice: 82% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 67% complteion rate
+5. Leisure skills: Hihg engagement, appropriate dur
+
+Overall copmletion rate: 71%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Logan responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy ssytem (earned 19 tokens toward prefererd activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+7ab06efb contacted at (315) 516-1234 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Logan takes Risperidone 1mg daily per prescription from 5cfb9388. 
+No side effecst osberved during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 96 Geiger ICF.
+
+**Authored by:** Olivia Alvarez
+**Date:** 86ae21a5
+
+---
+END OF sess NOTE

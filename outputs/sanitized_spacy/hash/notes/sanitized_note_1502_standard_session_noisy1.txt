@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Gutierrez, 502ae197
+**Date of Birth:** 76f193c0
+**sess Date:** 2dcc2021
+**Location:** 92 Geiger ICF
+**Staff:** Carter Price
+**Medicaid ID:** 58b2a90a
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 92 Geiger ICF frmo 3:00 PM to 4:00 PM. 
+502ae197 engaged in 5 schedulde activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 77% independent completion
+2. Functional communication practice: 73% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 56% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 72%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. 502ae197 responded to 2 
+planned interventions including:
+- Vsiual schedule transitions
+- Token economy system (earned 20 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+42380679 contacted at (315)429-8901 regarding 
+upcoming program meeting. Confirmed attednance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+502ae197 takes Risperidone 1mg daily per prescription from f4c7a042. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for 6bfc71e2 at 92 Geiger ICF.
+
+**Authored by:** Carter Price
+**Date:** 2dcc2021
+
+---
+END OF SESSION NOTE

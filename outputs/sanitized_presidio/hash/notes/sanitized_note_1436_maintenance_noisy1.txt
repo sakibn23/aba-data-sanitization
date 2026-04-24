@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 71a5bee8
+**Session Date:** 53961bc9
+**Settings:** 100 Geiger ICF, Liverpool TEC, 456 53a1bf0f, 6a5ed836, 124e0b72 13088
+**Lead Staff:** 7c62704d
+**Home Visit Staff:** John Baker 83aedc6d, 70618c58
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+dbadfc88 demonstrated skill maintenance across multiple settings during coordinated session on 53961bc9.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 92% independent completion across all tasks
+Staff observer: 7c62704d
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 88% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 456 53a1bf0f, 6a5ed836, 124e0b72 13088
+Parent participants: fc11bb3a
+Home phone: 42982c8a
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 73% indep completion in hmoe environment
+
+**PARENT REPORT:**
+fc11bb3a reported dbadfc88 has been completing 
+morning ruotine indep. at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Alexander maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 7e14f990 (Occupational Therapy) - contact: (d61d092b
+- 5ba64dd5 (ST Therapy) - contact: (a174282e
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on a82722b4
+
+**Documentation:** 7c62704d
+**Date:** Oct 14 2025
+
+---
+END OF SESSION NOTE

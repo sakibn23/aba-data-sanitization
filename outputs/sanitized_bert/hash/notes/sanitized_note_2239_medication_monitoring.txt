@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** dad3d573
+**Date of Birth:** b156d0ad
+**Session Date:** 766623b9
+**Location:** 100 Geiger ICF
+**Monitoring Staff:** f41a37cb
+**Consulting Nurse:** 8e0b3fa3
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by Julian Stewart, 9eecfb3c
+Last appointment: c7c670d9
+Next appointment: ff12f34a
+
+**ROUTINE MEDICATIONS:**
+1. Aripiprazole 5mg - PO daily at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: 64bd922b
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 3266e2e0
+   
+3. Melatonin 5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: 0aef961a
+
+**RECENT CHANGE:**
+52078ba8: 
+Fluoxetine 20mg dosage increased
+Ordered by: Julian Stewart, 9eecfb3c
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. 190eb3eb readily engaged in 
+morning routine with 89% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. 190eb3eb completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. 190eb3eb worked for 29-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for headache complaint
+Administered by: 8e0b3fa3
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.6°F
+Pulse: 75 bpm
+Respirations: 14 per minute
+Recorded by: 8e0b3fa3
+
+**PARENT CONSULTATION:**
+0d98d78b b7b9be5f contacted at 1a6a4c4f.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor daytime alertness for next 30 days
+- Report findings to Julian Stewart, 9eecfb3c at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 2fe86f67
+Prescriber appointment: dd3d13ec
+
+**Documented by:** f41a37cb
+**Reviewed by:** 8e0b3fa3
+**Date:** 766623b9
+
+---
+END OF SESSION NOTE

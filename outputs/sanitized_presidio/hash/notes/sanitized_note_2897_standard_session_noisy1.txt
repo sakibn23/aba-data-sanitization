@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** ecc9c4ea
+**Date of Birth:** 91e84383
+**Session Date:** 5fcd1dc9
+**Location:** 96 Geiger ICF
+**Staff:** 8534818a
+**Medicaid ID:** 48d7aa4d
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 96 Geiger ICF from 9:00 AM to 10:30 AM. 
+7297db81 engaged in 5 scheduled activities w/ mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fnie motor skills: 81% independent completion
+2. Functional comm practice: 85% accuracy with verbal prompting
+3. Self-care routines: Requried moderate physical prompting
+4. Academic tasks: 57% completion rate
+5. Leisure skills: High engagement appropriate duration
+
+Overall completion rate: 79%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. 7297db81 responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 22 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+Justin Hall contacted at 878c40d6 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation info
+
+**MEDICATION OBSERVATION:**
+7297db81 takes Clonidine 0.3mg daily per prescription from 6fc4e157, MS, c4b37c5f. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 96 c729b685.
+
+**Authored by:** 8534818a
+**Date:** Nov 5 2025
+
+---
+END OF sess NOTE

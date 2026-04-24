@@ -1,0 +1,63 @@
+# UCP SESSION NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** 40396abf
+**Incident Date:** f2d1ea88
+**Incident Time:** 10:45 AM
+**Location:** 95 Geiger ICF
+**Staff Present:** dc8b8f93
+
+---
+
+## MIDL CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+a78a4203 was engaged in art activity at 95 Geiger ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR DESCRIPTION:**
+a78a4203 exhibited Verbal refusal characterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact w/ staff
+- Duration: 4 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**intv APPLIED:**
+Staff dc8b8f93 implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+a78a4203 responded to choice offering intv and returned to baseline within 
+6 min.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making
+
+**POST-INCIDENT:**
+a78a4203 participated in cooperative art activity w/ appropriate sharing behaviors 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+a78a4203 was able to verbally request "my turn please" f/u de-escalation, 
+demonstrating understanding of replacement bx
+
+**PARENT NOTIFICATION:**
+Phone contact with 45515df7 at 7e32b8d8. 
+Parent reported similar sharing difficulties at home with sibling. Discussed consistency in 
+intv approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking ssytem by dc8b8f93
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next sess:** 6e4399e4 at 95 Geiger ICF
+**Provider check-in:** 58245239, 8322fec4 on 8a19c233
+
+**Report filed by:** dc8b8f93
+**Filed:** 829137c6
+
+---
+END OF sess NOTE

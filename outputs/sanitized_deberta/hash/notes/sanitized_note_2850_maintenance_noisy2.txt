@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** da61bed8
+**sess Date:** d991eb17
+**Settings:** 92 Geiger ICF, Cicero TEC, 898a6d14
+**Lead Staff:** 2a6c318a
+**Home Visit Staff:** Carter Brooks, 771546ad
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+a6b54c20 demonstrated skill maintenance across multiple settings durign coordinated sess on Oct 12 2025.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines task completion social comm
+Performance: 86% indep completion across all tasks
+Staff observer: 2a6c318a
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks peer interaction, following multi-step directions
+Performance: 83% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 898a6d14
+5f7953f7 participants: 71002f46
+3a786953 phone: (315)447-9012
+Skills assessed: Home routines family interactions leisure skills
+Performance: 74% indep completion in home environment
+
+**PARENT REPORT:**
+b2dd7d8a fe16a941 reported David has been completing 
+morning routine indep. at home 6 days per week.
+
+**5f7953f7 training provided on:**
+- Visual schedlue implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+David maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared w/:
+- Dr. Cooper (OT Therapy) - contact: 315.440.7890
+- Dr. Gifford (ST Therapy) - contact: 4da418b8
+
+**RECOMMENDATIONS:**
+- Cotninue generalization trials across all settings weekly
+- Increase home practice frequenyc to 5 times per week
+- Schedule tri-setting observation on 792a1c78
+
+**Documentation:** 2a6c318a
+**Date:** bda74905
+
+---
+END OF SESSION NOTE

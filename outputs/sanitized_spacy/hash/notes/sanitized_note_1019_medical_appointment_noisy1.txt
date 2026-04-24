@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** ae923a9b
+**Session Date:** f36341a3
+**Primary Location:** Syracuse TEC
+**Staff:** Sofia Ruiz
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Dr. Gray at Community Health Center, 516de195.
+
+Modified session: Monring abrbeviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, 516de195
+Clinic phone: (315) 453-4567
+Provider: Dr. Gray
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: Sofia Ruiz
+
+**PARENT COORDINATION:**
+3205a8cd met at clinic.
+Contact number: (315) 430-8901
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 22cff74c
+
+**APPOINTMENT OUTCOME:**
+Per Dr. Gray:
+- Diagnosis: Otitis Externa
+- tx: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: Dr. Gray
+Pharmacy: CVS Pharmacy, c0495d5a
+
+**POST-APPOINTMENT SESSION:**
+Zoey returned to Syracues TEC. Appeared fatigued but egnaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse aee27e2e notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+3205a8cd contacted at (315) 430-8901 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medicla appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** Sofia Ruiz
+**Medical liaison:** aee27e2e
+**Date:** f36341a3
+
+---
+END OF sess NOTE

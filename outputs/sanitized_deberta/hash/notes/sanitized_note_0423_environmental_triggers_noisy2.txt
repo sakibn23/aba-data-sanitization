@@ -1,0 +1,67 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** 8875594e
+**Session Date:** 765be682
+**Locations Observed:** 100 Geiger ICF, Ciceor TEC, Baldwinsville TEC
+**Observing 681927e3:** 5baefd3e
+
+---
+
+## ENIVRONMENTAL TRGIGER DOCUMENTATION
+
+**TRANSITION 1:** 100 Geiger ICF → Cicero TEC
+Time: 10:15 AM
+Trigger: Unexpected staff change (regular driver unavailable)
+Client Response: Moderate anxiety verbal questioning, increaesd pacing
+
+89a53a64 demonstrated heightened anxiety when informed of transition from 
+100 Geiger ICF to Cicero TEC w/ unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usual 5baefd3e
+
+**TRANSITION 2:** Cicero TEC → Baldwinsville TEC
+Time: 1:30 PM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment w/ Dr. Coleman at Cicero TEC on 
+Apr 12 2026 was 
+rescheduled to 1c29917d 
+due to provider illness. 89a53a64 exihbited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+53175d9b 213c4d2d contacted at 3154288901 to discuss 
+schedule sensitivity. 5f7953f7 reported Aubrey frequently references upcoming appointments 
+at home and struggles w/ last-minute changes.
+
+**SENSORY ENVIRONEMNT asmt:**
+100 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Cicero TEC: Moderate noise level, fluorescent lighting multiple peer interactions
+Baldwinsville TEC: High activity level variable noise, open floro plan
+
+Consultation with ea6be44c scheduled for 225e1566 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 minutes to 15 minutes advance notice
+- Environmental modifications at Cicero TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency portocol - avoid changes within 48 hours when possible
+- Provider coordination for apponitment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with 53175d9b 213c4d2d scheduled 
+987427eb 
+to review environmental sensitivities.
+
+Contact ea6be44c at aa2788d4 for sensory consultation.
+
+**Documented by:** 5baefd3e
+**Date:** 765be682
+
+---
+END OF sess NOTE

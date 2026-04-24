@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** [PERSON]
+**Date of Birth:** 10/3/8
+**sess Date:** [DATE]
+**Location:** 88 Geiger ICF
+**Monitoring Staff:** [PERSON]
+**Consulting [PERSON]:** Sebastian Evans, [CREDENTIAL]
+
+---
+
+## MEDICATION-FOCUSED BEHAVIROAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by Dr. Bell
+Last appointment: [DATE]
+Next appointment: [DATE]
+
+**ROUTINE MEDICATIONS:**
+1. Ariipprazole 5mg - PO daily at 8:00 PM
+   Indication: Agitation
+   Strat date: [DATE]
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: [DATE]
+   
+3. Melatonin 5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: [DATE]
+
+**RECENT CHANGE:**
+[DATE]: 
+Fluoxetine 20mg dosage increased
+Ordered by: [PERSON]
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compaerd to previous week. Luke readily engaged in 
+morning routine with 86% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Luke completed tasks w/ 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. [PERSON] workde for 27-minute 
+intervals. Energy level: Appropriate no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ [PERSON] changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for headache complaint
+Administered by: Sebastian Evans, [CREDENTIAL]
+Response: Symptoms resolved within 45 min
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.6°F
+Pulse: 76 bpm
+Respirations: 16 per minute
+Recorded by: Sebastian Evans, [CREDENTIAL]
+
+**PARENT CONSULTATION:**
+[PERSON] contacted at 315.433.8901.
+
+[PERSON] observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: Mroe cooperative, less irritable
+- Evening behavior: Calmer durign bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL recs:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to Dr. Bell at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: [DATE]
+Prescriber appointment: Jun 22 2026
+
+**Documented by:** [PERSON]
+**Reviewed by:** Sebastian Evans, [CREDENTIAL]
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

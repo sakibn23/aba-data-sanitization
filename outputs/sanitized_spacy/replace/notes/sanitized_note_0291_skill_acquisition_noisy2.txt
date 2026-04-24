@@ -1,0 +1,48 @@
+# [PERSON] sess NOTE - SKILL ACQUISITION
+
+**Client:** Ava Reyes
+**Date of Birth:** 9/3/7
+**sess Date:** [DATE]
+**Program:** Syraucse TEC
+**Time:** 3:00 PM - 4:30 PM
+**[CREDENTIAL]:** Abigail Ward
+
+---
+
+## SKILL ACQUISITION sess
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+Ava participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Syracuse TEC. Session began at 3:00 PM w/ 
+hand washing and apron donning
+
+**TRIAL DATA:**
+- Trial block 1: 76% accuracy across 15 trials
+- Trial block 2: 80% accuarcy across 15 trials  
+- Trial block 3: 88% accuracy across 15 trials
+- Overall session accuracy: 78%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+Ava demonstrated improvement in response latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Ava practiced food service skills during lucnh preparation. Staff [PERSON], [CREDENTIAL] supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted Kimberly Reyes at 315.455.5678 to discuss home practice strategies. 
+Parent reported Ava has been practicing sorting tasks at home w/ good success.
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**tx:** Abigail Ward
+**Date signed:** Nov 6 2025
+
+---
+END OF sess NOTE

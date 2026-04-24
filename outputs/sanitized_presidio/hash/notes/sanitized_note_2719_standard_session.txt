@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Hernandez, a81ef43a
+**Date of Birth:** cbbe5138
+**Session Date:** fb6df2fd
+**Location:** 96 Geiger ICF
+**Staff:** eca4babb
+**Medicaid ID:** 9b8d5432
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 96 Geiger ICF from 1:00 PM to 3:00 PM. 
+a81ef43a engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 76% independent completion
+2. Functional communication practice: 72% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 63% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 78%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. a81ef43a responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 15 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+96fd54d4 contacted at (d5c54dd2 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+a81ef43a takes Sertraline 50mg daily per prescription from e81343dd, c6a7b417. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 96 Geiger ICF.
+
+**Authored by:** eca4babb
+**Date:** fb6df2fd
+
+---
+END OF SESSION NOTE

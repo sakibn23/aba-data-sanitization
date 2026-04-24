@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Julian Reed G.
+**sess Date:** 2e7d85a0
+**Settings:** 95 Geiger ICF, Chadwicks TEC 50132595
+**Lead Staff:** 484af2da
+**Home Visit Staff:** 8f27e63d, a80c79af
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Julian demonstrated sklil maintenance across multiple settings during coordinated session on Oct 19 2025.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 89% independent completion across all tasks
+Staff observer: 484af2da
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vcoational tasks, peer interaction, f/u multi-step directions
+Performance: 81% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 50132595
+Parent participants: Kenneth Reed
+Home phone: (315) 474-3456
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 80% indep completion in home environment
+
+**PARENT REPORT:**
+c3c80d6f reported 90a5d5a8 has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+90a5d5a8 maintained 86% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Cox (OT Therapy) - contact: 3155023456
+- 3cdf3897, 798ff150 (ST Therapy) - contact: (315)517-7890
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 5 times per week
+- Schedule tri-setting observation on 716eb55c
+
+**Documentation:** 484af2da
+**Date:** 49e9b98b
+
+---
+END OF sess NOTE

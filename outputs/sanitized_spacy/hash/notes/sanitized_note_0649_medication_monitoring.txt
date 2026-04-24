@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** 1e0de33e
+**Date of Birth:** 940756e0
+**Session Date:** 2dcc2021
+**Location:** 96 Geiger ICF
+**Monitoring Staff:** Julian Jimenez
+**Consulting Nurse:** 9ac7f76a, 94746a21
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by eca4babb, NP
+Last appointment: 1e1829ba
+Next appointment: 8277b4b2
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: Agitation
+   Start date: b5a613b5
+   
+2. Escitalopram 10mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 9e2c419a
+   
+3. Melatonin 5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: 5934b20e
+
+**RECENT CHANGE:**
+c3002b45: 
+Escitalopram 10mg dosage increased
+Ordered by: eca4babb, NP
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Avery readily engaged in 
+morning routine with 88% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Avery completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Avery worked for 24-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: 9ac7f76a, 94746a21
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 97.9°F
+Pulse: 82 bpm
+Respirations: 17 per minute
+Recorded by: 9ac7f76a, 94746a21
+
+**PARENT CONSULTATION:**
+3b99324e contacted at (315) 448-8901.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to eca4babb, NP at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: b824d0ec
+Prescriber appointment: 70111957
+
+**Documented by:** Julian Jimenez
+**Reviewed by:** 9ac7f76a, 94746a21
+**Date:** 2dcc2021
+
+---
+END OF SESSION NOTE

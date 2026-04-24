@@ -1,0 +1,58 @@
+# f31c8453 sess NOTE - GENERAILZATION SESSION
+
+**Client:** Zoey K. Price
+**sess Date:** fa8242e4
+**Settings:** 88 Geiger ICF, Baldwinsville TEC, 987 3d5e1417
+**Lead Staff:** d9b18269
+**Home Visit Staff:** ca7eb5ef, 4cf85d54
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Zoey demonstrated skill maintenance across multiple settings during coordinated session on fa8242e4
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 82% independent completion across all tasks
+Staff observer: d9b18269
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 77% accuracy wtih minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 987 3d5e1417
+Parent participants: ea025fac and Kimberly Price
+Home phone: (315) 498-3456
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 78% independent completion in home environment
+
+**PARENT REPORT:**
+ea025fac reported 347d5d8b has been completing 
+morning routine independently at home 5 days per week. Kimberly Price noted improvement in comm w/ yonuger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+347d5d8b maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- 7d1f5673 (Occupational Therapy) - contact: (315)477-5678
+- 1270641d (Speech Therapy) - contact: 315.488.4567
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 5 times per week
+- Schedule tri-setting observation on cab0aaf5
+
+**Documentation:** d9b18269
+**Date:** ce1f6f15
+
+---
+END OF sess NOTE

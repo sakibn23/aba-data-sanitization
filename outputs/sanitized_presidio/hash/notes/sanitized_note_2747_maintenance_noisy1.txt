@@ -1,0 +1,58 @@
+# UCP sess NOTE - GENERALIZATION SESSION
+
+**Client:** A. Lewis
+**Session Date:** 131f628f
+**Settings:** 88 Geiger ICF, Chadwicks TEC 604 Oak Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 1b76e18c
+**Home Visit Staff:** 5808b747, c4b37c5f
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+Avery demonstrated skill maintenance across multiple settings during coordinated session on Oct 27 2025.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion social communication
+Performance: 85% indep completion acrsos all tasks
+Staff observer: 1b76e18c
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 86% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 604 Oak Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 11d57668
+Home phone: 731bba67
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 73% indep completion in hoem environment
+
+**PARENT REPORT:**
+11d57668 reported Avery has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Avery maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared w/:
+- bcd15478 (Occupational Therapy) - contact: (e1a2fb4b
+- b2ca8df2 (Speech Therapy) - contact: (4a793fc1
+
+**RECOMMENDATIONS:**
+- Continue generalization triasl across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observatoin on 716eb55c
+
+**Documentation:** 1b76e18c
+**Date:** 10-27-25
+
+---
+END OF SESSION NOTE

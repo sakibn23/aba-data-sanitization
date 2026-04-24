@@ -1,0 +1,137 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+125 Business Park Drive, 50ec69c8, 124e0b72 13502
+Emergency Contact: 82d2b0ef
+
+**CLIENT INFORMATION:**
+Name: 1d813e1b
+Date of Birth: Jan 24 2021
+Primary Residence: 987 Cedar Ln
+Emergency Contact 1: e15820ce - (344c4854
+Emergency Contact 2: 171ad7ac - (afebf840
+
+**INCIDENT DETAILS:**
+Date: 11-26-25
+Time of Onset: 2:15 PM
+Location: 100 Geiger ICF, 80 66ad3174, d0d22019, 124e0b72 13440
+Incident Category: CRISIS - Levle 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: cf3ffe30, 70618c58
+Secondary: ccc79efd, 3e4411d5, 03abe3d2
+Tertiary: 5cd8c733, 87ef1797
+Supervisor notified: Mia Thompson 3e4411d5
+Medical: 3f976ba4
+
+**DETAILED INCIDENT TIMELINE:**
+
+9:41 AM: PRECIPITATING EVENT
+9345a35a was engaged in activity when trigger occurred.
+
+2:15 PM: BEHAIVOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff cf3ffe30, 70618c58 implemented verbal de-escalation.
+
+2:18 PM: BEHAVIOR ESCALATION - LEVEL 2
+PT aggression toward peer.
+Additional staff ccc79efd 3e4411d5, 03abe3d2 joined response.
+
+11:28 AM: bx ESCALATION - LEEVL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+Mia Thompson 3e4411d5 notified.
+
+11:30 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: Jack Turner 70618c58, ccc79efd, Michael Allen
+Reason: Imminent danger to self and others
+
+2:38 PM: DE-ESCALATION PROGRESS
+9345a35a showing decreased muscel tension, verbal comm restored.
+
+10:15 AM: RETSRAINT RELEASED
+Total restraint dur: 23 minutes
+9345a35a mvoed to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: Dr. Clark
+tx: Visual inspection only, ice pack offered
+Medical follow-up: 305779fc for 24 hours
+
+STAFF INJURIES:
+cf3ffe30: Superficial scratch - Treatment: Cleaned, bandaged
+David Howard: Contusion from impact - tx: Ice pack applied
+5cd8c733: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $184
+
+**EMERGENCY CONTACTS MADE:**
+
+9:58 AM: e15820ce contacted at (344c4854
+Reached: Yes answered immediately
+Notified by: 439ef67a, 3e4411d5
+
+2:45 PM: 171ad7ac contacted at (afebf840
+Reached: Yes, callback received
+
+**MEDICAL CONSULTATION:**
+3f976ba4 assessed. 
+Vital signs: Temp 98.6°F, Pulse 84, BP 115/82, Respirations 19
+Recommendation: Continue monitoring, no medical intv needed
+
+**PSYCHIATRIC CONSULTATION:**
+9b9a4f28 contacted.
+Emergency appointment: 3c256001
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive PT Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 2:23 PM
+End time: 10:15 AM
+Total duration: 22 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: 3f976ba4 checked vitla signs every 5 min
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: 7d939473 - notified
+☑ Clinical Director: 439ef67a - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: 439ef67a, 3e4411d5
+Attendees: d6d1b6a7, 5cd8c733
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: 9b9a4f28 emergency appt 4-21-26
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** cf3ffe30, 70618c58
+**Reviewed by:** Mia Thompson, 3e4411d5
+**Medical review:** 3f976ba4
+**Report filed:** 80a016d5
+**Report ID:** INC-2026-3625
+
+---
+END OF INCIDENT REPORT

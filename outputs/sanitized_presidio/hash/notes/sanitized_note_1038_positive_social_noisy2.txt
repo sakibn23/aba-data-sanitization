@@ -1,0 +1,50 @@
+# UCP SESSION NOTE - POSITIVE SOCIAL INTERACTION
+
+**Client:** 799543ab
+**Date of Service:** Nov 4 2025
+**Program Location:** Syracuse TEC
+**Lead Therapist:** Levi Green
+**Co-Facilitator:** b7035a08, 4d95e550, c4b37c5f
+
+---
+
+## POSITIVE SOCIAL ENGAGEMENT sess
+
+Grace demonstrated exceptional social skills during structured group activity at 
+Syracuse TEC from 10:00 AM to 11:00 AM.
+
+**PEER INTERACTIONS:**
+Grace engaged appropriately w/ peers 059f727a and Emily during board game activity. 
+Initiated 7 scoial interactions, including:
+- Sharing game pieces with Lily
+- Inviting Emily to join activity
+- Requesting turn-taking using functional communication strategies
+
+**COMMUNICATION SUCCESSES:**
+Following recs from 77a9aad9, Grace utilized total communication approach 
+effectively. Verbally expressed wants/needs 15 times throughout session.
+
+**STAFF INTERACTIONS:**
+Responded positively to prompts from Levi Green and b7035a08. 
+Built rapport through shared interest in activities. Accepted redirection appropriately when needed.
+
+**GROUP ACTIVITY PARTICIPATION:**
+Activity: Cooperative board game
+dur: 45 minutes
+Peers present: Lily Emily
+Adult supervision: 1:3 staff-to-client ratio
+
+**PARENT FEEDBACK:**
+e247bad0 attended pickup and reported f2465f78 has 
+been initiating play with siblings at home more frequently. Contact maintained via daily comm log.
+
+**recs:**
+- Continue social skills group at Syracuse TEC
+- Increase peer interaction opportunities during unstructured time
+- Collaborate wtih 77a9aad9 for social-emotional asmt
+
+**Documentation:** Levi Green
+**Date:** d11c34b3
+
+---
+END OF sess NOTE

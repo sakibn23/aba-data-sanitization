@@ -1,0 +1,51 @@
+{
+  "all": {
+    "total_docs": 3000,
+    "total_phi": 66966,
+    "phi_per_doc": 22.32,
+    "entity_type_counts": {
+      "PERSON": 42015,
+      "DATE": 13692,
+      "CREDENTIAL": 4452,
+      "ADDRESS": 1347,
+      "PHONE": 4536,
+      "MEDICAID_ID": 924
+    },
+    "partial_person_pct": 1.2,
+    "nonstandard_phone_pct": 72.6,
+    "nonstandard_date_pct": 61.3
+  },
+  "clean": {
+    "total_docs": 1000,
+    "total_phi": 22322,
+    "phi_per_doc": 22.32,
+    "entity_type_counts": {
+      "PERSON": 14005,
+      "DATE": 4564,
+      "CREDENTIAL": 1484,
+      "ADDRESS": 449,
+      "PHONE": 1512,
+      "MEDICAID_ID": 308
+    },
+    "partial_person_pct": 1.2,
+    "nonstandard_phone_pct": 53.6,
+    "nonstandard_date_pct": 40.0
+  },
+  "noisy": {
+    "total_docs": 2000,
+    "total_phi": 44644,
+    "phi_per_doc": 22.32,
+    "entity_type_counts": {
+      "PERSON": 28010,
+      "DATE": 9128,
+      "CREDENTIAL": 2968,
+      "ADDRESS": 898,
+      "PHONE": 3024,
+      "MEDICAID_ID": 616
+    },
+    "partial_person_pct": 1.2,
+    "nonstandard_phone_pct": 82.0,
+    "nonstandard_date_pct": 72.0
+  },
+  "abbrev_token_pct": 1.48
+}

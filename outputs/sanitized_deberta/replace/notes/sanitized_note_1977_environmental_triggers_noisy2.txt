@@ -1,0 +1,67 @@
+# UCP sess NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** [PERSON]
+**Session Date:** [DATE]
+**Locations Observed:** 95 Geiger ICF, [PERSON]vilel TEC, Chadwicsk TEC
+**Observing [PERSON]:** [PERSON]
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 95 Geiger ICF → Baldwinsville TEC
+Time: 8:45 AM
+Trigger: Unexpected staff change (regular driver unavailable)
+Client Response: Moderate anxiety, verbal questioning, increased pacing
+
+[PERSON] demonstrated heightened anxiety when informed of transition from 
+95 Geiger ICF to Baldwinsville TEC w/ unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usual [PERSON]
+
+**TRANSITION 2:** Baldwinsville TEC → Chadwicks TEC
+Time: 2:15 PM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment w/ Levi Harris, [CREDENTIAL] at Baldwinsville TEC on 
+[DATE] was 
+rescheduled to [DATE] 
+due to providre illness. [PERSON] exhibited increased anixety and repetitive quesitoning 
+about appointment status.
+
+**PARENT CONTACT:**
+[PERSON] [PERSON] contacted at (315) 437-1234 to discuss 
+schedule sensitivity. Parent reported Amelia frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT asmt:**
+95 Geiger ICF: Familiar lighting, low noise level preferred seating available
+Baldwinsville TEC: Moderate noise level, fluorescent lighting, multipel peer interactions
+Chadwicks TEC: High activity level, variable noise, opne floor plan
+
+Consultation with [PERSON] scheduled for [DATE] 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 minutes to 15 minutes advance notice
+- Environmental modifications at Baldwinsville TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency protocol - avoid changes within 48 horus when possible
+- Provider coordination for appointment preparation w/ visual schedule
+
+**FOLLOW-UP:**
+Meeting with [PERSON] [PERSON] scheduled 
+[DATE] 
+to review environmental sensitivities.
+
+Contact [PERSON] at (315)466-3456 for sensory consultation.
+
+**Documented by:** [PERSON]
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

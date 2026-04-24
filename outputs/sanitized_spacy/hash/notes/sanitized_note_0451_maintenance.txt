@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 5a66c94c
+**Session Date:** 1ce0482a
+**Settings:** 92 Geiger ICF, Cicero TEC, b85ef0c0
+**Lead Staff:** b23da6fb
+**Home Visit Staff:** Isabella Young, MS, c4b37c5f
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Logan demonstrated skill maintenance across multiple settings during coordinated session on 1ce0482a.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 89% independent completion across all tasks
+Staff observer: b23da6fb
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 79% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** b85ef0c0
+Parent participants: 5ebf1a15
+Home phone: 315.427.5678
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 73% independent completion in home environment
+
+**PARENT REPORT:**
+5ebf1a15 reported Logan has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Logan maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- c9278167, a80c79af (Occupational Therapy) - contact: 707bc55f
+- Dr. Lopez (Speech Therapy) - contact: aa2788d4
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on cb18e975
+
+**Documentation:** b23da6fb
+**Date:** 1ce0482a
+
+---
+END OF SESSION NOTE

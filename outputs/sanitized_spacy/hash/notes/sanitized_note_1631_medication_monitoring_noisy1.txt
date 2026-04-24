@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** Lily Morris
+**Date of Birth:** ba73d092
+**sess Date:** 30024762
+**Location:** 95 Geigre ICF
+**Monitoring Staff:** Avery Turner
+**Consulting Nurse:** fe61533b
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by ded54783, 769dc71a
+Last appointment: b4b7d381 16 2026
+Next appointment: 76e24d07
+
+**ROUTINE MEDICATIONS:**
+1. Aripiprazole 5mg - PO daily at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: 2450d319
+   
+2. Escitalopram 10mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: d4396188
+   
+3. Melatoinn 5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: 1878035b
+
+**RECENT CHANGE:**
+c2ba8fa2: 
+Escitalopram 10mg dosage increased
+Ordered by: ded54783, 769dc71a
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness ntoed compared to previous week. Lily readily engaged in 
+morning routine with 81% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Lily completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Lily worked for 30-minute 
+intervals. Energy level: Appropriate no signs of hyperactivity or lethargy.
+
+**SIDE EFFETCS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: fe61533b
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.6°F
+Pulse: 78 bpm
+Respirations: 15 per minute
+Recorded by: fe61533b
+
+**PARENT CONSULTATION:**
+595f246a contacted at 3e64f33d
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL recs:**
+- Continue current dosing schedule
+- Monitor daytime alertness for netx 30 days
+- Report findings to ded54783, 769dc71a at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 564cf58b
+Prescriber appointment: 55eb2f5a
+
+**Documented by:** Avery Turner
+**Reviewed by:** fe61533b
+**Date:** c3b1b090
+
+---
+END OF SESSION NOTE

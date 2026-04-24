@@ -1,0 +1,58 @@
+# UCP sses NTOE - GENERALIZATINO SESSION
+
+**Client:** M. Moore
+**Session Date:** c625f839
+**Settings:** 92 Geiger ICF, Chadwicks TEC, adbc2787
+**Lead Staff:** Lucas Smith
+**Home Visit Staff:** 344d94b7, 7c0ba5fc
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+f089eaef demonstrated skill maintenance across multiple settings during coordinated sess on Oct 20 2025.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion scoial communication
+Performance: 83% independent completion across all tasks
+Staff observer: 8ea98203
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 83% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** adbc2787
+Parent participants: b613b806 and 65697ee0
+Home phone: 315.444.9012
+Skills assessed: Home routines, family interactions, liesure skills
+Performance: 78% independent completion in home environment
+
+**PARENT REPORT:**
+b613b806 reported f089eaef has been completing 
+morning routine independently at home 6 days per week. 65697ee0 noted improvement in comm w/ younegr sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f089eaef maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- Dr. Raju (Occupational Therapy) - contact: 315.513.2345
+- Dr. Walker (Speech Therapy) - contact: c1bb2a12
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home pratcice frequency to 5 times per week
+- Schedule tri-setting observation on 0c67a61b
+
+**Documentation:** Lucas Smith
+**Date:** Oct 20 2025
+
+---
+END OF sess NOTE

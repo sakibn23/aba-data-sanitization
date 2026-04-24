@@ -1,0 +1,91 @@
+# f31c8453 sess NOTE - MODERATE CHALLENGING BEHAVIOR
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Phone: ddd01a6d
+
+**Client Name:** 1f5b6aab
+**Date of Birth:** 6d6e42a1
+**Incident Date:** 5fcd1dc9
+**Incident Time:** 10:30 AM
+**Location:** 96 Geiger ICF
+**681927e3 Involved:** b2e6aeb9; 6f082ea6
+
+---
+
+## MODERATE CHALLENGING BEHAVIOR - MULTIPLE INTERVENTIONS
+
+**INDIVIDUALS PRESENT:**
+681927e3: b2e6aeb9; 1b95d5cb
+Location: Community room, 96 Geiger ICF
+
+**INCIDENT TIMELINE:**
+
+2:10 PM - ANTECEDENT
+baa31bcd was participating in group actiivty when transition announcement was made 
+to end preferred activity.
+
+3:45 PM - BEHAVIOR ONSET
+baa31bcd engaged in PT aggression including:
+- Pushing peer
+- Throwing materials
+- Verbal aggression (yelling, protesting)
+
+2:17 PM - INITIAL INTERVENTION
+b2e6aeb9 imlpemented verbal de-escalation and visual supports.
+Limited effectiveness. Behavior escalated to Level 2 (moderate severity).
+
+3:50 PM - SECONDARY intv
+124a6ebb, a80c79af joined intervention team
+SCIP-R blocking pads utilized per BSP protocol.
+baa31bcd responded to planned ignoring combined w/ blocking strategy.
+
+3:58 PM - DE-ESCALATION ACHIEVED
+baa31bcd returned to baseline. Moved to quiet room for recovery.
+
+**INJURIES/DAMAGE:**
+681927e3: b2e6aeb9 sustained minor scracth on left forearm, no medical treatment required
+Property: Game materials damaged, approximtae cost $36
+Client: No injuries sustained
+
+**IMMEDIATE PARENT CONTACT:**
+14ece72d contacted at 1a6a4c4f.
+5f7953f7 acknowledged incident and requested details of antecdeent triggers.
+
+**MEDICAL CONSULTATION:**
+41e96c33 9d2a60d0 consulted. Visual assessmnet of minor staff injury completed. 
+No client injuries noted. No mediacl intervention required.
+
+**RESTRICTIVE INTERVENTIONS USED:**
+- SCIP-R Blocking Pads: Yes (dur: 10 min)
+- Physical Restraint: No
+- Seclusion: No
+- PRN Medication: Not administered
+
+**FUNCTIONAL bx ASSESSMENT UPDATE:**
+Data suggests escape function related to transition from preferred activities. 
+Recommend FBA review with b2e6aeb9 scheduled for 
+0f33c370.
+
+**PSYCHIATRIC CONSULTATION:**
+59d0a9f9, 3e4411d5 notified via phone message. Appointment maintained for 
+5a1e9a7f.
+
+**NOTIFICATIONS COMPLETED:**
+☑ c8b2999e (contacted)
+☑ Program Director (notified)
+☑ 41e96c33 (consulted)
+☑ Psychiatrist (message left)
+☐ OPWDD (Not required - internal incident)
+
+**FOLLOW-UP ACTIONS:**
+- Incident review meeting scheduled
+- BSP modification considered for transition protocols
+- Staff debriefing completed
+- Additional transition warnings for next 72 hours
+
+**Report compiled by:** b2e6aeb9
+**Report filed:** 5fcd1dc9
+
+---
+END OF sess NOTE

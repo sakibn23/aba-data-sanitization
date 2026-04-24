@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** e85ca692
+**Session Date:** 52ac258e
+**Primary Location:** Baldwinsville TEC
+**Staff:** b4cedc85
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 7f6ca764, 94746a21 at WellNow Urgent Care, 84ea5742.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: WellNow Urgent Care, 84ea5742
+Clinic phone: 2b4a55b6
+Provider: 7f6ca764, 94746a21
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: b4cedc85
+
+**PARENT COORDINATION:**
+a158c1ce met at clinic.
+Contact number: 315.441.9012
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: a1b79701
+
+**APPOINTMENT OUTCOME:**
+Per 7f6ca764, 94746a21:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: 7f6ca764, 94746a21
+Pharmacy: Walgreens, abd997ba
+
+**POST-APPOINTMENT SESSION:**
+b395b3d8 returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. 07bdb0ad, 2192eccc notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+a158c1ce contacted at 315.441.9012 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** b4cedc85
+**Medical liaison:** 76574b42, 2192eccc
+**Date:** 52ac258e
+
+---
+END OF SESSION NOTE

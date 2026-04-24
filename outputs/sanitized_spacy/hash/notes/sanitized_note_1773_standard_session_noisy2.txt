@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** Kelly, Emily
+**Date of Birth:** e0f503bd
+**sess Date:** 960baac3
+**Location:** 92 Geiger ICF
+**Staff:** 1ed83f0a
+**Medicaid ID:** ce0e6c87
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 92 Geiger ICF from 3:00 PM to 4:30 PM. 
+Emily engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 86% indep completion
+2. Functional communication practice: 84% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 66% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 75%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was flolowed throughout session. Emily responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 20 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+c3fbf541 contacted at (315) 503-9012 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+Emily takes Sertraline 50mg daily per prescription from d9fbf8f0. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for 6a03fd9d at 92 Geiger ICF.
+
+**Authored by:** 1ed83f0a
+**Date:** cb529ad9
+
+---
+END OF SESSION NOTE

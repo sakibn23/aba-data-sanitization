@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Harris, f3c7769d
+**sess Date:** d8997068
+**Primary Location:** Chadwicks TEC
+**Staff:** Sofia Jimenez
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modifeid to accommodate appointment with Dr. Campbell at Community Health Center, bf05aa48.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, bf05aa48
+Clinic phone: c0495d5a
+Provider: Dr. Campbell
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: Sofia Jimenez
+
+**PARENT COORDINATION:**
+491dee89 met at clinic.
+Contact number: 315.445.7890
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: Apr 16 2026
+
+**APPOINTMENT OUTCOME:**
+Per 0d355226:
+- Diagnosis: Otitis Externa
+- tx: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - 4 drops ecah ear 4x daily × 7 days
+Prescribing provider: 0d355226
+Pharmacy: CVS Pharmacy (315)494-3456
+
+**POST-APPOINTMENT sess:**
+f3c7769d returned to Chadwicks TEC. Appeared fatigued but engagde in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 3843badd notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+491dee89 contacted at 315.445.7890 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication sdie effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** Sofia Jimenez
+**Medical liaison:** 3843badd
+**Date:** d8997068
+
+---
+END OF sess NOTE

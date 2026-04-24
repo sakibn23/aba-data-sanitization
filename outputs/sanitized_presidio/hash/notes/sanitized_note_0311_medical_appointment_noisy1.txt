@@ -1,0 +1,74 @@
+# UCP SESSION NTOE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Kelly, a42d6b9a
+**Session Date:** d42b3911
+**Primary Location:** Baldwinsville TEC
+**Staff:** 0ee83645
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 4392753c at WellNow Urgent Care, 572 Erie Street, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, 572 Erie Street, 2fb59fa3, NY 13202
+Clinic phone: (ed6aa981
+Provider: 4392753c
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 0ee83645
+
+**PARENT COORDINATION:**
+b80ee179 met at clinic
+Contact number: (3edc55ef
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 22cff74c
+
+**APPOINTMENT OUTCOME:**
+Per 4392753c:
+- Diagnosis: Otitis Externa
+- Treatment: Neomycin-Polymyxin ear drops
+- Meidcation changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. Lopez
+Pharmacy: CVS Pharmacy, b0d3fa19
+
+**POST-APPOINTMENT SESSION:**
+b5fd03dd rteurned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 69b68dfc notified to add new medicatoin to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+b80ee179 contacted at (3edc55ef to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communiaction log for symptom tracking
+
+**Documented by:** 0ee83645
+**Medical liaison:** 69b68dfc
+**Date:** 577f07aa
+
+---
+END OF sess NOTE

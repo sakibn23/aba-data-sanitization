@@ -1,0 +1,58 @@
+# UCP sess NOTE - GENERALIZATION SESSION
+
+**Client:** 3024f021
+**Session Date:** November 9, 2025
+**Settings:** 88 Geiger ICF, Syracuse TEC, 558 347e7ba1, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** ce875747
+**Home Visit Staff:** 8e8fc8d3, a80c79af
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Logan demonsrtated skill maintenance across multiple settings during coordinated sess on e2fbf143.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, tsak completion, soical communication
+Performance: 92% indep completion across all tasks
+Staff observer: ce875747
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 79% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual scheudle support
+
+**HOME VISIT:** 558 Elm Street, 2fb59fa3, 124e0b72 13204
+Parent participants: f80d5b9f and c1bc4865
+Home phone: 36df7c1e
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 80% idnependent completion in home environment
+
+**PARENT REPORT:**
+f80d5b9f reported 2acd18da has been completing 
+morning rouitne indep. at home 4 days per week. c1bc4865 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+2acd18da manitained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- edd3af0e, 771546ad (OT Therapy) - contact: c1bb2a12
+- 4107ebe5, 2192eccc (Speech Therapy) - contact: 0dc6ed96
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home pracitce freq to 5 times per week
+- Schedule tri-setting observation on 46bf00ca
+
+**Documentation:** ce875747
+**Date:** fb5cc1d7
+
+---
+END OF SESSION NOTE

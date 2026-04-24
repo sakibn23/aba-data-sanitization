@@ -1,0 +1,52 @@
+# [PERSON] sess NOTE - STANDARD SESSION
+
+**Client:** Mason [PERSON]
+**Date of Birth:** [DATE]
+**sess Date:** [DATE]
+**Location:** 88 Gieger ICF
+**Staff:** Julian Phillips
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 88 Geiger ICF from 3:00 PM to 4:00 PM. 
+Mason engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 77% independent completion
+2. Functional comm practice: 81% accurayc with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Academic tasks: 71% completion rate
+5. Leisrue skills: High engagement appropriate duration
+
+Overall completion rate: 79%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed trhoughout session. Mason responedd to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token econmoy system (earned 17 tokens toward preferred activity)
+- Functional comm training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redriected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at (315)426-7890 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Mason takes Sertraline 50mg daily per prescription from [PERSON]. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for Apr 22 2026 at 88 Geiger ICF.
+
+**Authored by:** Julian Phillips
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

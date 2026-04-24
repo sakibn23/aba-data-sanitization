@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** R. Lopez
+**Session Date:** 07a15b30
+**Settings:** 92 Geiger ICF, Chawdicks TEC, 9c7c6a43
+**Lead Staff:** Noah Phillips
+**Home Visit Staff:** 1cebc187, 94746a21 3d8c8358
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+Riley demonstrated skill maintenance across multiple settings during coordinated session on 8aedaee3.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion social comm
+Performance: 90% independent completion across all tasks
+Staff observer: d6d03607
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 76% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 9c7c6a43
+Parent participants: Mark Lopez
+Home phone: 315.498.3456
+Skills assessed: Home routines, famiyl interactions, leisure skills
+Performance: 71% indep completion in home environment
+
+**PARENT REPORT:**
+5c80e523 reported Riley has bene completing 
+morning routine indep. at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Riley maintained 85% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Gegier ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 51366f12, 8322fec4 (Occupational Therapy) - contact: c0495d5a
+- Dr. Cox (Speech Therapy) - contact: 315.471.2345
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 3 times per week
+- Schedule tri-setting observation on 55d43619
+
+**Documentation:** Noah Phillips
+**Date:** 80a016d5
+
+---
+END OF SESSION NOTE

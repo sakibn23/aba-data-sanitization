@@ -1,0 +1,74 @@
+# [PERSON] sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**Session Date:** 1********5
+**Primary Location:** Baldwinsville TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ [PERSON] at Syracuse Medical Associates [ADDRESS].
+
+Modified sess: [PERSON] abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, [ADDRESS]
+Clinic phone: (315) 515-4567
+Provider: [PERSON]
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: 3154318901
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: Apr 15 2026
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Otitis Externa
+- Treatment: Aomxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Amoixcillin 500mg - Take twice daily × 10 days
+Prescribing provider: [PERSON]
+[PERSON]: [PERSON] [PERSON], [PHONE]
+
+**POST-APPOINTMENT SESSION:**
+[PERSON] returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased reuqests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nruse [PERSON] notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+[PERSON] contacted at (315) 431-8901 to discuss:
+- Appointment otucome and diagnosis
+- Medication administration schedule
+- Hoem observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appiontment days - reduce academic demands
+- [PERSON] communication log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON]
+**Date:** 1******5
+
+---
+END OF sess NOTE

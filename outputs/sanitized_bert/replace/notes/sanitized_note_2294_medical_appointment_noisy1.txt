@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**sess Date:** Nov 16 2025
+**Primary Location:** Syracuse TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ [PERSON] at Syracuse Medical Associates, [ADDRESS].
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, [ADDRESS]
+Clinic phone: [PHONE]
+Provider: [PERSON]
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] [PERSON] met at clinic.
+Contact number: 315.452.4567
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: [DATE]
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Upper Respiraotry Infection
+- tx: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Apply topically twice daily
+Prescribing provider: [PERSON]
+Pharmacy: Walgreens, (315) 467-8901
+
+**POST-APPOINTMENT sess:**
+[PERSON] returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Riley Edwards, [CREDENTIAL] notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+[PERSON] [PERSON] contacted at 315.452.4567 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Hmoe observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** Riley Edwards, [CREDENTIAL]
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

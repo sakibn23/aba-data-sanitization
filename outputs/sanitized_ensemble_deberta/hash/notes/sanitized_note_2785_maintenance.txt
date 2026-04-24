@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 50a60a05
+**Session Date:** d42b3911
+**Settings:** 96 Geiger ICF, Syracuse TEC, 4ddc4d06
+**Lead 681927e3:** 3f8b02d7
+**Home Visit Staff:** c5b59431, 3e4411d5
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+7297db81 demonstrated skill maintenance across multiple settings during coordinated session on d42b3911.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 85% independent completion across all tasks
+Staff observer: 3f8b02d7
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 75% accuracy with minimal prompting
+2fe70464 quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 4ddc4d06
+5f7953f7 participants: e882f509 and 7ab06efb
+Home phone: (315)496-4567
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 73% independent completion in home environment
+
+**PARENT REPORT:**
+e882f509 reported 7297db81 has been completing 
+morning routine independently at home 5 days per week. 7ab06efb noted improvement in communication with younger sibling during play activities.
+
+**5f7953f7 training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+7297db81 maintained 83% consistency across settings for target skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 3ec10042 (Occupational Therapy) - contact: a391a130
+- 79f5b8f6 (Speech Therapy) - contact: a03ccc6b
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 55eb2f5a
+
+**Documentation:** 3f8b02d7
+**Date:** d42b3911
+
+---
+END OF SESSION NOTE

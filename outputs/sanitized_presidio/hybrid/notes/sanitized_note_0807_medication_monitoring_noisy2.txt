@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** [PERSON]
+**Date of Birth:** 7*******1
+**sess Date:** 1********5
+**Location:** 92 Geiger ICF
+**Monitoring Staff:** [PERSON]
+**Consulting Nurse:** [PERSON]
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by [PERSON]
+Last appointment: 0********6
+Next appointment: 6******6
+
+**ROUTINE MEDICATIONS:**
+1. Clonidine HCL 0.3mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: 4-29-25
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder mood disorder
+   Start date: 6*******5
+   
+3. Trazodone 100mg - PO daily at 8:00 PM
+   Indication: Selep support
+   Start date: 12-18-25
+
+**RECENT CHANGE:**
+Apr 3 2026: 
+Fluoxetine 20mg dosage increased
+Ordered by: [PERSON]
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. [PERSON] readily engaged in 
+morning routine with 87% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. [PERSON] completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. [PERSON] worked for 28-minute 
+intervals. Energy level: Appropriate, no sigsn of hyperactivtiy or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDCIATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: Dr. Lopez
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 98.6°F
+Pulse: 74 bpm
+Respirations: 17 per minute
+Recorded by: [PERSON]
+
+**PARENT CONSULTATION:**
+[PERSON] contacted at ([PHONE]
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evneing behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL recs:**
+- Continue currnet dosing schedule
+- Monitor sleep quality for next 30 days
+- Report findings to [PERSON] at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 5*******6
+Prescriber appointment: J***********6
+
+**Documented by:** [PERSON]
+**Reviewed by:** [PERSON]
+**Date:** 10-2-25
+
+---
+END OF SESSION NOTE

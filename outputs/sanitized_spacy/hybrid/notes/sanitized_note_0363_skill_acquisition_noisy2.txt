@@ -1,0 +1,48 @@
+# [PERSON] sess NOTE - SKILL ACQUISITION
+
+**Client:** Ava [PERSON]
+**Date of Birth:** 0********6
+**sess Date:** Oct 9 2025
+**Program:** Baldwinsville TEC
+**Time:** 10:00 AM - 12:00 PM
+**bx Specialist:** Ava Ward
+
+---
+
+## SKILL ACQUIISTION sess
+
+**Target Skill:** Multi-step vocaitonal task completion
+**Teaching Method:** Discrete trial trainnig with naturalistic teaching
+
+**SESSION SUMMARY:**
+Ava participated in 45 discrete trial training sessions focusing on lunch serviec 
+preparation skills at Baldwinsville TEC. sess began at 10:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 74% acucracy across 15 trials
+- Trial block 2: 84% accurcay across 15 trials  
+- Trial block 3: 86% accuracy across 15 trials
+- Overall session accuracy: 81%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting progressing to verbal prompting only by session end. 
+Ava demonstrated improvement in response latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Ava practiced food service skills during lunch preparation. Staff [PERSON], BSN supervised and reported successful compleiton of assigned tasks w/ minimal support.
+
+**PARENT COLLABORATION:**
+Contacted [PERSON] at 315.447.9012 to discuss hoem practice strategies. 
+Parent reported Ava has been practicing sorting tasks at home with good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** Ava Ward
+**Date signed:** 1*****5
+
+---
+END OF sess NOTE

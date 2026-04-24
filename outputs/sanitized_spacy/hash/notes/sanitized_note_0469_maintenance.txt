@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 51adbfd3
+**Session Date:** 49e9b98b
+**Settings:** 96 Geiger ICF, Syracuse TEC, 8d74d5cb
+**Lead Staff:** Abigail Gray
+**Home Visit Staff:** Lily Moore, a3de4d11
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+78a1a1da demonstrated skill maintenance across multiple settings during coordinated session on 49e9b98b.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 82% independent completion across all tasks
+Staff observer: 4d141870
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 8d74d5cb
+Parent participants: d922b73f and 2430e883
+Home phone: (315)479-2345
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 83% independent completion in home environment
+
+**PARENT REPORT:**
+d922b73f reported 78a1a1da has been completing 
+morning routine independently at home 5 days per week. 2430e883 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+78a1a1da maintained 82% consistency across settings for target skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- e41bed61 (Occupational Therapy) - contact: 6ed16d5a
+- 4d0f8e52 (Speech Therapy) - contact: c1bb2a12
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 4d55c0f1
+
+**Documentation:** Abigail Gray
+**Date:** 49e9b98b
+
+---
+END OF SESSION NOTE

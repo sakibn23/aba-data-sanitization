@@ -1,0 +1,117 @@
+EXAMPLE NOTE 10: MEDICATION MONITORING SCENARIO
+
+================================================================================
+MEDICATION MONITORING SESSION NOTE
+
+Client: Miller, Jacob T.
+Date of Birth: 12/4/2009
+Session Date: 7/1/2025
+Location: 92 Geiger ICF
+Monitoring Staff: Sarah Mitchell, BCBA
+Consulting Nurse: Matthew Poissant, RN
+
+MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+CURRENT MEDICATION REGIMEN:
+Prescribed by Dr. Raju, Community Behavioral Health Services
+Last appointment: 6/17/2025
+Next appointment: 8/26/2025
+
+ROUTINE MEDICATIONS:
+1. Clonidine HCL 0.3mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: 3/25/2025
+   
+2. Sertraline HCL 50mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 11/20/2024
+   
+3. Trazodone 100mg - 2 tabs PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: 2/18/2025
+
+RECENT CHANGE:
+6/17/2025: Sertraline HCL dosage increased from 25mg to 50mg
+Ordered by: Dr. Raju, psychiatrist
+
+BEHAVIORAL OBSERVATIONS POST-CHANGE:
+
+MORNING OBSERVATIONS (8:30 AM):
+Increased alertness noted compared to previous week. Jacob readily engaged in 
+morning routine with 85% independence (up from typical 70%). Sleep quality 
+per parent report: "Best week in months, sleeping through the night."
+
+MIDDAY OBSERVATIONS (12:15 PM):
+Participation in structured activities excellent. Jacob completed lunch service 
+vocational task with minimal prompting. Appetite: Normal, consumed full lunch. 
+Social interaction with peers appropriate and frequent.
+
+AFTERNOON OBSERVATIONS (3:45 PM):
+Sustained attention during academic tasks improved. Jacob worked for 25-minute 
+intervals (typical baseline: 15 minutes). Energy level: Appropriate, no signs 
+of hyperactivity or lethargy.
+
+SIDE EFFECTS MONITORING:
+Target side effects for Sertraline dose increase:
+☑ Drowsiness: None observed (improvement from baseline)
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+PRN MEDICATION ADMINISTRATION:
+
+10:30 AM: Ibuprofen 200mg (2 tabs) administered for headache complaint
+Administered by: Matthew Poissant, RN
+Response: Headache resolved within 45 minutes, returned to activities
+Duration of effect: Symptom-free remainder of session
+
+VITAL SIGNS:
+Time: 10:25 AM (prior to PRN medication)
+Temperature: 98.2°F
+Pulse: 76 bpm
+Respirations: 16 per minute
+Recorded by: Matthew Poissant, RN
+
+PARENT CONSULTATION:
+Michael Miller and Jennifer Miller contacted at 315-481-1234 at 4:00 PM.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster (20 min vs previous 60+ min)
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+PROVIDER COMMUNICATION:
+2:30 PM: Matthew Poissant, RN contacted Dr. Raju office at 315-426-7890 regarding 
+positive response to dosage increase and absence of concerning side effects. 
+Response: Continue current dosing, monitor for 4 more weeks.
+
+Message left with: Rachel Martinez (receptionist)
+Return call received: 2:50 PM from Dr. Raju's nurse
+
+BEHAVIORAL PROGRAM IMPACT:
+Jacob Miller's participation in scheduled activities:
+- Morning routine: 85% independence (typical: 70%)
+- Academic tasks: 80% engagement (typical: 65%)
+- Social skills: 90% appropriate interactions (typical: 75%)
+
+Positive correlation noted between medication adjustment and improved daytime 
+functioning across multiple domains.
+
+CLINICAL RECOMMENDATIONS:
+- Continue current dosing schedule
+- Monitor sleep quality and daytime alertness for next 30 days
+- Report findings to Dr. Raju at 8/26/2025 appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+FOLLOW-UP:
+Medication review: 8/1/2025 with Tanya Singh, M.A.
+Prescriber appointment: 8/26/2025 with Dr. Raju
+Parent check-in call: 7/8/2025 at 4:00 PM
+
+Documented by: Sarah Mitchell, BCBA
+Reviewed by: Matthew Poissant, RN, License # 789012
+Clinical oversight: Jennifer Malpezzi, MS, CCC-SLP
+Date: 7/1/2025 Time: 4:30 PM
+================================================================================

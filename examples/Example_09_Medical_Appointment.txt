@@ -1,0 +1,98 @@
+EXAMPLE NOTE 9: MEDICAL APPOINTMENT/ILLNESS SCENARIO
+
+================================================================================
+SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+Client: Chen, Olivia R.
+Session Date: 4/27/2025
+Primary Location: Chadwicks TEC
+Staff: Marcus Chen, Behavior Specialist II
+
+MODIFIED SESSION - MEDICAL APPOINTMENT
+
+SESSION MODIFICATION:
+Standard session time (9:00 AM - 3:00 PM) modified to accommodate urgent care 
+appointment with Zawsai Aung, NP at WellNow Urgent Care, 450 South Salina Street, 
+Syracuse, NY 13202.
+
+Modified session: 9:00 AM - 10:30 AM and 2:00 PM - 3:00 PM
+
+MORNING SESSION (9:00 AM - 10:30 AM):
+Olivia Chen participated in abbreviated program focusing on independent work skills 
+and self-care activities. Performance: 82% completion with moderate verbal prompting.
+
+MEDICAL APPOINTMENT PREPARATION:
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care, 450 South Salina Street, Syracuse, NY 13202
+Clinic phone: 315-451-3456
+Provider: Zawsai Aung, NP
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: David Martinez, LCSW
+
+PARENT COORDINATION:
+Mother Sarah Chen met at clinic at 11:10 AM.
+Contact number: 315-463-2345
+
+MEDICAL CONCERN ADDRESSED:
+Chief complaint: Bilateral ear pain, difficulty hearing
+Onset: 4/25/2025 (two days prior)
+Previous related visit: 3/28/2025 at WellNow for acute conjunctivitis
+
+APPOINTMENT OUTCOME:
+Per Zawsai Aung, NP:
+- Diagnosis: Otitis Externa (swimmer's ear), bilateral
+- Treatment: Neomycin ear drops with hydrocortisone
+- Medication changes: Added antibiotic ear drops
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin-HC otic drops, 4 drops each ear 4 times daily × 7 days
+Prescribing provider: Zawsai Aung, NP
+Pharmacy: Kinney Drugs, 315-475-2345
+
+POST-APPOINTMENT SESSION (2:00 PM - 3:00 PM):
+Olivia Chen returned to Chadwicks TEC at 1:45 PM. Appeared fatigued but engaged in 
+preferred leisure activity. Minimal task demands placed due to medical visit stress.
+
+BEHAVIORAL OBSERVATIONS:
+Increased requests for quiet activities and headphone use, consistent with ear 
+discomfort. No inappropriate behaviors observed. Appropriate communication of pain 
+using visual pain scale.
+
+MEDICATION MONITORING:
+Current medications:
+- Sertraline HCL 50mg daily prescribed by Dr. Raju
+- Vitamin D3 2000U daily prescribed by Dr. Sears
+- NEW: Neomycin-Polymyxin-HC ear drops 4× daily prescribed by Zawsai Aung, NP
+
+Administration schedule updated. Nurse Matthew Poissant, RN notified at 2:15 PM 
+to add ear drops to medication administration record.
+
+PARENT COMMUNICATION:
+Sarah Chen contacted at 315-463-2345 at 2:30 PM to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule (will administer at home morning and evening)
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up 5/11/2025)
+
+PROVIDER NETWORK COORDINATION:
+Information shared with:
+- Primary care: Dr. Pollard, contact: 315-487-9012, next visit 5/11/2025
+- Psychiatry: Dr. Raju - appointment 5/20/2025
+- Nurse: Matthew Poissant, RN - contact: 315-432-5678
+
+RECOMMENDATIONS:
+- Monitor for medication side effects (skin irritation, dizziness)
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+- Coordinate with Jennifer Malpezzi, MS, CCC-SLP regarding temporary hearing impact
+
+Next medical appointment: 5/11/2025 with Dr. Pollard for ear recheck
+Next behavioral session: 4/29/2025 at Chadwicks TEC
+
+Documented by: Marcus Chen, Behavior Specialist II
+Medical liaison: Matthew Poissant, RN
+License # 567890
+Date: 4/27/2025 Time: 3:45 PM
+================================================================================

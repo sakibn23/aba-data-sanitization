@@ -1,0 +1,58 @@
+# UCP sess NOTE - GENERALIZATION SESSION
+
+**Client:** 7a8f49ed
+**Session Date:** Nov 29 2025
+**Settings:** 100 Geiger ICF, Chadwicks TEC, 426 347e7ba1, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 4abebad1
+**Home Visit Staff:** 8f773c42, cf25077a
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+f190d2ae demonstrated skill maintenance across multiple settings during coordinated sess on 11-29-25.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 89% independent completion acrsos all tasks
+Staff observer: 4abebad1
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smooth transition wtih visual schedule support
+
+**HOME VISIT:** 426 Elm Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 2e97c48f and 582d1b89
+Home phone: (6dec2d0c
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 81% independent completion in home environment
+
+**PARENT REPORT:**
+2e97c48f reported f190d2ae has been completing 
+morning routine independently at home 5 days per week. 582d1b89 notde improvement in communication w/ younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f190d2ae maintained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and hoem setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 29cb7269 (Occupational Therapy) - contact: (c164a160
+- cef34847 (ST Therapy) - contact: 0dc6ed96
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 3 times per week
+- Schedule tri-setting observation on 8095cdba
+
+**Documentation:** 4abebad1
+**Date:** Nov 29 2025
+
+---
+END OF sess NOTE

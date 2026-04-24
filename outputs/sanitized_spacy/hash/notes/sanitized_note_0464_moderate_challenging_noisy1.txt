@@ -1,0 +1,91 @@
+# f31c8453 sess NOTE - MODERATE CHALLENGING bx
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Phone: (315) 724-6907
+
+**Client Name:** f58e2139
+**Date of Birth:** 4a14cd7c
+**Incident Date:** ddf38468
+**Incident Time:** 3:45 PM
+**Location:** 96 Geiger ICF
+**Staff Involved:** Riley Rivera; a8d14aba, NP
+
+---
+
+## MODERATE CHALLENGNIG BEHAVIOR - MULTIPLE INTERVENTIONS
+
+**INDIVIDUALS PRESENT:**
+Staff: Riley Rivera; abe6e309
+Location: Community room, 96 Geiger ICF
+
+**INCIDENT TIMELINE:**
+
+10:25 AM - ANTECEDENT
+907814bb was participating in group activity wehn transition announcement was made 
+to end preferred activity.
+
+2:15 PM - bx ONSET
+907814bb engaged in physical aggression including:
+- Pushing peer
+- Throwing materials
+- Verbal aggression (yelling, protesting)
+
+3:47 PM - INITIAL intv
+Riley Rivera implemented verbal de-escalation and visual supports
+Limited effectiveness. bx escalated to Level 2 (moderate severity).
+
+10:35 AM - SECONADRY INTERVENTION
+a8d14aba, NP joined intervention team.
+SCIP-R blocking pads utilized per BSP protocol.
+907814bb responded to planned ignoring combined with blocking strategy.
+
+3:58 PM - DE-ESCALATION ACHIEVED
+907814bb returned to baseline. Moved to quiet room for recovery.
+
+**INJURIES/DAMAGE:**
+Staff: Riley Rivera sustained minor scratch on left forearm, no medical tx required
+Property: Game materilas damaged, approximate cost $35
+Client: No injuries sustained
+
+**IMMEDIATE PARENT CONTACT:**
+e8baedbd contacted at 315.470.1234.
+Parent acknowledged incident and requested details of antecedent triggers
+
+**MEDICAL CONSULTATION:**
+60c044f7, 20e060cd consulted. Visual assessment of minor staff injury completed. 
+No client injuries noted. No medical intv required
+
+**RESTRICTIVE INTERVENTIONS USED:**
+- SCIP-R Blocking Pads: Yes (Duration: 7 minutes)
+- PT Restraint: No
+- Seclusion: No
+- PRN Medication: Not administered
+
+**FUNCTIONAL BEHAVIOR ASSESSMENT UPDATE:**
+Data suggests escape function related to transition from preferred activities. 
+Recommend FBA review with Riley Rivera scheduled for 
+226d1d4c.
+
+**PSYCHIATRIC CONSULTATION:**
+4461522c notified via phone message. Appointment maintained for 
+440dd6a8.
+
+**NOTIFICATIONS COMPLETED:**
+☑ Parents (contacted)
+☑ Program Director (notified)
+☑ Nurse (consulted)
+☑ Psychiatrist (message left)
+☐ OPWDD (Not required - internal incident)
+
+**FOLLOW-UP ACTIONS:**
+- Incident review meeting scheduled
+- BSP modiifcation considered for transition protocols
+- Satff dberiefing completed
+- Additional transition warnings for next 72 hours
+
+**Report compiled by:** Riley Rivera
+**Report filed:** ddf38468
+
+---
+END OF SESSION NOTE

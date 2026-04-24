@@ -1,0 +1,74 @@
+# f31c8453 sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Harris, 89a53a64
+**sess Date:** 34ececbd
+**Primary Location:** Liverpool TEC
+**Staff:** 1a910d95
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard sesison time modified to accommodate appointment with 6cb6e2c8 at Syracuse Mdeical Associates, 0f277aaf
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates 0f277aaf
+Clinic phone: (315)434-7890
+Provider: 6cb6e2c8
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 1a910d95
+
+**PARENT COORDINATION:**
+99694696 met at clinic.
+Contact number: (315) 441-9012
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: b08cbf33
+
+**APPOINTMENT OUTCOME:**
+Per 6cb6e2c8:
+- Diagnosis: Contact Dermatitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen otherwsie f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: 6cb6e2c8
+Pharmacy: CVS Pharmacy, 2b4a55b6
+
+**POST-APPOINTMENT SESSION:**
+89a53a64 returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 6cb6e2c8 notifeid to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+99694696 contacted at (315) 441-9012 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 1a910d95
+**Medical liaison:** 6cb6e2c8
+**Date:** 34ececbd
+
+---
+END OF SESSION NOTE

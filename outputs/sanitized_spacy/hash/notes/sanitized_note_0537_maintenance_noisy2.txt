@@ -1,0 +1,58 @@
+# f31c8453 sess NOET - GENERALIZATION SESSION
+
+**Client:** White, Lucas
+**Session Date:** ddf38468
+**Settings:** 88 Geiger ICF, Cicero TEC, 1d4fd278
+**Lead Staff:** 923d02cd
+**Home Visit Staff:** a118efc8, 771546ad
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+Lucas demonstrated skill maintenance across multiple settings durign coordinated sess on ddf38468.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines task completion, social comm
+Performance: 91% indep completion across all tasks
+Staff observer: 923d02cd
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks peer interaction following multi-step directions
+Performance: 76% accuracy w/ minimal prompting
+Transition quality: Smotoh transition with visual schedule support
+
+**HOME VISIT:** 1d4fd278
+Parent participants: 4f241e1c and 5f04fcbb
+Home phone: 315.501.7890
+Skills assessed: Hoem routines, family interactions, liesure skills
+Performance: 78% independent completion in home environment
+
+**PARENT REPORT:**
+4f241e1c reported Lucas has been completing 
+morning routine independently at home 5 days per week. 5f04fcbb noted improvement in communication w/ younger sibling during play activities.
+
+**Parent trianing provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Lucas maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- fe61533b (Occupational Therapy) - contact: c295cf1a
+- 957122bf (ST Therapy) - contact: abd997ba
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Inrcease home practice frequency to 3 times per week
+- Schedule tri-setting observation on Jun 11 2026
+
+**Documentation:** 923d02cd
+**Date:** 030b7f07
+
+---
+END OF SESSION NOTE

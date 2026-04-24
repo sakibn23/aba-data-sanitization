@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 48b782da
+**Session Date:** 3d36dc32
+**Primary Location:** Liverpool TEC
+**Staff:** 647254a0
+
+---
+
+## MOIDFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ c80c5b6f at Syracuse Mediacl Associates, 832b6893.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, 832b6893
+Clinic phone: (315)508-1234
+Provider: Dr. Perez
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 647254a0
+
+**PARENT COORDINATION:**
+b2df0866 met at clinic.
+Contact number: 315.456.3456
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: f02cdd40
+
+**APPOINTMENT OUTCOME:**
+Per c80c5b6f:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Fluticasone nasal spray
+- Medicaiton changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: c80c5b6f
+Pharmacy: Walgreens, f881e2ff
+
+**POST-APPOINTMENT sess:**
+24871510 returned to Liverpool TEC. Appeaerd fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medicatinos updated. Nurse 7e14f990 noitfied to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+b2df0866 contacted at 315.456.3456 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observaiton for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Ava Collins
+**Medical liaison:** 7e14f990
+**Date:** 3d36dc32
+
+---
+END OF sess NOTE

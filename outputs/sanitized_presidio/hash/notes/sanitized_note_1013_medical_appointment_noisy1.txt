@@ -1,0 +1,74 @@
+# UCP SSESION NOET - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Gomez, a81ef43a
+**sess Date:** 11-13-25
+**Primary Location:** Cicero TEC
+**Staff:** 12c6cf47
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ 3748b4fc, 4d95e550, c4b37c5f at Syracuse Medical Associates, 577 845c3395, 2fb59fa3, 124e0b72 13202
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, 577 845c3395, 2fb59fa3, NY 13202
+Clinic phone: 15e491b6
+Provider: 3748b4fc, 4d95e550, c4b37c5f
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 12c6cf47
+
+**PARENT COORDINATION:**
+a04e2b69 met at clinic.
+Contact number: (678e74a3
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: Apr 18 2026
+
+**APPOINTMENT OUTCOME:**
+Per 3748b4fc, 4d95e550, c4b37c5f:
+- Diagnosis: Otitis Externa
+- Treatment: Fluticasone nasal spray
+- Medciation changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: 3748b4fc, 4d95e550, c4b37c5f
+Pharmacy: 8fa7bec5, 5eba6d48
+
+**POST-APPOINTMENT SESSION:**
+a81ef43a returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and heapdhone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse ffe3cf8c, 3e4411d5 notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+a04e2b69 contacted at (678e74a3 to discuss:
+- Appoitnment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment dyas - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 12c6cf47
+**Medical liaison:** ffe3cf8c, 3e4411d5
+**Date:** 11-13-25
+
+---
+END OF SESSION NOTE

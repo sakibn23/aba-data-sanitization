@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** W. Torres
+**Session Date:** 2e09a39c
+**Primary Location:** Baldwinsville TEC
+**Staff:** 644b6277
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 322245ed, 87ef1797 at WellNow Urgent Care, a080d0c9.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, a080d0c9
+Clinic phone: 01e12fb0
+Provider: 322245ed, 87ef1797
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 644b6277
+
+**PARENT COORDINATION:**
+4dca20c7 met at clinic.
+Contact number: (315)460-4567
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: b08cbf33
+
+**APPOINTMENT OUTCOME:**
+Per 322245ed, 87ef1797:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: 322245ed, 87ef1797
+Pharmacy: dae25302, 731bba67
+
+**POST-APPOINTMENT SESSION:**
+f190d2ae returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 6c03706d notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+4dca20c7 contacted at (315)460-4567 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 644b6277
+**Medical liaison:** 6c03706d
+**Date:** 2e09a39c
+
+---
+END OF SESSION NOTE

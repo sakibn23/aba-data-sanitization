@@ -1,0 +1,95 @@
+# UCP sess NOTE - MEDICATION MONITORING
+
+**Client:** Samuel L. Turner
+**Date of Birth:** 10/5/14
+**sess Date:** November 29, 2025
+**Location:** 100 Geiger ICF
+**Monitoring Staff:** Emma King
+**Consulting Nurse:** Dr. Ross
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by Dr. Evans
+Last appointment: Mar 13 2026
+Next appointment: May 31 2026
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: 9/2/2025
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder mood disorder
+   Start date: September 23, 2025
+   
+3. Melatonin 5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: 01/04/2026
+
+**RECENT CHANGE:**
+4-2-26: 
+Fluoxetine 20mg dosage increased
+Ordered by: Dr. Evans
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Samuel readily engaged in 
+morning routine with 83% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Samuel completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Samuel worked for 22-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for headache complaint
+Administered by: Dr. Ross
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.6°F
+Pulse: 78 bpm
+Respirations: 17 per minute
+Recorded by: Dr. Ross
+
+**PARENT CONSULTATION:**
+Kimberly Turner contacted at (315)451-3456.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning bx: More cooperative, lses irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to Dr. Evans at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: May 17 2026
+Prescriber appointment: Jun 26 2026
+
+**Documented by:** Emma King
+**Reviewed by:** Dr. Ross
+**Date:** 11/29/2025
+
+---
+END OF sess NOTE

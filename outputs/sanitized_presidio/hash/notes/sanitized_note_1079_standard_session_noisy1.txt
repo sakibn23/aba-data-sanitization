@@ -1,0 +1,52 @@
+# UCP sess NOTE - STANDARD SESSION
+
+**Client:** d5969e00
+**Date of Birth:** 4-18-15
+**Session Date:** 75f52e16
+**Location:** 100 Geiger ICF
+**Staff:** Michael Price 3d8c8358
+**Medicaid ID:** 1aa2178b
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 100 Geiger ICF from 10:00 AM to 12:00 PM. 
+b395b3d8 engaged in 5 scheduled activities with mixed performance
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 86% indep completion
+2. Functional comm practice: 85% accuracy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Academic tasks: 63% complteion rate
+5. Leisure skills: High engagement appropriate duration
+
+Overall completion rate: 77%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. b395b3d8 responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 16 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+36bce609 contacted at cc080df0 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+b395b3d8 takes Clonidine 0.3mg daily per prescription from 34c25d96. 
+No side effects observed during sess
+
+**FOLLOW-UP:**
+Next sessino scheduled for 6e4399e4 at 100 Geiger ICF.
+
+**Authored by:** fd87a096, 3d8c8358
+**Date:** 75f52e16
+
+---
+END OF SESSION NOTE

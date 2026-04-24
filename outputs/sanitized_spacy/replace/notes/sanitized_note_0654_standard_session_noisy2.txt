@@ -1,0 +1,52 @@
+# [PERSON] sess NOTE - STANDARD SESSION
+
+**Client:** Campbell, Elijah
+**Date of Birth:** [DATE]
+**Session Date:** [DATE]
+**Location:** 95 Geiger ICF
+**Staff:** Jackson Foster
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 95 Geiger ICF from 1:00 PM to 2:30 PM. 
+Elijah engaged in 5 scheduled activities wtih mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 83% independent completion
+2. Functional communication practice: 78% accuracy with verbal prompting
+3. Self-care routines: Reqiured moderate physiacl prompting
+4. Academic tasks: 69% completion rate
+5. Leisure skills: High engagement, appropriate dur
+
+Overall completion rate: 80%
+
+**bx SUPPORT PALN IMPLEMENTATION:**
+Current BSP was followed throughout session. Elijah responded to 4 
+planned interventions including:
+- Visual shcedule transitions
+- Token economy system (earned 16 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at 315.483.1234 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+Elijah takes Clonidine 0.3mg daily per prescription from [PERSON]. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for [DATE] at 95 Geiger ICF.
+
+**Authored by:** Jackson Foster
+**Date:** Nov 8 2025
+
+---
+END OF SESSION NOTE

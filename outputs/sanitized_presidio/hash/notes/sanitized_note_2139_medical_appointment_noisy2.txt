@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 7c0d599d
+**sess Date:** 7dc778a3
+**Primary Location:** Liverpool TEC
+**Staff:** 2ecac020
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ 83db457f, 20e060cd at Syracuse Medical Associates, 582 845c3395, 2fb59fa3, NY 13202.
+
+Modified session: Mornign abbreviated sessoin and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, 582 845c3395, 2fb59fa3, NY 13202
+Clinic phone: 32618551
+Provider: 83db457f, 20e060cd
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 2ecac020
+
+**PARENT COORDINATION:**
+52dd63dd met at clinic.
+Contact number: (5b2c6f01
+
+**MEDICAL CNOCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: e038eaa6
+
+**APPOINTMENT OUTCOME:**
+Per 83db457f, 20e060cd:
+- Diagnosis: Otitis Externa
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwsie f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Take twice daily × 10 days
+Prescribing provider: 83db457f, 20e060cd
+Pharmacy: CVS Pharmacy, (c5217edb
+
+**POST-APPOINTMENT SESSION:**
+736001fa returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to mediacl visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse fe61533b notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+52dd63dd contacted at (5b2c6f01 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home obsevration for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointmnet days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 2ecac020
+**Medical liaison:** fe61533b
+**Date:** 7dc778a3
+
+---
+END OF SESSION NOTE

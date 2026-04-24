@@ -1,0 +1,133 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: 7229de2d, Henry
+Date of Birth: e6df062a
+9b96b339: ce46c861
+Emergency Contact 1: 981e8b1a - (315)432-5678
+
+**INCIDENT DETAILS:**
+Date: c943fcde
+Time of Onset: 2:15 PM
+Location: 92 Geiger ICF, 684da971
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: Noah Wood
+Secondary: 3cf8d93d.D.
+Tertiary: 8a9dd6e2, 9eecfb3c
+9de79093 notified: 93f7bcf0, 94746a21
+Medical: ae923a9b, 03abe3d2
+
+**DETAILED INCIDENT TIMELINE:**
+
+9:41 AM: PRECIPITATING EVENT
+a950f30a was engaged in activity when trigger occurred.
+
+11:22 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff 013dd594 implemented verbal de-escalation.
+
+11:25 AM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff e0ad3601, 8322fec4 joined response.
+
+9:51 AM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+93f7bcf0, 94746a21 notified.
+
+2:23 PM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: Noah Wood, e0ad3601, Jackson Sanders
+Reason: Imminent danger to self and others
+
+2:38 PM: DE-ESCALATION PROGRESS
+a950f30a showing decreased muscle tension, verbal communication restored.
+
+2:45 PM: RESTRAINT RELEASED
+Total restraint duration: 24 minutes
+a950f30a moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: ae923a9b, 03abe3d2
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+Noah Wood: Superficial scratch - Treatment: Cleaned, bandaged
+e0ad3601: Contusion from impact - Treatment: Ice pack applied
+8a9dd6e2: No injuries
+
+PROPERTY DAMAGE:
+Folding chair damaged
+Estimated cost: $158
+
+**EMERGENCY CONTACTS MADE:**
+
+11:35 AM: 981e8b1a contacted at (315)432-5678
+Reached: Yes, answered immediately
+Notified by: 93f7bcf0, 94746a21
+
+**MEDICAL CONSULTATION:**
+ae923a9b, 03abe3d2 assessed. 
+Vital signs: Temp 98.4°F, Pulse 82, BP 123/73, Respirations 16
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+6d1f4fbb contacted.
+Emergency appointment: 3c256001
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 9:53 AM
+End time: 11:52 AM
+Total duration: 21 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: ae923a9b, 03abe3d2 checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: Elizabeth Ortiz - notified
+☑ Clinical Director: Jacob King - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: 93f7bcf0, 94746a21
+Attendees: Noah Wood, d903a5b0
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: 6d1f4fbb emergency appt 3c256001
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** Noah Wood
+**Reviewed by:** 93f7bcf0, 94746a21
+**Medical review:** ae923a9b, 03abe3d2
+**Report filed:** c943fcde
+**Report ID:** INC-2026-5738
+
+---
+END OF INCIDENT REPORT

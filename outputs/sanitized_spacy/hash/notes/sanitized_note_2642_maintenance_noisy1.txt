@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** f9fc5e6a
+**sess Date:** 80a016d5
+**Settings:** 95 Geiger ICF Liverpool TEC 6f0c5dfe
+**Lead Staff:** Sophia 235fe393 70618c58
+**Home Visit Staff:** Aiden Thompson, 20e060cd
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+a8cfcd74 demonstrated skill maintenance across multiple settings during coordinated sess on 07a15b30.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% indep completion across all tasks
+Staff observer: 7a097096, 70618c58
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smotoh transition with visual schedule support
+
+**HOME VISIT:** 6f0c5dfe
+Parent participants: 908dff9f and Tyler Jones
+Home phone: (315)511-9012
+Skills assessed: Home routines, family interactions leisure skills
+Performance: 82% independent completion in home environment
+
+**PARENT REPORT:**
+908dff9f reported a8cfcd74 has been completing 
+morning routine independently at home 5 dasy per week. Tyler Jones noted improvement in comm with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+a8cfcd74 maintained 85% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and hoem setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- c69ed851 (Occupational Therapy) - contact: (315) 440-7890
+- Zoey Kelly, 769dc71a (ST Therapy) - contact: 3154367890
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase hmoe practice frequency to 4 times per week
+- Scheudle tri-setting observation on 44c8ee22
+
+**Documentation:** Sophia 235fe393, 70618c58
+**Date:** 8aedaee3
+
+---
+END OF sess NOTE

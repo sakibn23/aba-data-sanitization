@@ -1,0 +1,50 @@
+# UCP sess NOTE - POSITIVE SOCIAL INTERACTION
+
+**Client:** 3d76f2d0
+**Date of Service:** 10-13-25
+**Program Location:** Cicero TEC
+**Lead tx:** 0323ece4, c4b37c5f
+**Co-Facilitator:** c3bde4b2, 2192eccc
+
+---
+
+## POSITIVE SOCIAL ENGAGEMENT sess
+
+Elijah demonstrated exceptional social skills during structured group activity at 
+Cicero TEC from 1:00 PM to 2:00 PM.
+
+**PEER INTERACTIONS:**
+39fdd904 engaged appropriately w/ peers 90a5d5a8 and 678202b3 during board game activity. 
+Initiated 9 social interactions, including:
+- Sharing game pieces w/ 90a5d5a8
+- Inviting 678202b3 to joni activity
+- Requesting turn-taking using functional comm strategies
+
+**COMMUNICATION SUCCESSES:**
+Following recommendatoins from 4d80599a utilized total comm approach 
+effectively. Verbally expressed wants/needs 10 times throughotu sess.
+
+**STAFF INTERACTIONS:**
+Responded positively to prompts from 0323ece4 and c3bde4b2. 
+Built rapport through shared interest in activities. Accepted redirection appropriately when needed.
+
+**GROUP ACTIVITY PARTICIPATION:**
+Activity: Cooperative board game
+Duration: 45 min
+Peers present: 545cb882
+Adult supervision: 1:3 staff-to-client ratio
+
+**PARENT FEEDBACK:**
+9fc30a0a attended pickup and reported 39fdd904 has 
+been initiating play wtih siblings at home more frequently. Contact maintained via daily communication log.
+
+**RECOMMENDATIONS:**
+- Continue social skills group at Cicero TEC
+- Increase peer interaction opportunities during unstructured time
+- Collaborate with 19102fa1 for social-emotional assessment
+
+**Documentation:** 0323ece4, c4b37c5f
+**Date:** Oct 13 2025
+
+---
+END OF sess NOTE

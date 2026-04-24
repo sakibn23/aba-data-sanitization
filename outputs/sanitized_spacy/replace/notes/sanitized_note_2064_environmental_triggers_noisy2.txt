@@ -1,0 +1,67 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** [PERSON]
+**Session Date:** [DATE]
+**Locations Observed:** 92 Geiger ICF Syracuse TEC, Liverpool TEC
+**Observing Staff:** [PERSON]
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 92 Geiger ICF → Syracuse TEC
+Time: 9:30 AM
+Trigger: Unexpceted staff change (regular driver unavailable)
+Client Response: [PERSON] anxiety verbal questioning increased pacing
+
+[PERSON] demonstrated heightened anxiety when informed of transition from 
+92 Geiger ICF to Syracuse TEC with unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usula [PERSON]
+
+**TRANSITION 2:** Syracuse TEC → Liverpool TEC
+Time: 11:45 AM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment w/ [PERSON], [CREDENTIAL] at Syracuse TEC on 
+[DATE] was 
+rescheduled to [DATE] 
+due to provider illness. [PERSON] exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+[PERSON] contacted at (315)450-7890 to discuss 
+schedule sensitivity. Parent reported [PERSON] frequnetly references upcoming appointments 
+at home and struggles wiht last-minute changes.
+
+**SENSORY ENVIRONMENT asmt:**
+92 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Syracuse TEC: Moderate noise level fluorescent lighting, multiple peer interactions
+Liverpool TEC: High activity level, variable noise, opne floor plan
+
+Consultation with [PERSON] scheduled for [DATE] 
+to assess sensory processing needs and environmental accommodation recs.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 min to 15 minutes advance notice
+- Environmental modifications at Syracuse TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency protocol - avoid changes within 48 hours when possible
+- Provider coordination for appointment preparation w/ visula schedule
+
+**FOLLOW-UP:**
+Meeting with [PERSON] scheduled 
+[DATE] 
+to review environmental sensitivities.
+
+Contact Dr. Walker at (315)482-2345 for sensory consultation.
+
+**Documented by:** [PERSON]
+**Date:** [DATE]
+
+---
+END OF sess NOTE

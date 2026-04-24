@@ -1,0 +1,58 @@
+# f31c8453 sess NOTE - GENERALIZATION SESSION
+
+**Client:** A. Campbell
+**Session Date:** 187f3c2a
+**Settings:** 88 Geiger ICF, Liveropol TEC, 36e499ea
+**Lead Staff:** e1f8cbe6
+**Home Visit Staff:** 926d5642, MS, c4b37c5f
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Aria demonstrated skill maintenance across multiple stetings druing coordinated sess on 187f3c2a.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion, social comm
+Performance: 89% independent cmopletion across all tasks
+Staff observer: e1f8cbe6
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, pere interaction, following multi-step directions
+Performance: 86% acucracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 36e499ea
+Parent participants: Helen Campbell
+Home phone: (315)465-9012
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+4a099faf reported Aria has been completing 
+morning routine indep. at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for hmoe implementation
+
+**CONSISTENCY ANALYSIS:**
+Aria maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- fe61533b (Occupational Therapy) - contact: c19b7b52
+- Amelia James, 771546ad (ST Therapy) - contact: 704d2802
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 055d4a36
+
+**Documentation:** e1f8cbe6
+**Date:** 187f3c2a
+
+---
+END OF sess NOTE

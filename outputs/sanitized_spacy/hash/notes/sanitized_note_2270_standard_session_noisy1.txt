@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** Oliver Price
+**Date of Birth:** 1c5a625c
+**Session Date:** 86d16f89
+**Location:** 95 Geiegr ICF
+**Staff:** Emily Parker
+**Medicaid ID:** 675f2482
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 95 Geiger ICF from 9:00 AM to 11:00 AM. 
+7efa869d engaged in 5 scheduled activities with mixed performance
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 82% indep completion
+2. Functional comm practice: 74% accuracy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Academic tasks: 66% completion rate
+5. Leisure skills: High engagement, appropriate dur
+
+Overall completion rate: 71%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. 7efa869d responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 20 tokens toward preferred activity)
+- Functional comm training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected usign 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+3e921d95 contacted at (315) 434-7890 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+7efa869d takes Sertraline 50mg dialy per prescription from 5e89d368. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for e719138d at 95 Geiger ICF.
+
+**Authored by:** Emily Parker
+**Date:** 225c1a1a
+
+---
+END OF SESSION NOTE

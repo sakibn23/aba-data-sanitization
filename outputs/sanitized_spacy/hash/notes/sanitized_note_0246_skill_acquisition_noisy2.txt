@@ -1,0 +1,48 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** Benjamin Reed
+**Date of Birth:** 0303f7c7
+**sess Date:** a75dc571
+**Program:** Chadwicsk TEC
+**Time:** 9:00 AM - 11:00 AM
+**bx Specialist:** 86d2206d
+
+---
+
+## SKILL ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+f3c7769d participated in 45 discrete trial training sessions focusing on lunch service 
+preparation siklls at Chadwicks TEC. Session began at 9:00 AM w/ 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 76% accuracy across 15 trials
+- Trial block 2: 89% accuracy across 15 trials  
+- Trial block 3: 94% accuracy across 15 trials
+- Overall session accuracy: 81%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+f3c7769d demonstrated improvement in response latency frmo 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+f3c7769d practiced food service skills during lunch preparation. Staff 359bacad, dd57abff supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted 1ba73f26 at (315) 427-5678 to discuss home practice strategies. 
+Parent reported f3c7769d has been practicing sorting tasks at home w/ good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** 86d2206d
+**Date signed:** Nov 4 2025
+
+---
+END OF SESSION NOTE

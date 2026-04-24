@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** f9fc5e6a
+**sess Date:** November 26, 2025
+**Settings:** 95 Geiger ICF, Liverpool TEC, 258 Willow Ct, 83feaa3a, 124e0b72 13039
+**Lead Staff:** 7a097096, 70618c58
+**Home Visit Staff:** a20cfa45.M.
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+a8cfcd74 demonstrated skill maintenance across multiple settings during coordinated session on Nov 26 2025.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, taks completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: 7a097096, 70618c58
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocatioanl tasks, peer interaction, following multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smooth transition wtih visual schedule support
+
+**HOME VISIT:** 258 Willow Ct, 83feaa3a, 124e0b72 13039
+Parent participants: 908dff9f and 83d2f177
+Home phone: (5cfabeef
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 82% independent completion in home environment
+
+**PARENT REPORT:**
+908dff9f reported a8cfcd74 has been copmleting 
+morning routine indep. at home 5 days per week. 83d2f177 noted improvement in comm with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+a8cfcd74 maintained 85% consistency across settings for target skills. 
+Variability noted in tsak initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- c69ed851 (Occupational Therapy) - contact: cbc0b129
+- af997c53, 769dc71a (ST Therapy) - contact: (054b1157
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 4 times per week
+- Schedule tri-setting observation on a82722b4
+
+**Documentation:** 7a097096, 70618c58
+**Date:** Nov 26 2025
+
+---
+END OF sess NOTE

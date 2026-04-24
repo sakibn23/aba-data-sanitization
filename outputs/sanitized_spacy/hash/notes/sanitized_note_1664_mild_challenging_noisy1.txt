@@ -1,0 +1,63 @@
+# f31c8453 sess NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** Parker, a950f30a
+**Incident Date:** 59baa122
+**Incident Time:** 11:20 AM
+**Location:** 92 Geiger ICF
+**Staff Present:** 3b27a015
+
+---
+
+## MILD CHALLENGING bx - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+a950f30a was engaged in art activity at 92 Geiger ICF when peer 
+requested to share art materials
+
+**BEHAVIOR DESCRIPTION:**
+a950f30a exhibited Minor non-compliance charcaterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- Duration: 2 min
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff 3b27a015 implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+a950f30a responded to choice offering intervention and returend to baseline within 
+4 min.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+a950f30a participated in cooperative art activity with appropriate sharing bxs 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+a950f30a was able to vebrally request "my turn please" f/u de-escalation, 
+demonstrating understanding of replacement behavior.
+
+**PARENT NOTIFICATION:**
+Phone contact w/ 897e89f8 at (315) 457-4567. 
+Parent reported similar sharing difficulties at home with sibling. Discussed consistency in 
+intv approach acorss settings
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by 3b27a015
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** b0e7dc87 at 92 Geiger ICF
+**Provider check-in:** ed39809a on 40a18c28
+
+**Report filed by:** 3b27a015
+**Filed:** e3354e1c
+
+---
+END OF SESSION NOTE

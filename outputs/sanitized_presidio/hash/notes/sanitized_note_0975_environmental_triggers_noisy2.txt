@@ -1,0 +1,67 @@
+# UCP sess NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** Alvarez, 7297db81
+**Session Date:** Nov 7 2025
+**Locations Observed:** 96 Geiger ICF, Liverpool TEC, Chadwicks TEC
+**Observing Staff:** 4c639e9f, c4b37c5f
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 96 Geiger ICF → Liverpool TEC
+Time: 10:15 AM
+Trigger: Unexpected staff change (regular driver unavailable)
+Client Response: Moderate anxiety, verbal questioning increased pacing
+
+7297db81 demonstrated heightened anxiety whne informed of transition from 
+96 Geiger ICF to Liverpool TEC with unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typiacl transport
+- Substitute staff member instead of usual 4c639e9f, c4b37c5f
+
+**TRANSITION 2:** Liverpool TEC → Chadwicks TEC
+Time: 11:45 AM
+Trigger: Schedule modification due to building maintenance
+Client Response: Midl agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointemnt with 9b9a4f28 at Liverpool TEC on 
+4-14-26 was 
+rescheduled to 5-3-26 
+due to provider illness. 7297db81 exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+288da3a9 contacted at (cadda266 to discuss 
+schedule sensitivity. Parent reported Daniel frqeuently references upcoming appointments 
+at home and struggles w/ last-minute changes
+
+**SENSORY ENVIRONMENT ASSESSMENT:**
+96 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Liverpool TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Chadwicks TEC: High activity level, variable noise, open floor plan
+
+Consultation with 6cb6e2c8 scheduled for 2acdc6fe 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 minutes to 15 minutes advnace notice
+- Environmental modifications at Liverpool TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet spcae for breaks
+- Schedule consistency protcool - avoid changes within 48 hours when possible
+- Provider coordination for appointment prepraation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with 288da3a9 scheduled 
+bdcf1a23 
+to review environmetnal sensitivities.
+
+Contact 6cb6e2c8 at (de6937f1 for sensory consultation.
+
+**Documented by:** 4c639e9f, c4b37c5f
+**Date:** d651c20e
+
+---
+END OF sess NOTE

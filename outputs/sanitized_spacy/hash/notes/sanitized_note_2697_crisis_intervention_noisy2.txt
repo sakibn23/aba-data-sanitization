@@ -1,0 +1,137 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: ce5f8665, Victoria
+Date of Birth: c599251b
+9b96b339: 0eef2aae
+Emergency Contact 1: ae4c8dfb - (315)422-3456
+Emergency Contact 2: 976033b4 - (315) 495-1234
+
+**INCIDENT DETAILS:**
+Date: eb3934fe
+Time of Onset: 2:15 PM
+Location: 95 Geiger ICF, e631bc22
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: 13745433
+Secondary: a9f226be, 798ff150
+Tertiary: b05a0d0f, a0906058
+Supervisor notified: Sophia Ruiz 03abe3d2
+Medical: Dr. Poissant
+
+**DETAILED INCIDENT TIMELINE:**
+
+11:18 AM: PRECIPITATING EVENT
+Victoria was engaged in activity when trigger occurred.
+
+11:22 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff 13745433 implemented verbal de-escalation.
+
+2:18 PM: BEHAVIOR ESCALATION - LEVEL 2
+PT aggression toward peer.
+Additional staff a9f226be, 798ff150 joined response.
+
+2:21 PM: bx ESCALATION - LEVEL 3 (CRISIS)
+Continued physical agrgession toward staff. Property destruction.
+d9742844, 03abe3d2 notified.
+
+11:30 AM: RESTRICTIVE INTEVRENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: 16c9cf19, b05a0d0f
+Reason: Imminent danger to self and others
+
+10:08 AM: DE-ESCALATION PROGRESS
+Victoria showing decreased muscle tension, verbal communication restored.
+
+2:45 PM: RESTRAINT RELEASED
+Total restraint dur: 25 min
+Victoria moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists form restraint contact no skin breakdown
+Assessed by: Dr. Poissant
+Treatment: Viusal inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+13745433: Superficial scratch - Treatment: Cleaned bandaged
+a9f226be: Contusion from impact - Treatment: Ice pack applied
+b05a0d0f: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $187
+
+**EMERGENCY CONTACTS MADE:**
+
+11:35 AM: ae4c8dfb contacted at (315)422-3456
+Reached: Yes, answered immediately
+Notified by: d9742844, 03abe3d2
+
+2:45 PM: 976033b4 contacted at (315) 495-1234
+Reached: Yes, callback received
+
+**MEDICAL CONSULTATION:**
+d0e11245 assessed. 
+Vital signs: Temp 98.4°F, Pulse 87, BP 117/73, Respirations 16
+rec: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+35e2d053, NP contacted.
+Emergency appointment: a5ccb01a
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive PT Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 min
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring tx
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 11:30 AM
+End time: 2:45 PM
+Total duration: 23 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: d0e11245 checked vital signs every 5 min
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: 8d5b6bd6 - notified
+☑ Clinical Director: Sophia Ruiz - notified
+☑ OPWDD: Icnident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: d9742844, 03abe3d2
+Attendees: Olivia Jimenez a9f226be b05a0d0f
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: 35e2d053, NP emergency appt Apr 21 2026
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** Olivia Jimenez
+**Reviewed by:** Sophia Ruiz 03abe3d2
+**Medical review:** Dr. Poissant
+**Report filed:** a75dc571
+**Report ID:** INC-2026-5904
+
+---
+END OF INCIDENT REPORT

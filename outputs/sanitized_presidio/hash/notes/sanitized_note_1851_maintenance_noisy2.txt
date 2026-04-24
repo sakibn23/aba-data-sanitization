@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 3543a809
+**sess Date:** 188bed39
+**Settings:** 100 Geiger ICF, Chadwicks TEC, 383 Oak Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** ec43eb64
+**Home Visit Staff:** 68adc844. 94746a21 2b750216
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+25eb92ae demonstrated skill maintenance across multiple settings during coordinated sess on 188bed39
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion socila comm
+Performance: 89% independent completion across all tasks
+Staff observer: ec43eb64
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 85% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 383 Oak Street, 2fb59fa3, 124e0b72 13204
+Parent participants: d37e0bc1 and b510e445
+Home phone: 6b8b6e46
+Skills assessed: Home routines, famiyl interactions, leisure skills
+Performance: 78% independent completino in home environment
+
+**PARENT REPORT:**
+d37e0bc1 reported 25eb92ae has been completing 
+morning routine independently at home 4 days per week. b510e445 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positvie reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+25eb92ae maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared w/:
+- f7339b3b (Occupational Therapy) - contact: 032e4535
+- 880c4780, 798ff150 (Speech Therapy) - contact: 32b95368
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 25af8e9e
+
+**Documentation:** ec43eb64
+**Date:** 46d8634f
+
+---
+END OF SESSION NOTE

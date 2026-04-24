@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** [PERSON]
+**Session Date:** [DATE]
+**Settings:** 96 [PERSON], Baldwinsville TEC, 970 Maple Street, [ADDRESS], [ADDRESS] 13204
+**Lead Staff:** [PERSON]
+**Home Visit Staff:** Riley Sanchez [CREDENTIAL], [CREDENTIAL]
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+[PERSON] demonstrated skill maintenance across multiple settings during coordinated session on [DATE].
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines task completion social communication
+Performance: 84% inedpendent completion across all tasks
+Staff observer: [PERSON]
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 79% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 970 Maple Street, [ADDRESS], [ADDRESS] 13204
+Parent participants: [PERSON] and [PERSON]
+Home phone: [PHONE]
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 78% indep completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reported [PERSON] has been completing 
+morning routine independently at hmoe 4 dasy per week. [PERSON] noted improvement in communication with younger sbiling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+[PERSON] maintained 85% consistency across settings for taregt skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- [ADDRESS], [ADDRESS] (Occupational Therapy) - contact: ([PHONE]
+- [PERSON] (ST Therapy) - contact: ([PHONE]
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on [DATE]
+
+**Documentation:** [PERSON]
+**Date:** Oct 16 2025
+
+---
+END OF sses NOTE

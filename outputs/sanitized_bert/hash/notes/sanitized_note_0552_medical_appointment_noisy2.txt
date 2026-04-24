@@ -1,0 +1,74 @@
+# UCP sses NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** b448ded2
+**Session Date:** 16d32f4d
+**Primary Location:** Cicero TEC
+**Staff:** 106348f2
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modfiied to accommodate appointment w/ 005ee896 at Syracuse Medical Associates, 03ef5d49.
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, 03ef5d49
+Clinic phone: 1e7d3c4c
+Provider: 005ee896
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 106348f2
+
+**PARENT COORDINATION:**
+674ced31 2c3aaefe met at clinic.
+Contact number: d272436d
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 14ab167c
+
+**APPOINTMENT OUTCOME:**
+Per 005ee896:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: 005ee896
+Pharmacy: Kinney Drugs, 3154275678
+
+**POST-APPOINTMENT SESSION:**
+ee2942b0 returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pian scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse a7e9ba96 notfiied to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+674ced31 2c3aaefe contacted at (315)450-7890 to discuss:
+- Appointmetn outcome and diagnosis
+- Medication administration schedule
+- Home obseravtion for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 106348f2
+**Medical liaison:** a7e9ba96
+**Date:** c5168b42
+
+---
+END OF SESSION NOTE

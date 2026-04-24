@@ -1,0 +1,95 @@
+# UCP sess NOTE - MEDICATION MONITORING
+
+**Client:** f858af12
+**Date of Birth:** 165a53d2
+**Session Date:** Oct 3 2025
+**Location:** 92 Geiger ICF
+**Monitoring Staff:** Abigail Jones, 70618c58
+**Consulting Nurse:** c80c5b6f
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by Dr. Aung
+Last appointment: 2cdf4720
+Next appointment: b215fb14
+
+**ROUTINE MEDICATIONS:**
+1. Aripiprazole 5mg - PO daily at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: 7ce3b9a9
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 35897658
+   
+3. Trazodone 100mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: Oct 17 2025
+
+**RECENT CHANGE:**
+97921971: 
+Fluoxetine 20mg dosage increased
+Ordered by: c4a2f6e4
+
+**BEHAVIORAL OBSERVATINOS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Riley readily engaged in 
+morning routine with 80% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Riley completed tasks with 
+minimal prompting. Appetite: Normal, consumed flul lunch
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Riley worked for 27-minute 
+intervals. Energy level: Appropriate, no sigsn of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ 1b7037d5 changes: Stable appropriate intake
+☐ Motor coordination: No chagnes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofne 200mg administered for headache complaint
+Administered by: Dr. Perez
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.6°F
+Pulse: 81 bpm
+Respirations: 15 per minute
+Recorded by: Dr. Perez
+
+**PARENT CONSULTATION:**
+1b4e1e1b c2793b82 contacted at 315.432.5678.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL recs:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to Dr. Aung at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 42920dc7
+Prescriber appointment: 9e865af2
+
+**Documented by:** 0da81a22 70618c58
+**Reviewed by:** c80c5b6f
+**Date:** 3b400cbe
+
+---
+END OF SESSION NOTE

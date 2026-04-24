@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Chloe Ruiz M.
+**Session Date:** c5168b42
+**Settings:** 96 Gegier ICF, Baldwinsville TEC, ce3d6ce1
+**Lead Staff:** 64848225
+**Home Visit Staff:** Riley Sanchez 94746a21, 3d8c8358
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+Chloe demonstrated skill maintenance across multiple settings during coordinated session on c5168b42.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines task completion social communication
+Performance: 84% inedpendent completion across all tasks
+Staff observer: 64848225
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 79% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** ce3d6ce1
+Parent participants: 26d42644 and Paul Ruiz
+Home phone: 315.506.8901
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 78% indep completion in home environment
+
+**PARENT REPORT:**
+26d42644 reported 789f9de7 has been completing 
+morning routine independently at hmoe 4 dasy per week. 2a5a85f7 noted improvement in communication with younger sbiling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Chloe maintained 85% consistency across settings for taregt skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- c843ddd6, 771546ad (Occupational Therapy) - contact: (315)461-5678
+- 005ee896 (ST Therapy) - contact: (315)435-8901
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 70111957
+
+**Documentation:** 64848225
+**Date:** Oct 16 2025
+
+---
+END OF sses NOTE

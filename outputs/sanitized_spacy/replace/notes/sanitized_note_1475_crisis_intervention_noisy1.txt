@@ -1,0 +1,133 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+[ADDRESS]
+Emergency Contact: [PHONE]
+
+**CLIENT INFORMATION:**
+Name: [PERSON], Zoey S.
+Date of Birth: [DATE]
+[PERSON]: [ADDRESS]
+Emergency Contact 1: Michael Miller - 3154507890
+
+**INCIDENT DETAILS:**
+Date: [DATE]
+Time of Onset: 9:45 AM
+Location: 96 Geiger ICF, [ADDRESS]
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: Jacob Hall
+Secondary: [PERSON], [CREDENTIAL]
+Tertiary: [PERSON], [CREDENTIAL]
+[PERSON] notified: Olivia Campbell [CREDENTIAL], [CREDENTIAL]
+Medical: [PERSON]
+
+**DETAILED INCIDENT TIMELINE:**
+
+9:41 AM: PERCIPITATING EVENT
+Zoey was engaged in activity when trigger occurred.
+
+2:15 PM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff [PERSON] implemented verbal de-escalation.
+
+11:25 AM: BEHAVIOR ESCALATION - LEVEL 2
+PT aggression toward peer.
+Additional staff [PERSON], [CREDENTIAL] joined response.
+
+11:28 AM: BEAHVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued phyiscal aggression toward staff. Property destruction.
+[PERSON], [CREDENTIAL] [CREDENTIAL] notified.
+
+2:23 PM: RESTRICTIVE intv INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: Jacob Hall Aubrey Lee Jacob Hughes
+Reason: Imminent danger to self and others
+
+10:08 AM: DE-ESCALATION PROGRESS
+Zoey showing decreased muscle tension, verbal comm restored.
+
+2:45 PM: RESTRAINT RELEASED
+Total restraint dur: 20 min
+Zoey moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on writss from restraint contact, no skin breakdown
+Assessed by: [PERSON]
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+[PERSON]: Superficial scratch - tx: Cleaned, bandaged
+Aubrey Lee: Contusion from impact - Treatment: Ice pack applied
+[PERSON]: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $188
+
+**EMERGENCY CONTACTS MADE:**
+
+2:28 PM: [PERSON] contacted at 3154507890
+Reached: Yes, answered immediately
+Notified by: [PERSON], [CREDENTIAL], [CREDENTIAL]
+
+**MEDICAL CONSULTATION:**
+[PERSON] assessed. 
+Vital signs: Tmep 98.6°F, Pulse 84, BP 121/72, Respirations 19
+Recommendation: Continue monitoring, no medical intv needed
+
+**PSYCHIATRIC CONSULTATION:**
+[PERSON] contacted.
+Emergency appointment: Apr 21 2026
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical intv
+☑ Multiple staff required (3+)
+☑ dur > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 9:53 AM
+End time: 2:45 PM
+Total duration: 20 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: [PERSON] checked vital signs every 5 min
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: [PERSON] - notified
+☑ Clinical Director: Olivia Campbell - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: Olivia Campbell [CREDENTIAL], [CREDENTIAL]
+Attendees: [PERSON], [PERSON]
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: [PERSON] emergency appt [DATE]
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** [PERSON]
+**Reviewed by:** Olivia Campbell, [CREDENTIAL], [CREDENTIAL]
+**Medical review:** [PERSON]
+**Report filed:** Nov 1 2025
+**Report ID:** INC-2026-3070
+
+---
+END OF INCIDENT REPORT

@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Brown, c4ec54db
+**Session Date:** 10e62bb9
+**Primary Location:** Cicero TEC
+**Staff:** 25e2d419
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ f6d16c2d at Syracuse Medical Associates, c1f7d442.
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, c1f7d442
+Clinic phone: (315)480-7890
+Provider: f6d16c2d
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 25e2d419
+
+**PARENT COORDINATION:**
+c85b580b met at clinic.
+Contact number: 315.460.4567
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: e038eaa6
+
+**APPOINTMENT OUTCOME:**
+Per f6d16c2d:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Apply topically twice daily
+Prescribing provider: f6d16c2d
+Pharmacy: dae25302, 315.449.4567
+
+**POST-APPOINTMENT SESSION:**
+edd29161 reutrned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Olivia Moore, 3e4411d5 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+c85b580b contacted at 315.460.4567 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified scheudle for medical appointment days - reduce academic demands
+- Parent comm log for symptmo tracking
+
+**Documented by:** 25e2d419
+**Medical liaison:** Olivia Moore, 3e4411d5
+**Date:** 0c549456
+
+---
+END OF SESSION NOTE

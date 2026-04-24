@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Sophia Flores
+**Session Date:** 3238c440
+**Settings:** 100 Geiger ICF, Baldwinsville TEC, 0322090b
+**Lead Staff:** 3f84d557
+**Home Visit Staff:** Sophia Thompson 771546ad
+
+---
+
+## MAINTEANNCE AND GENERALIZATION asmt
+
+f1908a7c demonstrated skill maintenance across multiple settings during coordinated sess on 131f628f.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social comm
+Performance: 84% independent completion across all tasks
+Staff observer: 3f84d557
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 79% accuarcy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 0322090b
+Parent participants: ee6d264c and Ruth Flores
+Home phone: 731bba67
+Skills assessed: Home routines fmaily interactions leisure skills
+Performance: 75% indep completion in home environment
+
+**PARENT REPORT:**
+ee6d264c reported f1908a7c has been completing 
+morning routine indep. at home 5 days per week. 287c30eb noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f1908a7c maintained 78% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- cef65381 (Occupational Therapy) - contact: a03ccc6b
+- Jackson Rogers, 03abe3d2 (ST Therapy) - contact: 7e32b8d8
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on f1afb88b
+
+**Documentation:** Riley Rogers
+**Date:** 131f628f
+
+---
+END OF SESSION NOTE

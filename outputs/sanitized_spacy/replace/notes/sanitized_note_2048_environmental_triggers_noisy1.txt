@@ -1,0 +1,67 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** [PERSON]
+**sess Date:** Oct 25 2025
+**Locations Observed:** 92 Geiger ICF, Chadwicks TEC, Syracuse TEC
+**Observing Staff:** [PERSON]
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 92 Geiger ICF → Chadwicks TEC
+Time: 9:30 AM
+Trigger: Unexpected satff change (regular driver unavailable)
+Client Response: Moderate anxiety, verbal questioning, increased pacing
+
+[PERSON] demonstrated heightened anxiety when informed of transition frmo 
+92 Geiger ICF to Chadwicks TEC w/ unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usual [PERSON]
+
+**TRANSITION 2:** Chadwicks TEC → Syracuse TEC
+Time: 2:15 PM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation, requesting return to fmailiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment with [PERSON] at Chadwicks TEC on 
+Apr 17 2026 was 
+rescheduled to [DATE] 
+due to provider illness. [PERSON] exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+[PERSON] contacted at 315.507.4567 to discuss 
+schedule sensitivity. Parent reported [PERSON] frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT asmt:**
+92 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Chadwicks TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Syracuse TEC: High activity level variable noise open floor plan
+
+Consultation with [PERSON] scheduled for [DATE] 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 min to 15 minutes advance notice
+- Environmnetal modifications at Chadwicks TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency protocol - avoid changes withni 48 hours when possible
+- Provider coordination for appointment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with [PERSON] scheduled 
+[DATE] 
+to reivew environmental sensitivities.
+
+Contact Dr. Wood at 3154457890 for sensory consultation.
+
+**Documented by:** [PERSON]
+**Date:** [DATE]
+
+---
+END OF sess NOTE

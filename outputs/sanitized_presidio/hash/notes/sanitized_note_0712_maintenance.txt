@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** O. Cruz
+**Session Date:** 86ae21a5
+**Settings:** 92 Geiger ICF, Chadwicks TEC, 190 Main Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 80266d0b
+**Home Visit Staff:** 0ea1b626, a80c79af
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+baa31bcd demonstrated skill maintenance across multiple settings during coordinated session on 86ae21a5.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 87% independent completion across all tasks
+Staff observer: 80266d0b
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 79% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 190 Main Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 94985f04
+Home phone: 9ab6a3fa
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 80% independent completion in home environment
+
+**PARENT REPORT:**
+94985f04 reported baa31bcd has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+baa31bcd maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Logan Ward, 94746a21 (Occupational Therapy) - contact: ae293be0
+- f81145a1 (Speech Therapy) - contact: 3e64f33d
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 1bbde68f
+
+**Documentation:** 80266d0b
+**Date:** 86ae21a5
+
+---
+END OF SESSION NOTE

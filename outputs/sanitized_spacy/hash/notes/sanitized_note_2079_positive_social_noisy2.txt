@@ -1,0 +1,50 @@
+# UCP SESSION NOTE - POSITIVE SOCIAL INTERACTION
+
+**Client:** 4fcfd2d7
+**Date of Service:** 0b274931
+**Program Location:** Cicero TEC
+**Lead tx:** 254076da, c4b37c5f
+**Co-Facilitator:** Levi Reed, 8322fec4
+
+---
+
+## POSITIVE SOCIAL ENGAGEMENT SESSION
+
+25eb92ae demonstrated exceptional social skills during structured group activity at 
+Cicero TEC from 3:00 PM to 4:30 PM
+
+**PEER INTERACTIONS:**
+25eb92ae engaged appropriately with peers f1908a7c and Sofia during board game activity. 
+Initiated 5 social interactions, including:
+- Sharing game pieces with Sophia
+- Inviting Sofia to join activity
+- Requesting turn-taking using functional communication strategies
+
+**COMMUNICATION SUCCESSES:**
+Following recommendations from 876e72b1 utilized total communication approach 
+effectively. Verbally expressed wants/needs 11 times throughout session.
+
+**STAFF INTERACTIONS:**
+Responded positively to propmts from 254076da and 24aef53d. 
+Built rapport through shared interest in activities. Accepted redirection appropriately when needed.
+
+**GROUP ACTIVITY PARTICIPATION:**
+Activity: Cooperative board game
+dur: 45 min
+Peers present: Sophia, Sofia
+Adult supervision: 1:3 staff-to-client ratio
+
+**PARENT FEEDBACK:**
+666cb375 attended pickup and reported 25eb92ae has 
+been initiating play wtih siblings at home more frequently. Contact maintained via daily communication log.
+
+**recs:**
+- Continue social skills group at Cicero TEC
+- Increase peer interaction opporutnities during unstructured time
+- Collaborate with d9fbf8f0 for social-emotional assessment
+
+**Documentation:** 254076da, c4b37c5f
+**Date:** 849b75f0
+
+---
+END OF sess NOTE

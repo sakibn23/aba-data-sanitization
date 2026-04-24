@@ -1,0 +1,48 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** Hernandez, Avery
+**Date of Birth:** Apr 19 2008
+**Session Date:** Nov 22 2025
+**Program:** Chadwicks TEC
+**Time:** 2:00 PM - 3:00 PM
+**83aedc6d:** Olivia Gray
+
+---
+
+## SKILL ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+Avery participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Chadwicsk TEC. sess began at 2:00 PM with 
+hand wasihng and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 70% accuracy across 15 trials
+- Trial block 2: 80% accuracy across 15 trials  
+- Trial block 3: 85% accuracy across 15 trials
+- Overall session accuracy: 87%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verabl prompting only by session end. 
+Avery demonstrated improvement in response latency from 8.5 secnods to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Avery prcaticed food service skills during lunch preparation. Staff 813b8a79 a0906058 superivsed and reported successful completion of assigned tasks w/ minimal support.
+
+**PARENT COLLABORATION:**
+Contacted ea7f7b14 at (315)491-1234 to discuss home practice strategies. 
+Parent reported Avery has been practicing sorting tasks at home w/ good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** Olivia Gray
+**Date signed:** 75f52e16
+
+---
+END OF SESSION NOTE

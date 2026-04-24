@@ -1,0 +1,137 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT info:**
+Name: J. Stewart
+Date of Birth: e5626160
+Primary Residence: 987 Cedar Ln
+Emergency Contact 1: Emily 235fe393 - (315) 486-1234
+Emergency Contact 2: 171ad7ac - (315) 494-3456
+
+**INCIDENT DETAILS:**
+Date: 80a016d5
+Time of Onset: 2:15 PM
+Location: 100 Geiger ICF, 71b3fbd9
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: cf3ffe30, 70618c58
+Secondary: ccc79efd, 3e4411d5, 03abe3d2
+Tertiary: 5cd8c733, 87ef1797
+9de79093 notified: 439ef67a, 3e4411d5
+Medical: 3f976ba4
+
+**DETAILED INCIDENT TIMELINE:**
+
+9:41 AM: PRECIPITATING EVENT
+9345a35a was engaged in activity when trigger occurred.
+
+2:15 PM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff cf3ffe30 70618c58 implemented verbal de-escalation.
+
+2:18 PM: bx ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff ccc79efd 3e4411d5, 03abe3d2 joined response.
+
+11:28 AM: bx ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+439ef67a, 3e4411d5 notified.
+
+11:30 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: cf3ffe30, 70618c58, ccc79efd, Michael Allen
+Reason: Imminent danger to self and others
+
+2:38 PM: DE-ESCALATION PROGRESS
+9345a35a showing decreased muscle tension, verbal comm restored.
+
+10:15 AM: RESTRAINT RELEASED
+Total restraint dur: 23 minutes
+9345a35a moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists form restraint contact, no skin breakdown
+Assessed by: Dr. Clark
+Treatment: Visual inspection only ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+cf3ffe30: Superficial scratch - tx: Cleaned, bandaged
+ccc79efd: Contusion from impact - Treatment: Ice pack applied
+5cd8c733: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $184
+
+**EMERGENCY CONTACTS MADE:**
+
+9:58 AM: Emily 235fe393 contacted at (315) 486-1234
+Reached: Yes, answered immediately
+Notified by: 439ef67a, 3e4411d5
+
+2:45 PM: 171ad7ac contacted at (315) 494-3456
+Reached: Yes, callback received
+
+**MEDICAL CONSULTATION:**
+3f976ba4 assessed. 
+Vital signs: Temp 98.6°F, Pulse 84, BP 115/82, Respirations 19
+Recommendation: Continue monitoring, no medical intv needed
+
+**PSYCHIATRIC CONSULTATION:**
+9b9a4f28 contacted.
+Emergency appointment: c3e8dffa
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive PT Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 min
+☐ Emergency medical serivces called
+☑ Parent immdeiate notification
+☑ Proeprty damage
+☑ Staff injury requiring tx
+☑ Pyschiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 2:23 PM
+End time: 10:15 AM
+Total duration: 22 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: 3f976ba4 checked vital signs every 5 min
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: Aubrey Nguyen - notified
+☑ Clinical Director: 439ef67a - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: Mia Thompson 3e4411d5
+Attendees: d6d1b6a7, 5cd8c733
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: 9b9a4f28 emergency appt a5ccb01a
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** cf3ffe30, 70618c58
+**Reviewed by:** 439ef67a, 3e4411d5
+**Medical review:** 3f976ba4
+**Report filed:** 07a15b30
+**Report ID:** INC-2026-3625
+
+---
+END OF INCIDENT REPORT

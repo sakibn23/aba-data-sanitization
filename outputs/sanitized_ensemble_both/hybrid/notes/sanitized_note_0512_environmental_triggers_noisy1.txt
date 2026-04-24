@@ -1,0 +1,67 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** [PERSON]
+**sess Date:** O**************5
+**Locations Observed:** 95 Geiger ICF Cicero TEC, Syracuse TEC
+**Observing [PERSON]:** [PERSON]
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 95 Geiger ICF → Cicero TEC
+Time: 9:30 AM
+Trigger: Unexpected staff change (regular driver unavailable)
+Client Response: Moderate anxiety, verbal questioning, increased pacing
+
+[PERSON] demonstrated heightened anxiety when informed of transition from 
+95 Geiger ICF to Cicero TEC with unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usual [PERSON]
+
+**TRANSITION 2:** Ciceor TEC → Syracuse TEC
+Time: 2:15 PM
+Trigger: Scehdule modification due to buidling maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment wiht [PERSON] at Cicero TEC on 
+0********6 was 
+rescheduled to M*********6 
+due to provider illness. [PERSON] exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+[PERSON] contacted at (315) 503-9012 to discuss 
+schedule sensitivity. Parent reported [PERSON] frequently references upcoming appointments 
+at home and struggles w/ last-minute changes.
+
+**SENSORY ENVIRONMENT ASSESSMENT:**
+95 Geigre ICF: Familiar lighting, low noise level, preferred seating available
+Cicero TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Syracuse TEC: High activity level, variable noise open floor plan
+
+Consultation with [PERSON], BCBA scheduled for M**********6 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 min to 15 minutes advance notice
+- Environmental modifications at Cicero TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency protocol - avoid changes within 48 hours when possible
+- [PERSON] coordination for appointment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with [PERSON] scheduled 
+0********6 
+to review environmental sensitivities.
+
+Contact [PERSON], BCBA at (315)425-8901 for sensory consultation
+
+**Documented by:** [PERSON]
+**Date:** 1******5
+
+---
+END OF sess NOTE

@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** Logan Long
+**Date of Birth:** 49149a95
+**Session Date:** Nov 2 2025
+**Location:** 96 Geiger ICF
+**Monitoring Staff:** Logan White, 70618c58
+**Consulting Nurse:** c6964dff, a80c79af
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by 6e939ca8, 87ef1797
+Last appointment: c7c670d9
+Next appointment: 573dc3fa
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance anxiety
+   Start date: b6e83e08
+   
+2. Escitalopram 10mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 86f114e9
+   
+3. Melatonin 5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: c46fc9dc
+
+**RECENT CHANGE:**
+Apr 5 2026: 
+Escitalopram 10mg dosage increased
+Ordered by: 6e939ca8, 87ef1797
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compaerd to previous week. 2acd18da readily engaged in 
+morning routine with 85% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. 2acd18da completed tasks w/ 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. 2acd18da worked for 21-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for heaadche complaint
+Administered by: c6964dff, a80c79af
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 98.2°F
+Pulse: 79 bpm
+Respirations: 17 per minute
+Recorded by: c6964dff, a80c79af
+
+**PARENT CONSULTATION:**
+ca16cc8c contacted at (950c5084.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stabiilty for next 30 days
+- Report findings to 6e939ca8, 87ef1797 at nxet appointment
+- Parent daily monitoring log for sleep onest time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 2fd7a92a
+Prescriber appointment: ac58f2ac
+
+**Documented by:** Logan White, 70618c58
+**Reviewed by:** c6964dff, a80c79af
+**Date:** 7e8a9e81
+
+---
+END OF SESSION NOTE

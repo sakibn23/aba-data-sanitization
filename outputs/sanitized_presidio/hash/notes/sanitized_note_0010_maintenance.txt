@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 5de2e3ac
+**Session Date:** 86d03bdc
+**Settings:** 100 Geiger ICF, Cicero TEC, 396 906c970a, 2fb59fa3, 124e0b72 13214
+**Lead Staff:** ffa5c1e5
+**Home Visit Staff:** c72b0766, 771546ad
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+149f7514 demonstrated skill maintenance across multiple settings during coordinated session on 86d03bdc.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 86% independent completion across all tasks
+Staff observer: ffa5c1e5
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 81% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 396 906c970a, 2fb59fa3, 124e0b72 13214
+Parent participants: f2443633 and a8fcd3fe
+Home phone: (e4044af8
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 82% independent completion in home environment
+
+**PARENT REPORT:**
+f2443633 reported 149f7514 has been completing 
+morning routine independently at home 5 days per week. a8fcd3fe noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+149f7514 maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 4cc1fbd3 (Occupational Therapy) - contact: c9f02eec
+- 5cfb9388 (Speech Therapy) - contact: b3bcad9f
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on c4954886
+
+**Documentation:** ffa5c1e5
+**Date:** 86d03bdc
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** b448ded2
+**Session Date:** c5168b42
+**Primary Location:** Cicero TEC
+**Staff:** Mason Baker
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 005ee896 at Syracuse Medical Associates, 666 595fd85a, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, 666 595fd85a, 2fb59fa3, NY 13202
+Clinic phone: 1e7d3c4c
+Provider: 005ee896
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 106348f2
+
+**PARENT COORDINATION:**
+a0b6d6a5 met at clinic.
+Contact number: d272436d
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: a9c72772
+
+**APPOINTMENT OUTCOME:**
+Per 005ee896:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: 005ee896
+Pharmacy: Kinney Drugs, 26774165
+
+**POST-APPOINTMENT SESSION:**
+ee2942b0 returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse a7e9ba96 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+a0b6d6a5 contacted at d272436d to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Mason Baker
+**Medical liaison:** a7e9ba96
+**Date:** c5168b42
+
+---
+END OF SESSION NOTE

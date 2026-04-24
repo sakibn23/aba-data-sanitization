@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** [PERSON]
+**sess Date:** [DATE]
+**Settings:** 88 Geiger ICF Liverpool TEC, [ADDRESS]
+**Lead Staff:** [PERSON], [CREDENTIAL]
+**Home Visit Staff:** Luke Miller [CREDENTIAL]
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+Charlotte demonstrated skill maintenance across multiple settings during coordinated sess on [DATE].
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion, social comm
+Performance: 82% indep completion across all tasks
+Staff observer: [PERSON], [CREDENTIAL]
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 88% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** [ADDRESS]
+Parent participants: Patricia Watson
+Home phone: 315.441.9012
+Skills assessed: Hmoe routines, family interactions leisure skills
+Performance: 80% independent completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reporetd Charlotte has been completing 
+morning routine indep. at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Charlotte maintained 88% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared w/:
+- Logan Torres, [CREDENTIAL] (Occupational Therapy) - contact: 315.474.3456
+- [PERSON] (ST Therapy) - contact: 3154467890
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all stetings weekly
+- Increase home practice freq to 4 times per week
+- Schedule tri-setting observation on [DATE]
+
+**Documentation:** Scarlett Anderson [CREDENTIAL]
+**Date:** [DATE]
+
+---
+END OF SESSINO NOTE

@@ -1,0 +1,74 @@
+# [PERSON] sses NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**Session Date:** 1******5
+**Primary Location:** Cicero TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modfiied to accommodate appointment w/ Dr. Mitchell at [PERSON], [ADDRESS].
+
+Modified sess: [PERSON] abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: [PERSON], [ADDRESS]
+Clinic phone: [PHONE]
+Provider: [PERSON]
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] [PERSON] met at clinic.
+Contact number: [PHONE]
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: A************6
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: [PERSON]
+Pharmacy: Kinney Drugs, 3154275678
+
+**POST-APPOINTMENT SESSION:**
+Aiden returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pian scale
+
+**MEDICATION MONITORING:**
+Current medications updated. [PERSON] [PERSON] notfiied to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+[PERSON] [PERSON] contacted at (315)450-7890 to discuss:
+- Appointmetn outcome and diagnosis
+- Medication administration schedule
+- [PERSON] obseravtion for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- [PERSON] communication log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON]
+**Date:** 1********5
+
+---
+END OF SESSION NOTE

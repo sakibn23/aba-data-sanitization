@@ -1,0 +1,74 @@
+# f31c8453 sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 4e0bc814
+**Session Date:** c943fcde
+**Primary Location:** Baldwinsville TEC
+**Staff:** 9fd53e46
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ b45eadf8 at Syracuse Medical Associates 52da4951.
+
+Modified sess: a43f3e9c abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, 52da4951
+Clinic phone: (315) 515-4567
+Provider: b45eadf8
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 9fd53e46
+
+**PARENT COORDINATION:**
+a3625089 met at clinic.
+Contact number: 3154318901
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: Apr 15 2026
+
+**APPOINTMENT OUTCOME:**
+Per b45eadf8:
+- Diagnosis: Otitis Externa
+- Treatment: Aomxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Amoixcillin 500mg - Take twice daily × 10 days
+Prescribing provider: b45eadf8
+98f3d29f: 6bda74c9 98f3d29f, a391a130
+
+**POST-APPOINTMENT SESSION:**
+78a1a1da returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased reuqests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nruse 187773f4 notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+a3625089 contacted at (315) 431-8901 to discuss:
+- Appointment otucome and diagnosis
+- Medication administration schedule
+- Hoem observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appiontment days - reduce academic demands
+- 5f7953f7 communication log for symptom tracking
+
+**Documented by:** 9fd53e46
+**Medical liaison:** 187773f4
+**Date:** 1042b77b
+
+---
+END OF sess NOTE

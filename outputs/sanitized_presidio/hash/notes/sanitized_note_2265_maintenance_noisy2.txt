@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Green, 296b6366
+**sess Date:** e2fbf143
+**Settings:** 95 Geiger ICF, Liverpool TEC, 413 7206b561
+**Lead Staff:** da480c5f
+**Home Visit Staff:** 7674e158, dd57abff
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+296b6366 demonstrated skill miantenance across multiple settigns during coordinated session on fb5cc1d7.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion social communication
+Performance: 92% independent completion across all tasks
+Staff observer: da480c5f
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: 8a59462d tasks, peer interaction, f/u multi-step directions
+Performance: 78% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 413 Redwood Ln
+Parent participants: b34a8f05
+Home phone: (6b966692
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+b34a8f05 reported 296b6366 has been completign 
+morning routine indep. at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection porcedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+296b6366 maintained 86% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- e41bed61 (Occupational Therapy) - contact: 6b8b6e46
+- ed823248, 798ff150 (Speech Therapy) - contact: 3e64f33d
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home pratcice frequency to 4 times per week
+- Schedule tri-setting observation on Jun 1 2026
+
+**Documentation:** Lucas Hernandez
+**Date:** 11-9-25
+
+---
+END OF SESSION NOTE

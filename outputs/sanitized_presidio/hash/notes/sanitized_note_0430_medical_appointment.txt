@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Lucas Parker C.
+**Session Date:** 49e9b98b
+**Primary Location:** Syracuse TEC
+**Staff:** cefbb08c
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 4d0f8e52 at WellNow Urgent Care, 473 595fd85a, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care, 473 595fd85a, 2fb59fa3, NY 13202
+Clinic phone: 32618551
+Provider: 4d0f8e52
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: cefbb08c
+
+**PARENT COORDINATION:**
+2a5ef068 met at clinic.
+Contact number: (5f13802a
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: f02cdd40
+
+**APPOINTMENT OUTCOME:**
+Per 4d0f8e52:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: 4d0f8e52
+Pharmacy: CVS Pharmacy, 53fabbc7
+
+**POST-APPOINTMENT SESSION:**
+52d7d860 returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 7a22ac44, 4d95e550, c4b37c5f notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+2a5ef068 contacted at (5f13802a to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** cefbb08c
+**Medical liaison:** 7a22ac44, 4d95e550, c4b37c5f
+**Date:** 49e9b98b
+
+---
+END OF SESSION NOTE

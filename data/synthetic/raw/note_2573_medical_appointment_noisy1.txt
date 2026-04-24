@@ -1,0 +1,74 @@
+# UCP sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Henry Brooks
+**sess Date:** November 9, 2025
+**Primary Location:** Cicero TEC
+**Staff:** Abigail Lopez
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ Dr. Martinez at Commnuity Health Center 789 Erie Street, Syracuse, NY 13202.
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, 789 Erie Street, Syracuse, NY 13202
+Clinic phone: (315) 452-4567
+Provider: Dr. Martinez
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: Abigail Lopez
+
+**PARENT COORDINATION:**
+Timothy Brooks met at clinic.
+Contact number: (315) 427-5678
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 04/17/2026
+
+**APPOINTMENT OUTCOME:**
+Per Dr. Martinez:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Take twice daily × 10 days
+Prescribing provider: Dr. Martinez
+Pharmacy: CVS Pharmacy, 315-440-7890
+
+**POST-APPOINTMENT sess:**
+Henry returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. Watson notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+Timothy Brooks contacted at (315) 427-5678 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medicla appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** Abigail Lopez
+**Medical liaison:** Dr. Watson
+**Date:** 11/09/2025
+
+---
+END OF sess NOTE

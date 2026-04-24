@@ -1,0 +1,67 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** E. Hernandez
+**Session Date:** 523a74ef
+**Locations Observed:** 92 Geiger ICF, Liverpool TEC, Baldwinsville TEC
+**Observing Staff:** f32f1742, 2b750216
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 92 Geiger ICF → Liverpool TEC
+Time: 10:15 AM
+Trigger: Unexpected staff change (regular driver unavailable)
+Client Response: Moderate anxiety, verbal questioning, increased pacing
+
+Elijah demonstrated heightened anxiety when informed of transition from 
+92 Geiger ICF to Liverpool TEC with unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usual f32f1742, 2b750216
+
+**TRANSITION 2:** Liverpool TEC → Baldwinsville TEC
+Time: 11:45 AM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment with e57b1f63 at Liverpool TEC on 
+4a808de3 was 
+rescheduled to d29f8911 
+due to provider illness. Elijah exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+7d4ad64e contacted at (315)481-1234 to discuss 
+schedule sensitivity. Parent reported Elijah frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT ASSESSMENT:**
+92 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Liverpool TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Baldwinsville TEC: High activity level, variable noise, open floor plan
+
+Consultation with 5cfb9388 scheduled for 6136e6c6 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 minutes to 15 minutes advance notice
+- Environmental modifications at Liverpool TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency protocol - avoid changes within 48 hours when possible
+- Provider coordination for appointment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with 7d4ad64e scheduled 
+803a7aab 
+to review environmental sensitivities.
+
+Contact 5cfb9388 at 4a6de59a for sensory consultation.
+
+**Documented by:** f32f1742, 2b750216
+**Date:** 523a74ef
+
+---
+END OF SESSION NOTE

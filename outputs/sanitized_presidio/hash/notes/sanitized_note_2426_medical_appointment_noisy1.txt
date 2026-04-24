@@ -1,0 +1,74 @@
+# UCP SESSION NTOE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** e1a7227f
+**sess Date:** cbde604b
+**Primary Location:** Chadwicks TEC
+**Staff:** Mason Collins
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with a9aa8b6a at Community Health Center, 716 845c3395, 2fb59fa3, NY 13202.
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMETN PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center, 716 845c3395, 2fb59fa3, NY 13202
+Clinic phone: (ee2b6faa
+Provider: a9aa8b6a
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: bad366c5
+
+**PARENT COORDINATION:**
+ba29e5b0 met at clinic.
+Contact number: (d5b2248b
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: Apr 17 2026
+
+**APPOINTMENT OUTCOME:**
+Per a9aa8b6a:
+- Diagnosis: Otitis Externa
+- tx: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: a9aa8b6a
+Pharmacy: Kinney Drugs, aef677a6
+
+**POST-APPOINTMENT SESSION:**
+296b6366 returned to Chadwicks TEC. Appeared faitgued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative througohut medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse e51167b2 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+ba29e5b0 contacted at (d5b2248b to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment dasy - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Mason Collins
+**Medical liaison:** e51167b2
+**Date:** cbde604b
+
+---
+END OF SESSION NOTE

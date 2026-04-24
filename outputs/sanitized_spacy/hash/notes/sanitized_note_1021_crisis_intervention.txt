@@ -1,0 +1,133 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: 9eac806b, Oliver N.
+Date of Birth: 975b2024
+9b96b339: f6efbe15
+Emergency Contact 1: Ryan Anderson - 315.497.3456
+
+**INCIDENT DETAILS:**
+Date: fb6df2fd
+Time of Onset: 11:22 AM
+Location: 92 Geiger ICF, 7861551b
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: da3874db
+Secondary: 53d1b947, 2192eccc
+Tertiary: Ella Rivera, c6a7b417
+9de79093 notified: a9a2caa5, 94746a21, 3d8c8358
+Medical: Olivia Price, 771546ad
+
+**DETAILED INCIDENT TIMELINE:**
+
+2:11 PM: PRECIPITATING EVENT
+Oliver was engaged in activity when trigger occurred.
+
+11:22 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff da3874db implemented verbal de-escalation.
+
+9:48 AM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff 53d1b947, 2192eccc joined response.
+
+11:28 AM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+a9a2caa5, 94746a21, 3d8c8358 notified.
+
+9:53 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: 6412cd44, Ella Rivera
+Reason: Imminent danger to self and others
+
+2:38 PM: DE-ESCALATION PROGRESS
+7efa869d showing decreased muscle tension, verbal communication restored.
+
+11:52 AM: RESTRAINT RELEASED
+Total restraint duration: 21 minutes
+7efa869d moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: 5d6fb6f5, 771546ad
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+da3874db: Superficial scratch - Treatment: Cleaned, bandaged
+53d1b947: Contusion from impact - Treatment: Ice pack applied
+Ella Rivera: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $176
+
+**EMERGENCY CONTACTS MADE:**
+
+2:28 PM: 5a71c9c7 contacted at 315.497.3456
+Reached: Yes, answered immediately
+Notified by: a9a2caa5, 94746a21, 3d8c8358
+
+**MEDICAL CONSULTATION:**
+Olivia Price, 771546ad assessed. 
+Vital signs: Temp 98.6°F, Pulse 86, BP 122/72, Respirations 16
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+791ebbc5, a3de4d11 contacted.
+Emergency appointment: 3c256001
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 9:53 AM
+End time: 2:45 PM
+Total duration: 20 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: Olivia Price, 771546ad checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: 79ec544b - notified
+☑ Clinical Director: Jacob Castillo - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: a9a2caa5, 94746a21, 3d8c8358
+Attendees: 6412cd44, Ella Rivera
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: 791ebbc5, a3de4d11 emergency appt a5ccb01a
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** da3874db
+**Reviewed by:** a9a2caa5, 94746a21, 3d8c8358
+**Medical review:** Olivia Price, 771546ad
+**Report filed:** fb6df2fd
+**Report ID:** INC-2026-9225
+
+---
+END OF INCIDENT REPORT

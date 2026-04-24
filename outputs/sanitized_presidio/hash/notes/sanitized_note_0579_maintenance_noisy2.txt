@@ -1,0 +1,58 @@
+# UCP sess NOTE - GENERALIZATION SESSION
+
+**Client:** ada4089d
+**Session Date:** October 26, 2025
+**Settings:** 100 Geiger ICF, Cicero TEC, 797 Maple Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** c93f486c, c4b37c5f
+**Home Visit Staff:** Aiden Evans a0906058
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+2e7041b7 demonstrated skill maintenance across multiple settigns during coordinated sess on Oct 26 2025.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines task completion, social comm
+Performance: 89% independent completion across all tasks
+Staff observer: c93f486c, c4b37c5f
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 86% accuracy w/ minimal prompting
+Transition quality: Smooth transition with vsiual schedule support
+
+**HOME VISIT:** 797 Maple Street, 2fb59fa3, 124e0b72 13204
+Parent participants: ae4c8dfb and 81cbb751
+Home phone: (ab850e56
+Skills assessed: Home routines, family interactions leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+ae4c8dfb reported 2e7041b7 has been completing 
+morning routine independently at home 4 days per week. 81cbb751 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+2e7041b7 maintained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shaerd with:
+- 30e5ae88 (Occupational Therapy) - contact: ad1ae069
+- 9a27b8e7, 9eecfb3c (Speech Therapy) - contact: (7a17257d
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home prcatice frequency to 3 times per week
+- Schedule tri-setting observation on f43a4b47
+
+**Documentation:** c93f486c, c4b37c5f
+**Date:** October 26, 2025
+
+---
+END OF SESSION NOTE

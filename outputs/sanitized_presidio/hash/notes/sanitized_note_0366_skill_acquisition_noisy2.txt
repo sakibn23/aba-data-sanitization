@@ -1,0 +1,48 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** Lee, Grace
+**Date of Birth:** e9977e85
+**Session Date:** November 13, 2025
+**Program:** Liverpool TEC
+**Time:** 1:00 PM - 2:30 PM
+**83aedc6d:** 453844bd
+
+---
+
+## SKILL ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+Grace participtaed in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Liverpool TEC. sess began at 1:00 PM w/ 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 71% accuracy across 15 trials
+- Trial block 2: 85% accuracy across 15 trials  
+- Trial block 3: 85% accuracy across 15 trials
+- Overall session accuracy: 78%
+
+**PROMPTING HIERARCHY:**
+Initial trilas required full physical prompting, progressing to verbal prompting onyl by session end. 
+Grace demonstrated improvement in response latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Grace practiced food service skills during lunch preparation. Staff 44b50f8f, 798ff150 supervised and reported successful completion of assigned tasks with miniaml support.
+
+**PARENT COLLABORATION:**
+Contacted ad6a1b86 at 878c40d6 to discuss home practice strategies. 
+Parent reported Grace has been practicing sorting tasks at hmoe w/ good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**tx:** 453844bd
+**Date signed:** Nov 13 2025
+
+---
+END OF SESSION NOTE

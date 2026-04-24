@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** 38316ef6
+**Date of Birth:** 77ebed7a
+**Session Date:** 38dba848
+**Location:** 95 Geiger ICF
+**Staff:** Sofia Smith, 70618c58
+**Medicaid ID:** ec7c0dff
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 95 Geiger ICF from 10:00 AM to 11:30 AM. 
+7297db81 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 85% indep completion
+2. Functional comm practice: 76% accuracy with verbal prompting
+3. Self-care routines: Required modearte physical prompting
+4. Academic tasks: 59% completion rate
+5. Leisure skills: High engagement appropriate dur
+
+Overall completion rate: 70%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. 7297db81 responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 21 tokens toward preferred activity)
+- Functional comm training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+9484dbbe contacted at a03ccc6b re: 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+7297db81 takes Risperidone 1mg dialy per prescription from c5999338. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 95 Geiger ICF.
+
+**Authored by:** Sofia Smith, 70618c58
+**Date:** d11c34b3
+
+---
+END OF sess NOTE

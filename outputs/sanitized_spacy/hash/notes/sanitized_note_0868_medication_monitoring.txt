@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** 74766185
+**Date of Birth:** 2ac62693
+**Session Date:** 29d78388
+**Location:** 88 Geiger ICF
+**Monitoring Staff:** Charlotte Reyes
+**Consulting Nurse:** 9ce24cd9
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by d0e11245
+Last appointment: 5901e801
+Next appointment: f6b04da2
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: 9a25cb33
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 514bb0e4
+   
+3. Clonazepam 0.5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: 5dfb3993
+
+**RECENT CHANGE:**
+77db659b: 
+Fluoxetine 20mg dosage increased
+Ordered by: Dr. Poissant
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Liam readily engaged in 
+morning routine with 89% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. 2c7b6821 completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Liam worked for 28-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: 9ce24cd9
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 98.6°F
+Pulse: 79 bpm
+Respirations: 15 per minute
+Recorded by: 9ce24cd9
+
+**PARENT CONSULTATION:**
+8c806e3b contacted at 48091747.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor daytime alertness for next 30 days
+- Report findings to d0e11245 at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 22e76388
+Prescriber appointment: 69f265f3
+
+**Documented by:** Charlotte Reyes
+**Reviewed by:** 9ce24cd9
+**Date:** 29d78388
+
+---
+END OF SESSION NOTE

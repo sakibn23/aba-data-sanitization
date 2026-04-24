@@ -1,0 +1,58 @@
+# f31c8453 sess NOTE - GENERALIZATION SESSION
+
+**Client:** Green, Harper
+**sess Date:** 960baac3
+**Settings:** 95 Geiger ICF Liverpool TEC, 413 7206b561
+**Lead Staff:** Lucas Hernandez
+**Home Visit Staff:** 7674e158, dd57abff
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+Harper demonstrated skill maintenance across multiple settings during coordinated session on fb5cc1d7.
+
+**SETTING 1:** 95 Geigre ICF
+Skills assessed: Self-care routines task completion, social comm
+Performance: 92% indep completion across all tasks
+Staff observer: Lucas Hernandez
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction f/u multi-step directions
+Performance: 78% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 413 Redwood Ln
+Parent participants: b34a8f05
+Home phone: 2b4a55b6
+Skills assessed: Home routines, famliy interactions, leisure skills
+Performance: 71% indep completion in home environment
+
+**PARENT REPORT:**
+b34a8f05 reported 296b6366 has been completing 
+morning routine indep. at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+296b6366 maintained 86% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared w/:
+- e41bed61 (Occupational Therapy) - contact: (315) 476-2345
+- ed823248, 798ff150 (ST Therapy) - contact: 3154789012
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Scheduel tri-setting observation on 15f40609
+
+**Documentation:** Lucas Hernandez
+**Date:** fb5cc1d7
+
+---
+END OF SESSION NOTE

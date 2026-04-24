@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** H. Torres
+**Session Date:** 1********5
+**Primary Location:** Chadwicks TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with [PERSON], LCSW at WellNow Urgent Care, 561 University Street, [ADDRESS], NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care, 561 University Street, [ADDRESS], NY 13202
+Clinic phone: [PHONE]
+Provider: [PERSON], LCSW
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: ([PHONE]
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 4*******6
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON], LCSW:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: [PERSON], LCSW
+Pharmacy: CVS Pharmacy, [PHONE]
+
+**POST-APPOINTMENT SESSION:**
+[PERSON] returned to Chadwicks TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse [PERSON] notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at ([PHONE] to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON]
+**Date:** 1********5
+
+---
+END OF SESSION NOTE

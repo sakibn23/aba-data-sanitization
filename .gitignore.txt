@@ -1,0 +1,16 @@
+# Model files 
+scripts/detectors/bert_ner_model/
+scripts/detectors/deberta_ner_model/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+data/synthetic_notes/
+outputs/

@@ -1,0 +1,58 @@
+# [PERSON] sess NOTE - GENERALIZATION SESSION
+
+**Client:** [PERSON]
+**Session Date:** [DATE]
+**Settings:** 100 Geiger ICF, Cicero TEC, [ADDRESS]
+**Lead Staff:** [PERSON], [CREDENTIAL]
+**Home Visit Staff:** Aiden Evans [CREDENTIAL]
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Charlotte demonstrated skill maintenance across multiple settigns during coordinated sess on Oct 26 2025.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines task completion, social comm
+Performance: 89% independent completion across all tasks
+Staff observer: [PERSON], [CREDENTIAL]
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 86% accuracy w/ minimal prompting
+Transition quality: Smooth transition with vsiual schedule support
+
+**HOME VISIT:** [ADDRESS]
+Parent participants: [PERSON] and [PERSON]
+Home phone: (315) 724-6907
+Skills assessed: Home routines, family interactions leisure skills
+Performance: 71% independent completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reported Charlotte has been completing 
+morning routine independently at home 4 days per week. [PERSON] noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Charlotte maintained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shaerd with:
+- [PERSON] (Occupational Therapy) - contact: [PHONE]
+- Olivia Raju, [CREDENTIAL] (Speech Therapy) - contact: (315)473-2345
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home prcatice frequency to 3 times per week
+- Schedule tri-setting observation on [DATE]
+
+**Documentation:** [PERSON], [CREDENTIAL]
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

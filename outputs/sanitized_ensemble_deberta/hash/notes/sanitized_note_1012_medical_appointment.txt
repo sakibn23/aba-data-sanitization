@@ -1,0 +1,74 @@
+# f31c8453 SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 6aa80d9b
+**Session Date:** 0e94b743
+**Primary Location:** Cicero TEC
+**Staff:** 12c6cf47
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 3748b4fc, MS, c4b37c5f at 8a01e1e7, ecf89cd9.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: 8a01e1e7, ecf89cd9
+Clinic phone: 15e491b6
+Provider: 3748b4fc, MS, c4b37c5f
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 12c6cf47
+
+**PARENT COORDINATION:**
+a04e2b69 met at clinic.
+Contact number: (315)422-3456
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: e35dcc37
+
+**APPOINTMENT OUTCOME:**
+Per 3748b4fc, MS, c4b37c5f:
+- Diagnosis: Otitis Externa
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: 3748b4fc, MS, c4b37c5f
+98f3d29f: 8fa7bec5, 5eba6d48
+
+**POST-APPOINTMENT SESSION:**
+a81ef43a returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. 41e96c33 ffe3cf8c, 3e4411d5 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+a04e2b69 contacted at (315)422-3456 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- 5f7953f7 communication log for symptom tracking
+
+**Documented by:** 12c6cf47
+**Medical liaison:** ffe3cf8c, 3e4411d5
+**Date:** 0e94b743
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,133 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: 315.724.6907
+
+**CLIENT INFORMATION:**
+dcd1d522: e2d7d7ed
+Date of Birth: 159d4d76
+Primary Residence: f16536ff
+Emergency Contact 1: 06ce70e0 - (315) 519-9012
+
+**INCIDENT DETAILS:**
+Date: Nov 13 2025
+Time of Onset: 9:45 AM
+Location: 95 Geiger ICF, e75953db
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: Isabella Williams
+Secondary: Noah Reed, 866674ea
+Tertiary: 05c06cb2
+Supervisor notified: Scarlett Garcia, 798ff150
+fec80bef: Joseph Sanders, 9eecfb3c
+
+**DETAILED INCIDENT TIMELINE:**
+
+11:18 AM: PRECIPITATING EVENT
+b5fd03dd was engaged in activity when trigger occurred.
+
+2:15 PM: bx ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff b830d9e1 implemented vrebal de-escalation.
+
+11:25 AM: BEHAVIOR ESCALATION - LEVEL 2
+PT aggression twoard peer.
+Additional staff b681f679 joined response.
+
+2:21 PM: bx ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+Scarlett Garcia, 798ff150 notified.
+
+9:53 AM: RESTRICTIVE INTERVENTINO INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: ef5637a5, 616c9501
+Reason: Imminent danger to self and others
+
+10:08 AM: DE-ESCALATION PROGRESS
+b5fd03dd showing decreased muscle tension verbal communication restored.
+
+11:52 AM: RESTRAINT RELEASED
+Total restraint duration: 21 minutes
+Jack moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists form restraint contact, no skin breakdown
+Assessed by: Joseph Sanders, 9eecfb3c
+tx: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+b830d9e1: Superficial scratch - Treatment: Cleaned, bandaged
+388696d1: Contusion from impact - Treatment: Ice pack applied
+616c9501: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $237
+
+**EMERGENCY CONTACTS MADE:**
+
+2:28 PM: dea70064 626928c4 contacted at (315) 519-9012
+Reached: 85a39ab3 answered immediately
+Notified by: Scarlett Garcia, 798ff150
+
+**MEDICAL CONSULTATION:**
+Joseph Sanders, 9eecfb3c assessed. 
+Vital signs: Temp 98.4°F, Pulse 85, BP 123/73, Respirations 18
+Recommendation: Continue monitoring, no medical intv needed
+
+**PSYCHIATRIC CONSULTATION:**
+Dr. Green contacted.
+Emergency appointment: a617a35b
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ 5f7953f7 immediate notification
+☑ Porperty damage
+☑ Staff injury requiring tx
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 11:30 AM
+End time: 10:15 AM
+Total duration: 25 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: Joseph Sanders, 9eecfb3c checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: f1f1774b - notified
+☑ Clinical Director: 43d5ec79 - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: Scarlett Garcia 798ff150
+Attendees: ef5637a5, 616c9501
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: Dr. Green emergency appt 2714f138
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** b830d9e1
+**Reviewed by:** Scarlett Garcia 798ff150
+**Medical review:** Joseph Sanders, 9eecfb3c
+**Report filed:** 07b7d369
+**Report ID:** INC-2026-1280
+
+---
+END OF INCIDENT REPORT

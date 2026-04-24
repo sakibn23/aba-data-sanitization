@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**Session Date:** [DATE]
+**Primary Location:** Syracuse TEC
+**Staff:** Sofia Ruiz
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with [PERSON] at Community Health Center, 623 Erie Street, [ADDRESS], NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Community Health Center 623 Erie Street, [ADDRESS], NY 13202
+Clinic phone: [PHONE]
+Provider: [PERSON]
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: ([PHONE]
+
+**MEDICAL CONECRN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: [DATE]
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Otitis Externa
+- tx: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: [PERSON]
+Pharmacy: CVS Pharmacy, ([PHONE]
+
+**POST-APPOINTMENT SESSION:**
+[PERSON] returned to Syracuse TEC. Appeared fatigued but engaged in preferrde 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative throughout medicla visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse [PERSON] notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+[PERSON] contacted at ([PHONE] to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medcial appointment dyas - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** Sofia Ruiz
+**Medical liaison:** [PERSON]
+**Date:** [DATE]
+
+---
+END OF sess NOTE

@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** Taylor, c773f5fb
+**Date of Birth:** 7ee66204
+**Session Date:** 10-3-25
+**Location:** 92 Geiger ICF
+**Monitoring Staff:** 0da81a22, 70618c58
+**Consulting Nurse:** c80c5b6f
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by c4a2f6e4
+Last appointment: 4812659f
+Next appointment: b215fb14
+
+**ROUTINE MEDICATIONS:**
+1. Aripiprazole 5mg - PO daily at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: 7ce3b9a9
+   
+2. Fluoxetine 20mg - PO daliy at 8:00 AM
+   Indication: Anxiety disorder mood disorder
+   Start date: 67340bab
+   
+3. Trazodone 100mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: 2bc9f38e
+
+**RECENT CHANGE:**
+950c868c: 
+Fluoxetine 20mg dosage increased
+Ordered by: c4a2f6e4
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. c773f5fb readily engaged in 
+morning routine w/ 80% independence. Sleep quality per praent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. c773f5fb completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Riley worked for 27-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: e743e2e1 observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved selep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for headache complaint
+Administered by: c80c5b6f
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.6°F
+Pulse: 81 bpm
+Respirations: 15 per minute
+Recorded by: c80c5b6f
+
+**PARENT CONSULTATION:**
+92ea4600 contacted at 6bdd6a92.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- 6e25c286 behavior: More cooperative less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL recs:**
+- Continue current dosing schedule
+- Monitor mood stabiliyt for netx 30 days
+- Report findings to c4a2f6e4 at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 5bc8ead1
+Prescriber appointment: e023c33a
+
+**Documented by:** 0da81a22, 70618c58
+**Reviewed by:** c80c5b6f
+**Date:** October 3, 2025
+
+---
+END OF SESSION NOTE

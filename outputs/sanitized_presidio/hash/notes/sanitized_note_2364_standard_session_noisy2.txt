@@ -1,0 +1,52 @@
+# UCP sess NOTE - STANDARD SESSION
+
+**Client:** Miller, Avery
+**Date of Birth:** May 1, 2022
+**Session Date:** 75f52e16
+**Location:** 95 Geiger ICF
+**Staff:** 1196aa99
+**Medicaid ID:** 01579c64
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 95 Geiger ICF form 2:00 PM to 4:00 PM. 
+Avery engaged in 5 scheduled activities w/ mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 81% indep completion
+2. Functional communication practice: 67% accuracy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Academic tasks: 74% completion rate
+5. Leisure skills: High engagement appropriate dur
+
+Overall completion rate: 73%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. Avery rseponded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 21 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal reufsal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required
+
+**PARENT COMMUNICATION:**
+313769e6 contacted at (9aa41639 reagrding 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+Avery takes Sertraline 50mg daily per prescription from 29cb7269. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session schedulde for 6e4399e4 at 95 Geiger ICF.
+
+**Authored by:** 1196aa99
+**Date:** 11-22-25
+
+---
+END OF SESSION NOTE

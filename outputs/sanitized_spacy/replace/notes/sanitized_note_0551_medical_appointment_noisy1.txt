@@ -1,0 +1,74 @@
+# [PERSON] sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON], Aiden
+**sess Date:** Oct 16 2025
+**Primary Location:** Cicero TEC
+**Staff:** Mason [PERSON]
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with [PERSON] at Syracuse Medical Associates [ADDRESS].
+
+Modified session: Morning abbreviated sessoin and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, [ADDRESS]
+Clinic phone: [PHONE]
+Provider: [PERSON]
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic
+Contact number: 3154507890
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: [DATE]
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Take twice daily × 10 days
+Prescribing provider: [PERSON]
+Pharmacy: Kinney Drugs 3154275678
+
+**POST-APPOINTMENT SESSION:**
+Aiden returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse [PERSON] notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at (315) 450-7890 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** Mason [PERSON]
+**Medical liaison:** [PERSON]
+**Date:** [DATE]
+
+---
+END OF sess NOTE

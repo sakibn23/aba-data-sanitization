@@ -1,0 +1,58 @@
+# UCP sess NOTE - GENERALIZATION SESSION
+
+**Client:** 6a11f9d0
+**Session Date:** c943fcde
+**Settings:** 88 Geiger ICF, Cicero TEC, 387 Oak Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 2a9c5dff
+**Home Visti Staff:** Elizabeth Wood MS, c4b37c5f
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+William demonstrated skill maintenance across multiple stetings during coordinated sess on c943fcde
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion social communication
+Performance: 83% indpe completion across all tasks
+Staff observer: 2a9c5dff
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 77% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 387 Oak Street, 2fb59fa3, 124e0b72 13204
+Parent participants: dbae85c5 and 535258b4
+Home phone: e56283d3
+Skills assessed: Home routines, family interactions, lesiure skills
+Performance: 74% independent completion in home environment
+
+**PARENT REPORT:**
+dbae85c5 reported 190eb3eb has been completing 
+morning routine independently at home 6 days per week. 535258b4 noted improvement in communication with younger sibling during paly activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+190eb3eb maintained 82% consistency across settings for target skills. 
+Variability noted in task initiatino between 88 Geiger ICF and home setting
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- f4c7a042 (Occupational Therapy) - contact: (ab850e56
+- e181c3a0, a3de4d11 (Speech Therapy) - contact: 48091747
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 4 times per week
+- Schedule tri-setting observation on Jun 11 2026
+
+**Documentation:** 2a9c5dff
+**Date:** 11-24-25
+
+---
+END OF SESSION NOTE

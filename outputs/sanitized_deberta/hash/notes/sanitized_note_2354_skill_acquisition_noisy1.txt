@@ -1,0 +1,48 @@
+# UCP SESSOIN NOTE - SKILL ACQUISITION
+
+**Client:** 8bb67a9f
+**Date of Birth:** Apr 28 2007
+**sess Date:** 52ac258e
+**Program:** Liverpool TEC
+**Time:** 2:00 PM - 3:00 PM
+**bx Specialist:** a4eed857
+
+---
+
+## SKILL ACQUISITION SESSION
+
+**Target 6df1bb18:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+Emily participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at ad397ed0 sess began at 2:00 PM w/ 
+hand washing and aporn donning.
+
+**TRIAL DATA:**
+- Trail block 1: 76% accuracy across 15 trials
+- Trial block 2: 84% accuracy across 15 trials  
+- Trail block 3: 95% accuracy across 15 trials
+- Overall session accuracy: 80%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, porgressing to verbal prompting only by session end. 
+048a2730 demonstrated improvement in response latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Emily practiced food service skills during lunch preparation. Staff Ethan Cruz, 7c0ba5fc supervised and reported successful completion of assigned tasks w/ minimal support.
+
+**PARENT COLLABORATION:**
+Contacted cbb666f6 f4034e7e at (315) 457-4567 to discuss home practice strategies. 
+Parent reported Emily has been practicing sorting tasks at home with good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** a4eed857
+**Date signed:** 3b400cbe
+
+---
+END OF SESSION NOTE

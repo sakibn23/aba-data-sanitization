@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Foster, Aria
+**Session Date:** c84665ef
+**Settings:** 96 Geiger ICF, Chadwicks TEC, 281 Spruce Summit, North Syracuse, NY 13212
+**Lead Staff:** ee7666a2
+**Home Visit Staff:** Alexander Mitchell 3e4411d5
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Aria demonstrated skill maintenance across multiple settings during coordniated sess on 52ac258e
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines, taks completion socail communication
+Performance: 90% independent completion across all tasks
+Staff observer: ee7666a2
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 84% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 281 Spruce Summit, North Syracuse, NY 13212
+Parent participants: Nathan Foster
+Home phone: (315)488-4567
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 76% independent completion in home environment
+
+**PARENT REPORT:**
+12649bd5 reported Aria has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Aria maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared w/:
+- Dr. Campbell (Occupational Therapy) - contact: 315.490.2345
+- 69b68dfc (Speech Therapy) - contact: 6d8859aa
+
+**recs:**
+- Continue generalization trials across all setitngs weekly
+- Increase home practice freq to 4 times per week
+- Schedule tri-setting observation on 4d55c0f1
+
+**Documentation:** ee7666a2
+**Date:** Oct 3 2025
+
+---
+END OF SESSION NOTE

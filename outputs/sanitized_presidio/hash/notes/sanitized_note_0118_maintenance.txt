@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** e90c1063
+**Session Date:** fa8242e4
+**Settings:** 95 Geiger ICF, Cicero TEC, 633 Maple Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 593a2b5c
+**Home Visit Staff:** Avery Jones, 4d95e550, c4b37c5f
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Julian demonstrated skill maintenance across multiple settings during coordinated session on fa8242e4.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% independent completion across all tasks
+Staff observer: 593a2b5c
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 85% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 633 Maple Street, 2fb59fa3, 124e0b72 13204
+Parent participants: fdc267f9
+Home phone: (5534ce6d
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 84% independent completion in home environment
+
+**PARENT REPORT:**
+fdc267f9 reported 90a5d5a8 has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Julian maintained 78% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 36e49628 (Occupational Therapy) - contact: 32b95368
+- f6d16c2d (Speech Therapy) - contact: 1e7d3c4c
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 0131be63
+
+**Documentation:** 593a2b5c
+**Date:** fa8242e4
+
+---
+END OF SESSION NOTE

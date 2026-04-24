@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Morales, d9dacb3e
+**Session Date:** 3432c949
+**Settings:** 88 Geiger ICF, Syracuse TEC, 274 4249a5b8, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** c39a138d
+**Home Visit Staff:** d4136abd, 4d95e550, c4b37c5f
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+d9dacb3e demonstrated skill manitenance across multiple settings during coordinated sesison on Nov 14 2025.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion social communication
+Performance: 83% indep completion across all tasks
+Staff observer: c39a138d
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, followign multi-step directions
+Performance: 78% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 274 Main Street, 2fb59fa3, 124e0b72 13204
+Parent participants: d59b8de7
+Home phone: (261f6efd
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 71% indep copmletion in home environment
+
+**PARENT REPORT:**
+d59b8de7 reported d9dacb3e has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Emma maintained 88% consistnecy across settings for target skills. 
+Variability noted in task iniitation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- 19102fa1 (Occupational Therapy) - contact: (0798261b
+- f56c7287, 9eecfb3c (ST Therapy) - contact: 1b525d5e
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on Jun 13 2026
+
+**Documentation:** c39a138d
+**Date:** f2d1ea88
+
+---
+END OF SESSION NOTE

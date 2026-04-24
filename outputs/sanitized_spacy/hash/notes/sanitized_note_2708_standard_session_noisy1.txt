@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** Ross, Charlotte
+**Date of Birth:** Oct 30 2010
+**Session Date:** Oct 6 2025
+**Location:** 92 Geiger ICF
+**Staff:** 80102342, 70618c58
+**Medicaid ID:** 26b6857f
+
+---
+
+## STANDADR sess REPORT
+
+Session conducted at 92 Geiger ICF from 3:00 PM to 4:30 PM. 
+Charlotte engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 81% indep completion
+2. Functional communication practice: 72% accuracy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Academic tasks: 60% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 78%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. Charlotte responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 16 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+a011272d contcated at 3154831234 re: 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+Charlotte takes Sertraline 50mg daily per prescription from 005ee896. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 92 Geiger ICF.
+
+**Authored by:** 80102342, 70618c58
+**Date:** 030b7f07
+
+---
+END OF SESSION NOTE

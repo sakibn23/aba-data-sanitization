@@ -1,0 +1,63 @@
+# UCP SESSION NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** Amelia Torres T.
+**Incident Date:** 187f3c2a
+**Incident Time:** 11:20 AM
+**Location:** 95 Geiger ICF
+**Staff Present:** 9fa4eb5c, 03abe3d2
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+Amelia was engaged in art activity at 95 Geiger ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR DESCRIPTION:**
+Amelia exhibited Brief withdrawal characterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- Duration: 2 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff 9fa4eb5c, 03abe3d2 implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+Amelia responded to choice offering intervention and returned to baseline within 
+5 minutes.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+Amelia participated in cooperative art activity with appropriate sharing behaviors 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+Amelia was able to verbally request "my turn please" following de-escalation, 
+demonstrating understanding of replacement behavior.
+
+**PARENT NOTIFICATION:**
+Phone contact with bfabec95 at (315)476-2345. 
+Parent reported similar sharing difficulties at home with sibling. Discussed consistency in 
+intervention approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by 9fa4eb5c
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** b0e7dc87 at 95 Geiger ICF
+**Provider check-in:** e57b1f63 on 963d85c5
+
+**Report filed by:** 9fa4eb5c, 03abe3d2
+**Filed:** 187f3c2a
+
+---
+END OF SESSION NOTE

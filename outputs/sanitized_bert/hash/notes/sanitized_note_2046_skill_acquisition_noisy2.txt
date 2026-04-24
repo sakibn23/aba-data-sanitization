@@ -1,0 +1,48 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** fb5b990f
+**Date of Birth:** de77b16d
+**Session Date:** Oct 25 2025
+**Program:** Chadwicks TEC
+**Time:** 9:00 AM - 11:00 AM
+**83aedc6d:** b08440cb
+
+---
+
+## SKILL ACQUISITION sess
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalsitic teaching
+
+**SESSION SUMMARY:**
+edd29161 participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Chadwicks TEC. Session began at 9:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trila block 1: 80% accuracy across 15 trials
+- Trial block 2: 82% accuracy across 15 trials  
+- Trial block 3: 92% accuracy across 15 trials
+- Overall session accuracy: 80%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+edd29161 demonstrated improvement in response latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+edd29161 practiced food service skills during lunch preparation. Staff 94d5ce93, c6a7b417 supervised and reporetd successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted b2dd7d8a f4034e7e at (315)475-2345 to discuss home practice strategies. 
+Parent reported edd29161 has been practicing sorting tasks at home w/ good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** b08440cb
+**Date signed:** b3c2ad6d
+
+---
+END OF SESSION NOTE

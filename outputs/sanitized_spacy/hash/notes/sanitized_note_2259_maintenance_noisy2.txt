@@ -1,0 +1,58 @@
+# f31c8453 sess NOTE - GENERALIZATION SESSION
+
+**Client:** A. Robinson
+**Session Date:** 83b1102c
+**Settings:** 88 Geiger ICF, Chadwicks TEC, 753 f1349801
+**Lead Staff:** 10397054
+**Home Visit Staff:** Aubrey Rivera, c6a7b417
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+f5ea3614 demonstrated sikll maintenance across multiple settings during coordinated session on Nov 3 2025.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 83% independent completion across all tasks
+Staff observer: 10397054
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 81% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 753 f1349801
+Parent participants: Lisa Robinson
+Home phone: a391a130
+Skills assessed: Home routines, family interactions leisure skills
+Performance: 70% independent completion in home environment
+
+**PARENT REPORT:**
+360595a0 reported f5ea3614 has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f5ea3614 maintianed 85% consistency across settings for target skills. 
+Variability noted in tsak initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shraed with:
+- 9b2162f7, 87ef1797 (Occupational Therapy) - contact: (315) 468-5678
+- 6a05ac4d (Speech Therapy) - contact: ae293be0
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 5 times per week
+- Schedule tri-setting observation on f6b04da2
+
+**Documentation:** 10397054
+**Date:** 8e031ac5
+
+---
+END OF SESSION NOTE

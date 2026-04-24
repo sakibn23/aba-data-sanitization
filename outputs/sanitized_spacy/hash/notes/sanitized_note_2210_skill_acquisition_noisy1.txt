@@ -1,0 +1,48 @@
+# f31c8453 sess NOTE - SKILL ACQUISITION
+
+**Client:** Matthew Torres
+**Date of Birth:** 8461d21d
+**Session Date:** 3b590bf6
+**Program:** Liverpool TEC
+**Time:** 9:00 AM - 10:30 AM
+**bx Specialist:** 1bffd10e
+
+---
+
+## SKILL ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocaitonal task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+edd29161 participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Liverpool TEC. Session began at 9:00 AM w/ 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Tiral block 1: 74% accuracy across 15 trials
+- Trial block 2: 83% accuracy across 15 trials  
+- Trial block 3: 86% accuracy across 15 trials
+- Ovreall session accuracy: 85%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+edd29161 demonstrated improvement in rseponse latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+edd29161 practiced food service skills during lunch preparation. Staff cf73aab2 supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted Kathleen Torres at 3154943456 to discuss home practice strategies. 
+Parent reported edd29161 has been practicing sorting tasks at home w/ good success.
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocational skills
+- Reduec prompting to getsural level only
+- Incorporate generalization setting
+
+**tx:** 1bffd10e
+**Date signed:** Nov 16 2025
+
+---
+END OF sess NOTE

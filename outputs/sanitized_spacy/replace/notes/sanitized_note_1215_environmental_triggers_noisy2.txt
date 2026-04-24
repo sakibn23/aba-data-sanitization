@@ -1,0 +1,67 @@
+# [PERSON] sess NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** Scott, [PERSON]
+**Session Date:** [DATE]
+**Locations Observed:** 96 Geiger ICF, Syracuse TEC, Liverpool TEC
+**Observing Staff:** [PERSON]
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 96 Geiger ICF → Syracuse TEC
+Time: 8:45 AM
+Trigger: Unexpected staff change (regular drivre unavailable)
+Client Response: Moderate anxiety, verbal questioning increased pacing
+
+[PERSON] demonstrated heightened anxiety when informed of transition from 
+96 Geiger ICF to Syracuse TEC wtih unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substittue staff member instead of usual [PERSON]
+
+**TRANSITION 2:** Syracuse TEC → Liverpool TEC
+Time: 11:45 AM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment w/ [PERSON], [CREDENTIAL] at Syracuse TEC on 
+[DATE] was 
+rescheduled to Apr 28 2026 
+due to provider illness. [PERSON] exhibited incresaed anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+[PERSON] contacted at 315.515.4567 to discuss 
+schedule sensitivity. Parent reported [PERSON] frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT ASSESSMENT:**
+96 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Syracuse TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Liverpool TEC: High activity level, variable noise, open floor plan
+
+Consultation with [PERSON] scheduled for [DATE] 
+to assess sensory processing needs and environmental accommodation recs.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 min to 15 minutes advance notice
+- Environmental modifications at Syracuse TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedlue consistency protocol - avoid changes within 48 hours when possible
+- Provider coordination for appointment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with [PERSON] scheduled 
+[DATE] 
+to review environmental sensitivities.
+
+Contact Dr. Scanlon at 3154752345 for sensory consultation.
+
+**Documented by:** [PERSON]
+**Date:** [DATE]
+
+---
+END OF sess NOTE

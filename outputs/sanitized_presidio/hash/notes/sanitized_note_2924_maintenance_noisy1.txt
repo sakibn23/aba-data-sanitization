@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** B. Morales
+**sess Date:** 2dcc2021
+**Settings:** 92 Geiger ICF, Baldwinsville TEC, 906 Main Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 2b135132
+**Home Visit Staff:** aa61ac60, 2192eccc
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+f3c7769d demonstrated skill maintenance across multiple settings during coordinated session on 2dcc2021
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion social communication
+Performance: 83% idnep completion acrsos all tasks
+Staff observer: 2b135132
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 81% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 906 Main Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 7aecd384 and 8f260753
+Home phone: (c164a160
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 83% independent completion in home environment
+
+**PARENT REPORT:**
+7aecd384 reported f3c7769d has been completing 
+morning routine indep. at home 4 dasy per week. 8f260753 noted improvement in communication with younger sbiling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implemnetation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f3c7769d maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared w/:
+- c80c5b6f (OT Therapy) - contact: 8333bef0
+- 79f5b8f6 (Speech Therapy) - contact: (45713862
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 5 tmies per week
+- Scheudle tri-setting observation on 4d55c0f1
+
+**Documentation:** 2b135132
+**Date:** 2dcc2021
+
+---
+END OF SESSION NOTE

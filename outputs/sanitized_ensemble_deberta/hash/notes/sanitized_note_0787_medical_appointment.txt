@@ -1,0 +1,74 @@
+# f31c8453 SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 8628b4e3
+**Session Date:** 0e94b743
+**Primary Location:** Cicero TEC
+**Staff:** e90b069a
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 5c472b18 at 8a01e1e7, 701d6731.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, 701d6731
+Clinic phone: f881e2ff
+Provider: 5c472b18
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: e90b069a
+
+**PARENT COORDINATION:**
+f693b144 met at clinic.
+Contact number: (315)474-3456
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 22cff74c
+
+**APPOINTMENT OUTCOME:**
+Per 5c472b18:
+- Diagnosis: Contact Dermatitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: 5c472b18
+98f3d29f: 8fa7bec5, a03ccc6b
+
+**POST-APPOINTMENT SESSION:**
+b5fd03dd returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. 41e96c33 1d705380 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+f693b144 contacted at (315)474-3456 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- 5f7953f7 communication log for symptom tracking
+
+**Documented by:** e90b069a
+**Medical liaison:** 1d705380
+**Date:** 0e94b743
+
+---
+END OF SESSION NOTE

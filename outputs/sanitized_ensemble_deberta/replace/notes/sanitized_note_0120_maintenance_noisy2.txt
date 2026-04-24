@@ -1,0 +1,58 @@
+# [PERSON] sess NOTE - GENERALIZATION SESSION
+
+**Client:** [PERSON]
+**Session Date:** [DATE]
+**Settings:** 95 Geiger ICF, Cicero TEC, [ADDRESS]
+**Lead [PERSON]:** [PERSON]
+**Home Visit Staff:** Avery Jones, MS, [CREDENTIAL]
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+[PERSON] demonstrated skill maintenance across multiple settings during coordinated session on [DATE].
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% indep completion across all tasks
+Staff observer: [PERSON]
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction f/u multi-step directions
+Performance: 85% accuracy w/ minimal prompting
+[PERSON] quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** [ADDRESS]
+[PERSON] participants: [PERSON]
+[PERSON] phone: (315) 450-7890
+Skills assessed: Home routines, famiyl interactions, leisure skills
+Performance: 84% independent completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reported [PERSON] has been completing 
+morning rotuine independently at home 5 days per week.
+
+**[PERSON] training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Julian maintained 78% consistency across settings for target skills. 
+Variability noted in task initiation bewteen 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared w/:
+- [PERSON] (Occupational Therapy) - contact: 3154358901
+- [PERSON] (Speech Therapy) - contact: (315)437-1234
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on [DATE]
+
+**Documentation:** [PERSON]
+**Date:** Nov 17 2025
+
+---
+END OF sess NOTE

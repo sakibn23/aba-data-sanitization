@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** de01fdbe
+**Session Date:** Oct 9 2025
+**Settings:** 96 Geiger ICF, Liverpool TEC, e3b70736
+**Lead Staff:** Jack Torres
+**Home Visit Staff:** 3205a8cd 4cf85d54
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+f3c7769d demonstrated skill maintenance across multiple settings during coordinated session on Oct 9 2025.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines task completion, social communication
+Performance: 86% independent completion across all tasks
+Staff observer: c63ecbc7
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 79% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** e3b70736
+Parent participants: f3c908ad
+Home phone: (315)506-8901
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 84% indep copmletion in home environment
+
+**PARENT REPORT:**
+f3c908ad reported f3c7769d has been completing 
+morning routnie independently at hoem 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f3c7769d maintained 82% consistency across settings for target skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting
+
+**PROVIDER COORDINATION:**
+info shared w/:
+- bcd15478 (Occupational Therapy) - contact: (315)451-3456
+- 6c03706d (Speech Therapy) - contact: (315)491-1234
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 3 times per week
+- Schedule tri-setting observation on cab0aaf5
+
+**Documentation:** Jack Torres
+**Date:** 3eac6610
+
+---
+END OF SESSION NOTE

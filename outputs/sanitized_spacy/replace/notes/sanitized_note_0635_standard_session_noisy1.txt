@@ -1,0 +1,52 @@
+# [PERSON] sess NOTE - STANDARD SESSION
+
+**Client:** [PERSON]
+**Date of Birth:** [DATE]
+**Session Date:** [DATE]
+**Location:** 100 Geiger ICF
+**Staff:** Sofia Sanders
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 100 Geiger ICF from 10:00 AM to 12:00 PM. 
+John engagde in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 82% independent completion
+2. Functional communication practice: 68% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 55% completion rate
+5. Leisure skills: High engagement appropriate duration
+
+Overall copmletion rate: 73%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. [PERSON] responded to 4 
+planned interventions including:
+- Visula schedule transitions
+- Token economy system (earned 20 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at 315.520.5678 regarding 
+upcoming program meeting. Conifrmed attendance and requested transporttaion information.
+
+**MEDICATION OBSERVATION:**
+[PERSON] takes Risperidone 1mg daily per prescription from [PERSON], [CREDENTIAL]. 
+No side effects observed durign session.
+
+**FOLLOW-UP:**
+Next session scheduled for [DATE] at 100 Gegier ICF.
+
+**Authored by:** Sofia Sanders
+**Date:** [DATE]
+
+---
+END OF sess NOTE

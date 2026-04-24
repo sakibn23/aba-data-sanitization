@@ -1,0 +1,63 @@
+# f31c8453 sess NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** 9db763c6
+**Incident Date:** 1ca234d0
+**Incident Time:** 11:20 AM
+**Location:** 100 Geiger ICF
+**Staff Present:** d3d3cf77
+
+---
+
+## MILD CHALLENGING bx - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+dbadfc88 was engaged in art activity at 100 Geiger ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR DESCRIPTION:**
+dbadfc88 exhibited Brief withdrawal characterized by:
+- Loud vocal tone stating "No mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- dur: 4 min
+- Intensity: Mild (Level 1 on BSP scale)
+
+**intv APPLIED:**
+Staff d3d3cf77 implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+dbadfc88 responded to choice offering intervention and returned to baseline within 
+5 minutes.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavoir Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+dbadfc88 participated in cooperative art activity w/ appropriate sharing bxs 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+dbadfc88 was able to verbally request "my turn please" f/u de-escalation, 
+demonstrating understanding of replacement bx.
+
+**PARENT NOTIFICATION:**
+Phone contact w/ 7d713284 at 4da418b8. 
+Parent repotred similar sharing difficulties at home with sibling. Discussed consistency in 
+intv approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by d3d3cf77
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** 6bfc71e2 at 100 Geiger ICF
+**Provider check-in:** 552a97eb, 94746a21 on 637bf33b
+
+**Report filed by:** d3d3cf77
+**Filed:** 187d3a48
+
+---
+END OF SESSION NOTE

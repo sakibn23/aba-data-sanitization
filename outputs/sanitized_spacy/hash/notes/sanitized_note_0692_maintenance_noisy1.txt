@@ -1,0 +1,58 @@
+# f31c8453 sess NOTE - GENERALIZATION SESSION
+
+**Client:** 2b2e527f
+**Session Date:** f79a45aa
+**Settings:** 92 Geiger ICF, Liverpool TEC, 741 27e91b38
+**Lead Staff:** 25dc9241
+**Home Vsiit Staff:** Michael White 94746a21 3d8c8358
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+502ae197 demonstrated skill maintenance acrsos multiple settings during coordinated session on Oct 21 2025.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines task completion, social comm
+Performance: 92% indep completion across all tasks
+Staff observer: 25dc9241
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 81% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 741 Cherry St
+Parent participants: f427440c and 1db7e2e2
+Home phone: 315.472.5678
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 80% indep compeltion in home environment
+
+**PARENT REPORT:**
+f427440c reported 502ae197 has been completing 
+morning routine indep. at home 4 days per week. 1db7e2e2 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule impelmentation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+502ae197 maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared w/:
+- Dr. Bryant (Occupational Therapy) - contact: 6511c091
+- 8e0b3fa3 (Speech Therapy) - contact: 315.450.7890
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observatoin on 42893eb8
+
+**Documentation:** 25dc9241
+**Date:** a6447558
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,67 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** O. Rodriguez
+**Session Date:** 86d03bdc
+**Locations Observed:** 88 Geiger ICF, Cicero TEC, Syracuse TEC
+**Observing Staff:** 876ee4c6
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 88 Geiger ICF → Cicero TEC
+Time: 10:15 AM
+Trigger: Unexpected staff change (regular driver unavailable)
+Client Response: Moderate anxiety, vebral questioning, increased pacing
+
+7efa869d demonstrated hegihtened anxiety when informed of transition from 
+88 Geiger ICF to Cicero TEC with unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usual 876ee4c6
+
+**TRANSITION 2:** Cicero TEC → Syracuse TEC
+Time: 1:30 PM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment w/ 7e14f990 at Cicero TEC on 
+4-17-26 was 
+rescheduled to May 4, 2026 
+due to provider illness. 7efa869d exhibited increased axniety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+dd79d464 contacted at (659223eb to discuss 
+schedule sensitivity. Parent reported 7efa869d frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT ASSESSMENT:**
+88 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Cicero TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Syracuse TEC: High activity level, variable noise, open floor plan
+
+Consultation with 19fbc99b, 2192eccc scheduled for ee2fe9c8 
+to assess sensory processing needs and environmental accommodation recs.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 min to 15 minutes advance notice
+- Environmental modifications at Cicero TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- Schedule consistency protocol - avoid changes within 48 hours when possible
+- Provdier coordination for appointment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with dd79d464 scheduled 
+c2c8e63a 
+to review environmental sensitivities.
+
+Contact 19fbc99b, 2192eccc at 15e491b6 for sensory consultation.
+
+**Documented by:** 876ee4c6
+**Date:** 86d03bdc
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,58 @@
+# UCP sess NOTE - GENERALIZATION SESSION
+
+**Client:** [PERSON]
+**Session Date:** Nov 24 2025
+**Settings:** 88 Geiger ICF, Cicero TEC 387 Oak Street, [ADDRESS], [ADDRESS] 13204
+**Lead Staff:** [PERSON]
+**Home Visit Staff:** Elizabeth Wood, [ADDRESS], [CREDENTIAL]
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+[PERSON] demonstrated skill maintenance across multiple settings during coordinated session on Nov 24 2025.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 83% indep copmletion across all tasks
+Staff observer: [PERSON]
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 77% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 387 Oak Street, [ADDRESS], [ADDRESS] 13204
+Parent participants: [PERSON] and [PERSON]
+Home phone: [PHONE]
+Skills assessed: Home routines, family interactions, leiusre skills
+Performance: 74% inedp completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reported [PERSON] has been completing 
+morning routine independently at home 6 days per week. [PERSON] noted improvement in comm w/ younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+[PERSON] maintained 82% consistency across settigns for target skills. 
+Variability noted in task inititaion between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared w/:
+- [PERSON] (Occupational Therapy) - contact: [PHONE]
+- [PERSON], [CREDENTIAL] (Speech Therapy) - contact: ([PHONE]
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practiec frequency to 4 times per week
+- Schedule tri-setting obsevration on [DATE]
+
+**Documentation:** [PERSON]
+**Date:** 11-24-25
+
+---
+END OF sess NOTE

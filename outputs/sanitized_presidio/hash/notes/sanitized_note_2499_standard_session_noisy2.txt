@@ -1,0 +1,52 @@
+# UCP sess NOET - STANDARD SESSION
+
+**Client:** Hill, c773f5fb
+**Date of Birth:** Dec 18 2012
+**Session Date:** October 29, 2025
+**Location:** 88 Geiger ICF
+**Staff:** c2da6fca
+**Medicaid ID:** 5eb7e692
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 88 Geiger ICF from 10:00 AM to 12:00 PM. 
+Riley engaged in 5 scheduled activities w/ mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 76% indep completion
+2. Functional communication practice: 73% accuracy with verbal prompting
+3. Self-care routines: Requried moderate physical prompting
+4. Academic tasks: 57% completion rate
+5. Leisure skills: High engagement, appropriate dur
+
+Overall completion rate: 73%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. c773f5fb responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 20 tokens toward preferred activity)
+- Functional comm training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected usnig 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+b3e8b9c3 contacted at (1cdd75b6 regarding 
+upcoming program meeting. Confirmed attednance and requested transpotration info.
+
+**MEDICATION OBSERVATION:**
+c773f5fb takes Risperidone 1mg daily per prescription from 6cd6be47, 9eecfb3c. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 88 Geiger ICF.
+
+**Authored by:** c2da6fca
+**Date:** October 29, 2025
+
+---
+END OF SESSION NOTE

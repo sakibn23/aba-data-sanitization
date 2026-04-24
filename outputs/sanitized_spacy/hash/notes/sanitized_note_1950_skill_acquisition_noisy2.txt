@@ -1,0 +1,48 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** Walker, Zoey
+**Date of Birth:** Nov 29 2021
+**sess Date:** 6ee8a2f3
+**Program:** Chadwicks TEC
+**Time:** 10:00 AM - 11:30 AM
+**83aedc6d:** 629ac777, 70618c58
+
+---
+
+## SKILL ACQUISITION sess
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+Zoey participated in 45 discrete trial training ssesions focusing on lunch service 
+preparation skills at Chadwicks TEC. Session began at 10:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 75% accuracy across 15 trials
+- Trial block 2: 87% acucracy across 15 trials  
+- Trial block 3: 93% accuracy across 15 trials
+- Overall session accuracy: 84%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting progressing to verbal prompting only by session end. 
+Zoey demonstrated improvement in resposne latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Zoey practiced food service skills during lunch preparation. Staff cca14a6d, 87ef1797 supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted 75441ada at 315.515.4567 to discuss home practice strategies. 
+Parent reported 347d5d8b has been practicing sorting tasks at hoem with good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vcoational skills
+- Reduce prompting to gesutral level only
+- Incorporate generalization setting
+
+**Therapist:** 629ac777, 70618c58
+**Date signed:** 3c1f6600
+
+---
+END OF SESSION NOTE

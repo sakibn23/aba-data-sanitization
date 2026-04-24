@@ -1,0 +1,133 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+125 Business Park Drive, [ADDRESS], [ADDRESS] 13502
+Emergency Contact: [PHONE]
+
+**CLIENT info:**
+Name: [PERSON]
+Date of Birth: [DATE]
+Primary Residence: [ADDRESS], [ADDRESS]
+Emergency Contact 1: [PERSON] - [PHONE]
+
+**INCIDENT DETAILS:**
+Date: 10-1-25
+Time of Onset: 2:15 PM
+Location: 100 Geiger ICF, 96 [PERSON], [ADDRESS], [ADDRESS] 13440
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: [PERSON]
+Secondary: [PERSON], [CREDENTIAL]
+Tertiary: [PERSON], [ADDRESS], [CREDENTIAL]
+Supervisor notified: [PERSON], [CREDENTIAL]
+Medical: [PERSON], [CREDENTIAL]
+
+**DETAILED INCIDENT TIMELINE:**
+
+11:18 AM: PRECIPITATING EVENT
+[PERSON] was engaged in activity when trigger occurred.
+
+11:22 AM: bx ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff [PERSON] implemented verbal de-escalation.
+
+9:48 AM: bx ESCALATION - LEVEL 2
+PT aggression twoard peer.
+Additional staff [PERSON], [CREDENTIAL] joined response.
+
+2:21 PM: BEHAVIOR ESACLATION - LEVEL 3 (CRISIS)
+Continued PT aggression toward staff. Property destruction.
+[PERSON], [CREDENTIAL] notified.
+
+9:53 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: [PERSON] [PERSON]
+Reason: Imminent danger to self and others
+
+10:08 AM: DE-ESCALATION PROGRESS
+[PERSON] showing decreased muscle tension, verbal communication restored.
+
+11:52 AM: RESTRAINT RELEASED
+Total restraint dur: 20 minutes
+[PERSON] moved to quiet room for recovery
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: [PERSON], [CREDENTIAL]
+tx: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+[PERSON]: Superficial scratch - Treatment: Cleaned, bandaged
+Charlotte Jackson: Contusoin from impact - Treatment: Ice pack applied
+[PERSON]: No injuries
+
+PROPERTY DAMAGE:
+Folding chair damaged
+Estimated cost: $162
+
+**EMERGENCY CONTACTS MADE:**
+
+2:28 PM: [PERSON] contacted at [PHONE]
+Reached: Yes, answered immediately
+Notified by: [PERSON], [CREDENTIAL]
+
+**MEDICAL CONSULTATION:**
+[PERSON], [CREDENTIAL] assessed. 
+Vital signs: Temp 98.6°F, Pulse 93, BP 122/72, Respirtaions 17
+rec: Continue monitoring, no meidcal intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+[PERSON], [CREDENTIAL] contacted.
+Emergency appointment: [DATE]
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive PT Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 min
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requirnig tx
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 11:30 AM
+End time: 2:45 PM
+Total duration: 20 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: [PERSON], [CREDENTIAL] checked vital signs every 5 min
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: [PERSON] - notified
+☑ Clinical Director: [PERSON] - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: Avery Walker [CREDENTIAL]
+Attendees: [PERSON] [PERSON]
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: [PERSON], [CREDENTIAL] emergency appt [DATE]
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** [PERSON]
+**Reviewed by:** Avery Walker, [CREDENTIAL]
+**Medical review:** [PERSON], [ADDRESS]
+**Report filed:** Oct 1 2025
+**Report ID:** INC-2026-5729
+
+---
+END OF INCIDENT REPORT

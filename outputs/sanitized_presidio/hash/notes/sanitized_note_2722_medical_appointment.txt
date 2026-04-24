@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Jackson, d9dacb3e
+**Session Date:** e2fbf143
+**Primary Location:** Liverpool TEC
+**Staff:** 26d8ae51
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with c6bc09ed, c6a7b417 at Community Health Center, 447 Erie Street, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, 447 Erie Street, 2fb59fa3, NY 13202
+Clinic phone: b3f5ea96
+Provider: c6bc09ed, c6a7b417
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 26d8ae51
+
+**PARENT COORDINATION:**
+e0265b52 met at clinic.
+Contact number: 7ce970ef
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 14ab167c
+
+**APPOINTMENT OUTCOME:**
+Per c6bc09ed, c6a7b417:
+- Diagnosis: Otitis Externa
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: c6bc09ed, c6a7b417
+Pharmacy: Kinney Drugs, 10ff4a59
+
+**POST-APPOINTMENT SESSION:**
+d9dacb3e returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 3843badd notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+e0265b52 contacted at 7ce970ef to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 26d8ae51
+**Medical liaison:** 3843badd
+**Date:** e2fbf143
+
+---
+END OF SESSION NOTE

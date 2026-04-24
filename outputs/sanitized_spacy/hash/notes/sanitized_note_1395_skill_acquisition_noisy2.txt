@@ -1,0 +1,48 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** Jackson 235fe393
+**Date of Birth:** a8a8aff6
+**Session Date:** fa8242e4
+**Program:** Baldwinsville TEC
+**Time:** 9:00 AM - 10:30 AM
+**83aedc6d:** Owen Reyes, 2b750216
+
+---
+
+## SIKLL ACQUISITION sess
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+502ae197 participated in 45 discrete tiral training sessions focusing on lunch service 
+preparation skills at Baldwinsville TEC. sess began at 9:00 AM w/ 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 70% accuracy across 15 trials
+- Trila block 2: 82% accuracy across 15 trials  
+- Trial block 3: 93% accuracy across 15 trials
+- Overall session accuracy: 90%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting progressing to verbal prompting only by session end. 
+502ae197 demonstrated improvement in response latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+502ae197 practiced food service skills during lunch preparation. Staff c32627ab, 769dc71a supervised and reported successful completion of assigend tasks w/ minimal support.
+
+**PARENT COLLABORATION:**
+Contacted 5ba2ba08 at 315.432.5678 to discuss home practice strategies. 
+Parent reported 502ae197 has been practicing sorting tasks at hoem with good success.
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** Owen Reyes, 2b750216
+**Date signed:** ce1f6f15
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,18 @@
+{
+  "replace": {
+    "avg_phi_removal_rate": 0.8226,
+    "total_documents": 300
+  },
+  "mask": {
+    "avg_phi_removal_rate": 0.8226,
+    "total_documents": 300
+  },
+  "hash": {
+    "avg_phi_removal_rate": 0.8226,
+    "total_documents": 300
+  },
+  "hybrid": {
+    "avg_phi_removal_rate": 0.7411,
+    "total_documents": 300
+  }
+}

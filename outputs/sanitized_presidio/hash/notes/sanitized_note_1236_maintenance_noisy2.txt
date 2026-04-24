@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATINO SESSION
+
+**Client:** Green, 78a1a1da
+**Session Date:** 0c549456
+**Settings:** 95 Geiger ICF, Baldwinsville TEC, 229 Maple Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 9be5bb49
+**Home Visit Staff:** Mason Lopez, 94746a21
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+78a1a1da demonstrated skill maintenance across multiple setitngs during coordinated sess on 0c549456.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, tsak completion, social communication
+Performance: 82% independent completion across all tasks
+Staff observer: 9be5bb49
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 82% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 229 Maple Street, 2fb59fa3, 124e0b72 13204
+Parent participants: Thomas Green
+Home phone: (df7354c3
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 76% indpe completion in home environment
+
+**PARENT REPORT:**
+8039889a reported 78a1a1da has been completing 
+morning routine indep. at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinfrocement strategies
+- Dtaa collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+78a1a1da maintained 84% consistency across settings for taregt skills. 
+Variability noted in task iniitation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- c4a2f6e4 (OT Therapy) - contact: c10f16f8
+- e51167b2 (Speech Therapy) - contact: 4579e212
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 3 times per week
+- Schedule tri-setting observation on 0619c08e
+
+**Documentation:** 9be5bb49
+**Date:** 10-20-25
+
+---
+END OF SESSION NOTE

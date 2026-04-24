@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Chavez, Elijah
+**Date of Birth:** 50a6f814
+**Session Date:** 043fe75c
+**Location:** 96 Geiger ICF
+**Staff:** 86825200, 03abe3d2
+**Medicaid ID:** 05c317b8
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 96 Geiger ICF from 9:00 AM to 10:30 AM. 
+Elijah engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 75% independent completion
+2. Functional communication practice: 72% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 64% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 77%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Elijah responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 18 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+cfaff55c contacted at 2e163de4 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Elijah takes Risperidone 1mg daily per prescription from f6d16c2d. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 6a03fd9d at 96 Geiger ICF.
+
+**Authored by:** 86825200, 03abe3d2
+**Date:** 043fe75c
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Brown, c4ec54db
+**Session Date:** 0c549456
+**Primary Location:** Cicero TEC
+**Staff:** 25e2d419
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with f6d16c2d at Syracuse Medical Associates, 684 University Street, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, 684 University Street, 2fb59fa3, NY 13202
+Clinic phone: 032e4535
+Provider: f6d16c2d
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 25e2d419
+
+**PARENT COORDINATION:**
+c85b580b met at clinic.
+Contact number: 044f7f1b
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: e038eaa6
+
+**APPOINTMENT OUTCOME:**
+Per f6d16c2d:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Apply topically twice daily
+Prescribing provider: f6d16c2d
+Pharmacy: Kinney Drugs, f154b551
+
+**POST-APPOINTMENT SESSION:**
+edd29161 returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse c9cdddaf, 3e4411d5 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+c85b580b contacted at 044f7f1b to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 25e2d419
+**Medical liaison:** c9cdddaf, 3e4411d5
+**Date:** 0c549456
+
+---
+END OF SESSION NOTE

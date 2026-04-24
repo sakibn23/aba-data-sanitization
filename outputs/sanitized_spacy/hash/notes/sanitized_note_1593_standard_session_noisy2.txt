@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Isabella Hughes W.
+**Date of Birth:** de98a020
+**sess Date:** 131f628f
+**Location:** 100 Geiger ICF
+**Staff:** 62f6bd0e
+**Medicaid ID:** b6fed01a
+
+---
+
+## STANDARD sess REPORT
+
+Session condutced at 100 Geiger ICF from 9:00 AM to 11:00 AM. 
+a81ef43a engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 82% independent completion
+2. Functional comm practice: 75% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 64% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 71%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. a81ef43a responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 18 tokens toward preferred activity)
+- Functional comm training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected usnig 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+b16857fa contacted at 3155103456 re: 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+a81ef43a takes 47e921e6 50mg daily per prescription from fe61533b. 
+No side effects observed during session
+
+**FOLLOW-UP:**
+Next session scheduled for e719138d at 100 Geiger ICF.
+
+**Authored by:** 62f6bd0e
+**Date:** 131f628f
+
+---
+END OF sess NOTE

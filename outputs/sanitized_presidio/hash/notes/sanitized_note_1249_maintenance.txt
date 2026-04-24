@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Martinez, Avery
+**Session Date:** 86d03bdc
+**Settings:** 92 Geiger ICF, Cicero TEC, 173 Oak Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 3f270e3d
+**Home Visit Staff:** 70860f99, 83aedc6d, 70618c58
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Avery demonstrated skill maintenance across multiple settings during coordinated session on 86d03bdc.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 83% independent completion across all tasks
+Staff observer: 3f270e3d
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 77% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 173 Oak Street, 2fb59fa3, 124e0b72 13204
+Parent participants: a70827f7 and 2b4b8907
+Home phone: (0faf02f3
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 83% independent completion in home environment
+
+**PARENT REPORT:**
+a70827f7 reported Avery has been completing 
+morning routine independently at home 6 days per week. 2b4b8907 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Avery maintained 85% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 0c51ec9e (Occupational Therapy) - contact: 0a4a718c
+- 2f976a41, 4cf85d54 (Speech Therapy) - contact: 87526cd7
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 573dc3fa
+
+**Documentation:** 3f270e3d
+**Date:** 86d03bdc
+
+---
+END OF SESSION NOTE

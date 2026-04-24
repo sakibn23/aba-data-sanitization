@@ -1,0 +1,58 @@
+# f31c8453 sess NOET - GENERALIZATION SESSION
+
+**Client:** da3874db
+**Session Date:** afb35813
+**Settings:** 88 Geiger ICF, Liverpool TEC, 0b77c38c
+**Lead Staff:** 7e1f8ec9
+**Home Visit Staff:** ba4f62cb, 7c0ba5fc
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+807c9fb7 demonstrated skill maintenance across multiple settings during coordinated session on Oct 5 2025.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion social communication
+Performance: 86% independent completion across all tasks
+Staff observer: 7e1f8ec9
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks peer interaction, following multi-step directions
+Performance: 75% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 0b77c38c
+Parent participants: cc247303 and e2da35a0
+Home phone: 315.483.1234
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 77% independent completion in home environment
+
+**PARENT REPORT:**
+cc247303 reported 807c9fb7 has been completing 
+morning routine indep. at home 4 days per week. e2da35a0 noted improvement in comm with younger sibling durnig play activities.
+
+**Parent tarining provided on:**
+- Visual scheudle implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+807c9fb7 maintained 79% consistency across settings for target skills. 
+Variability noted in task inititaion between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared w/:
+- 3ec10042 (Occupational Therapy) - contact: 3154831234
+- dd976f55, 771546ad (Speech Therapy) - contact: (315) 463-2345
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 3 times per week
+- Schedule tri-setting observation on 0619c08e
+
+**Documentation:** 7e1f8ec9
+**Date:** afb35813
+
+---
+END OF sess NOTE

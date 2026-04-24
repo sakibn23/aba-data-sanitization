@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 0c38bfc5
+**Session Date:** 849b75f0
+**Settings:** 100 Geiger ICF, Baldwinsville TEC, 561 Main Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** bbc40e01
+**Home Visit Staff:** 4592ea77, 4d95e550, c4b37c5f
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Mia demonstrated skill maintenance across multiple settings during coordinated session on 849b75f0.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 87% independent completion across all tasks
+Staff observer: bbc40e01
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 561 Main Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 8e65f0b1
+Home phone: (ebf5dc15
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 77% independent completion in home environment
+
+**PARENT REPORT:**
+8e65f0b1 reported 41509508 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Mia maintained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 1908cf4c, 87ef1797 (Occupational Therapy) - contact: ae293be0
+- d9fbf8f0 (Speech Therapy) - contact: 26774165
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 9e865af2
+
+**Documentation:** bbc40e01
+**Date:** 849b75f0
+
+---
+END OF SESSION NOTE

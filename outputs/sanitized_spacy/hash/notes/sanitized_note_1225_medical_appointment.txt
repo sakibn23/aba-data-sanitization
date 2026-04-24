@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Emily Brown
+**Session Date:** d42b3911
+**Primary Location:** Baldwinsville TEC
+**Staff:** 7eba4e2a
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with ad182714 at Syracuse Medical Associates, 70eb4208.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, 70eb4208
+Clinic phone: 10ff4a59
+Provider: ad182714
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: 7eba4e2a
+
+**PARENT COORDINATION:**
+7ab06efb met at clinic.
+Contact number: df8a5497
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: e038eaa6
+
+**APPOINTMENT OUTCOME:**
+Per ad182714:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: ad182714
+Pharmacy: Walgreens, 4da418b8
+
+**POST-APPOINTMENT SESSION:**
+Emily returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. 9dfd6010, c6a7b417 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+7ab06efb contacted at df8a5497 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 7eba4e2a
+**Medical liaison:** 5ec07559, c6a7b417
+**Date:** d42b3911
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,48 @@
+# f31c8453 sess NOTE - SKILL ACQUISITION
+
+**Client:** d991388c
+**Date of Birth:** 0a68f09f
+**Session Date:** 08050793
+**Program:** Syracuse TEC
+**Time:** 3:00 PM - 4:30 PM
+**83aedc6d:** Isabella Gutierrez
+
+---
+
+## SKILL ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+b1f6d124 participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Syracuse TEC. sess began at 3:00 PM w/ 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 71% accuracy across 15 trials
+- Trial block 2: 83% accuracy across 15 trials  
+- Trial block 3: 93% accuracy arcoss 15 trials
+- Overall session accuracy: 83%
+
+**PROMPTING HIERARCHY:**
+Initial trials requirde full PT prompting, progressing to verbal prompting only by session end. 
+b1f6d124 dmeonstrated improvement in response latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+b1f6d124 practiced food service skills during lunch preparation. Staff 53c9d870 94746a21 supervised and reported successful completion of assigned tasks w/ minimal support.
+
+**PARENT COLLABORATION:**
+Contacted Justin Robinson at (315)504-5678 to discuss home practice strategies. 
+Parent rpeorted b1f6d124 has bene practicing sorting tasks at home w/ good success
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate geenralization setting
+
+**tx:** Isabella Gutierrez
+**Date signed:** 3eac6610
+
+---
+END OF SESSION NOTE

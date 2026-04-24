@@ -1,0 +1,48 @@
+# UCP sess NOTE - SKILL ACQUISITION
+
+**Client:** fcad4723
+**Date of Birth:** ca084348
+**sess Date:** 34ececbd
+**Program:** Cicero TEC
+**Time:** 9:00 AM - 10:30 AM
+**83aedc6d:** b5c9bf05
+
+---
+
+## SKILL ACUQISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+Sofia participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at 0d9e2ee3 Session began at 9:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 80% accuracy across 15 trials
+- Trial block 2: 84% accuracy across 15 trials  
+- Trial block 3: 93% accuracy across 15 trials
+- Overall session accuracy: 86%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting, progressing to verbal prompting only by session end. 
+bb866952 demonstrated improvement in response latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Sofia practiced food service skills during lunch preparation. Staff 63ebd993 superviesd and reported successful completion of assigned tasks w/ minimla support.
+
+**PARENT COLLABORATION:**
+Contacted 5714e047 213c4d2d at (315)515-4567 to discuss home practice strategies. 
+Parent reported Sofia has been practicing sorting takss at home w/ good success.
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**tx:** b5c9bf05
+**Date signed:** 34ececbd
+
+---
+END OF SESSION NOTE

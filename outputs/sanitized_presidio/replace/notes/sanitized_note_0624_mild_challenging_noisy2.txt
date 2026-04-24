@@ -1,0 +1,63 @@
+# UCP sess NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** [PERSON]
+**Incident Date:** Oct 3 2025
+**Incident Time:** 2:15 PM
+**Location:** 88 Geiger ICF
+**Staff Present:** David Allen [CREDENTIAL]
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+[PERSON] was engaged in art activity at 88 Geiger ICF when peer 
+requested to share art materials
+
+**bx DESCRIPTION:**
+[PERSON] exhibited Minor non-compliance characterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- dur: 2 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**intv APPLIED:**
+Staff [PERSON], [CREDENTIAL] implemented:
+1. Paues and proximity
+2. Visual first-then baord presentation
+3. Choice offering between sharing materials or selecting different activity
+
+[PERSON] responded to choice offering intervention and returnde to baseline within 
+7 min.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per bx Suppotr Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+[PERSON] participated in cooperative art activity with appropriate sharing behaviors 
+observed. No further incidents during remainder of session
+
+**FUNCTIONAL comm:**
+[PERSON] was able to verbally request "my turn please" folloiwng de-escalation 
+demonstrating understanding of replacement bx.
+
+**PARENT NOTIFICATION:**
+Phone contact with [PERSON] at ([PHONE]. 
+Parent reported similar sharing difficulteis at home with sibling. Discussed consistency in 
+intervention approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by David Allen
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** [DATE] at 88 Geiger ICF
+**Provider check-in:** [PERSON] on 4-29-26
+
+**Report filed by:** [PERSON], [CREDENTIAL]
+**Filed:** 10-3-25
+
+---
+END OF SESSION NOTE

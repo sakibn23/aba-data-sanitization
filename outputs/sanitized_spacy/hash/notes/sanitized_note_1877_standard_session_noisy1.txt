@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Ross, 8141d2b1
+**Date of Birth:** d102fbd9
+**sess Date:** 42998749
+**Location:** 88 Geiger ICF
+**Staff:** Emily Castillo
+**Medicaid ID:** 4a9147b6
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 88 Geiger ICF from 3:00 PM to 4:00 PM. 
+8141d2b1 engaged in 5 scheduled activitise with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 75% indeepndent completion
+2. Functional communication practice: 85% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 72% completion rate
+5. Leisure skills: High engagement, appropriate dur
+
+Overall completion rate: 76%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. 8141d2b1 responded to 2 
+planned interventions including:
+- Visual scehdule transitions
+- Token economy system (earned 19 tokens towrad preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+cbb2db98 contacted at (315)425-8901 re: 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+8141d2b1 takes Risperidone 1mg daily per prescription from f6d16c2d. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for e719138d at 88 Geiger ICF.
+
+**Authored by:** Emily Castillo
+**Date:** 42998749
+
+---
+END OF SESSION NOTE

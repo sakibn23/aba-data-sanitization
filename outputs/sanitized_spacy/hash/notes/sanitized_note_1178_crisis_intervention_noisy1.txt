@@ -1,0 +1,137 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: 3157246907
+
+**CLIENT info:**
+Name: Emma Lopez
+Date of Birth: 9f006f27
+Primary Residence: bf1be02c
+Emergency Contact 1: Rachel Lopez - 3155161234
+Emergency Contact 2: cccce52a - (315) 452-4567
+
+**INCIDENT DETAILS:**
+Date: Oct 31 2025
+Time of Onset: 2:15 PM
+Location: 100 Geiger ICF, e631bc22
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: d518dabf
+Secondary: b3fb0abd, 798ff150
+Tertiary: Isabella Castillo 9eecfb3c
+9de79093 notified: John Kelly cc976392
+Medical: 5cfb9388
+
+**DETAILED INCIDENT TIMELINE:**
+
+9:41 AM: PRECIPITATING EVENT
+d9dacb3e was engaged in atcivity when trigger occurred.
+
+11:22 AM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff d518dabf implemented verbal de-escalation.
+
+9:48 AM: bx ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff b3fb0abd, 798ff150 joined response.
+
+9:51 AM: bx ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+6a6e40d9, cc976392 notified.
+
+9:53 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supien restraint
+Staff involved: ed64894e, 099ea41b
+Reason: Imminent danger to self and others
+
+10:08 AM: DE-ESCALATION PROGRESS
+d9dacb3e showing decreased muscle tension, verbal communication restored.
+
+2:45 PM: RESTRAINT RELEASED
+Total restraint dur: 19 min
+d9dacb3e moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: 5cfb9388
+tx: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+d518dabf: Superficial scratch - tx: Cleaned, bandaged
+b3fb0abd: Contusion from impact - tx: Ice pack applied
+Isabella Castillo: No injuries
+
+PROPERTY DAMAGE:
+Folding chair damaged
+Estimated cost: $248
+
+**EMERGENCY CONTACTS MADE:**
+
+2:28 PM: 6798da52 contacted at 3155161234
+Reached: Yes, answered immediately
+Notified by: 6a6e40d9, cc976392
+
+2:45 PM: cccce52a contacted at (315) 452-4567
+Reached: Yes, callback received
+
+**MEDICAL CONSULTATION:**
+5cfb9388 assessed. 
+Vital signs: Temp 98.4°F, Pulse 86, BP 119/77, Respirations 18
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+fe61533b contacted.
+Emergency appointment: 3c256001
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical intv
+☑ Multiple staff required (3+)
+☑ Duraiton > 10 minutes
+☐ Emergency medical services called
+☑ Paretn immediate notification
+☑ Property damage
+☑ Stfaf injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 2:23 PM
+End time: 10:15 AM
+Total duration: 24 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: 5cfb9388 checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: 79ec544b - notified
+☑ Clinical Director: John Kelly - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: John Kelly cc976392
+Attendees: ed64894e, 099ea41b
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: fe61533b emergency appt a617a35b
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** Chloe Diaz
+**Reviewed by:** 6a6e40d9, cc976392
+**Medical review:** 5cfb9388
+**Report filed:** f9941d3f
+**Report ID:** INC-2026-3248
+
+---
+END OF INCIDENT REPORT

@@ -1,0 +1,74 @@
+# [PERSON] sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**Session Date:** [DATE]
+**Primary Location:** Cicero TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ [PERSON], MS, [CREDENTIAL] at Syracuse Medical Associates, [ADDRESS]
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, [ADDRESS]
+Clinic phone: 3154931234
+Provider: [PERSON], MS, [CREDENTIAL]
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: (315)422-3456
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: [DATE]
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON], MS, [CREDENTIAL]:
+- Diagnosis: Otitis Externa
+- Treatment: Fluticaosne nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: [PERSON], MS, [CREDENTIAL]
+Pharmacy: Walgreens [PHONE]
+
+**POST-APPOINTMENT SESSION:**
+[PERSON] returned to Cicero TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Sebastian Cooper, [CREDENTIAL] notified to add new medication to 
+medication administration record
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at (315)422-3456 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home obsevration for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified scheudle for medical appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** Sebastian Cooper, [CREDENTIAL]
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

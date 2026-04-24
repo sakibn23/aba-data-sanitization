@@ -1,0 +1,58 @@
+# UCP sses NOTE - GENERALIZATION SESSION
+
+**Client:** Ella Clark
+**Session Date:** 07a15b30
+**Settings:** 95 Geiger ICF, Syracuse TEC, bb8925fb
+**Lead Staff:** 5bae3015, 03abe3d2
+**Home Visit Staff:** 798f50dd, a0906058
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Ella demonstrated skill maintenance across multiple settings during coordinated session on 80a016d5.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 86% independent completion across all tasks
+Staff observer: 5bae3015, 03abe3d2
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocationla tasks, peer interaction, f/u multi-step directions
+Performance: 83% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** bb8925fb
+Parent participants: 41f688b5
+Home phone: (315) 489-1234
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 82% indep completion in home environment
+
+**PARENT REPORT:**
+41f688b5 reported Ella has been completing 
+morning routine independently at hmoe 6 days per week.
+
+**Parent training provdied on:**
+- Visual schedule implementtaion at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Ella mainatined 79% consistency across settings for target skills. 
+Variability noted in task initiation betwene 95 Gegier ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information sahred with:
+- Mason White, 798ff150 (Occupational Therapy) - contact: 32b95368
+- 1d73dca3 (Speech Therapy) - contact: 3154399012
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on e47a2bc0
+
+**Documentation:** 5bae3015, 03abe3d2
+**Date:** 80a016d5
+
+---
+END OF SESSION NOTE

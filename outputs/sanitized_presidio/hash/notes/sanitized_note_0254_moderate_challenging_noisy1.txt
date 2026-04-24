@@ -1,0 +1,91 @@
+# UCP SESSION NOTE - MODERATE CHALLENGING BEHAVIOR
+
+**UPSTATE CARING PARTNERS**
+125 Business Park Drive, 50ec69c8, 124e0b72 13502
+Phone: 134dfe10
+
+**Client Name:** 058e3530
+**Date of Birth:** 11-1-13
+**Incident Date:** 10-15-25
+**Incident Time:** 2:15 PM
+**Location:** 96 Geiger ICF
+**Staff Involved:** c7a5a195; Victoria Collins 798ff150
+
+---
+
+## MODERATE CHALLENGING BEHAVIOR - MULTIPLE INTERVENTIONS
+
+**INDIVIDUALS PRESENT:**
+Staff: c7a5a195; 61d30cce, 798ff150
+Location: Community room 96 Geiger ICF
+
+**INCIDENT TIMELINE:**
+
+2:10 PM - ANTECEDENT
+a6b54c20 was participating in group activity when transition announcement was made 
+to end preferred activity.
+
+2:15 PM - BEHAVIOR ONSET
+a6b54c20 engaged in PT aggression including:
+- Pushing peer
+- Throwing materials
+- Verbal aggression (yelling, protesting)
+
+10:32 AM - INITIAL intv
+c7a5a195 implemented verbal de-escalation and visual supports.
+Limited effectiveness. Behavior esclaated to 29cc4eb6 (moderate severity).
+
+3:50 PM - SECONDARY INTERVENTION
+61d30cce, 798ff150 joined intv team.
+SCIP-R blocikng pads utilized per BSP protocol.
+a6b54c20 responded to planned ignoring combined with blocking strategy.
+
+10:43 AM - DE-ESCALATION ACHIEVED
+a6b54c20 returned to baseline. Moved to quiet room for recovery.
+
+**INJURIES/DAMAGE:**
+Staff: c7a5a195 sustained minor scratch on left forearm, no mdeical treatment required
+Property: Game materials damaged, approximate cost $35
+Client: No injuries sustained
+
+**IMMEDIATE PARENT CONTACT:**
+fe2316e4 contacted at (7a17257d.
+Parent acknowledged incident and requesetd details of antecedent triggers.
+
+**MEDICAL CONSULTATION:**
+Nurse 77da6b42, 7c0ba5fc consulted. Visual asmt of minor staff injury completed. 
+No client injuries noted. No meidcal intervention required.
+
+**RESTRICTIVE INTERVENTIONS USED:**
+- SCIP-R Blocking Pads: Yes (Duration: 8 min)
+- Physical Restraint: No
+- Seclusion: No
+- PRN Medication: Not administered
+
+**FUNCTIONAL BEHAVIOR ASSESSMENT UPDATE:**
+Data suggests escape function related to trasnition from preferred activities. 
+Recommend FBA review w/ c7a5a195 scheduled for 
+c2c8e63a.
+
+**PSYCHIATRIC CONSULTATION:**
+bcd15478 notified via phone message. Appointment maintained for 
+b824d0ec.
+
+**NOTIFICATIONS COMPLETED:**
+☑ Parents (contacted)
+☑ Program Director (notified)
+☑ 41e96c33 (consulted)
+☑ Psychiatrist (message left)
+☐ OPWDD (Not requirde - internal incident)
+
+**FOLLOW-UP ACTIONS:**
+- Incident reviwe meeting scheduled
+- BSP modification considered for transition protocols
+- Staff debriefing completed
+- Additional transition warnings for next 72 hours
+
+**Report compiled by:** c7a5a195
+**Report filed:** 043fe75c
+
+---
+END OF SESSION NOTE

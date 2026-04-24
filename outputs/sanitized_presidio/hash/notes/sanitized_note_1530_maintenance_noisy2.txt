@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Thomas, 2c7b6821
+**Session Date:** November 29, 2025
+**Settings:** 88 Geiger ICF, Chadwicks TEC, 589 Maple Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** be4f497a, 03abe3d2
+**Home Visit Staff:** 3dc0c44d, a3de4d11
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+2c7b6821 demonstrated skill maintenance across multiple settings during coordinated sess on 11-29-25.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 92% independent completion across all tasks
+Staff observer: Samuel Young 03abe3d2
+
+**SETTING 2:** Chadwicsk TEC
+Skills assessed: Vocational tasks, peer interaction following multi-step directions
+Performance: 84% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 589 Maple Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 974f5828
+Home phone: fb6f8749
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 83% independent completion in home environment
+
+**PARENT REPORT:**
+974f5828 reported 2c7b6821 has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Daat collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+2c7b6821 maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Jack Washington, 769dc71a (Occupational Therapy) - contact: d653b227
+- ea6be44c (ST Therapy) - contact: 3f74638c
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 5 times per week
+- Schedule tri-setting observation on 792a1c78
+
+**Documentation:** be4f497a, 03abe3d2
+**Date:** 766623b9
+
+---
+END OF sess NOTE

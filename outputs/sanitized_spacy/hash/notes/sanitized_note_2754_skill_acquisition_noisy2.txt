@@ -1,0 +1,48 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** cc3a2cdb
+**Date of Birth:** eeb680ea
+**Session Date:** 024e79cb
+**Program:** Baldwinsville TEC
+**Time:** 9:00 AM - 10:00 AM
+**83aedc6d:** Lucas Kim
+
+---
+
+## SKILL ACQUISITION sess
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+8b49a459 participatde in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Baldwinsville TEC. Session began at 9:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 73% accuracy across 15 trials
+- Trial block 2: 85% accuracy across 15 trilas  
+- Trial block 3: 88% accuracy across 15 trials
+- Overall session accuracy: 81%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting, progressing to verbal prompting only by session end. 
+8b49a459 demonstrated improvement in response latency from 8.5 sceonds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+8b49a459 practiced food service skills during lunch preparation. Staff 8c436764, a3de4d11 supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted 9da10b4a at 315.501.7890 to discuss home practice strategies. 
+Parent reported 8b49a459 has been practicing sorting tasks at home wtih godo success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Rdeuce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** Lucas Kim
+**Date signed:** Nov 24 2025
+
+---
+END OF SESSOIN NOTE

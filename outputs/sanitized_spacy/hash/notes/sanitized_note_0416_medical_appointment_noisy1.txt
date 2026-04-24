@@ -1,0 +1,74 @@
+# UCP SESISON NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 2a487c72
+**Session Date:** 765be682
+**Primary Location:** Chadwicks TEC
+**Staff:** e63bf905
+
+---
+
+## MODIFIED sess - MEDICLA APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 385c69e3 at Syracuse Medical Associates, 7545be30.
+
+Modified session: Morning abbreviated session and aftenroon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Syracuse Medical Associates, 7545be30
+Clinic phone: d8ed507d
+Provider: 385c69e3
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: e63bf905
+
+**PARENT COORDINATION:**
+abdcd790 met at clinic.
+Contact number: (315)476-2345
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: e35dcc37
+
+**APPOINTMENT OUTCOME:**
+Per 385c69e3:
+- Diagnosis: Upper Respiratory Infection
+- tx: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symtpoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: 385c69e3
+Pharmacy: dae25302, c9a3abfd
+
+**POST-APPOINTMENT sess:**
+52d7d860 returned to Chadwicks TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort uisng visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Dr. Pollard notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+abdcd790 contacted at (315)476-2345 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appiontment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** e63bf905
+**Medical liaison:** e57b1f63
+**Date:** 042755e3
+
+---
+END OF SESSION NOTE

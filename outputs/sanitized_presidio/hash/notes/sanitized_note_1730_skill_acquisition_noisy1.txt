@@ -1,0 +1,48 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** Nguyen, bb866952
+**Date of Birth:** ca084348
+**sess Date:** bfe20d3a
+**Program:** Cicero TEC
+**Time:** 9:00 AM - 10:30 AM
+**bx Specialist:** b5c9bf05
+
+---
+
+## SKILL ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with ntauralistic teaching
+
+**SESSION SUMMARY:**
+bb866952 participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Cicero TEC. Session began at 9:00 AM w/ 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trila block 1: 80% accuracy across 15 trials
+- Trial block 2: 84% accuracy across 15 trails  
+- Trial block 3: 93% accuracy across 15 trials
+- Overall session accuracy: 86%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+bb866952 demonstrated improvement in response latency from 8.5 seconds to 3.2 seconds
+
+**VOCATIONAL INTEGRATION:**
+bb866952 practiced food service skills during lunch preparation. Staff 5a28688a, NP supervised and reportde successful completion of assigned tasks wiht minimal support.
+
+**PARENT COLLABORATION:**
+Contacted e15b3480 at (0cfcafd8 to discuss home practice strategies. 
+Parent reported bb866952 has been practicing sorting tasks at home with good success.
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** b5c9bf05
+**Date signed:** bfe20d3a
+
+---
+END OF SESSION NOTE

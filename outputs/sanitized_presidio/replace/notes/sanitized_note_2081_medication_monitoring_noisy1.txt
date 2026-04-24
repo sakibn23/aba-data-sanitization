@@ -1,0 +1,95 @@
+# UCP sses NOTE - MEDICATION MONITORING
+
+**Client:** Mitchell, [PERSON]
+**Date of Birth:** 12-31-15
+**sess Date:** [DATE]
+**Location:** 100 Geiger ICF
+**Monitoring Staff:** [PERSON]
+**Consulting Nurse:** [PERSON]
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by [PERSON]
+Last appointment: [DATE]
+Next appointment: 5-25-26
+
+**ROUTINE MEDICATIONS:**
+1. Clonidine HCL 0.3mg - PO daily at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: [DATE]
+   
+2. Sertraline HCL 50mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder mood disorder
+   Start date: [DATE]
+   
+3. Clonazepam 0.5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: [DATE]
+
+**RECENT CHANGE:**
+[DATE]: 
+Sertraline HCL 50mg dosage increased
+Ordered by: [PERSON]
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. [PERSON] readily engaged in 
+morning routine with 81% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. [PERSON] completed tasks wtih 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. [PERSON] worked for 24-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: [PERSON]
+Response: Symptoms resolevd within 45 min
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 97.9°F
+Pulse: 74 bpm
+Respirations: 18 per minute
+Recorded by: [PERSON]
+
+**PARENT CONSULTATION:**
+[PERSON] contacted at ([PHONE].
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning bx: More cooperative, lses irritable
+- Evening behavior: Calmer during betdime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL recs:**
+- Continue current doisng schedule
+- Monitor sleep quality for netx 30 days
+- Report findings to [PERSON] at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: [DATE]
+Prescriber appointment: [DATE]
+
+**Documented by:** [PERSON]
+**Reviewed by:** [PERSON]
+**Date:** Nov 28 2025
+
+---
+END OF sess NOTE

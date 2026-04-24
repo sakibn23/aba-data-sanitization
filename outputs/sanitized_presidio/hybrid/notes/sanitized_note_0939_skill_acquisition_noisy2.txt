@@ -1,0 +1,48 @@
+# UCP sess NOTE - SKILL ACQUISITION
+
+**Client:** [PERSON]
+**Date of Birth:** 1*****7
+**sess Date:** Oct 31 2025
+**Program:** Baldwinsville TEC
+**Time:** 3:00 PM - 4:30 PM
+**bx Specialist:** [PERSON], BCBA, LBA
+
+---
+
+## SKILL ACQUISITION sess
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+Daniel patricipated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Baldwinsville TEC. Session begna at 3:00 PM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial blcok 1: 70% accuracy across 15 trials
+- Trial block 2: 85% accuracy across 15 trials  
+- Trial block 3: 92% accuracy across 15 trials
+- Overall session accuracy: 87%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+[PERSON] demonstrated improvement in response latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Daniel practicde food service skills during lunch preparation. Staff [PERSON], Ed.M. supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted [PERSON] at ([PHONE] to discuss home practice strategies. 
+Parent reported [PERSON] has been practicing sorting tasks at home with good success.
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**tx:** [PERSON], BCBA, LBA
+**Date signed:** 1********5
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Hernandez, 296b6366
+**Session Date:** 86ae21a5
+**Primary Location:** Baldwinsville TEC
+**Staff:** 2008d3cb
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 21c7690b at WellNow Urgent Care, 711 University Street, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: WellNow Urgent Care, 711 University Street, 2fb59fa3, NY 13202
+Clinic phone: 2b4a55b6
+Provider: 21c7690b
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 2008d3cb
+
+**PARENT COORDINATION:**
+c7f40c5e met at clinic.
+Contact number: 987a9471
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 05540bf4
+
+**APPOINTMENT OUTCOME:**
+Per 21c7690b:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: 21c7690b
+Pharmacy: CVS Pharmacy, ef47e5eb
+
+**POST-APPOINTMENT SESSION:**
+296b6366 returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse c33c6063 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+c7f40c5e contacted at 987a9471 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 2008d3cb
+**Medical liaison:** c33c6063
+**Date:** 86ae21a5
+
+---
+END OF SESSION NOTE

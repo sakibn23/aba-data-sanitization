@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Sofia Allen
+**Date of Birth:** 21519326
+**sess Date:** Nov 16 2025
+**Location:** 95 Geiger ICF
+**Staff:** 71a5bee8
+**Medicaid ID:** 6a045e04
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 95 Geiger ICF from 2:00 PM to 3:00 PM. 
+Sofia engaged in 5 scheduled activities w/ mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 77% independent completion
+2. Functional communication practice: 68% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 75% completion rate
+5. Leisrue skills: High engagement, appropriate dur
+
+Overall completion rate: 79%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Sofia responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 20 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verabl refusal when transitioning from self-care routine to acaedmic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+5cd8c733 contacted at (315) 454-4567 regarding 
+upcoming prorgam meeting. Confirmed attendance and requested transportation info
+
+**MEDICATION OBSERVATION:**
+Sofia takes Risperidone 1mg daily per prescription from c5d25ba4, 20e060cd. 
+No side effects observed during session
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 95 Geiger ICF.
+
+**Authored by:** 71a5bee8
+**Date:** 028b1413
+
+---
+END OF sess NOTE

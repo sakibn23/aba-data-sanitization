@@ -1,0 +1,95 @@
+# f31c8453 sess NOTE - MEDICATION MONITORING
+
+**Client:** 5d4cd8fb
+**Date of Birth:** Nov 19 2008
+**sess Date:** 10e62bb9
+**Location:** 88 Geiger ICF
+**Monitoring Staff:** 54e498b6
+**Consulting Nurse:** 7961fd29, 771546ad
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by 957122bf
+Last appointment: 4812659f
+Next appointment: e023c33a
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: 7fa2efff
+   
+2. e5eb0705 50mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder mood disorder
+   Start date: aa4f6a21
+   
+3. Trazodone 100mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: f71811ec
+
+**RECENT CHANGE:**
+374b4a00: 
+Sertraline HCL 50mg dosage increased
+Ordered by: 957122bf
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Chloe readily engaged in 
+morning routine w/ 84% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Chloe completed tasks w/ 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Chloe worekd for 20-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: None observed
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for minor discomfort complaint
+Administered by: 7961fd29, 771546ad
+Response: Symptoms resolved within 45 min
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.6°F
+Pulse: 84 bpm
+Respirations: 18 per minute
+Recorded by: 7961fd29, 771546ad
+
+**PARENT CONSULTATION:**
+bdf15a37 contacted at (315) 465-9012.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evenign behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor sleep quality for nxet 30 days
+- Report findings to 957122bf at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: ea59acba
+Prescriber appointment: 9e865af2
+
+**Documented by:** 54e498b6
+**Reviewed by:** 7961fd29, 771546ad
+**Date:** c625f839
+
+---
+END OF SESSION NOTE

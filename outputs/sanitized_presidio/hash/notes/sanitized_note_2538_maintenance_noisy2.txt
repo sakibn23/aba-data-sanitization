@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 70379f25
+**sess Date:** 11-13-25
+**Settings:** 95 Geiger ICF Syracuse TEC, 401 4249a5b8, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 6c34c1f8
+**Home Visit Staff:** 8a30dede, 87ef1797
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+807c9fb7 demonstrated skill maintenance acrsos multiple settings during coordinated sess on Nov 13 2025.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social comm
+Performance: 89% independent completion across all tasks
+Staff observer: 6c34c1f8
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vcoational tasks, pere interaction, following multi-step directions
+Performance: 84% accuracy with minimal prompting
+Transition quality: Smooth transiiton with visual schedule support
+
+**HOME VISIT:** 401 Main Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 6baaa00d and f828f896
+Home phone: 734a354d
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 76% independent completion in home environment
+
+**PARENT REPORT:**
+6baaa00d reported 807c9fb7 has been completing 
+morning routine indep. at home 5 days per week. f828f896 noted improvement in communication w/ younger sibling during play activities
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+807c9fb7 maintained 87% consistency across stetings for target skills. 
+Variability noted in tsak initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- 9431777e, 87ef1797 (Occupational Therapy) - contact: 2121ec6c
+- f6d16c2d (ST Therapy) - contact: d5111b3c
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 186d889b
+
+**Documentation:** 6c34c1f8
+**Date:** 0e94b743
+
+---
+END OF SESSION NOTE

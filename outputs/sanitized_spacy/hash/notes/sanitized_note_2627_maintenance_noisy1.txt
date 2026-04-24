@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Chloe Ruiz M.
+**sess Date:** Oct 16 2025
+**Settings:** 96 Geiger ICF, Baldwinsville TEC, ce3d6ce1
+**Lead Staff:** 64848225
+**Home Visit Staff:** Riley Sanchez 94746a21, 3d8c8358
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Chloe demonstrated skill maintenance across multiple settings during coordinated sess on c7e73174.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% independent cmopletion across all tasks
+Staff observer: 64848225
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 79% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** ce3d6ce1
+Parent participants: 26d42644 and Paul Ruiz
+Home phone: 315.506.8901
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 78% independent completion in home environment
+
+**PARENT REPORT:**
+26d42644 reported 789f9de7 has been completing 
+morning routine independently at home 4 days per week. 2a5a85f7 noted improvement in comm with younger sibling during play activities.
+
+**Parent trainign proivded on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Daat collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Chloe maintained 85% consistency across settings for target skills. 
+Variability noted in task intiiation between 96 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- c843ddd6, 771546ad (OT Therapy) - contact: 3154615678
+- 005ee896 (ST Therapy) - contact: 32b95368
+
+**RECOMMENDATIONS:**
+- Continue generailzation trials across all settings weekly
+- Increase home prcatice frequency to 5 times per week
+- Scehdule tri-setting observation on Jun 14 2026
+
+**Documentation:** 64848225
+**Date:** c7e73174
+
+---
+END OF sess NOTE

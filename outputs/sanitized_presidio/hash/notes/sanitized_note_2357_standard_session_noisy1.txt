@@ -1,0 +1,52 @@
+# UCP sess NOTE - STANDARD SESSION
+
+**Client:** Nguyen, f1908a7c
+**Date of Birth:** d9a9c39f
+**Session Date:** 849b75f0
+**Location:** 100 Geiger ICF
+**Staff:** 3799f4b3
+**Medicaid ID:** 0ab43e1a
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 100 Gieger ICF from 3:00 PM to 4:00 PM. 
+f1908a7c engaged in 5 scheduled activities w/ mixed performance
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 88% indepenednt completion
+2. Functional comm practice: 81% accuracy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Acdaemic tasks: 61% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 77%
+
+**BEHAVIOR SUPPORT PALN IMPLEMENTATION:**
+Current BSP was folloewd throughout session. f1908a7c responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 15 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+4ca89039 contacted at (ece0f04f regarding 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+f1908a7c takes Clonidine 0.3mg daily per precsription from 316e74e7. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for Apr 22 2026 at 100 c729b685.
+
+**Authored by:** 3799f4b3
+**Date:** 849b75f0
+
+---
+END OF sess NOTE

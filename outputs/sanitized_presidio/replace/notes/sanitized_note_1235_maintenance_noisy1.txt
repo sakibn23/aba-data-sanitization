@@ -1,0 +1,58 @@
+# UCP sess NOTE - GENERALIZATION SESSION
+
+**Client:** Green, [PERSON]
+**Session Date:** [DATE]
+**Settings:** 95 Geiger ICF, Baldwinsville TEC, 229 Maple Street, [ADDRESS], [ADDRESS] 13204
+**Lead Staff:** [PERSON]
+**Home Visit Staff:** Mason Lopez, [CREDENTIAL]
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+[PERSON] demonstrated skill maintenance across multiple settings during coordinated sess on [DATE].
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 82% indep completion across all tasks
+Staff observer: [PERSON]
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 82% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 229 Maple Street, [ADDRESS], [ADDRESS] 13204
+Parent participants: Thomas Green
+Home phone: ([PHONE]
+Skills assessed: Home routines, family interactions leisure skills
+Performance: 76% indep completion in hoem environment
+
+**PARENT REPORT:**
+[PERSON] reported [PERSON] has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+[PERSON] manitained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- [PERSON] (OT Therapy) - contact: [PHONE]
+- [PERSON] (Speech Therapy) - contact: [PHONE]
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 3 times per week
+- Schedule tri-setting observation on [DATE]
+
+**Documentation:** [PERSON]
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

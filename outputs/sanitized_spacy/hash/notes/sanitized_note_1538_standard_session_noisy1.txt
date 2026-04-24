@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Ramos, f2465f78
+**Date of Birth:** 061c0db1
+**sess Date:** d42b3911
+**Location:** 88 Geiger ICF
+**Staff:** Alexander Reyes
+**Medicaid ID:** d26d5ddc
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 88 Geiger ICF from 3:00 PM to 4:30 PM. 
+Grace engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 78% independent completion
+2. Functional communication practice: 71% accuracy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Academic tasks: 65% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 73%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. f2465f78 responded to 3 
+planned interventinos including:
+- Visual schedule transitions
+- Token economy system (earned 18 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief vrebal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required
+
+**PARENT COMMUNICATION:**
+7e38b44b contacted at (315) 501-7890 re: 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+f2465f78 takes Risperidone 1mg daily per prescription from fe61533b. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 88 Geiger ICF.
+
+**Authored by:** Alexander Reyes
+**Date:** 577f07aa
+
+---
+END OF SESSION NOTE

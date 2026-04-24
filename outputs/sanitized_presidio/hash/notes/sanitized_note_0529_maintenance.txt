@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Gray, edd29161
+**Session Date:** aac1fca9
+**Settings:** 100 Geiger ICF, Liverpool TEC, 377 347e7ba1, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** f32bbb05, 3d8c8358
+**Home Visit Staff:** faa8c008, 9eecfb3c
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Matthew demonstrated skill maintenance across multiple settings during coordinated session on aac1fca9.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: f32bbb05, 3d8c8358
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 377 Elm Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 70717c44 and c8a49e73
+Home phone: (d61d092b
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 79% independent completion in home environment
+
+**PARENT REPORT:**
+70717c44 reported edd29161 has been completing 
+morning routine independently at home 4 days per week. c8a49e73 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+edd29161 maintained 87% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- ed39809a (Occupational Therapy) - contact: 5eba6d48
+- 5ba64dd5 (Speech Therapy) - contact: 0dc6ed96
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 70111957
+
+**Documentation:** f32bbb05, 3d8c8358
+**Date:** aac1fca9
+
+---
+END OF SESSION NOTE

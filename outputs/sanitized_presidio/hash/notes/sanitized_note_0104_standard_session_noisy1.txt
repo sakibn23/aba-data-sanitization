@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Rogers, Grace
+**Date of Birth:** 83c8216c
+**Session Date:** d11c34b3
+**Location:** 88 Geiger ICF
+**Staff:** 2dc0c60c
+**Medicaid ID:** 423e3a3f
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 88 Geiger ICF from 1:00 PM to 2:00 PM. 
+Grace engaged in 5 scheduled activities w/ mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 83% independent completion
+2. Functional communication practice: 85% accuracy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Academic tasks: 69% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 72%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. f2465f78 responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 19 tokens twoard preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to acdaemic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+a7aefe7c contacted at (6dc2513a regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information
+
+**MEDICATION OBSERVATION:**
+f2465f78 takes Sertraline 50mg daily per prescription from 697def1c, 4d95e550, c4b37c5f. 
+No side effects observed during session
+
+**FOLLOW-UP:**
+Next session scheduled for Apr 22 2026 at 88 Geiger ICF.
+
+**Authored by:** 2dc0c60c
+**Date:** eb3934fe
+
+---
+END OF SESSION NOTE

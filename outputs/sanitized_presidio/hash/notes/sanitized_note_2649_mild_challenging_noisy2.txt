@@ -1,0 +1,63 @@
+# UCP SESSION NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** Ramos, 13ae3ed6
+**Incident Date:** November 2, 2025
+**Incident Time:** 2:15 PM
+**Location:** 88 Geiger ICF
+**Staff Present:** 5fdf64be, 3d8c8358
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+13ae3ed6 was engaged in art activity at 88 Geiger ICF when pere 
+requested to share art materials.
+
+**BEHAVIOR DESCRIPTION:**
+13ae3ed6 exhibited Minor non-compliance characterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossign arms and turnnig away
+- Refusing to make eye contact w/ staff
+- Duration: 2 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**intv APPLIED:**
+Staff 5fdf64be, 3d8c8358 implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+13ae3ed6 responded to choice offering intv and returned to baseline within 
+7 minutes.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+13ae3ed6 participated in cooperative art activity with appropriate sharing bxs 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+13ae3ed6 was able to verbally request "my turn please" following de-escalation, 
+demonstrating understandnig of replacement behavior.
+
+**PARENT NOTIFICATION:**
+Phone contact with ac03a49d at (98e86847. 
+Parent reported similar sharing difficutlies at home w/ sibling. Discussed consistency in 
+intervention approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by 5fdf64be
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** e719138d at 88 c729b685
+**Provider check-in:** 1bcbffb6 on 637bf33b
+
+**Report filed by:** 5fdf64be, 3d8c8358
+**Filed:** 7e8a9e81
+
+---
+END OF sess NOTE

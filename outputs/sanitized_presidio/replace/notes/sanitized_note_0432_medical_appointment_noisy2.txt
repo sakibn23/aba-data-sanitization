@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINMTENT COORDINATION
+
+**Client:** Lucas Parker C.
+**Session Date:** [DATE]
+**Primary Location:** Syracuse TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointmetn with [PERSON] at WellNow Urgent Care, 473 [ADDRESS], [ADDRESS], NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care, 473 [ADDRESS], [ADDRESS], NY 13202
+Clinic phone: [PHONE]
+Provider: [PERSON]
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: ([PHONE]
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seaosnal allergies
+Onset: [DATE]
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Upper Respiratory Infection
+- tx: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: [PERSON]
+Pharmacy: CVS Pharmacy, [PHONE]
+
+**POST-APPOINTMENT SESSION:**
+[PERSON] returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort usnig visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse [PERSON], [ADDRESS], [CREDENTIAL] notiifed to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at ([PHONE] to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON], [ADDRESS], [CREDENTIAL]
+**Date:** [DATE]
+
+---
+END OF sess NOTE

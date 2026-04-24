@@ -1,0 +1,63 @@
+# f31c8453 sess NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** de050590
+**Incident Date:** 0acebb87
+**Incident Time:** 11:20 AM
+**Location:** 96 Geiger ICF
+**Staff Present:** Olivia Hernandez, 3d8c8358
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+db0284fc was engaged in art activity at 96 Geiger ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR DESCRIPTION:**
+Sebastian exhibited Verbal refusal characterized by:
+- Loud vocal tone stating "No, mine!"
+- Crossing amrs and turning away
+- Refusing to make eye contact wtih staff
+- Duration: 4 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff dc4c8ddf, 3d8c8358 implemented:
+1. Pause and proximity
+2. Visual first-then borad presentation
+3. Choice offering between sharing materials or selecting different activity
+
+db0284fc responded to choice offering intervention and returned to baseline within 
+7 min.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per bx Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+Sebastian participated in cooperative art activity w/ appropriate sharing behaviors 
+observed. No further incidents during remainder of sess.
+
+**FUNCTIONAL COMMUNICATION:**
+db0284fc was able to verbally request "my turn please" following de-escalation, 
+demonstrating undrestanding of replacement behavior.
+
+**PARENT NOTIFICATION:**
+Phone contact w/ cc55a639 at 315.459.4567. 
+Parent reported similar sharing difficulties at home with sibling. Dicsussed consistency in 
+intervention approach across settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into trcaking system by dc4c8ddf
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** 6bfc71e2 at 96 Geiger ICF
+**Provider check-in:** 7969dac0 on 7a056dd8
+
+**Report filed by:** Olivia Hernandez, 3d8c8358
+**Filed:** 0e94b743
+
+---
+END OF sess NOTE

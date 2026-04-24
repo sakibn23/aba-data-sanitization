@@ -1,0 +1,133 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: ddd01a6d
+
+**CLIENT info:**
+Name: f5b3b1e4
+Date of Birth: 9033d88b
+9b96b339: b480f230
+Emergency Contact 1: ecac8aa2 - 315.482.2345
+
+**INCIDENT DETAILS:**
+Date: da0e065f
+Time of Onset: 2:15 PM
+Location: 95 Geiger ICF, 684da971
+Incident Category: CRISIS - Levle 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: 96df50ca
+Secondary: df25537d, cf25077a
+Tertiary: ca803b03, 798ff150
+9de79093 notified: bf0b575f, 798ff150
+Medical: cef34847
+
+**DETAILED INCIDENT TIMELINE:**
+
+2:11 PM: PRECIPITATING EVENT
+2c7b6821 was engaged in activity when trigger occurred.
+
+2:15 PM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff 96df50ca implemented verbal de-escalation.
+
+11:25 AM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff df25537d, cf25077a joined response.
+
+9:51 AM: BEHAVIRO ESCALTAION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+bf0b575f, 798ff150 notified.
+
+11:30 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: 6166e9b3, Aiden Peterson
+Reason: Imminent danger to self and others
+
+11:45 AM: DE-ESCALATION PROGRESS
+2c7b6821 showing decreased muscel tension, verbal communication restored.
+
+11:52 AM: RESTRAINT RELEASED
+Total restraint duration: 20 minutes
+2c7b6821 moved to quiet room for recovery
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact no skin breakdown
+Assessed by: cef34847
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+96df50ca: Superficial scratch - tx: Cleaned bandaged
+df25537d: Contusion from impact - Treatment: Ice pack applied
+ca803b03: No injuries
+
+PROPERTY DAMAGE:
+Activity table scratched
+Estimated cost: $189
+
+**EMERGENCY CONTACTS MADE:**
+
+9:58 AM: ecac8aa2 contacted at 315.482.2345
+Reached: Yes, answered immediately
+Notified by: bf0b575f, 798ff150
+
+**MEDICAL CONSULTATION:**
+cef34847 assessed. 
+Vital signs: Temp 98.6°F, Pulse 82, BP 120/79 Respirations 20
+Recommendation: Continue monitoring, no medical intv needed
+
+**PSYCHIATRIC CONSULTATION:**
+bcd15478 contacted.
+Emergency appointment: 2714f138
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive PT intv
+☑ Multiple staff required (3+)
+☑ Duration > 10 min
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 11:30 AM
+End time: 11:52 AM
+Total duration: 24 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: cef34847 checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: Noah Ramirez - notified
+☑ Cliincal Director: Sophia Hernandez - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: bf0b575f, 798ff150
+Attendees: 6166e9b3, ca803b03
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: bcd15478 emergency appt 3c256001
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** 96df50ca
+**Reviewed by:** bf0b575f, 798ff150
+**Medical review:** cef34847
+**Report filed:** Nov 11 2025
+**Report ID:** INC-2026-6240
+
+---
+END OF INCIDENT REPORT

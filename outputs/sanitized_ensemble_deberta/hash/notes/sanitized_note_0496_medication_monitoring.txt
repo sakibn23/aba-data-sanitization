@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** a4187910
+**Date of Birth:** 9351ff71
+**Session Date:** 766623b9
+**Location:** 88 Geiger ICF
+**Monitoring Staff:** e9796892
+**Consulting 41e96c33:** cad62dda
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by cbff34e3
+Last appointment: cbcd9c86
+Next appointment: cab0aaf5
+
+**ROUTINE MEDICATIONS:**
+1. Clonidine HCL 0.3mg - PO daily at 8:00 PM
+   Indication: Agitation
+   Start date: 71218c03
+   
+2. Fluoxetine 20mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: ad061459
+   
+3. Clonazepam 0.5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: ffe28fc5
+
+**RECENT CHANGE:**
+ad12dbb7: 
+Fluoxetine 20mg dosage increased
+Ordered by: cbff34e3
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. Lily readily engaged in 
+morning routine with 86% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. Lily completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. Lily worked for 25-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ 1b7037d5 changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for headache complaint
+Administered by: cad62dda
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 98.2°F
+Pulse: 83 bpm
+Respirations: 17 per minute
+Recorded by: cad62dda
+
+**PARENT CONSULTATION:**
+37de6837 contacted at 315.424.9012.
+
+3a786953 observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor sleep quality for next 30 days
+- Report findings to cbff34e3 at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: b824d0ec
+Prescriber appointment: 8b3ed082
+
+**Documented by:** e9796892
+**Reviewed by:** cad62dda
+**Date:** 766623b9
+
+---
+END OF SESSION NOTE

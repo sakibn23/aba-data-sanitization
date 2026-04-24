@@ -1,0 +1,63 @@
+# UCP sess NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** Cruz, Daniel
+**Incident Date:** 10-28-25
+**Incident Time:** 10:45 AM
+**Location:** 92 Geiger ICF
+**Staff Present:** 5754b208
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+7297db81 was engaged in art activtiy at 92 Geiger ICF when peer 
+requested to share art materials.
+
+**BEHAVIOR DESCRIPTION:**
+7297db81 exhibited Minor non-compliance characterized by:
+- Loud vcoal tone stating "No, mine!"
+- Crossing arms and turning away
+- Refusing to make eye contact with staff
+- Duration: 2 min
+- Intensity: Mild (Level 1 on BSP scale)
+
+**INTERVENTION APPLIED:**
+Staff 5754b208 implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between sharing materials or selecting different activity
+
+7297db81 responded to choice offering intervention and returned to bsaeline within 
+4 minutes.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 mniutes per bx Support Plan, followed by 
+praise for appropriate choice-making.
+
+**POST-INCIDENT:**
+Daniel participated in cooperative art activity w/ appropriate sharing behaviors 
+observed. No further incidents during remainder of session.
+
+**FUNCTIONAL COMMUNICATION:**
+7297db81 was able to verbally request "my turn please" following de-escalation, 
+demonstrating understanding of replacement bx.
+
+**PARENT NOTIFICATION:**
+Phone contact w/ 94985f04 at c3cd99ee. 
+Parent reported simliar sharing difficulties at home with sibling. Discussed consistency in 
+intv approach arcoss settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by 5754b208
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** e719138d at 92 Geiger ICF
+**Provider check-in:** a7e9ba96 on c3b3532f
+
+**Report filed by:** 5754b208
+**Filed:** 10-28-25
+
+---
+END OF SESSION NOTE

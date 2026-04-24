@@ -1,0 +1,74 @@
+# UCP sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** fb96b7d1
+**Session Date:** 1c575020
+**Primary Location:** Syracuse TEC
+**Staff:** e7afa3f0, 03abe3d2
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 9468d9eb at WellNow Urgent Care 825 845c3395, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: WellNow Urgent Care, 825 845c3395, 2fb59fa3, NY 13202
+Clinic phone: ddd01a6d
+Provider: 9468d9eb
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: e7afa3f0, 03abe3d2
+
+**PARENT COORDINATION:**
+4032a708 met at clinic.
+Contact number: 5b4033c8
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonal allergies
+Onset: Apr 18 2026
+
+**APPOINTMENT OUTCOME:**
+Per 9468d9eb:
+- Diagnosis: Otitis Externa
+- Treatment: Fluticasone nasal spray
+- Medciation changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone naasl spray - Take tiwce daily × 10 days
+Prescribing provider: 9468d9eb
+Pharmacy: Kinney Drugs, 873b38d5
+
+**POST-APPOINTMENT SESSION:**
+807c9fb7 returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse cbff34e3 notifeid to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+4032a708 contacted at d7b8792d to discuss:
+- Appointment outcome and diagnosis
+- Medication adminisrtation schedule
+- Home observation for symptmo improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication sied effects
+- Modfiied schedule for medical appointment days - reduce academic demands
+- Paretn communication log for symptom tracking
+
+**Documented by:** e7afa3f0, 03abe3d2
+**Medical liaison:** cbff34e3
+**Date:** 1c575020
+
+---
+END OF SESSION NOTE

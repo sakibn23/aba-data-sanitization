@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Gutierrez, ee2942b0
+**Session Date:** Nov 5 2025
+**Settings:** 100 Geiger ICF, Syracuse TEC, 959 347e7ba1, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 59bbf5c4
+**Home Visit Staff:** d726c757, 4cf85d54
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Aiden demonstrated skill maintenance across multiple settings during coordinated session on 5fcd1dc9.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion social comm
+Performance: 87% indep completion across all tasks
+Staff observer: 59bbf5c4
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 86% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 959 Elm Street, 2fb59fa3, 124e0b72 13204
+Parent participants: Lisa Gutierrez
+Home phone: (5f13802a
+Skills assessed: Home routines, family interactions, leisuer skills
+Performance: 70% indep completion in home environment
+
+**PARENT REPORT:**
+2773c306 reported ee2942b0 has been completing 
+morning routine indep. at home 6 days per week.
+
+**Parent trainnig provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for hoem implementation
+
+**CONSISTENCY ANALYSIS:**
+Aiden maintaiend 86% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- f1f64746, 9eecfb3c (Occupational Therapy) - contact: a03ccc6b
+- Dr. King (ST Therapy) - contact: (344c4854
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 5 times per week
+- Schedule tri-setting observation on 6-12-26
+
+**Documentation:** Levi Ruiz
+**Date:** Nov 5 2025
+
+---
+END OF sess NOTE

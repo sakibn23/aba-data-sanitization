@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** 28f577c2
+**Date of Birth:** afd31407
+**Session Date:** 86ae21a5
+**Location:** 88 Geiger ICF
+**Staff:** 0e27b173
+**Medicaid ID:** 01a54594
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 88 Geiger ICF from 3:00 PM to 5:00 PM. 
+bb866952 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 86% independent completion
+2. Functional communication practice: 66% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 60% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 72%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current 18c4964e was followed throughout session. bb866952 responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- d2089be6 economy system (earned 19 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+0b64875d contacted at aa2788d4 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Sofia takes Sertraline 50mg daily per prescription from 9ac830f1. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for e719138d at 88 Geiger ICF.
+
+**Authored by:** 0e27b173
+**Date:** 86ae21a5
+
+---
+END OF SESSION NOTE

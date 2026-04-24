@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Cruz, Mason
+**sess Date:** 10-24-25
+**Primary Location:** Baldwinsville TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard ssesion time modified to acocmmodate appointment with [PERSON] at Community Health Center, 432 South Salina Street, [ADDRESS], NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, 432 South Salina Street, [ADDRESS], NY 13202
+Clinic phone: ([PHONE]
+Provider: [PERSON]
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: ([PHONE]
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: A************6
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Contact Dermatitis
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - 4 drops ecah ear 4x daily × 7 days
+Prescribing provider: [PERSON]
+Pharmacy: Kinney Drugs, ([PHONE]
+
+**POST-APPOINTMENT sess:**
+Mason returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task deamnds placed due to medical visit stress
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse [PERSON], NP notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at ([PHONE] to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appiontment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON], NP
+**Date:** 1********5
+
+---
+END OF SSESION NOTE

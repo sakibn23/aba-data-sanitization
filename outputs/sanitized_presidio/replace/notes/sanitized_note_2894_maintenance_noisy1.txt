@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** [PERSON]
+**Session Date:** October 15, 2025
+**Settings:** 96 Geiger ICF, Liverpool TEC, 987 [ADDRESS], [ADDRESS], [ADDRESS] 13204
+**Lead Staff:** [PERSON]
+**Home Visit Staff:** [PERSON], [CREDENTIAL]
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+[PERSON] demonstrated skill maintenance across multiple settings during coordinated sess on [DATE].
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines task completion social communication
+Performance: 91% indpeendent completion across all tasks
+Staff observer: [PERSON]
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction following multi-step directions
+Performance: 84% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 987 Elm Street, [ADDRESS], [ADDRESS] 13204
+Parent participants: [PERSON]
+Home phone: ([PHONE]
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 70% independent completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reported [PERSON] has been completing 
+morning routine independently at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+[PERSON] maintained 82% consistency across settings for target skills. 
+Variability noted in task initiation between 96 Geiger ICF and hmoe setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- Aria Adams, [CREDENTIAL] (Occupational Therapy) - contact: [PHONE]
+- [PERSON] (ST Therapy) - contact: ([PHONE]
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on [DATE]
+
+**Documentation:** [PERSON]
+**Date:** 10-15-25
+
+---
+END OF sess NOTE

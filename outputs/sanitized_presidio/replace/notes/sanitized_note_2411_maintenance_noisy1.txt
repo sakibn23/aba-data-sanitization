@@ -1,0 +1,58 @@
+# UCP sess NOTE - GENERALIZATION SESSION
+
+**Client:** [PERSON]
+**Session Date:** October 27, 2025
+**Settings:** 95 Geiger ICF, Syracuse TEC 296 Elm Street, [ADDRESS], [ADDRESS] 13204
+**Lead Staff:** [PERSON]
+**Home Visit Staff:** [PERSON], [ADDRESS]
+
+---
+
+## MAINTENANCE AND GENERALZIATION asmt
+
+[PERSON] demonstrated skill maintenance across multiple settings during coordinated session on [DATE].
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% indep completion across all tasks
+Staff observer: [PERSON]
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 83% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual scehdule support
+
+**HOME VISIT:** 296 Elm Street, [ADDRESS], [ADDRESS] 13204
+Parent participants: [PERSON]
+Home phone: [PHONE]
+Skills assessed: Home routines, family interactions leisure skills
+Performance: 74% independent completion in home environment
+
+**PARENT REPORT:**
+[PERSON] reported [PERSON] has been completing 
+morning routine indep. at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcemnet strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Elijah maintained 78% consistency arcoss settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared w/:
+- Mason Patterson, NP (OT Therapy) - contact: ([PHONE]
+- [PERSON] (ST Therapy) - contact: ([PHONE]
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 4 times per week
+- Schedule tri-setting observation on [DATE]
+
+**Documentation:** [PERSON]
+**Date:** [DATE]
+
+---
+END OF sess NOTE

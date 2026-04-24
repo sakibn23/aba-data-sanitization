@@ -1,0 +1,48 @@
+# [PERSON] sess NOTE - SKILL ACQUISITION
+
+**Client:** [PERSON]
+**Date of Birth:** [DATE]
+**sess Date:** [DATE]
+**Program:** Cicero TEC
+**Time:** 9:00 AM - 10:30 AM
+**[CREDENTIAL]:** [PERSON]
+
+---
+
+## SKILL ACUQISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+[PERSON] participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Cicero TEC. Session began at 9:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 80% accuracy across 15 trials
+- Trial block 2: 84% accuracy across 15 trials  
+- Trial block 3: 93% accuracy across 15 trials
+- Overall session accuracy: 86%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting, progressing to verbal prompting only by session end. 
+[PERSON] demonstrated improvement in response latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+[PERSON] practiced food service skills during lunch preparation. Staff [PERSON], NP superviesd and reported successful completion of assigned tasks w/ minimla support.
+
+**PARENT COLLABORATION:**
+Contacted [PERSON] at (315)515-4567 to discuss home practice strategies. 
+Parent reported [PERSON] has been practicing sorting takss at home w/ good success.
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**tx:** [PERSON]
+**Date signed:** [DATE]
+
+---
+END OF SESSION NOTE

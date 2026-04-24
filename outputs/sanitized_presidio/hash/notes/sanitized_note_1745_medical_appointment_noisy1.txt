@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** C. Rogers
+**sess Date:** 86ae21a5
+**Primary Location:** Syracuse TEC
+**Staff:** cdd63d92
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with e41bed61 at Sryacuse Medical Associates 452 South Salina Street, 2fb59fa3, NY 13202.
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, 452 595fd85a, 2fb59fa3, NY 13202
+Clinic phone: ecf622f1
+Provider: e41bed61
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: cdd63d92
+
+**PARENT COORDINATION:**
+954d9034 met at clinic.
+Contact number: (4b6b407b
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 14ab167c
+
+**APPOINTMENT OUTCOME:**
+Per e41bed61:
+- Diagnosis: Otitis Externa
+- tx: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: e41bed61
+Pharmacy: CVS Pharmacy, 2841d19f
+
+**POST-APPOINTMENT SESSION:**
+25eb92ae returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 6cb6e2c8 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+954d9034 contacted at 25a85539 to discuss:
+- Appointment ouctome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication sied effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** cdd63d92
+**Medical liaison:** 6cb6e2c8
+**Date:** 11-3-25
+
+---
+END OF SESSION NOTE

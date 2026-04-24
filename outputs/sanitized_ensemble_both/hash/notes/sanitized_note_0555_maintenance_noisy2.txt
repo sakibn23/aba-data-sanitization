@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 7a8f49ed
+**Session Date:** 6822e66c
+**Settings:** 100 Geiger ICF, Chadwicks TEC, 6e7dd198
+**Lead 681927e3:** 4abebad1
+**Home Visit Staff:** f601e38f
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+f190d2ae demonstrated skill maintenance across multiple stetings during coordinated session on fd8bbe4c.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 89% independent completion across all tasks
+Staff observer: 4abebad1
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 76% accuracy with minimal prompting
+2fe70464 quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 6e7dd198
+5f7953f7 participants: 2e97c48f and 582d1b89
+3a786953 phone: (315) 520-5678
+Skills assessed: Home routines family interactions leisure skills
+Performance: 81% independent completion in home environment
+
+**PARENT REPORT:**
+2e97c48f reported f190d2ae has been completing 
+morning routine independently at hmoe 5 days per week. 582d1b89 noted improvement in comm w/ younger sibling during play activities.
+
+**5f7953f7 training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+f190d2ae maintained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared w/:
+- 29cb7269 (OT Therapy) - contact: 3154429012
+- cef34847 (Speech Therapy) - contact: 3154524567
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on 365b75a8
+
+**Documentation:** 4abebad1
+**Date:** 766623b9
+
+---
+END OF SESSION NOTE

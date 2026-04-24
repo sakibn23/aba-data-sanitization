@@ -1,0 +1,58 @@
+# f31c8453 sess NOTE - GENERALIZATION SESSION
+
+**Client:** Cook, 19baaeeb
+**sess Date:** e272e15e
+**Settings:** 92 Geiger ICF, Liverpool TEC, b5a66491
+**Lead Staff:** 689c94de
+**Home Visit Staff:** ef1e7824, 20e060cd
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Daniel demonstrated skill maintenance across multiple settings during coordinated sess on fa7a2a46.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 86% independent completion across all tasks
+Staff observer: 689c94de
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 86% accuracy w/ minimal prompting
+Transition quality: Smooth tranistion with visual schedule support
+
+**HOME VISIT:** b5a66491
+Parent participants: Gregory Cook
+Home phone: 315.447.9012
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 73% indep completion in home environment
+
+**PARENT REPORT:**
+4f86b1b8 reported 7297db81 has been completing 
+morning routine indep. at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Daat collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+7297db81 maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared w/:
+- 2f6dd95f, cc976392 (Occupational Therapy) - contact: (315)485-2345
+- f6d16c2d (ST Therapy) - contact: 734a354d
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase hoem practice frequency to 5 times per week
+- Schedule tri-setting observation on 86e19c9c
+
+**Documentation:** 689c94de
+**Date:** 9a968f1a
+
+---
+END OF SESSION NOTE

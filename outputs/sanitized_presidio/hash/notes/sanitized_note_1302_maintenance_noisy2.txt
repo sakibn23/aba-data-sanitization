@@ -1,0 +1,58 @@
+# UCP sess 98ea6400 - GENERALIZATION SESSION
+
+**Client:** Grace Morris S.
+**Session Date:** d11c34b3
+**Settings:** 88 Geiger ICF Liverpool TEC, 830 4249a5b8, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** c04a3880, c4b37c5f
+**Home Visit Staff:** cccb9a02, 03abe3d2
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Grace demonstrated skill maintenance across multiple settigns durnig coordinated sess on a75dc571.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: Luke Rodriguez c4b37c5f
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 88% acucracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 830 Main Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 419c2b0c
+Home phone: 730df50f
+Skills assessed: Home routines, family interactions, leisrue skills
+Performance: 70% independent completion in home environment
+
+**PARENT REPORT:**
+419c2b0c reported Grace has been completing 
+morning routine indep. at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementtaion at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Grace maintained 85% consistency across settings for target skills. 
+Variability noted in tsak initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- 7969dac0 (OT Therapy) - contact: 6cb21ba5
+- 09de50b8 (ST Therapy) - contact: 6e8454b8
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 4 times per week
+- Schedule tri-setting observation on cb18e975
+
+**Documentation:** c04a3880, c4b37c5f
+**Date:** a75dc571
+
+---
+END OF SESSION NOTE

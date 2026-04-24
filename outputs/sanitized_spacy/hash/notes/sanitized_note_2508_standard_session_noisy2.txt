@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** Ella Peterson J.
+**Date of Birth:** 44ae1ea8
+**Session Date:** 187f3c2a
+**Location:** 95 Geiger ICF
+**Staff:** Riley Reed
+**Medicaid ID:** fac96f7f
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 95 Geiger ICF from 9:00 AM to 10:30 AM. 
+Ella engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 88% independent completion
+2. Functional communication practice: 71% accuracy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Academic tasks: 58% completion rate
+5. Leisuer skills: High engagement, appropriate dur
+
+Overall completion rate: 80%
+
+**bx SPUPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. Ella responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 17 tokens toward preferred activity)
+- Functional comm training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning frmo self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+9462bf75 contacted at 315.456.3456 re: 
+upcoming prorgam meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Ella takes Risperidone 1mg daily per prescription from add71293, c6a7b417. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for e719138d at 95 Geiger ICF.
+
+**Authored by:** Riley Reed
+**Date:** 187f3c2a
+
+---
+END OF sess NOTE

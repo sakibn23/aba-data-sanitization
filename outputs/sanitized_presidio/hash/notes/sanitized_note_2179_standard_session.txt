@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** a5e0c8c7
+**Date of Birth:** 3b3f7837
+**Session Date:** bfe20d3a
+**Location:** 100 Geiger ICF
+**Staff:** 87e77b45
+**Medicaid ID:** 4cbbf63b
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 100 Geiger ICF from 9:00 AM to 10:30 AM. 
+Lily engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 80% independent completion
+2. Functional communication practice: 81% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 65% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 79%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Lily responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 20 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+b0b5b840 contacted at (d66c6337 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Lily takes Sertraline 50mg daily per prescription from 9ac830f1. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for b0e7dc87 at 100 Geiger ICF.
+
+**Authored by:** 87e77b45
+**Date:** bfe20d3a
+
+---
+END OF SESSION NOTE

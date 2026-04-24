@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** d48c3a7a
+**Date of Birth:** c8915cef
+**Session Date:** 1ce0482a
+**Location:** 96 Geiger ICF
+**Staff:** Levi Kelly
+**Medicaid ID:** 19d88258
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 96 Geiger ICF from 2:00 PM to 3:30 PM. 
+41509508 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 87% independent completion
+2. Functional communication practice: 79% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 59% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 70%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. 41509508 responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 22 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+9ff80a07 contacted at 2ffba79b regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+41509508 takes Clonidine 0.3mg daily per prescription from 441920a0. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 96 Geiger ICF.
+
+**Authored by:** Levi Kelly
+**Date:** 1ce0482a
+
+---
+END OF SESSION NOTE

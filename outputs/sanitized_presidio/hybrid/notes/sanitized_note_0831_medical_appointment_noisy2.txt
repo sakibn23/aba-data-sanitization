@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**sess Date:** Nov 4 2025
+**Primary Location:** Liverpool TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ [PERSON] at Syracuse Medical Associates, 632 Erie Street, [ADDRESS], NY 13202.
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, 632 Erie Street, [ADDRESS], NY 13202
+Clinic phone: [PHONE]
+Provider: [PERSON]
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: [PHONE]
+
+**MEDICAL COCNERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: A************6
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Allergic Rhinitis
+- tx: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: [PERSON]
+Pharmacy: [ADDRESS], [PHONE]
+
+**POST-APPOINTMENT SESSION:**
+[PERSON] returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse [PERSON] notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+[PERSON] contacted at [PHONE] to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified shcedule for medical appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON]
+**Date:** 11-4-25
+
+---
+END OF SESSION NOTE

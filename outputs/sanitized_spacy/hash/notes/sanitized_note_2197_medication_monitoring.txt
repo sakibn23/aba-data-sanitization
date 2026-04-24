@@ -1,0 +1,95 @@
+# UCP SESSION NOTE - MEDICATION MONITORING
+
+**Client:** Brown, 2d2c5f7b
+**Date of Birth:** adb3d61e
+**Session Date:** 8d9399ca
+**Location:** 95 Geiger ICF
+**Monitoring Staff:** 0b4d533b, 2b750216
+**Consulting Nurse:** f6d16c2d
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by ed39809a
+Last appointment: 8b63db42
+Next appointment: 1fa41af6
+
+**ROUTINE MEDICATIONS:**
+1. Clonidine HCL 0.3mg - PO daily at 8:00 PM
+   Indication: Sleep disturbance, anxiety
+   Start date: dc981917
+   
+2. Escitalopram 10mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 166c9051
+   
+3. Clonazepam 0.5mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: 2670669b
+
+**RECENT CHANGE:**
+e2d646bf: 
+Escitalopram 10mg dosage increased
+Ordered by: ed39809a
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. 907814bb readily engaged in 
+morning routine with 86% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. 907814bb completed tasks with 
+minimal prompting. Appetite: Normal, consumed full lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. 907814bb worked for 23-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable, appropriate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+10:30 AM: Ibuprofen 200mg administered for headache complaint
+Administered by: f6d16c2d
+Response: Symptoms resolved within 45 minutes
+
+**VITAL SIGNS:**
+Time: 10:25 AM
+Temperature: 98.6°F
+Pulse: 83 bpm
+Respirations: 18 per minute
+Recorded by: f6d16c2d
+
+**PARENT CONSULTATION:**
+728a6e9c contacted at (315)466-3456.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning behavior: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to ed39809a at next appointment
+- Parent daily monitoring log for sleep onset time and morning mood
+
+**FOLLOW-UP:**
+Medication review: 2acdc6fe
+Prescriber appointment: 4aeb34e6
+
+**Documented by:** 0b4d533b, 2b750216
+**Reviewed by:** f6d16c2d
+**Date:** 8d9399ca
+
+---
+END OF SESSION NOTE

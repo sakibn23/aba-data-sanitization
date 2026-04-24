@@ -1,0 +1,63 @@
+# f31c8453 sess NOTE - MILD CHALLENGING BEHAVIOR
+
+**Client:** bde03643
+**Incident Date:** e272e15e
+**Incident Time:** 11:20 AM
+**Location:** 96 Geiger ICF
+**Staff Present:** ec35b94c, c4b37c5f
+
+---
+
+## MILD CHALLENGING BEHAVIOR - SUCCESSFULLY REDIRECTED
+
+**ANTECEDENT:**
+f089eaef was engaged in art activity at 96 Geiger ICF when peer 
+requested to share art materials.
+
+**bx DESCRIPTION:**
+f089eaef exhibited Minor non-compliance characterized by:
+- Loud vocal tone stating "No mine!"
+- Crossing arms and turning away
+- Refusing to make eye cnotact w/ staff
+- Duration: 3 minutes
+- Intensity: Mild (Level 1 on BSP scale)
+
+**intv APPLIED:**
+Staff ec35b94c, c4b37c5f implemented:
+1. Pause and proximity
+2. Visual first-then board presentation
+3. Choice offering between shairng materials or selecting different activity
+
+f089eaef responded to choice offering intervention and rteurned to baseline within 
+5 min.
+
+**CONSEQUENCE:**
+Brief access to preferred activity delayed by 2 minutes per Behavior Support Plan, followed by 
+praise for appropriate choice-making
+
+**POST-INCIDENT:**
+f089eaef participated in cooperative art activity with appropriate sharing behaviors 
+observed. No further incidents during reaminder of sess.
+
+**FUNCTIONAL comm:**
+f089eaef was able to verbally request "my turn please" f/u de-escalation, 
+demonstrating understanding of replacement bx.
+
+**PARENT NOTIFICATION:**
+Phone contact with ceabdb37 at 315.519.9012. 
+Parent reported similar sharing difficulties at home w/ sibling. Discussed consistency in 
+intervention approach arcoss settings.
+
+**FOLLOW-UP ACTIONS:**
+- Data entered into tracking system by ec35b94c
+- No modifications to current BSP recommended at this time
+- Continue monitoring for pattern development
+
+**Next session:** 6e4399e4 at 96 Geiger ICF
+**Provider check-in:** 3523a155, 771546ad on Apr 29 2026
+
+**Report filed by:** ec35b94c, c4b37c5f
+**Filed:** fa7a2a46
+
+---
+END OF SESSION NOTE

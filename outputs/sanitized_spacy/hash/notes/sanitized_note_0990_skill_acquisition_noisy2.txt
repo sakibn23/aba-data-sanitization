@@ -1,0 +1,48 @@
+# f31c8453 sess NOTE - SKILL ACQUISITION
+
+**Client:** Scott, edd29161
+**Date of Birth:** Jan 25 2011
+**Session Date:** b3c2ad6d
+**Program:** Chadwicks TEC
+**Time:** 9:00 AM - 10:00 AM
+**83aedc6d:** 81f28ba3
+
+---
+
+## SKILL ACQUISITION SESSION
+
+**Target Skill:** Multi-step voctaional task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+edd29161 participated in 45 discrete trial training sessions focusnig on lunch service 
+preparation sklils at Chadwicks TEC. Session began at 9:00 AM with 
+hand washing and apron donning
+
+**TRIAL DATA:**
+- Trial block 1: 80% accuracy across 15 trials
+- Trial block 2: 90% accuracy across 15 trials  
+- Trial block 3: 95% accuracy across 15 trials
+- Overall session accuracy: 85%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting, progressing to verbal prompting only by session end. 
+edd29161 demonstrated improvement in response latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+edd29161 practiced food service skills during lunch preparation. Staff daf63a3c, 8322fec4 supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted dd4c123d at (315)452-4567 to discuss home practice strategies. 
+Parent reported edd29161 has been practicing sorting tasks at home with good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce promptnig to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** 81f28ba3
+**Date signed:** b3c2ad6d
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,74 @@
+# UCP sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** c81bfa6f
+**Session Date:** 9a968f1a
+**Primary Location:** Liverpool TEC
+**Staff:** f8b622c7
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ ed39809a at Syracuse Medical Associates, 561 845c3395, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbrevitaed session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, 561 845c3395, 2fb59fa3, NY 13202
+Clinic phone: 2b4a55b6
+Provider: ed39809a
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: f8b622c7
+
+**PARENT COORDINATION:**
+c81bfa6f met at clinic.
+Contact number: 3295c95c
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 523af8a3
+
+**APPOINTMENT OUTCOME:**
+Per ed39809a:
+- Diagnosis: Contact Dermatitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxciillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Dr. Allen
+Pharmacy: 8fa7bec5, 878c40d6
+
+**POST-APPOINTMENT SESSION:**
+7297db81 returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 6d7fc0cc, 8322fec4 notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+c81bfa6f contacted at 3295c95c to discuss:
+- Appointmetn outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent cmom log for symptom tracking
+
+**Documented by:** f8b622c7
+**Medical liaison:** e5b8e8c8.D.
+**Date:** 9a968f1a
+
+---
+END OF SESSION NOTE

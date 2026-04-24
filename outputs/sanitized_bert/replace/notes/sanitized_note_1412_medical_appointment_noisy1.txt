@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**Session Date:** [DATE]
+**Primary Location:** Liverpool TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with Carter Morris, [CREDENTIAL] at Community Health Center, [ADDRESS].
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Community Health Center, [ADDRESS]
+Clinic phone: (315)508-1234
+Provider: Carter Morris, [CREDENTIAL]
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] [PERSON] met at clinic.
+Contact number: 315.474.3456
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: [DATE]
+
+**APPOINTMENT OUTCOME:**
+Per Carter Morris, [CREDENTIAL]:
+- Diagnosis: Otitis Externa
+- Treatment: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: Carter Morris, [CREDENTIAL]
+Pharmacy: CVS Pharmacy, [PHONE]
+
+**POST-APPOINTMENT sess:**
+[PERSON] returned to Liverpolo TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Miinmal task demands placed due to medical visit stress
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Mia Scanlon, [CREDENTIAL] notifide to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+[PERSON] [PERSON] contacted at 315.474.3456 to discuss:
+- Appointment outcome and diagnosis
+- Medicatino administration schedule
+- Home observation for sympotm improvement
+- Next appointmetn (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified scheudle for medical appointment days - reduce academic demands
+- Parent cmom log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** Mia Scanlon, [CREDENTIAL]
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

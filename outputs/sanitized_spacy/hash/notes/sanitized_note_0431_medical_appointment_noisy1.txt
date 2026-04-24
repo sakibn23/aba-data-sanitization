@@ -1,0 +1,74 @@
+# UCP SESSION NTOE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Lucas Parker C.
+**Session Date:** Oct 19 2025
+**Primary Location:** Syracuse TEC
+**Staff:** cefbb08c
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with 4d0f8e52 at WellNow Urgent Care, eef68178.
+
+Modified sess: Morning abbreviated session and atfernoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care eef68178
+Clinic phone: (315) 475-2345
+Provider: 4d0f8e52
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: cefbb08c
+
+**PARENT COORDINATION:**
+2a5ef068 met at clinic.
+Contact number: (315) 487-9012
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Seasonla allergies
+Onset: 65a7f8c6
+
+**APPOINTMENT OUTCOME:**
+Per 4d0f8e52:
+- Diagnosis: Upper Respiratory Infection
+- tx: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - 4 drops each ear 4x daily × 7 days
+Prescribing provider: 4d0f8e52
+Pharmacy: CVS Pharmacy, 315.445.7890
+
+**POST-APPOINTMENT sess:**
+52d7d860 returned to Syracuse TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate comm of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Grace Gifford, MS, c4b37c5f notified to add new medication to 
+medication administration record
+
+**PARENT comm:**
+2a5ef068 contacted at (315) 487-9012 to discuss:
+- Appointment outcome and diagnosis
+- Medication adminsitration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** Aria Flores
+**Medical liaison:** 7a22ac44, MS, c4b37c5f
+**Date:** 49e9b98b
+
+---
+END OF SESSION NOTE

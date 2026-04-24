@@ -1,0 +1,160 @@
+cd R:\Academic\Shakib\Capstone_PHI_Sanitaization\aba-data-sanitization
+
+# ── Generate Notes ────────────────────────────────────────────────────────────
+python scripts/generate_synthetic_notes.py
+python scripts/generate_synthetic_notes.py --count 1000 --noise-variants 2
+python scripts/generate_synthetic_notes.py --count 1000 --noise-variants 2 --llm-rewrite
+
+# ── Dataset Quality Check ─────────────────────────────────────────────────────
+python scripts/evaluate_dataset_quality.py
+
+# ── Train NER Models ──────────────────────────────────────────────────────────
+python scripts/train_ner.py --model deberta --epochs 8
+python scripts/train_ner.py --model bert
+
+
+# ==============================================================================
+# DEBERTA  (300 test notes — held-out from training)
+# ==============================================================================
+
+# PHI Detection
+python scripts/run_phi_detection.py --detector deberta --test-ids data/annotated/test_ids.json --output outputs/detected_entities_deberta.json
+
+# Evaluation
+python scripts/run_evaluation_fixed.py --detected outputs/detected_entities_deberta.json --test-ids data/annotated/test_ids.json --output outputs/evaluation_results_fixed_deberta.json
+
+# Sanitization
+python scripts/run_sanitization_complete.py --detected outputs/detected_entities_deberta.json --output-dir outputs/sanitized_deberta
+
+# ML
+python scripts/ml_pipeline.py --compare --sanitized-dir outputs/sanitized_deberta --output outputs/ml/utility_deberta.json
+python scripts/run_ml_comparison.py --sanitized-dir outputs/sanitized_deberta --output outputs/ml/comparison_deberta.json
+
+# Privacy Metrics
+python scripts/run_privacy_metrics.py --detected outputs/detected_entities_deberta.json --sanitized-dir outputs/sanitized_deberta --output outputs/privacy_metrics_deberta.json
+
+
+# ==============================================================================
+# BERT  (300 test notes — held-out from training)
+# ==============================================================================
+
+# PHI Detection
+python scripts/run_phi_detection.py --detector bert --test-ids data/annotated/test_ids.json --output outputs/detected_entities_bert.json
+
+# Evaluation
+python scripts/run_evaluation_fixed.py --detected outputs/detected_entities_bert.json --test-ids data/annotated/test_ids.json --output outputs/evaluation_results_fixed_bert.json
+
+# Sanitization
+python scripts/run_sanitization_complete.py --detected outputs/detected_entities_bert.json --output-dir outputs/sanitized_bert
+
+# ML
+python scripts/ml_pipeline.py --compare --sanitized-dir outputs/sanitized_bert --output outputs/ml/utility_bert.json
+python scripts/run_ml_comparison.py --sanitized-dir outputs/sanitized_bert --output outputs/ml/comparison_bert.json
+
+# Privacy Metrics
+python scripts/run_privacy_metrics.py --detected outputs/detected_entities_bert.json --sanitized-dir outputs/sanitized_bert --output outputs/privacy_metrics_bert.json
+
+
+# ==============================================================================
+# SPACY + REGEX  (all 3000 notes — no training, no leakage concern)
+# ==============================================================================
+
+# PHI Detection
+python scripts/run_phi_detection.py --detector spacy_regex --output outputs/detected_entities_spacy_all.json
+
+# Evaluation
+python scripts/run_evaluation_fixed.py --detected outputs/detected_entities_spacy_all.json --output outputs/evaluation_results_spacy.json
+
+# Sanitization
+python scripts/run_sanitization_complete.py --detected outputs/detected_entities_spacy_all.json --output-dir outputs/sanitized_spacy
+
+# ML
+python scripts/ml_pipeline.py --compare --sanitized-dir outputs/sanitized_spacy --output outputs/ml/utility_spacy.json
+python scripts/run_ml_comparison.py --sanitized-dir outputs/sanitized_spacy --output outputs/ml/comparison_spacy.json
+
+# Privacy Metrics
+python scripts/run_privacy_metrics.py --detected outputs/detected_entities_spacy_all.json --sanitized-dir outputs/sanitized_spacy --output outputs/privacy_metrics_spacy.json
+
+
+# ==============================================================================
+# PRESIDIO  (all 3000 notes — no training, no leakage concern)
+# ==============================================================================
+
+# PHI Detection
+python scripts/run_phi_detection.py --detector presidio --output outputs/detected_entities_presidio_all.json
+
+# Evaluation
+python scripts/run_evaluation_fixed.py --detected outputs/detected_entities_presidio_all.json --output outputs/evaluation_results_presidio.json
+
+# Sanitization
+python scripts/run_sanitization_complete.py --detected outputs/detected_entities_presidio_all.json --output-dir outputs/sanitized_presidio
+
+# ML
+python scripts/ml_pipeline.py --compare --sanitized-dir outputs/sanitized_presidio --output outputs/ml/utility_presidio.json
+python scripts/run_ml_comparison.py --sanitized-dir outputs/sanitized_presidio --output outputs/ml/comparison_presidio.json
+
+# Privacy Metrics
+python scripts/run_privacy_metrics.py --detected outputs/detected_entities_presidio_all.json --sanitized-dir outputs/sanitized_presidio --output outputs/privacy_metrics_presidio.json
+
+
+# ==============================================================================
+# ENSEMBLE — BERT backend  (300 test notes)
+# ==============================================================================
+
+# PHI Detection
+python scripts/run_phi_detection.py --detector ensemble --ensemble-model bert --test-ids data/annotated/test_ids.json --output outputs/detected_entities_ensemble_bert.json
+
+# Evaluation
+python scripts/run_evaluation_fixed.py --detected outputs/detected_entities_ensemble_bert.json --test-ids data/annotated/test_ids.json --output outputs/evaluation_results_ensemble_bert.json
+
+# Sanitization
+python scripts/run_sanitization_complete.py --detected outputs/detected_entities_ensemble_bert.json --output-dir outputs/sanitized_ensemble_bert
+
+# ML
+python scripts/ml_pipeline.py --compare --sanitized-dir outputs/sanitized_ensemble_bert --output outputs/ml/utility_ensemble_bert.json
+python scripts/run_ml_comparison.py --sanitized-dir outputs/sanitized_ensemble_bert --output outputs/ml/comparison_ensemble_bert.json
+
+# Privacy Metrics
+python scripts/run_privacy_metrics.py --detected outputs/detected_entities_ensemble_bert.json --sanitized-dir outputs/sanitized_ensemble_bert --output outputs/privacy_metrics_ensemble_bert.json
+
+
+# ==============================================================================
+# ENSEMBLE — DEBERTA backend  (300 test notes)
+# ==============================================================================
+
+# PHI Detection
+python scripts/run_phi_detection.py --detector ensemble --ensemble-model deberta --test-ids data/annotated/test_ids.json --output outputs/detected_entities_ensemble_deberta.json
+
+# Evaluation
+python scripts/run_evaluation_fixed.py --detected outputs/detected_entities_ensemble_deberta.json --test-ids data/annotated/test_ids.json --output outputs/evaluation_results_ensemble_deberta.json
+
+# Sanitization
+python scripts/run_sanitization_complete.py --detected outputs/detected_entities_ensemble_deberta.json --output-dir outputs/sanitized_ensemble_deberta
+
+# ML
+python scripts/ml_pipeline.py --compare --sanitized-dir outputs/sanitized_ensemble_deberta --output outputs/ml/utility_ensemble_deberta.json
+python scripts/run_ml_comparison.py --sanitized-dir outputs/sanitized_ensemble_deberta --output outputs/ml/comparison_ensemble_deberta.json
+
+# Privacy Metrics
+python scripts/run_privacy_metrics.py --detected outputs/detected_entities_ensemble_deberta.json --sanitized-dir outputs/sanitized_ensemble_deberta --output outputs/privacy_metrics_ensemble_deberta.json
+
+
+# ==============================================================================
+# ENSEMBLE — BOTH (BERT + DEBERTA)  (300 test notes — maximum recall)
+# ==============================================================================
+
+# PHI Detection
+python scripts/run_phi_detection.py --detector ensemble --ensemble-model both --test-ids data/annotated/test_ids.json --output outputs/detected_entities_ensemble_both.json
+
+# Evaluation
+python scripts/run_evaluation_fixed.py --detected outputs/detected_entities_ensemble_both.json --test-ids data/annotated/test_ids.json --output outputs/evaluation_results_ensemble_both.json
+
+# Sanitization
+python scripts/run_sanitization_complete.py --detected outputs/detected_entities_ensemble_both.json --output-dir outputs/sanitized_ensemble_both
+
+# ML
+python scripts/ml_pipeline.py --compare --sanitized-dir outputs/sanitized_ensemble_both --output outputs/ml/utility_ensemble_both.json
+python scripts/run_ml_comparison.py --sanitized-dir outputs/sanitized_ensemble_both --output outputs/ml/comparison_ensemble_both.json
+
+# Privacy Metrics
+python scripts/run_privacy_metrics.py --detected outputs/detected_entities_ensemble_both.json --sanitized-dir outputs/sanitized_ensemble_both --output outputs/privacy_metrics_ensemble_both.json

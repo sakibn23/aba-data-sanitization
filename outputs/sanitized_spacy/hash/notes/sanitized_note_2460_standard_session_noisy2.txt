@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** 5df358ab
+**Date of Birth:** 9/11/9
+**sess Date:** 030b7f07
+**Location:** 92 83315bfc ICF
+**Staff:** abc938b6
+**Medicaid ID:** dc012e61
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 92 Geiger ICF from 3:00 PM to 4:30 PM. 
+Grace engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 81% indep completion
+2. Funtcional communication practice: 72% accuracy wiht verbal prompting
+3. Self-care routines: Required moderate physicla prompting
+4. Academic tasks: 58% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 79%
+
+**BEHAVIOR SUPPROT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. f2465f78 responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 18 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive intervnetions required.
+
+**PARENT COMMUNICATION:**
+9a83fb89 contacted at 53fabbc7 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+f2465f78 takes Risepridone 1mg dialy per prescription from dfa4d4c7. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for 6a03fd9d at 92 Geiger ICF.
+
+**Authored by:** abc938b6
+**Date:** Oct 6 2025
+
+---
+END OF sess NOTE

@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** J. Stewart
+**Session Date:** 49e9b98b
+**Settings:** 92 Geiger ICF, Syracuse TEC, 959 Maple Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** c7beb25a
+**Home Visit Staff:** 79ec75d0, 03abe3d2
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Jack demonstrated skill maintenance across multiple settings during coordinated session on 49e9b98b.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% independent completion across all tasks
+Staff observer: c7beb25a
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 959 Maple Street, 2fb59fa3, 124e0b72 13204
+Parent participants: dbce6d07 and 7e0c1f2b
+Home phone: (d5f27664
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 79% independent completion in home environment
+
+**PARENT REPORT:**
+dbce6d07 reported b5fd03dd has been completing 
+morning routine independently at home 4 days per week. 7e0c1f2b noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+b5fd03dd maintained 86% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 7969dac0 (Occupational Therapy) - contact: 873b38d5
+- 19102fa1 (Speech Therapy) - contact: 873b38d5
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 25af8e9e
+
+**Documentation:** c7beb25a
+**Date:** 49e9b98b
+
+---
+END OF SESSION NOTE

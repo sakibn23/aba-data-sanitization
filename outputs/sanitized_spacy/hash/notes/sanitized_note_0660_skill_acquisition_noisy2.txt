@@ -1,0 +1,48 @@
+# UCP SESSION NOET - SKILL ACQUISITION
+
+**Client:** 2ae8c461
+**Date of Birth:** 151179d4
+**sess Date:** Oct 17 2025
+**Program:** Syracuse TEC
+**Time:** 2:00 PM - 3:30 PM
+**bx Specialist:** e0c1f9fb
+
+---
+
+## SKILL ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+baa31bcd participated in 45 discrete trial training sessions focusign on lunch service 
+preparation skills at Syracuse TEC. Session began at 2:00 PM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 80% accuracy across 15 trials
+- Trial block 2: 82% accuracy across 15 trials  
+- Trial block 3: 86% accuracy across 15 trials
+- Overall session accuracy: 89%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting, progressing to verbal prompting only by session end. 
+baa31bcd demonstrated improvement in resposne latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+baa31bcd practiced food service skills during lunch preparation. Satff 739ec522, 771546ad supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted b7dfac4b at (315)465-9012 to discuss home practice strategies. 
+Parent reported baa31bcd has been practicing sorting tasks at home with good success.
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**tx:** e0c1f9fb
+**Date signed:** dfe3cb49
+
+---
+END OF SESSION NOTE

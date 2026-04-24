@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Harper Reyes
+**Session Date:** f36341a3
+**Settings:** 95 Geiger ICF, Cicero TEC, 723 Cherry Creek, Syracuse, NY 13210
+**Lead Staff:** Amelia 266a7b5e, 3d8c8358
+**Home Visit Staff:** e965e39c, 798ff150
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Harper demonstrated skill maintenance across multiple settings during coordinated session on f36341a3.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 88% independent completion across all tasks
+Staff observer: eb55d410, 3d8c8358
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 723 Cherry Creek, Syracuse, NY 13210
+Parent participants: Patricia Reyes
+Home phone: 315.469.3456
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 81% independent completion in home environment
+
+**PARENT REPORT:**
+92d1610a reported 296b6366 has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+296b6366 maintained 83% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Long (Occupational Therapy) - contact: 37862856
+- Dr. Wood (Speech Therapy) - contact: 1a6a4c4f
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 716eb55c
+
+**Documentation:** Amelia 266a7b5e, 3d8c8358
+**Date:** f36341a3
+
+---
+END OF SESSION NOTE

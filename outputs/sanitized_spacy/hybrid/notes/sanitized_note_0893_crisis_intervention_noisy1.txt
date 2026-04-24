@@ -1,0 +1,133 @@
+# UCP CRITICAL INCDIENT REPORT
+
+**UPSTATE CARING PARTNERS**
+[ADDRESS]
+Emergency Contact: 3157246907
+
+**CLIENT INFORMATION:**
+Name: [PERSON]
+Date of Birth: F**************7
+[PERSON]: [ADDRESS]
+Emergency Contact 1: Emily Collins - 315.500.1234
+
+**INCIDENT DETAILS:**
+Date: O**************5
+Time of Onset: 9:45 AM
+Location: 88 Geiger ICF, [ADDRESS]
+Incident Category: CRISSI - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: [PERSON]
+Secondary: [PERSON], LMFT
+Tertiary: [PERSON], LCSW
+[PERSON] notified: [PERSON], CASAC
+Medical: Dr. Malpezzi
+
+**DETAILED INCIDENT TIMELINE:**
+
+11:18 AM: PRECIPITATING EVENT
+[PERSON] was engaged in activity when trigger occurred.
+
+2:15 PM: bx ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff [PERSON] implemented verbal de-escalation.
+
+9:48 AM: bx ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff Aria Campbell LMFT joined response
+
+2:21 PM: bx ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Properyt destruction.
+[PERSON], CASAC notified.
+
+11:30 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: [PERSON], [PERSON]
+Reason: Imminent danger to self and others
+
+10:08 AM: DE-ESCALATION PROGRESS
+[PERSON] showing decreased muscle tension, verbal communication restored.
+
+10:15 AM: RESTRAINT RELEASED
+Total restriant dur: 19 min
+[PERSON] moved to queit room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact no skni breakdown
+Assessed by: [PERSON]
+Treatment: Visual inspeciton only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+[PERSON]: Superficial scratch - tx: Cleaned, bandaged
+[PERSON]: Contusion from impact - Treatment: Ice pack applied
+Jackson Evans: No injuries
+
+PROPERTY DAMAGE:
+Folding chair damaged
+Estimated cost: $173
+
+**EMERGENCY CONTACTS MADE:**
+
+11:35 AM: [PERSON] contacted at 315.500.1234
+Reached: Yes, answered immediately
+Notified by: [PERSON], CASAC
+
+**MEDICAL CONSULTATION:**
+[PERSON] assessed. 
+Vital signs: Temp 98.6°F Pulse 90, BP 119/72, Respirations 16
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+[PERSON] contacted.
+Emergency appointment: 4*******6
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical intv
+☑ Multiple staff required (3+)
+☑ Duration > 10 min
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 2:23 PM
+End time: 11:52 AM
+Total duration: 25 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: [PERSON] checked vital signs every 5 min
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: Riley Kim - notified
+☑ Clinical Director: Matthew Lewis - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: [PERSON], CASAC
+Attendees: [PERSON], [PERSON]
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medicaiton Review: [PERSON] emergency appt 4*****6
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compilde by:** [PERSON]
+**Reviewed by:** Matthew Lewis CASAC
+**Medical review:** [PERSON]
+**Report filed:** 1********5
+**Report ID:** INC-2026-4918
+
+---
+END OF INCIDENT REPORT

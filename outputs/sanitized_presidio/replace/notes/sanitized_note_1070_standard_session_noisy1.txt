@@ -1,0 +1,52 @@
+# UCP SESSINO NOTE - STANDARD SESSION
+
+**Client:** [PERSON]
+**Date of Birth:** [DATE]
+**sess Date:** [DATE]
+**Location:** 96 Geiger ICF
+**Staff:** Levi Kelly
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## STANDARD SSESION REPORT
+
+Session conducted at 96 Geiger ICF from 2:00 PM to 3:30 PM. 
+[PERSON] engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 87% indep completion
+2. Functional communication practice: 79% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 59% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 70%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. [PERSON] responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 22 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Rediretced using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at [PHONE] regarding 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+[PERSON] takes Clonidine 0.3mg daily per prescripiton from [PERSON]. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for [DATE] at 96 Geiger ICF.
+
+**Authored by:** Levi Kelly
+**Date:** [DATE]
+
+---
+END OF sess NOTE

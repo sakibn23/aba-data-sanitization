@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** Howard, Emily
+**Date of Birth:** 3038a632
+**sess Date:** Oct 30 2025
+**Location:** 88 Geiger ICF
+**Staff:** 2360bfba
+**Medicaid ID:** 05efd91b
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 88 Geiger ICF from 2:00 PM to 3:30 PM. 
+Emily engaged in 5 scheduled activities w/ mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 86% independent completion
+2. Functional communication practice: 76% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 66% completion rate
+5. Leisure skills: Hihg engagement, appropriate dur
+
+Overall completino rate: 79%
+
+**bx SUPPORT PLNA IMPLEMENTATION:**
+Current BSP was followed throughout sess. Emily responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 19 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refsual when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required
+
+**PARENT COMMUNICATION:**
+6d52c809 contacted at (315) 501-7890 regarding 
+upcoming program meeting. Confimred attenadnce and requested transporttaion info
+
+**MEDICATION OBSERVATION:**
+Emily takes Risperidone 1mg daily per prescription from 385c69e3. 
+No sdie effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for Apr 22 2026 at 88 Geiegr ICF.
+
+**Authored by:** 2360bfba
+**Date:** d1ddd03d
+
+---
+END OF SESSION NOTE

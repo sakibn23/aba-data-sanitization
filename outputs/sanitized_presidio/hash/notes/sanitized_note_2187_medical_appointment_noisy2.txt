@@ -1,0 +1,74 @@
+# UCP sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Cruz, Mason
+**Session Date:** Oct 24 2025
+**Primary Location:** Baldwinsville TEC
+**Staff:** 256469b4
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with f7339b3b at Community Health Center, 432 South Salina Street, 2fb59fa3, NY 13202.
+
+Modified sess: Morning abbrevitaed session and aftrenoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, 432 South Salina Street, 2fb59fa3, NY 13202
+Clinic phone: 5307a4ff
+Provider: f7339b3b
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 256469b4
+
+**PARENT COORDINATION:**
+0f12578d met at clinic
+Contact number: (a0bcaf85
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 22cff74c
+
+**APPOINTMENT OUTCOME:**
+Per f7339b3b:
+- Diagnosis: Contact Dermatitis
+- tx: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - 4 drops eahc ear 4x daily × 7 days
+Prescribing provider: f7339b3b
+Pharmacy: Kinney Drugs, ea4bdf78
+
+**POST-APPOINTMENT sess:**
+Mason returned to Baldwinsville TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse fa2f4d0f, NP notified to add new medication to 
+medication administration record
+
+**PARENT COMMUNICATION:**
+0f12578d contacted at (a0bcaf85 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 256469b4
+**Medical liaison:** fa2f4d0f, NP
+**Date:** 9a968f1a
+
+---
+END OF SESSION NOTE

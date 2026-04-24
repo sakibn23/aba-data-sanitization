@@ -1,0 +1,67 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** ef8c12b8
+**Session Date:** 8d455388
+**Locations Observed:** 96 Geiger ICF, Syracuse TEC, Chadwicks TEC
+**Observing Staff:** ade8b469
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 96 Geiger ICF → Syracuse TEC
+Time: 10:15 AM
+Trigger: Uenxpected staff change (regular drvier unavailable)
+Client Response: cc2356b0 anxiety, verbal questioning, increased pacing
+
+a6b54c20 demonstrated heightened anxiety whne informed of transition from 
+96 Geiger ICF to Syracuse TEC w/ unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff membre instead of usual ade8b469
+
+**TRANSITION 2:** Syracuse TEC → Chadwicks TEC
+Time: 2:15 PM
+Trigger: Schedule modification due to building maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment with c80c5b6f at Syracuse TEC on 
+4a808de3 was 
+rescheduled to fdb44517 
+due to provider illness. a6b54c20 exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+432b132b contacted at (9aa41639 to disucss 
+schedule sensitivity. Parent reported a6b54c20 frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT ASSESSMENT:**
+96 Geiger ICF: Familiar lighting, low noies level, preferred seating available
+Syracuse TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Chadwicks TEC: High activity level, variable noise, open floor plan
+
+Consultation with fe61533b scheduled for May 23, 2026 
+to assess sensroy processing needs and environmental accommodaiton recs.
+
+**RECOMMENDATIONS:**
+- Increase transition warinngs from 5 min to 15 minutes advance notice
+- Environmental modifications at Syracuse TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quiet space for breaks
+- a983cc03 consistency protocol - avoid changes within 48 hours when possible
+- Provider coordination for appointment preparation w/ visual schedule
+
+**FOLLOW-UP:**
+Meeting with 432b132b scheduled 
+0da4a2ca 
+to review environmental sensitivities.
+
+Contact fe61533b at (d5b2248b for sensory consultation.
+
+**Documented by:** ade8b469
+**Date:** 8d455388
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,52 @@
+# [PERSON] sess NOTE - STANDARD SESSION
+
+**Client:** Richardson, Lucas
+**Date of Birth:** [DATE]
+**sess Date:** [DATE]
+**Location:** 92 Geiger ICF
+**Staff:** Zoey Ruiz
+**Medicaid ID:** [MEDICAID_ID]
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 92 Geiger ICF from 3:00 PM to 4:00 PM. 
+Lucas engaged in 5 scheduled activities w/ mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 83% indpeendent completion
+2. Functional communiaction practice: 69% accruacy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Academic tasks: 70% completion rate
+5. Liesure skills: High engagement appropriate duration
+
+Overall completion rate: 79%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Lucas responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 17 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at (315) 444-9012 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+[PERSON] takes Risperidone 1mg daily per prescription from [PERSON], [CREDENTIAL]. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for [DATE] at 92 Geiger ICF.
+
+**Authored by:** Zoey Ruiz
+**Date:** [DATE]
+
+---
+END OF SESSION NOTE

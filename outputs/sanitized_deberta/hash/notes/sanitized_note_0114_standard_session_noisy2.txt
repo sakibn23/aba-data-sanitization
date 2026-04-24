@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** 34e5512c
+**Date of Birth:** a3e724d0
+**sess Date:** 0acebb87
+**Location:** 100 Geiger ICF
+**Staff:** 6da978d0
+**Medicaid ID:** e476af15
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 100 Geiger ICF from 1:00 PM to 2:30 PM. 
+8b49a459 engaged in 5 scheduled activities with mixde performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 88% independent completion
+2. Functional comm practice: 68% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 66% completion rate
+5. Leisure skills: High engagement, appropriate dur
+
+Overall completion rate: 70%
+
+**BEHAVIOR SUPPORT PLNA IMPLEMENTATION:**
+Current 18c4964e was followed throughout sess. Levi responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- d2089be6 economy system (earned 15 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+c4313919 50304664 contacted at (315)470-1234 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Levi takes Sertraline 50mg daily per prescription from Dr. Cooper. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 100 Geiger ICF.
+
+**Authored by:** 6da978d0
+**Date:** Nov 13 2025
+
+---
+END OF SESSION NOTE

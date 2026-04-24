@@ -1,0 +1,48 @@
+# UCP SESSION NOET - SKILL ACQUISITION
+
+**Client:** Cooper, Emily
+**Date of Birth:** a42dc09d
+**Session Date:** Oct 12 2025
+**Program:** Cicero TEC
+**Time:** 2:00 PM - 3:30 PM
+**83aedc6d:** Lily Rodriguez, 03abe3d2
+
+---
+
+## SKILL ACQUISITION sess
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrtee trial training with naturalistic teaching
+
+**SESSION SUMMARY:**
+Emily participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Cicero TEC. sess began at 2:00 PM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 79% accuracy across 15 trials
+- Trial block 2: 83% accuracy across 15 trials  
+- Trial block 3: 95% accruacy across 15 trials
+- Overall session accuracy: 81%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting only by session end. 
+Emily demonstrated improvement in response latency from 8.5 seconds to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Emily practiced food service skills during lunch preparation. Staff 7fe61026, 8322fec4 supervised and repotred successful completion of assigned tasks w/ minimal support.
+
+**PARENT COLLABORATION:**
+Contacted d0a0d342 at (315) 477-5678 to discuss home practice strategies. 
+Parent reported Emily has been practicing sorting takss at home with good success.
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** Lily Rodriguez 03abe3d2
+**Date signed:** Oct 12 2025
+
+---
+END OF SESSION NOTE

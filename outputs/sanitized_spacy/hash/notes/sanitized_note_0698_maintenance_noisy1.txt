@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 85212f32
+**Session Date:** 095f8c05
+**Settings:** 88 Geiger ICF Syracuse TEC, dbfda8b4
+**Lead Staff:** Levi Moore
+**Home Visit Staff:** 9bda7d7d, MS, c4b37c5f
+
+---
+
+## MAINTENANCE AND GENERALIAZTION ASSESSMENT
+
+190eb3eb demonstrated skill maintenance across multiple settings during coordinated session on 2e7d85a0.
+
+**SETTING 1:** 88 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 91% independent completion across all tasks
+Staff observer: 701b3ea1
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks peer interaction following multi-step directions
+Performance: 84% accuracy with minimal prompting
+Transition quality: Smooth trasnition with visual schedule support
+
+**HOME VISIT:** dbfda8b4
+Parent participants: Christopher Ruiz
+Home phone: (315) 454-4567
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 83% independent completion in home environment
+
+**PARENT REPORT:**
+5139d240 reported 190eb3eb has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training providde on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+190eb3eb maintained 84% consistency across settings for target skills. 
+Variability noted in task initiation between 88 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared w/:
+- 30e5ae88 (ef5569f3) - contact: b5efd1f5
+- 7e14f990 (Speech Therapy) - contact: 599de9d7
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 5 times per week
+- Schedule tri-setting observation on e47a2bc0
+
+**Documentation:** Levi Moore
+**Date:** 2e7d85a0
+
+---
+END OF sess NOTE

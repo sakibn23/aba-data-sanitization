@@ -1,0 +1,74 @@
+# [PERSON] sess NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**Session Date:** 1********5
+**Primary Location:** Liverpool TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ [PERSON] at Syracuse Medical Associates, [ADDRESS].
+
+Modified session: Morning abbrevitaed session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, [ADDRESS]
+Clinic phone: [PHONE]
+Provider: Dr. Allen
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: 315.487.9012
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 0********6
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Contact Dermatitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Amoxciillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: [PERSON]
+Pharmacy: Walgreens, 315.445.7890
+
+**POST-APPOINTMENT SESSION:**
+[PERSON] returned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medications updated. [PERSON], Psy.D. notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+[PERSON] contacted at 315.487.9012 to discuss:
+- Appointmetn outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent cmom log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON], Psy.D.
+**Date:** 1********5
+
+---
+END OF SESSION NOTE

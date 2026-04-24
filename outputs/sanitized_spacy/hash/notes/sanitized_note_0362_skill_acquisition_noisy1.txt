@@ -1,0 +1,48 @@
+# UCP SESSION NOTE - SKILL ACQUISITION
+
+**Client:** Ava 9b3003e6
+**Date of Birth:** 4d56cc77
+**sess Date:** 08050793
+**Program:** Baldwinsville TEC
+**Time:** 10:00 AM - 12:00 PM
+**83aedc6d:** Ava Ward
+
+---
+
+## SKILL ACQUISITION sess
+
+**Target Skill:** Multi-step vocational taks completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+Ava participated in 45 discrete trial training sessions focuisng on lunch service 
+preparation skills at Baldwinsville TEC. Session began at 10:00 AM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 74% accuracy across 15 trials
+- Trial block 2: 84% accuracy across 15 trials  
+- Trial block 3: 86% accuracy across 15 trials
+- Overall session accuracy: 81%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting, progressing to verbal prompting onyl by session end. 
+Ava demonstrated improvement in response latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Ava practiced food service skills during lunch preparation. Staff b2962276, a80c79af supervised and reported successful completion of assigned tsaks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted 5e29427d at 315.447.9012 to discuss home practice strategies. 
+Parent reported Ava has been practicing sorting tasks at home with good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial complexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** Ava Ward
+**Date signed:** c46fc9dc
+
+---
+END OF SESSION NOTE

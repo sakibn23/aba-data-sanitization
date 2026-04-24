@@ -1,0 +1,58 @@
+# UCP sses NTOE - GENERALIZATION SESSION
+
+**Client:** 1d813e1b
+**sess Date:** 49e9b98b
+**Settings:** 92 Geiger ICF, Syracuse TEC, af02a25d
+**Lead Staff:** Logan Castillo
+**Home Visit Staff:** Lucas Parker, 03abe3d2
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+b5fd03dd demonstrated skill maintenance across mlutiple settings during coordinated ssesion on Oct 19 2025.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 84% indep completion across all tasks
+Staff observer: c7beb25a
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy with minimal prompting
+Transition quality: Smotoh transition with visual schedule support
+
+**HOME VISIT:** af02a25d
+Parent participants: dbce6d07 and 7e0c1f2b
+Home phone: (315) 479-2345
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 79% indep completion in home environment
+
+**PARENT REPORT:**
+dbce6d07 reported b5fd03dd has been completing 
+morning routine independently at home 4 days per week. 7e0c1f2b noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+b5fd03dd maintained 86% consistency acorss settings for target skills. 
+Variability noetd in task initiation between 92 Geiger ICF and home setting
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Gonzales (Occupational Therapy) - contact: 873b38d5
+- Dr. Adams (ST Therapy) - contact: 873b38d5
+
+**recs:**
+- Continue generalization trials across all setitngs weekly
+- Increase home practice freq to 4 times per week
+- Schedule tri-setting observation on 25af8e9e
+
+**Documentation:** Logan Castillo
+**Date:** 49e9b98b
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** Harris, a6b54c20
+**Date of Birth:** b5aad2c9
+**sess Date:** 7ca223a6
+**Location:** 88 Geiger ICF
+**Staff:** 1adc49b7
+**Medicaid ID:** 3b88410b
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 88 Geiger ICF from 3:00 PM to 4:00 PM. 
+a6b54c20 engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 79% independent completion
+2. Functional communication practice: 81% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 61% completion rate
+5. Leisure skills: High engagement, appropriate dur
+
+Overall completion rate: 73%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout sess. a6b54c20 responded to 3 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 16 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routnie to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+c92ce3c0 contacted at (315) 450-7890 regarding 
+upcoming program meeting. Confirmed atetndance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+a6b54c20 takes Risperidone 1mg daliy per prescription from 4461522c. 
+No sdie effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for Apr 22 2026 at 88 Geiger ICF.
+
+**Authored by:** 1adc49b7
+**Date:** 7ca223a6
+
+---
+END OF SESSION NOTE

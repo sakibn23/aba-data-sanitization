@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MDEICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**sess Date:** [DATE]
+**Primary Location:** Chadwicks TEC
+**Staff:** [PERSON], [CREDENTIAL]
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ [PERSON] at WellNow Urgent Care, [ADDRESS].
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care, [ADDRESS]
+Clinic phone: [PHONE]
+Provider: [PERSON]
+Appointment time: 11:45 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON] [CREDENTIAL]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: (315)435-8901
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: Apr 17 2026
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Upper Respiratory Infection
+- tx: Amxoicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: [PERSON]
+Pharmacy: CVS Pharmacy, 3155017890
+
+**POST-APPOINTMENT sess:**
+[PERSON] rteurned to Chadwicks TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate comm of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse Aiden Green, [CREDENTIAL] notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+[PERSON] contacted at 3154358901 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** [PERSON], [CREDENTIAL]
+**Medical liaison:** Aiden Green, [CREDENTIAL]
+**Date:** Nov 29 2025
+
+---
+END OF sess NOTE

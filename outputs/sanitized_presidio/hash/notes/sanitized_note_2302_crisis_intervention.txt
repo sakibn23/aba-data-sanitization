@@ -1,0 +1,133 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+125 Business Park Drive, 50ec69c8, 124e0b72 13502
+Emergency Contact: ddd01a6d
+
+**CLIENT INFORMATION:**
+Name: 06c2c2b1
+Date of Birth: 9a2f748a
+Primary Residence: 104 Geiger Road, d0d22019, 124e0b72 13440
+Emergency Contact 1: 3573c70c - (5ed4d29e
+
+**INCIDENT DETAILS:**
+Date: fb6df2fd
+Time of Onset: 2:15 PM
+Location: 92 Geiger ICF, 104 Geiger Road, d0d22019, 124e0b72 13440
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: 1b957e1a
+Secondary: 24cb77e1, 94746a21
+Tertiary: cabd9235, 771546ad
+Supervisor notified: 11e43528, 4d95e550, c4b37c5f
+Medical: 5ba64dd5
+
+**DETAILED INCIDENT TIMELINE:**
+
+9:41 AM: PRECIPITATING EVENT
+a6b54c20 was engaged in activity when trigger occurred.
+
+2:15 PM: BEHAVIOR ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff 1b957e1a implemented verbal de-escalation.
+
+9:48 AM: BEHAVIOR ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff 24cb77e1, 94746a21 joined response.
+
+11:28 AM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Property destruction.
+11e43528, 4d95e550, c4b37c5f notified.
+
+11:30 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: 4f945233, Elizabeth Adams
+Reason: Imminent danger to self and others
+
+10:08 AM: DE-ESCALATION PROGRESS
+a6b54c20 showing decreased muscle tension, verbal communication restored.
+
+10:15 AM: RESTRAINT RELEASED
+Total restraint duration: 21 minutes
+a6b54c20 moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: 5ba64dd5
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+1b957e1a: Superficial scratch - Treatment: Cleaned, bandaged
+24cb77e1: Contusion from impact - Treatment: Ice pack applied
+cabd9235: No injuries
+
+PROPERTY DAMAGE:
+Folding chair damaged
+Estimated cost: $192
+
+**EMERGENCY CONTACTS MADE:**
+
+9:58 AM: 3573c70c contacted at (5ed4d29e
+Reached: Yes, answered immediately
+Notified by: 11e43528, 4d95e550, c4b37c5f
+
+**MEDICAL CONSULTATION:**
+5ba64dd5 assessed. 
+Vital signs: Temp 98.4°F, Pulse 92, BP 118/74, Respirations 16
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+d3d159f1, 03abe3d2 contacted.
+Emergency appointment: 3c256001
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical Intervention
+☑ Multiple staff required (3+)
+☑ Duration > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 9:53 AM
+End time: 2:45 PM
+Total duration: 24 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: 5ba64dd5 checked vital signs every 5 minutes
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: 0efaf691 - notified
+☑ Clinical Director: 11e43528 - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: 11e43528, 4d95e550, c4b37c5f
+Attendees: 4f945233, cabd9235
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: d3d159f1, 03abe3d2 emergency appt 3c256001
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** Mia Price
+**Reviewed by:** 11e43528, 4d95e550, c4b37c5f
+**Medical review:** 5ba64dd5
+**Report filed:** fb6df2fd
+**Report ID:** INC-2026-8152
+
+---
+END OF INCIDENT REPORT

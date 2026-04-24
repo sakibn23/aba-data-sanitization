@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 4884e064
+**sess Date:** e2fbf143
+**Primary Location:** Liverpool TEC
+**Staff:** 26d8ae51
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointemnt with c6bc09ed, c6a7b417 at Community Health Center, 542203e7.
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Community Health Center, 542203e7
+Clinic phone: 315.454.4567
+Provider: c6bc09ed, c6a7b417
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 26d8ae51
+
+**PARENT COORDINATION:**
+e0265b52 met at clinic.
+Contact number: 315.467.8901
+
+**MEDICAL CONCENR ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 14ab167c
+
+**APPOINTMENT OUTCOME:**
+Per c6bc09ed, c6a7b417:
+- Diagnosis: Otitis Externa
+- tx: Fluticasone nasal spray
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: c6bc09ed, c6a7b417
+Pharmacy: dae25302, (315) 455-5678
+
+**POST-APPOINTMENT sess:**
+d9dacb3e returend to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+38f6b83e and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse 3843badd notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+e0265b52 contacted at 315.467.8901 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** 26d8ae51
+**Medical liaison:** 3843badd
+**Date:** e2fbf143
+
+---
+END OF SESSION NOTE

@@ -1,0 +1,52 @@
+# f31c8453 sess NOTE - STANDARD SESSION
+
+**Client:** ea6d2e94
+**Date of Birth:** ef8ebefe
+**Session Date:** a75dc571
+**Location:** 95 Geiger ICF
+**Staff:** Elijah Lewis
+**Medicaid ID:** 792f0c85
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 95 Geiger ICF from 10:00 AM to 11:00 AM. 
+Riley engaged in 5 scheduled activities with miexd performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine mtoor skills: 90% independent completion
+2. Functional comm practice: 68% accuracy with verbal prompting
+3. Self-care routines: Required moderate PT prompting
+4. Academic tasks: 75% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 72%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Riley responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy sysetm (earned 22 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+7fb30922 contacted at (315)502-3456 re: 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Riley takes Risperidone 1mg daily per prescription from b59e831a. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for e719138d at 95 Geiger ICF.
+
+**Authored by:** Elijah Lewis
+**Date:** 38dba848
+
+---
+END OF SESSION NOTE

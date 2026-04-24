@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**Session Date:** 1******5
+**Primary Location:** Liverpool TEC
+**Staff:** [PERSON]
+
+---
+
+## MOIDFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ [PERSON] at Syracuse Mediacl Associates, [ADDRESS].
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 11:15 AM
+Destination: Syracuse Medical Associates, [ADDRESS]
+Clinic phone: (315)508-1234
+Provider: Dr. Perez
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: 315.456.3456
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: 4*******6
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Fluticasone nasal spray
+- Medicaiton changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Fluticasone nasal spray - Apply topically twice daily
+Prescribing provider: [PERSON]
+Pharmacy: Walgreens, [PHONE]
+
+**POST-APPOINTMENT sess:**
+[PERSON] returned to Liverpool TEC. Appeaerd fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Increased requests for quiet activities and headphone use
+
+**MEDICATION MONITORING:**
+Current medicatinos updated. Nurse [PERSON] noitfied to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at 315.456.3456 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observaiton for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**recs:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce academic demands
+- Parent communication log for symptom tracking
+
+**Documented by:** Ava Collins
+**Medical liaison:** [PERSON]
+**Date:** 1******5
+
+---
+END OF sess NOTE

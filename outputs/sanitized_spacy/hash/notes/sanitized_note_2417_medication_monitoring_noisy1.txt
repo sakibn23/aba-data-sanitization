@@ -1,0 +1,95 @@
+# f31c8453 sess NOTE - MEDICATION MONITORING
+
+**Client:** c91ab4c7
+**Date of Birth:** 03267230
+**Session Date:** c5168b42
+**Location:** 96 Geiger ICF
+**Monitoring Staff:** Matthew Rivera
+**Consulting Nurse:** ed39809a
+
+---
+
+## MEDICATION-FOCUSED BEHAVIORAL OBSERVATION
+
+**CURRENT MEDICATION REGIMEN:**
+Prescribed by d0ec109e, c6a7b417
+Last appointment: 4b0b5b31
+Next appointment: a82722b4
+
+**ROUTINE MEDICATIONS:**
+1. Guanfacine 2mg - PO dialy at 8:00 PM
+   Indication: ADHD symptoms
+   Start date: f910cbe5
+   
+2. e5eb0705 50mg - PO daily at 8:00 AM
+   Indication: Anxiety disorder, mood disorder
+   Start date: 83cb7c4f
+   
+3. Trazodone 100mg - PO daily at 8:00 PM
+   Indication: Sleep support
+   Start date: 0aef961a
+
+**RECENT CHANGE:**
+a29e623f: 
+Sertraline HCL 50mg dosage increased
+Ordered by: d0ec109e, c6a7b417
+
+**BEHAVIORAL OBSERVATIONS POST-CHANGE:**
+
+**MORNING OBSERVATIONS:**
+Increased alertness noted compared to previous week. b1f6d124 readily engaged in 
+morning routine with 89% independence. Sleep quality per parent report: 
+"Best week in months, sleeping through the night."
+
+**MIDDAY OBSERVATIONS:**
+Participation in structured activities excellent. b1f6d124 completed tasks w/ 
+minimal prompting. Appetite: Normal, consumed flul lunch.
+
+**AFTERNOON OBSERVATIONS:**
+Sustained attention during tasks improved. b1f6d124 worked for 27-minute 
+intervals. Energy level: Appropriate, no signs of hyperactivity or lethargy.
+
+**SIDE EFFECTS MONITORING:**
+☑ Drowsiness: Mild improvement from baseline
+☑ Agitation: None observed
+☐ Sleep disturbance: Improved sleep continuity per parent report
+☐ Appetite changes: Stable apprporiate intake
+☐ Motor coordination: No changes noted
+
+**PRN MEDICATION ADMINISTRATION:**
+2:15 PM: Ibuprofen 200mg administered for headahce complaint
+Administered by: ed39809a
+Response: Symptoms resolved within 45 min
+
+**VITAL SIGNS:**
+Time: 2:10 PM
+Temperature: 98.2°F
+Pulse: 80 bpm
+Respirations: 17 per minute
+Recorded by: ed39809a
+
+**PARENT CONSULTATION:**
+895c0a3c contacted at (315) 480-7890.
+
+Home observations reported:
+- Sleep pattern: Falling asleep faster
+- Morning bx: More cooperative, less irritable
+- Evening behavior: Calmer during bedtime routine
+- Medication compliance: 100% adherence, no missed doses
+
+**CLINICAL RECOMMENDATIONS:**
+- Continue current dosing schedule
+- Monitor mood stability for next 30 days
+- Report findings to d0ec109e, c6a7b417 at next appointment
+- Parent daily monitoring log for sleep onste time and morning mood
+
+**FOLLOW-UP:**
+Medication review: e478aacd
+Prescriber appointment: 41720b53
+
+**Documented by:** Matthew Rivera
+**Reviewed by:** ed39809a
+**Date:** c5168b42
+
+---
+END OF SESSION NOTE

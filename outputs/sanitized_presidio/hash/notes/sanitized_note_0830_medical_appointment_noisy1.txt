@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** 28c8b544
+**sess Date:** Nov 4 2025
+**Primary Location:** Liverpool TEC
+**Staff:** 8e8fc8d3
+
+---
+
+## MODIFIED sess - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment w/ c69ed851 at Syracuse Medical Associates, 632 Erie Street, 2fb59fa3, NY 13202.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: Syracuse Medical Associates, 632 Erie Street, 2fb59fa3, NY 13202
+Clinic phone: d272436d
+Provider: c69ed851
+Appointment time: 11:15 AM
+
+Transportation: UCP van
+Accompanied by: 8e8fc8d3
+
+**PARENT COORDINATION:**
+f2d5a0b0 met at clinic.
+Contact number: c555c18b
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Bilateral ear pain
+Onset: d91a213e
+
+**APPOINTMENT OUTCOME:**
+Per c69ed851:
+- Diagnosis: Allergic Rhinitis
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - 4 drops each ear 4x daily × 7 days
+Prescribing provider: c69ed851
+Pharmacy: 8fa7bec5, (db951ff7
+
+**POST-APPOINTMENT SESSION:**
+347d5d8b reutrned to Liverpool TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Calm and cooperative throughout medical visit
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse aee27e2e notified to add new medication to 
+medication administration record.
+
+**PARENT comm:**
+f2d5a0b0 contacted at c555c18b to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observatino for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified schedule for medical appointment days - reduce aacdemic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** 8e8fc8d3
+**Medical liaison:** aee27e2e
+**Date:** a75dc571
+
+---
+END OF sses NOTE

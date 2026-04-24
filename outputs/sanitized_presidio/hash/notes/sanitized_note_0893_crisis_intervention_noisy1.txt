@@ -1,0 +1,133 @@
+# UCP CRITICAL INCDIENT REPORT
+
+**UPSTATE CARING PARTNERS**
+125 Business Park Drive, 50ec69c8, 124e0b72 13502
+Emergency Contact: 82d2b0ef
+
+**CLIENT INFORMATION:**
+Name: e2120ffd, William A.
+Date of Birth: fba20b08
+Primary Residence: 281 Geiger Road, d0d22019, 124e0b72 13440
+Emergency Contact 1: Emily Collins - 2e78aed4
+
+**INCIDENT DETAILS:**
+Date: 41e4102a
+Time of Onset: 9:45 AM
+Location: 88 Geiger ICF, 85 66ad3174, d0d22019, 124e0b72 13440
+Incident Category: CRISSI - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: Avery Foster
+Secondary: a3333fec, 7c0ba5fc
+Tertiary: 5754b208, 798ff150
+Supervisor notified: 2379e941, cc976392
+Medical: Dr. Malpezzi
+
+**DETAILED INCIDENT TIMELINE:**
+
+11:18 AM: PRECIPITATING EVENT
+190eb3eb was engaged in activity when trigger occurred.
+
+2:15 PM: bx ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff Avery Foster implemented verbal de-escalation.
+
+9:48 AM: bx ESCALATION - LEVEL 2
+Physical aggression toward peer.
+Additional staff Aria Campbell 7c0ba5fc joined response
+
+2:21 PM: bx ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Properyt destruction.
+2379e941, cc976392 notified.
+
+11:30 AM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supine restraint
+Staff involved: Avery Foster, a3333fec, Jackson Evans
+Reason: Imminent danger to self and others
+
+10:08 AM: DE-ESCALATION PROGRESS
+190eb3eb showing decreased muscle tension, verbal communication restored.
+
+10:15 AM: RESTRAINT RELEASED
+Total restriant dur: 19 min
+190eb3eb moved to queit room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact no skni breakdown
+Assessed by: Dr. Malpezzi
+Treatment: Visual inspeciton only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+Avery Foster: Superficial scratch - tx: Cleaned, bandaged
+a3333fec: Contusion from impact - Treatment: Ice pack applied
+5754b208: No injuries
+
+PROPERTY DAMAGE:
+Folding chair damaged
+Estimated cost: $173
+
+**EMERGENCY CONTACTS MADE:**
+
+11:35 AM: 64f4b1ea contacted at 2e78aed4
+Reached: Yes, answered immediately
+Notified by: 2379e941, cc976392
+
+**MEDICAL CONSULTATION:**
+Dr. Malpezzi assessed. 
+Vital signs: Temp 98.6°F Pulse 90, BP 119/72, Respirations 16
+Recommendation: Continue monitoring, no medical intervention needed
+
+**PSYCHIATRIC CONSULTATION:**
+e51167b2 contacted.
+Emergency appointment: 3c256001
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictive Physical intv
+☑ Multiple staff required (3+)
+☑ Duration > 10 min
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric consultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 2:23 PM
+End time: 11:52 AM
+Total duration: 25 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: Dr. Malpezzi checked vital signs every 5 min
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: 0ee83645 - notified
+☑ Clinical Director: 2379e941 - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Executive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: 2379e941, cc976392
+Attendees: Avery Foster, 42680e6d
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ fef567a1: e51167b2 emergency appt 4-21-26
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compilde by:** Avery Foster
+**Reviewed by:** Matthew Lewis cc976392
+**Medical review:** Dr. Malpezzi
+**Report filed:** 043fe75c
+**Report ID:** INC-2026-4918
+
+---
+END OF INCIDENT REPORT

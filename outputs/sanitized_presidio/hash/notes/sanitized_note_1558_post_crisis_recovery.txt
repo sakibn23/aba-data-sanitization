@@ -1,0 +1,159 @@
+# UCP POST-CRISIS RECOVERY SESSION NOTE
+
+**Client:** c2408523
+**Recovery Session Date:** 49e9b98b
+**Original Incident Date:** f02cdd40
+**Location:** 88 Geiger ICF
+**Staff:** ea6d2e94
+**Clinical Supervisor:** 6e094836, a80c79af
+
+---
+
+## POST-CRISIS THERAPEUTIC INTERVENTION
+
+**INCIDENT REFERENCE:**
+Critical incident on f02cdd40 at 88 Geiger ICF.
+Incident Report ID: INC-2026-2509
+Type: Physical aggression toward peer and staff, property destruction
+Duration: Escalation 6 minutes, restraint 24 minutes
+
+TIME SINCE INCIDENT: 48 hours
+
+**CURRENT SESSION PURPOSE:**
+1. Therapeutic processing of incident
+2. Safety planning reinforcement
+3. Skill rebuilding for emotion regulation
+4. Relationship repair with staff and peers
+
+**SESSION ACTIVITIES:**
+
+**THERAPEUTIC PROCESSING:**
+Aria participated in cognitive-behavioral processing with ea6d2e94.
+
+Discussion topics:
+- Event sequence understanding using visual timeline
+- Emotional identification (anger, frustration, feeling out of control)
+- Alternative response strategies (asking for break, using calm-down space)
+- Safety understanding (why restraint was necessary)
+
+736001fa's insight: Demonstrated good understanding of event sequence, identified trigger, 
+recognized inappropriate choice and impact on others.
+
+**SAFETY PLANNING:**
+Reviewed and updated safety protocols with 736001fa.
+
+**NEW SAFETY MEASURES IMPLEMENTED:**
+Following incident on f02cdd40:
+1. Individual activity schedule - Implemented 16b771aa
+2. Enhanced visual supports for emotion regulation - Implemented 1a7bc186
+3. Enhanced monitoring during peer activities (1:2 ratio)
+
+**PARENT COLLABORATION:**
+Joint session with 6357349d and ccf17961.
+
+Parents contacted at (c0b47e68 to confirm session attendance.
+
+Discussion points:
+- Home-program consistency for emotion regulation strategies
+- Warning sign recognition (escalating voice volume, body tension, pacing)
+- De-escalation support at home (offering break space, reducing demands)
+- Communication protocols between home and program
+
+**STAFF RELATIONSHIP REPAIR:**
+736001fa met individually with staff involved in incident.
+Facilitated by: 6e094836, a80c79af
+
+Process included: 736001fa's verbal apology, staff reassurance of continued support, 
+discussion of moving forward. Staff reported positive interaction quality.
+
+**BEHAVIORAL SUPPORT PLAN UPDATES:**
+Modified BSP implemented 0e8ae574 following comprehensive review.
+
+Changes include:
+- Enhanced antecedent strategies (increased warnings before transitions)
+- Additional teaching of replacement behaviors (requesting break using visual card)
+- Updated crisis protocols (specific de-escalation sequence)
+- Modified reinforcement schedule
+
+Review team:
+- Logan Ward, 20e060cd (83aedc6d)
+- 187773f4 (Occupational Therapist)
+- ce23c4f6, cf25077a (Speech-Language Pathologist)
+- 3f976ba4 (Nursing)
+- Parents: 1f22203d
+
+**PSYCHIATRIC FOLLOW-UP:**
+Emergency consultation with ed39809a on 16b771aa.
+
+Medication adjustments:
+- Dosage adjustment made
+- Continue current regimen with modifications
+
+Next psychiatric appointment: 802fedce
+
+**SKILL REBUILDING:**
+Focus areas identified:
+1. Emotion regulation and identification
+2. Requesting breaks appropriately
+3. Appropriate peer interactions
+
+Teaching sessions scheduled:
+- Daily emotion identification practice with ea6d2e94
+- Twice weekly skills practice
+- Break request training as needed throughout day
+
+**ENVIRONMENTAL MODIFICATIONS:**
+Changes made at 88 Geiger ICF following incident:
+
+Physical environment:
+- Designated "calm corner" with visual supports (Completed 1a7bc186)
+- Additional soft seating for de-escalation space
+
+Schedule modifications:
+- Individual time for preferred activities
+- Structured peer activities with higher staff ratio for 1 week
+
+**MONITORING PROTOCOL:**
+Enhanced monitoring period: 49e9b98b through 0f33c370 (2 weeks)
+
+Monitoring frequency: Hourly emotion check-ins using 5-point scale
+Documentation: Electronic incident tracking system + daily narrative notes
+
+**CHECK-IN SCHEDULE:**
+Daily check-ins with rotating staff:
+- Morning: 8:30 AM (baseline mood assessment)
+- Midday: 12:00 PM (activity participation check)
+- Afternoon: 3:00 PM (end-of-day processing)
+
+**PARENT COMMUNICATION PLAN:**
+Daily updates to 6357349d:
+- Method: Phone call
+- Time: 4:00 PM daily
+- Contact: (c0b47e68
+
+**PROGRESS INDICATORS:**
+Since incident on f02cdd40 (48 hours post-incident):
+- Zero physical aggression incidents
+- Appropriate use of break request card 2 times
+- Positive peer interactions during structured activities (100% appropriate)
+- Verbal communication of emotions using 5-point scale with 77% accuracy
+
+**NEXT STEPS:**
+☑ Continue daily monitoring through fdb44517
+☑ BSP implementation fidelity checks (daily by supervisor)
+☑ Ongoing parent collaboration (daily calls)
+☑ Psychiatric follow-up 50a810ac
+☑ Incident review team meeting scheduled
+☑ FBA update completion target: 72791f79
+
+**DOCUMENTATION:**
+Recovery session documented by: Riley Richardson
+Clinical supervision: 6e094836, a80c79af
+Parent consent obtained: 49e9b98b
+Treatment plan updated: 0e8ae574
+
+Session date: 49e9b98b
+Next recovery session: ec4a61b4
+
+---
+END OF SESSION NOTE

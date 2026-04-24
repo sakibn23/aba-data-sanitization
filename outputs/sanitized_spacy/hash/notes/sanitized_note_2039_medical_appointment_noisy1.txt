@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICAL APPOINTMENT COORDINATION
+
+**Client:** Logan F. Sanders
+**sess Date:** f2d1ea88
+**Primary Location:** Liverpool TEC
+**Staff:** 351f5da9
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with dd59527c at WellNow Urgent Care, 3116fe1a.
+
+Modified session: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 10:45 AM
+Destination: WellNow Urgent Care 3116fe1a
+Clinic phone: (315) 474-3456
+Provider: Dr. Nguyen
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: 351f5da9
+
+**PARENT COORDINATION:**
+3fb29b8b met at clinic.
+Contact number: (315) 478-9012
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Upper respiratory symptoms
+Onset: 14ab167c
+
+**APPOINTMENT OUTCOME:**
+Per dd59527c:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Neomycin-Polymyxin ear drops
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u with PCP in 2 weeks
+
+Prescription: Neomycin-Polymyxin ear drops - Take twice daily × 10 days
+Prescribing provider: Dr. Nguyen
+Pharmacy: Walgreens, (315)518-3456
+
+**POST-APPOINTMENT SESSION:**
+Logan returned to Liverpool TEC. Apperaed fatigued but enagged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate comm of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse dfa4d4c7 notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+3fb29b8b contacted at (315) 478-9012 to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modifeid scehdule for medical appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** 351f5da9
+**Medical liaison:** dfa4d4c7
+**Date:** f2d1ea88
+
+---
+END OF sess NOTE

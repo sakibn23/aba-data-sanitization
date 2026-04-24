@@ -1,0 +1,137 @@
+# UCP CRITICAL INCIDENT REPORT
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Emergency Contact: (315)724-6907
+
+**CLIENT info:**
+Name: 5bb0d72c
+Date of Birth: 9a4ba4f4
+9b96b339: 6e9b1783
+Emergency Contact 1: Steven Jackson - 315.502.3456
+Emergency Contact 2: Christopher Jackson - 315.425.8901
+
+**INCIDENT DETAILS:**
+Date: 3f299485
+Time of Onset: 11:22 AM
+Location: 96 Geiger ICF, 6f9e8263
+Incident Category: CRISIS - Level 3 (Severe)
+
+**STAFF RESPONSE TEAM:**
+Primary: c4fd30cd
+Secondary: 8b379c1f, 03abe3d2
+Tertiary: d7aac2ef, 798ff150
+9de79093 notified: 4ebe74c9, 87ef1797
+Medical: e47a8fd3, 8322fec4
+
+**DETAILED INCIDENT TIMELINE:**
+
+11:18 AM: PRECIPITATING EVENT
+Victoria was engaged in activity when trigger occurred.
+
+2:15 PM: bx ESCALATION - LEVEL 1
+Verbal refusal escalated to yelling.
+Staff c4fd30cd implemented verbal de-escalation.
+
+11:25 AM: bx ESCALATION - LEVEL 2
+PT aggression toward peer.
+Additional staff 8b379c1f, 03abe3d2 joined response.
+
+11:28 AM: BEHAVIOR ESCALATION - LEVEL 3 (CRISIS)
+Continued physical aggression toward staff. Proeprty destruction.
+4ebe74c9, 87ef1797 notified.
+
+2:23 PM: RESTRICTIVE INTERVENTION INITIATED
+Type: SCIP-R three-person supnie restraint
+Staff involved: 723f935b, Jacob Cox
+Reason: Imminent danger to self and others
+
+11:45 AM: DE-ESCALATION PROGRESS
+Victoria showing decreased muscle tension, verbal communication restored.
+
+10:15 AM: RESTRAINT RELEASED
+Total restraint duration: 19 minutes
+Victoria moved to quiet room for recovery.
+
+**INJURIES SUSTAINED:**
+
+CLIENT:
+Minor redness on wrists from restraint contact, no skin breakdown
+Assessed by: e47a8fd3, 8322fec4
+Treatment: Visual inspection only, ice pack offered
+Medical follow-up: Monitor for 24 hours
+
+STAFF INJURIES:
+c4fd30cd: Superficial scrtach - Treatment: Cleaned, bandaged
+8b379c1f: Contusion from impact - Treatment: Ice pack applied
+d7aac2ef: No injuries
+
+PROPERTY DAMAGE:
+Materials broken
+Estimated cost: $230
+
+**EMERGENCY CONTACTS MADE:**
+
+2:28 PM: 11a84f71 contacted at 315.502.3456
+Reached: Yes, answered immediately
+Notified by: 4ebe74c9, 87ef1797
+
+2:45 PM: 1a4ca10d contacted at 315.425.8901
+Reached: Yes, callback received
+
+**MEDICAL CONSULTATION:**
+e47a8fd3, 8322fec4 assessed. 
+Vital signs: Temp 98.4°F, Pulse 83, BP 123/78, Respirations 19
+Recommendation: Continue monitoring, no medical intv needed
+
+**PSYCHIATRIC CONSULTATION:**
+c69ed851 contacted.
+Emergency appointment: Apr 21 2026
+
+**INCIDENT CLASSIFICATION:**
+☑ SCIP-R Restrictiev Physical Intervention
+☑ Multiple staff required (3+)
+☑ dur > 10 minutes
+☐ Emergency medical services called
+☑ Parent immediate notification
+☑ Property damage
+☑ Staff injury requiring treatment
+☑ Psychiatric cosnultation required
+
+**RESTRICTIVE INTERVENTION DETAILS:**
+Start time: 11:30 AM
+End time: 2:45 PM
+Total duration: 18 minutes
+Type: Three-person supine restraint per SCIP-R protocol
+Medical monitoring: e47a8fd3, 8322fec4 checked vital signs every 5 min
+
+**REGULATORY NOTIFICATIONS:**
+
+☑ Program Director: ccec4aad - notified
+☑ Clinical Director: 4ebe74c9 - notified
+☑ OPWDD: Incident report submitted
+☑ Agency Administration: Eexcutive Director notified
+☐ Law Enforcement: Not required
+☐ Emergency Medical Services: Not required
+
+**POST-INCIDENT PROCEDURES:**
+
+**STAFF DEBRIEFING:**
+Conducted by: 4ebe74c9, 87ef1797
+Attendees: 723f935b, d7aac2ef
+
+**REQUIRED REVIEWS:**
+☑ BSP Review: Scheduled
+☑ FBA Update: Scheduled
+☑ Medication Review: c69ed851 emergency appt c3e8dffa
+☑ Safety Protocol Review: Scheduled
+☑ Incident Review Team: Scheduled
+
+**Report compiled by:** c4fd30cd
+**Reviewed by:** b2720399
+**Medical review:** e47a8fd3, 8322fec4
+**Report filed:** Oct 23 2025
+**Report ID:** INC-2026-1536
+
+---
+END OF INCIDENT REPORT

@@ -1,0 +1,58 @@
+# f31c8453 sess NOTE - GENERALIZATION SESSION
+
+**Client:** Turner, 7efa869d
+**Session Date:** 52ac258e
+**Settings:** 96 Geiger ICF, Cicero TEC, 27c1f925
+**Lead Staff:** Lucas Morris, 2b750216
+**Home Visit Staff:** e46e2766, 3e4411d5, 03abe3d2
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Oliver demonstrated skill maintenance acrsos multiple settings during coordinated session on 52ac258e.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 86% independent completion across all tasks
+Staff observer: Lucas Morris, 2b750216
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction, f/u multi-step directions
+Performance: 85% accuracy with minimal prompting
+Transition quality: Smooth transition wiht visual schedule support
+
+**HOME VISIT:** 27c1f925
+Parent participants: 2cf4d821
+Home phone: (315)425-8901
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 73% independent completion in home environment
+
+**PARENT REPORT:**
+2cf4d821 reported 7efa869d has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent trainnig provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+7efa869d maintained 80% consistency across settings for target skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting
+
+**PROVIDER COORDINATION:**
+info shared with:
+- Dr. Hughes (Occupational Therapy) - contact: 3154298901
+- a9aa8b6a (ST Therapy) - contact: 0a4a718c
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 3 times per week
+- Schedule tri-setting observation on a0545f4f
+
+**Documentation:** Lucas Morris, 2b750216
+**Date:** 3b400cbe
+
+---
+END OF SESSION NOTE

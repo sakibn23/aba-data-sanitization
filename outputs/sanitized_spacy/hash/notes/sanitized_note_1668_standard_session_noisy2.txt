@@ -1,0 +1,52 @@
+# f31c8453 sess NOET - STANDARD SESSION
+
+**Client:** Watson, 24871510
+**Date of Birth:** 3450e58f
+**sess Date:** c7e73174
+**Location:** 88 Geiger ICF
+**Staff:** 835637f6
+**Medicaid ID:** 6f46b0a4
+
+---
+
+## STANDARD sess REPORT
+
+Session conducted at 88 Geiger ICF from 2:00 PM to 3:00 PM. 
+24871510 enagged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 75% indep completion
+2. Functional communication practice: 67% accuracy with verbla prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 60% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 71%
+
+**bx SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throuhgout session. 24871510 responded to 4 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 16 tokens twoard preferred activity)
+- Functional comm training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+1517a9fe contacted at 707bc55f regarding 
+upcoming program meeting. Confirmed attendance and requested transportation info.
+
+**MEDICATION OBSERVATION:**
+24871510 takse Sertraline 50mg daily per prescription from 4c8078ce. 
+No side effects observed during sess.
+
+**FOLLOW-UP:**
+Next session scheduled for 6e4399e4 at 88 Geiger ICF.
+
+**Authored by:** 835637f6
+**Date:** c5168b42
+
+---
+END OF SESSION NOTE

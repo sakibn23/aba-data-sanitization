@@ -1,0 +1,50 @@
+# f31c8453 sess NOTE - POSITIVE SOCIAL INTERACTION
+
+**Client:** bb511f29
+**Date of Service:** Nov 27 2025
+**Program Location:** Cicero TEC
+**Lead Therapist:** b6105e32
+**Co-Facilitator:** 5b4e659d, cf25077a
+
+---
+
+## POSITIVE SOCIAL ENGAGEMENT sess
+
+a8cfcd74 demonstrated exceptional social skills during structured group activity at 
+Cicero TEC from 10:00 AM to 12:00 PM.
+
+**PEER INTERACTIONS:**
+a8cfcd74 engaged appropriateyl w/ peers Mason and Zoey during board game activity. 
+Initiated 8 social interactions, including:
+- Sharign game pieces w/ Mason
+- Inviting Zoey to join activity
+- Requesting turn-taking using functional comm strategies
+
+**COMMUNICATION SUCCESSES:**
+Following recommendations from 14efb600 utilized total communication approach 
+effectively. Verbally expressed wants/needs 15 times throughout session.
+
+**STAFF INTERACTIONS:**
+Responded positively to prmopts from b6105e32 and 5b4e659d. 
+Built rapport through shared interest in activities. Accepted redirection appropriately when needed
+
+**GROUP ACTIVITY PARTICIPATION:**
+Activity: Cooperative board game
+Duration: 45 min
+Peers present: Mason, Zoey
+Adult supervision: 1:3 staff-to-client ratio
+
+**PARENT FEEDBACK:**
+e3ec4c0b attended pickup and reported a8cfcd74 has 
+been initiating play with siblings at home more frequently. Contatc maintained via daily communication log.
+
+**RECOMMENDATIONS:**
+- Continue social skills group at Cicero TEC
+- Increase peer interaction opportunitise during unstructured time
+- Collaborate with 1d73dca3 for social-emotional assessment
+
+**Documentation:** b6105e32
+**Date:** aac1fca9
+
+---
+END OF SESISON NOTE

@@ -1,0 +1,67 @@
+# UCP SESSION NOTE - ENVIRONMENTAL TRIGGER ANALYSIS
+
+**Client:** b1616f96
+**Session Date:** Nov 10 2025
+**Locations Observed:** 95 Geiger ICF Baldwinsville TEC, Chadwicks TEC
+**Observing 681927e3:** 1c5188a1
+
+---
+
+## ENVIRONMENTAL TRIGGER DOCUMENTATION
+
+**TRANSITION 1:** 95 Geiger ICF → Baldwinsville TEC
+Time: 8:45 AM
+Trigger: Uenxpected satff change (regular dirver unavailable)
+Client Response: Moderate anxiety, verbal questioning, increased pacing
+
+3ab854ae demonstrated heightened anxiety when informed of transition from 
+95 Geiger ICF to Baldwinsville TEC w/ unfamiliar driver. 
+Environmental factors noted:
+- Different vehicle than typical transport
+- Substitute staff member instead of usual 1c5188a1
+
+**TRANSITION 2:** Baldwinsville TEC → Chadwicks TEC
+Time: 2:15 PM
+Trigger: Scheudle modification due to building maintenance
+Client Response: Mild agitation, requesting return to familiar setting
+
+**SCHEDULE DISRUPTION ANALYSIS:**
+Originally scheduled appointment with Levi Harris, 94746a21 at Baldwinsville TEC on 
+5fb625aa was 
+rescheduled to 637bf33b 
+due to provider illness. 3ab854ae exhibited increased anxiety and repetitive questioning 
+about appointment status.
+
+**PARENT CONTACT:**
+0e4dd662 e40ce871 contacted at (315) 437-1234 to discuss 
+schedule sensitivity. Praent reported Amelia frequently references upcoming appointments 
+at home and struggles with last-minute changes.
+
+**SENSORY ENVIRONMENT ASSESSMENT:**
+95 Geiger ICF: Familiar lighting, low noise level, preferred seating available
+Baldwinsville TEC: Moderate noise level, fluorescent lighting, multiple peer interactions
+Chadwicks TEC: High activity level, variable noise, open floor plan
+
+Consultation with 36e49628 scheduled for c0ee08bd 
+to assess sensory processing needs and environmental accommodation recommendations.
+
+**RECOMMENDATIONS:**
+- Increase transition warnings from 5 min to 15 minutes advance notice
+- Environmental modifications at Baldwinsville TEC:
+  * Provide noise-canceling headphones during high-activity periods
+  * Designate quite space for breaks
+- Schedule consistency protocol - avodi changes within 48 hours when possible
+- Prvoider coordination for appointment preparation with visual schedule
+
+**FOLLOW-UP:**
+Meeting with 0e4dd662 e40ce871 scheduled 
+af493ea0 
+to review environmental sensitivities.
+
+Contact 36e49628 at 731bba67 for sensory consultation.
+
+**Documented by:** 1c5188a1
+**Date:** 5ad9172a
+
+---
+END OF sess NOTE

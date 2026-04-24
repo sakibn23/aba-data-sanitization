@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 51adbfd3
+**sess Date:** 49e9b98b
+**Settings:** 96 Geiger ICF, Syracuse TEC 8d74d5cb
+**Lead Staff:** Abigail Gray
+**Home Visit Staff:** Lily Moore a3de4d11
+
+---
+
+## MAINTENANCE AND GENERALIZATION asmt
+
+78a1a1da demnostrated skill maintenance across multiple settings during coordinated sess on 49e9b98b.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines, task completion, social comm
+Performance: 82% indep completion across all tasks
+Staff observer: 4d141870
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 78% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 8d74d5cb
+Parent participants: d922b73f and 2430e883
+Home phone: (315)479-2345
+Skills assessed: Home routines, family interactions, liesure skills
+Performance: 83% indep completion in home environment
+
+**PARENT REPORT:**
+d922b73f reported 78a1a1da has been completing 
+morning routine independently at home 5 days per week. 2430e883 noted improvement in comm wiht younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule impelmentation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+78a1a1da maintained 82% consistency acrsos settings for target skills. 
+Variability noetd in task initiation between 96 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- e41bed61 (Occupational Therapy) - contact: 315.448.8901
+- 4d0f8e52 (Speech Therapy) - contact: 3155205678
+
+**recs:**
+- Continue generalizatino trials across all settings weekly
+- Increaes home practice frequency to 3 times per week
+- Schedule tri-setting observation on 7027b9d4
+
+**Documentation:** Abigail Gray
+**Date:** Oct 19 2025
+
+---
+END OF sess NOTE

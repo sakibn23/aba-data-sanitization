@@ -1,0 +1,50 @@
+# f31c8453 sess NOTE - POSITIVE SOCIAL INTERACTION
+
+**Client:** Ramos, Elijah
+**Date of Service:** 3f299485
+**Program Location:** Liverpool TEC
+**Lead tx:** Lily Cox
+**Co-Facilitator:** 9a43b6be, a80c79af
+
+---
+
+## POSITIVE SOCIAL ENGAGEMENT sess
+
+Elijah demonstrated exceptional social skills during structured group activity at 
+Liverpool TEC from 3:00 PM to 4:00 PM.
+
+**PEER INTERACTIONS:**
+Elijah engaged appropriately w/ peers f1908a7c and Olivia during board game activity. 
+Initiated 6 social interactions, including:
+- Sharing game pieces wiht Sophia
+- Inviting Olivia to join activity
+- Requesting turn-taking using functional comm strategies
+
+**COMMUNICATION SUCCESSES:**
+Following recs from 69ec429f, Elijah utilized total communication aprpoach 
+effectively. Verbally expressed wants/needs 10 times througohut sess.
+
+**STAFF INTERACTIONS:**
+Responded positively to prompts from cddd51ed and 9a43b6be. 
+Built rapport through shared interest in activities. Accepted redircetion appropriately when needed.
+
+**GROUP ACTIVITY PARTICIPATION:**
+Activity: Cooperative board game
+dur: 45 minutes
+Peers present: Sophia, Olivia
+Adult supervision: 1:3 staff-to-client ratio
+
+**PARENT FEEDBACK:**
+6698ef59 attended pickup and reported Elijah has 
+been initiating plya w/ siblings at home more frequently. Contact maintained via daily comm log.
+
+**RECOMMENDATIONS:**
+- Continue social skills group at Liverpool TEC
+- Increase peer interaction opportunities during unstrcutured time
+- Collaborate with 69ec429f for social-emotional asmt
+
+**Documentation:** Lily Cox
+**Date:** 71f1f394
+
+---
+END OF SESSION NOTE

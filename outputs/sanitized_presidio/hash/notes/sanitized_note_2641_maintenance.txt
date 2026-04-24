@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** f9fc5e6a
+**Session Date:** 80a016d5
+**Settings:** 95 Geiger ICF, Liverpool TEC, 258 Willow Ct, 83feaa3a, 124e0b72 13039
+**Lead Staff:** 7a097096, 70618c58
+**Home Visit Staff:** 8c3ba8db, 20e060cd
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+a8cfcd74 demonstrated skill maintenance across multiple settings during coordinated session on 80a016d5.
+
+**SETTING 1:** 95 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 90% independent completion across all tasks
+Staff observer: 7a097096, 70618c58
+
+**SETTING 2:** Liverpool TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 258 Willow Ct, 83feaa3a, 124e0b72 13039
+Parent participants: 908dff9f and 83d2f177
+Home phone: (5cfabeef
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 82% independent completion in home environment
+
+**PARENT REPORT:**
+908dff9f reported a8cfcd74 has been completing 
+morning routine independently at home 5 days per week. 83d2f177 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+a8cfcd74 maintained 85% consistency across settings for target skills. 
+Variability noted in task initiation between 95 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- c69ed851 (Occupational Therapy) - contact: c19b7b52
+- af997c53, 769dc71a (Speech Therapy) - contact: c0495d5a
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on a82722b4
+
+**Documentation:** 7a097096, 70618c58
+**Date:** 80a016d5
+
+---
+END OF SESSION NOTE

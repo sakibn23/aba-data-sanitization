@@ -1,0 +1,52 @@
+# UCP SESSION NOTE - STANDARD SESSION
+
+**Client:** Elijah Kelly
+**Date of Birth:** 4/27/8
+**Session Date:** 187f3c2a
+**Location:** 92 Geiger ICF
+**Staff:** 438b5547
+**Medicaid ID:** eb97ef86
+
+---
+
+## STANDARD SESSION REPORT
+
+Session conducted at 92 Geiger ICF from 10:00 AM to 11:00 AM. 
+Elijah engaged in 5 scheduled activities with mixed performance.
+
+**ACTIVITIES COMPLETED:**
+1. Fine motor skills: 84% independent completion
+2. Functional communication practice: 72% accuracy with verbal prompting
+3. Self-care routines: Required moderate physical prompting
+4. Academic tasks: 74% completion rate
+5. Leisure skills: High engagement, appropriate duration
+
+Overall completion rate: 78%
+
+**BEHAVIOR SUPPORT PLAN IMPLEMENTATION:**
+Current BSP was followed throughout session. Elijah responded to 2 
+planned interventions including:
+- Visual schedule transitions
+- Token economy system (earned 19 tokens toward preferred activity)
+- Functional communication training
+
+**CHALLENGES NOTED:**
+Brief verbal refusal when transitioning from self-care routine to academic tasks. Redirected using 
+first-then board per BSP protocol. No restrictive interventions required.
+
+**PARENT COMMUNICATION:**
+1216f119 contacted at (315)434-7890 regarding 
+upcoming program meeting. Confirmed attendance and requested transportation information.
+
+**MEDICATION OBSERVATION:**
+Elijah takes Clonidine 0.3mg daily per prescription from 385c69e3. 
+No side effects observed during session.
+
+**FOLLOW-UP:**
+Next session scheduled for b0e7dc87 at 92 Geiger ICF.
+
+**Authored by:** 438b5547
+**Date:** 187f3c2a
+
+---
+END OF SESSION NOTE

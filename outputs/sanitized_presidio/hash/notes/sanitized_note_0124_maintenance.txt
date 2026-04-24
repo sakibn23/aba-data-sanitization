@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Williams, Lucas R.
+**Session Date:** 3f299485
+**Settings:** 96 Geiger ICF, Syracuse TEC, 111 Maple Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** 34f88599
+**Home Visit Staff:** d5b1716c, 798ff150
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Lucas demonstrated skill maintenance across multiple settings during coordinated session on 3f299485.
+
+**SETTING 1:** 96 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 87% independent completion across all tasks
+Staff observer: 34f88599
+
+**SETTING 2:** Syracuse TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 84% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 111 Maple Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 7e31eec1
+Home phone: (6530f638
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 74% independent completion in home environment
+
+**PARENT REPORT:**
+7e31eec1 reported 52d7d860 has been completing 
+morning routine independently at home 5 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+52d7d860 maintained 81% consistency across settings for target skills. 
+Variability noted in task initiation between 96 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- e8562d12, 03abe3d2 (Occupational Therapy) - contact: df8a5497
+- b45eadf8 (Speech Therapy) - contact: aa2788d4
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 5 times per week
+- Schedule tri-setting observation on 573dc3fa
+
+**Documentation:** 34f88599
+**Date:** 3f299485
+
+---
+END OF SESSION NOTE

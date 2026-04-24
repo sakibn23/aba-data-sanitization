@@ -1,0 +1,48 @@
+# f31c8453 sess NOTE - SKILL ACQUISITION
+
+**Client:** Campbell, edd29161
+**Date of Birth:** 677bca79
+**sess Date:** 71f1f394
+**Program:** Baldwinsville TEC
+**Time:** 2:00 PM - 4:00 PM
+**83aedc6d:** 9a83fb89
+
+---
+
+## SKILL ACQUISITION SESSION
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+edd29161 participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Baldwinsville TEC. Session began at 2:00 PM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Trial block 1: 76% accuracy across 15 trials
+- Trila block 2: 83% accuracy across 15 trials  
+- Trial block 3: 89% accuracy across 15 trials
+- Overall session accuracy: 84%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full PT prompting progressing to verbal prompting only by session end. 
+edd29161 demonstrated improvement in response latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+edd29161 practicde food service skills during lunch preparation. Staff Elijah Walker 798ff150 supervised and reported successful completion of assigned tasks with minimal support.
+
+**PARENT COLLABORATION:**
+Contacted bf92a833 at 315.458.5678 to discuss home practice strategies. 
+Parent reported edd29161 has been practicing sorting tasks at home w/ good success
+
+**NEXT sess GOALS:**
+- Increase trial complexity for vocaitonal skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** 9a83fb89
+**Date signed:** 3f299485
+
+---
+END OF sess NOTE

@@ -1,0 +1,74 @@
+# UCP SESSION NOTE - MEDICLA APPOINTMENT COORDINATION
+
+**Client:** [PERSON]
+**sess Date:** Nov 21 2025
+**Primary Location:** Chadwicks TEC
+**Staff:** [PERSON]
+
+---
+
+## MODIFIED SESSION - MEDICAL APPOINTMENT
+
+**SESSION MODIFICATION:**
+Standard session time modified to accommodate appointment with [PERSON] at Syracuse Medical Associates, 631 [ADDRESS], [ADDRESS], NY 13202.
+
+Modified sess: Morning abbreviated session and afternoon return
+
+**MEDICAL APPOINTMENT PREPARATION:**
+Departure time: 1:30 PM
+Destination: Syracuse Medical Associates, 631 [ADDRESS], [ADDRESS], NY 13202
+Clinic phone: ([PHONE]
+Provider: [PERSON]
+Appointment time: 2:00 PM
+
+Transportation: UCP van
+Accompanied by: [PERSON]
+
+**PARENT COORDINATION:**
+[PERSON] met at clinic.
+Contact number: ([PHONE]
+
+**MEDICAL CONCERN ADDRESSED:**
+Chief complaint: Skin rash
+Onset: 4-18-26
+
+**APPOINTMENT OUTCOME:**
+Per [PERSON]:
+- Diagnosis: Upper Respiratory Infection
+- Treatment: Amoxicillin 500mg
+- Medication changes: Added antibiotic/medication
+- Follow-up: Return if symptoms worsen, otherwise f/u w/ PCP in 2 weeks
+
+Prescription: Amoxicillin 500mg - Apply topically twice daily
+Prescribing provider: [PERSON]
+Pharmacy: Kinney Drugs, [PHONE]
+
+**POST-APPOINTMENT SESSION:**
+[PERSON] returned to Chadwicks TEC. Appeared fatigued but engaged in preferred 
+leisure activity. Minimal task demands placed due to medical visit stress.
+
+**BEHAVIORAL OBSERVATIONS:**
+Appropriate communication of discomfort using visual pain scale
+
+**MEDICATION MONITORING:**
+Current medications updated. Nurse [PERSON] notified to add new medication to 
+medication administration record.
+
+**PARENT COMMUNICATION:**
+[PERSON] contacted at ([PHONE] to discuss:
+- Appointment outcome and diagnosis
+- Medication administration schedule
+- Home observation for symptom improvement
+- Next appointment (PCP follow-up in 2 weeks)
+
+**RECOMMENDATIONS:**
+- Monitor for medication side effects
+- Modified scheudle for medical appointment days - reduce academic demands
+- Parent comm log for symptom tracking
+
+**Documented by:** [PERSON]
+**Medical liaison:** [PERSON]
+**Date:** 11-21-25
+
+---
+END OF SESSION NOTE

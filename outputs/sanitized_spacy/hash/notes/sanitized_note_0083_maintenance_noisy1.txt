@@ -1,0 +1,58 @@
+# f31c8453 sess NOTE - GENERALIZATION SESSION
+
+**Client:** C. Baker
+**sess Date:** 3238c440
+**Settings:** 92 Geiger ICF, Chadwicks TEC, 99aba14a
+**Lead Staff:** 44b50f8f, c4b37c5f
+**Home Visit Staff:** Sofia Moore, 66558533, 2b750216
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Charlotte demonstrated skill maintenance across multiple settings during coordinated session on 131f628f.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 91% indep completion across all tasks
+Staff observer: 44b50f8f, c4b37c5f
+
+**SETTING 2:** Chadwicks TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 77% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 99aba14a
+Parent participants: de9c98cd
+Home phone: (315)495-1234
+Skills assessed: Home routines famiyl interactions leisure skills
+Performance: 72% indep completion in home environment
+
+**PARENT REPORT:**
+de9c98cd reported Charlotte has been completing 
+morning routine indep. at home 4 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Charlotte maintained 86% consistency across settinsg for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- 187773f4 (ef5569f3) - contact: (315)504-5678
+- 60d73f85 (ST Therapy) - contact: (315)510-3456
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase home practice freq to 4 times per week
+- Schedule tri-setting observation on Jun 5 2026
+
+**Documentation:** Ella Ortiz, c4b37c5f
+**Date:** 131f628f
+
+---
+END OF SESSION NOTE

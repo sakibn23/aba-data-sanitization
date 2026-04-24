@@ -1,0 +1,74 @@
+{
+  "replace": {
+    "original": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "sanitized": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "utility_retention_ratio": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "degradation_pct": 0.0
+  },
+  "mask": {
+    "original": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "sanitized": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "utility_retention_ratio": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "degradation_pct": 0.0
+  },
+  "hash": {
+    "original": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "sanitized": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "utility_retention_ratio": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "degradation_pct": 0.0
+  },
+  "hybrid": {
+    "original": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "sanitized": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "utility_retention_ratio": {
+      "accuracy": 1.0,
+      "f1_macro": 1.0,
+      "f1_weighted": 1.0
+    },
+    "degradation_pct": 0.0
+  }
+}

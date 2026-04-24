@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZTAION SESSION
+
+**Client:** Reyes, 736001fa
+**Session Date:** bfe20d3a
+**Settings:** 92 Geiger ICF, Cicero TEC, 310 Maple Street, 2fb59fa3, 124e0b72 13204
+**Lead Staff:** aa61ac60
+**Home Visit Staff:** d011ac5d, cc976392
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Aria demonstrated skill maintenance acrsos multiple settings during coordinated session on 3ff6288d.
+
+**SETTING 1:** 92 Geiger ICF
+Skills assessed: Self-care routines, task completion, social comm
+Performance: 84% indep completion across all tasks
+Staff observer: aa61ac60
+
+**SETTING 2:** Cicero TEC
+Skills assessed: Vocational tasks, peer interaction following multi-step directions
+Performance: 76% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 310 Maple Street, 2fb59fa3, 124e0b72 13204
+Parent participants: 85d8867b and e6057e12
+Home phone: (77010747
+Skills assessed: Home routines family interactions, leisure skills
+Performance: 82% independent completion in home environment
+
+**PARENT REPORT:**
+85d8867b reported 736001fa has been completing 
+morning routine independently at home 4 days per week. e6057e12 noted improvement in communication with younger sibling during play activities.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Aria maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 92 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Dr. Malpezzi (OT Therapy) - contact: 32618551
+- 36e49628 (Speech Therapy) - contact: 0936cba0
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice ferquency to 3 times per week
+- Schedule tri-setting observation on 35caec20
+
+**Documentation:** aa61ac60
+**Date:** Oct 22 2025
+
+---
+END OF SESSION NOTE

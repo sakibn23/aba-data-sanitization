@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** Mia Reyes
+**sess Date:** Nov 20 2025
+**Settings:** 100 Geiger ICF, Baldwinsville TEC, 31c6a299
+**Lead Staff:** Sofia Ross
+**Home Visit Staff:** 4592ea77, MS, c4b37c5f
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+41509508 demonstrated skill maintenance across multiple settings during coordinated session on Nov 20 2025.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social comm
+Performance: 87% independent completion across all tasks
+Staff observer: bbc40e01
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 80% accuracy w/ minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** 31c6a299
+Parent participants: Heather Reyes
+Home phone: (315)477-5678
+Skills assessed: Home routines, family interactions, leisuer skills
+Performance: 77% independent completion in home environment
+
+**PARENT REPORT:**
+Heather Reyes reported 41509508 has been completing 
+morning routine indep. at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+41509508 maintained 84% consistency across settings for target skills. 
+Variability noted in task intiiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+info shared with:
+- 1908cf4c, 87ef1797 (ef5569f3) - contact: ae293be0
+- d9fbf8f0 (Speech Therapy) - contact: 26774165
+
+**recs:**
+- Continue generalization trials across all settings weekly
+- Increase hmoe practice frequency to 5 times per week
+- Schedule tri-setting observation on 9e865af2
+
+**Documentation:** Sofia Ross
+**Date:** 849b75f0
+
+---
+END OF sess NOTE

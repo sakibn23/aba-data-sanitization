@@ -1,0 +1,94 @@
+# f31c8453 sess NOTE - MODERATE CHALLENGING bx
+
+**UPSTATE CARING PARTNERS**
+dbcdc511
+Phone: 3157246907
+
+**Client Name:** Parker, 190eb3eb
+**Date of Birth:** a8b780b8
+**Incident Date:** 7ac44927
+**Incident Time:** 3:45 PM
+**Location:** 92 Geiger ICF
+**Staff Involved:** Sophia Campbell; 74b19220, 2192eccc
+
+---
+
+## MODERATE CHALLENGING BEHAVIOR - MULTIPLE INTERVENTIONS
+
+**INDIVIDUALS PRESENT:**
+Staff: f8668d8d; 74b19220 2192eccc
+Location: Community room, 92 Geiger ICF
+
+**INCIDENT TIMELINE:**
+
+3:40 PM - ANTECEDENT
+190eb3eb was participating in group activity when transition announcement was made 
+to end preferred activity.
+
+2:15 PM - bx ONSET
+190eb3eb engaged in PT aggression including:
+- Pushing peer
+- Throwing materials
+- Verbal aggression (yelling, protesting)
+
+10:32 AM - INITIAL intv
+f8668d8d implemented verbal de-escalation and visual supports.
+Limited effectiveness. Behavior escalated to Level 2 (moderate severity).
+
+3:50 PM - SECONDARY INTERVENTION
+74b19220, 2192eccc joined intv team.
+SCIP-R blocking pads utilized per BSP protocol.
+190eb3eb responded to planned ignoring combined with blocking strategy.
+
+10:43 AM - DE-ESCALATION ACHIEVED
+William returned to baseline. Moved to quiet room for recovery.
+
+**INJURIES/DAMAGE:**
+Staff: f8668d8d sustained minor scratch on left forearm, no meidcal tx required
+Property: Game mateirals damaged, approximate cost $32
+Client: No injuries sustained
+
+**IMMEDIATE PARENT CONTACT:**
+3498bf54 contacted at (315)439-9012.
+Parent acknowledged incident and requested details of antecedent triggers.
+
+5e0e0cbe contacted at (315) 515-4567.
+Parent confirmed evening check-in call and discussde home consistency strategies.
+
+**MEDICAL CONSULTATION:**
+Nurse 7cc8fe37 consulted. Visual asmt of minor staff injury completed. 
+No client injuries noted. No medical intv required.
+
+**RESTRICTIVE INTERVENTIONS USED:**
+- SCIP-R Blocking Pads: Yes (Duration: 9 minutes)
+- PT Restraint: No
+- Seclusion: No
+- PRN Medication: Not administered
+
+**FUNCTIONAL BEHAVIOR ASSESSMENT UPDATE:**
+Data suggests escape function related to transition from preferred activities. 
+Recommend FBA review w/ f8668d8d scheduled for 
+fdb44517.
+
+**PSYCHIATRIC CONSULTATION:**
+6bcb0a8e, 7c0ba5fc notified via phone message. Appointment maintianed for 
+806d7673.
+
+**NOTIFICATIONS COMPLETED:**
+☑ Parents (contacted)
+☑ Program Director (notified)
+☑ Nurse (consulted)
+☑ Psychiatrist (message left)
+☐ OPWDD (Not required - internal incident)
+
+**FOLLOW-UP ACTIONS:**
+- Incident review meeting scheduled
+- BSP modification consdiered for transition protocols
+- Staff debriefing completed
+- Additional transition warnings for next 72 hours
+
+**Report compiled by:** Sophia Campbell
+**Report filed:** 7ac44927
+
+---
+END OF sess NOTE

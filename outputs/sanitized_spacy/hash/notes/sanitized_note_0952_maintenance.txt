@@ -1,0 +1,58 @@
+# UCP SESSION NOTE - GENERALIZATION SESSION
+
+**Client:** 1845cd52
+**Session Date:** f36341a3
+**Settings:** 100 Geiger ICF, Baldwinsville TEC, fb19481d
+**Lead Staff:** Ella Parker
+**Home Visit Staff:** c6b0e38d, 03abe3d2
+
+---
+
+## MAINTENANCE AND GENERALIZATION ASSESSMENT
+
+Ava demonstrated skill maintenance across multiple settings during coordinated session on f36341a3.
+
+**SETTING 1:** 100 Geiger ICF
+Skills assessed: Self-care routines, task completion, social communication
+Performance: 89% independent completion across all tasks
+Staff observer: 6a79f5ae
+
+**SETTING 2:** Baldwinsville TEC
+Skills assessed: Vocational tasks, peer interaction, following multi-step directions
+Performance: 85% accuracy with minimal prompting
+Transition quality: Smooth transition with visual schedule support
+
+**HOME VISIT:** fb19481d
+Parent participants: 52945638
+Home phone: (315) 499-3456
+Skills assessed: Home routines, family interactions, leisure skills
+Performance: 74% independent completion in home environment
+
+**PARENT REPORT:**
+52945638 reported 149f7514 has been completing 
+morning routine independently at home 6 days per week.
+
+**Parent training provided on:**
+- Visual schedule implementation at home
+- Positive reinforcement strategies
+- Data collection procedures for home implementation
+
+**CONSISTENCY ANALYSIS:**
+Ava maintained 79% consistency across settings for target skills. 
+Variability noted in task initiation between 100 Geiger ICF and home setting.
+
+**PROVIDER COORDINATION:**
+Information shared with:
+- Mason Gifford, 2192eccc (Occupational Therapy) - contact: 345b8ed0
+- ea6be44c (Speech Therapy) - contact: d8ed507d
+
+**RECOMMENDATIONS:**
+- Continue generalization trials across all settings weekly
+- Increase home practice frequency to 4 times per week
+- Schedule tri-setting observation on 4cf3f1f1
+
+**Documentation:** Ella Parker
+**Date:** f36341a3
+
+---
+END OF SESSION NOTE

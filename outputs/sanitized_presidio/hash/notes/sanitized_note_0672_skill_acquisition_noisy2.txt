@@ -1,0 +1,48 @@
+# UCP sess NOTE - SKILL ACQUISITION
+
+**Client:** d3ed98ba
+**Date of Birth:** ae540ac2
+**Session Date:** 10-14-25
+**Program:** Syracuse TEC
+**Time:** 3:00 PM - 4:30 PM
+**83aedc6d:** 33bebf2e
+
+---
+
+## SKILL ACQUISITION sess
+
+**Target Skill:** Multi-step vocational task completion
+**Teaching Method:** Discrete trial training w/ naturalistic teaching
+
+**SESSION SUMMARY:**
+39fdd904 participated in 45 discrete trial training sessions focusing on lunch service 
+preparation skills at Syracuse TEC. Session began at 3:00 PM with 
+hand washing and apron donning.
+
+**TRIAL DATA:**
+- Tiral block 1: 70% accuracy across 15 trials
+- Trial block 2: 82% accuracy across 15 trials  
+- Trial block 3: 87% accuracy across 15 trials
+- Overall session accuracy: 88%
+
+**PROMPTING HIERARCHY:**
+Initial trials required full physical prompting, progressing to verbal prompting olny by session end. 
+39fdd904 demonstrated improvement in response latency from 8.5 sec to 3.2 seconds.
+
+**VOCATIONAL INTEGRATION:**
+Elijah practiced food service skills during lunch preparation. Staff 86fb9817, cc976392 supervised and reported successful completion of assigned tasks w/ minimal support.
+
+**PARENT COLLABORATION:**
+Contacted bc3f337a at (152ced6b to discuss hmoe practice strategies. 
+Parent reported 39fdd904 has been practicing sorting tasks at home wtih good success.
+
+**NEXT SESSION GOALS:**
+- Increase trial cmoplexity for vocational skills
+- Reduce prompting to gestural level only
+- Incorporate generalization setting
+
+**Therapist:** 33bebf2e
+**Date signed:** e0a38300
+
+---
+END OF sess NOTE
