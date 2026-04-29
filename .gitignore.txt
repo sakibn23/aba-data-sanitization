@@ -1,16 +1,94 @@
-# Model files 
+# ===================================
+# ABA DATA SANITIZATION - .gitignore
+# ===================================
+
+# ===================================
+# TRAINED MODEL FILES (100+ MB each)
+# ===================================
 scripts/detectors/bert_ner_model/
 scripts/detectors/deberta_ner_model/
 *.safetensors
 *.bin
 *.pt
 *.pth
+*.ckpt
+checkpoint-*/
+pytorch_model.bin
+model.safetensors
 
-# Python cache
+# ===================================
+# LARGE DATA FILES
+# ===================================
+# Synthetic notes (3000 .txt files)
+data/synthetic/raw/*.txt
+
+# Keep only small examples
+!data/synthetic/raw/example_*.txt
+
+# Large annotations file
+data/annotated/annotations_generated.json
+
+# Keep test_ids (small file, needed)
+!data/annotated/test_ids.json
+
+# ===================================
+# OUTPUT FILES (Regenerable)
+# ===================================
+outputs/detected_entities_*.json
+outputs/sanitized_*/
+outputs/ml/
+outputs/privacy_metrics_*.json
+outputs/evaluation_results_*.json
+
+# Keep summary files
+!outputs/summary_*.json
+
+# ===================================
+# PYTHON CACHE & VIRTUAL ENVIRONMENT
+# ===================================
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
 
-# Data files
-data/synthetic_notes/
-outputs/
+# ===================================
+# IDE & EDITOR FILES
+# ===================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===================================
+# OS FILES
+# ===================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===================================
+# LOGS & CACHE
+# ===================================
+*.log
+*.tmp
+logs/
+wandb/
+.cache/
+transformers_cache/
+huggingface/
+
+# ===================================
+# ALWAYS KEEP (Explicitly tracked)
+# ===================================
+!scripts/*.py
+!scripts/detectors/*.py
+!requirements.txt
+!README.md
+!CMD_Propmpt.txt
+!data/identifiers/
